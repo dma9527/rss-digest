@@ -1,9 +1,21 @@
 #!/usr/bin/env python3
 import feedparser
-import anthropic
 import os
 from datetime import datetime, timedelta
 from xml.etree import ElementTree as ET
+
+# 支持多个 AI 提供商
+try:
+    import anthropic
+    HAS_ANTHROPIC = True
+except ImportError:
+    HAS_ANTHROPIC = False
+
+try:
+    import google.generativeai as genai
+    HAS_GEMINI = True
+except ImportError:
+    HAS_GEMINI = False
 
 def parse_opml(opml_file):
     """解析 OPML 文件获取所有 RSS 源"""
@@ -57,7 +69,7 @@ def fetch_recent_articles(feeds, hours=24):
     
     return updates
 
-def translate_titles(client, articles):
+def translate_titles(client, articles, provider='gemini'):
     """批量翻译标题"""
     if not articles:
         return []
@@ -67,16 +79,20 @@ def translate_titles(client, articles):
 
 {chr(10).join(titles)}"""
     
-    response = client.messages.create(
-        model="claude-3-5-sonnet-20241022",
-        max_tokens=2000,
-        messages=[{"role": "user", "content": prompt}]
-    )
+    if provider == 'gemini':
+        response = client.generate_content(prompt)
+        translations = response.text.strip().split('\n')
+    else:  # anthropic
+        response = client.messages.create(
+            model="claude-3-5-sonnet-20241022",
+            max_tokens=2000,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        translations = response.content[0].text.strip().split('\n')
     
-    translations = response.content[0].text.strip().split('\n')
     return [t.strip() for t in translations if t.strip()]
 
-def generate_markdown(updates, client):
+def generate_markdown(updates, client, provider='gemini'):
     """生成 Markdown 摘要"""
     today = datetime.now().strftime('%Y-%m-%d')
     filename = f'digest-{today}.md'
@@ -89,7 +105,7 @@ def generate_markdown(updates, client):
         for blog in updates:
             f.write(f"## {blog['blog']}\n\n")
             
-            translations = translate_titles(client, blog['articles'])
+            translations = translate_titles(client, blog['articles'], provider)
             
             for i, article in enumerate(blog['articles']):
                 translation = translations[i] if i < len(translations) else article['title']
@@ -102,12 +118,30 @@ def generate_markdown(updates, client):
     return filename
 
 def main():
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        print("Error: ANTHROPIC_API_KEY not set")
-        return
+    # 检测使用哪个 AI 提供商
+    provider = os.environ.get('AI_PROVIDER', 'gemini').lower()
     
-    client = anthropic.Anthropic(api_key=api_key)
+    if provider == 'gemini':
+        api_key = os.environ.get('GEMINI_API_KEY')
+        if not api_key:
+            print("Error: GEMINI_API_KEY not set")
+            return
+        if not HAS_GEMINI:
+            print("Error: google-generativeai not installed. Run: pip install google-generativeai")
+            return
+        genai.configure(api_key=api_key)
+        client = genai.GenerativeModel('gemini-2.0-flash-exp')
+        print("Using Gemini 2.0 Flash")
+    else:  # anthropic
+        api_key = os.environ.get('ANTHROPIC_API_KEY')
+        if not api_key:
+            print("Error: ANTHROPIC_API_KEY not set")
+            return
+        if not HAS_ANTHROPIC:
+            print("Error: anthropic not installed. Run: pip install anthropic")
+            return
+        client = anthropic.Anthropic(api_key=api_key)
+        print("Using Claude")
     
     print("Parsing OPML...")
     feeds = parse_opml('hn-blogs-2025.opml')
@@ -119,7 +153,7 @@ def main():
     
     if updates:
         print("Generating digest...")
-        generate_markdown(updates, client)
+        generate_markdown(updates, client, provider)
     else:
         print("No new articles found")
 

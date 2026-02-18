@@ -19,11 +19,12 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install feedparser anthropic
+        run: pip install feedparser google-generativeai
       
       - name: Fetch and translate feeds
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AI_PROVIDER: gemini
         run: python fetch_feeds.py
       
       - name: Commit digest

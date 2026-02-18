@@ -21,15 +21,22 @@ git commit -m "Initial commit"
 gh repo create rss-digest --public --source=. --remote=origin --push
 ```
 
-### 2. 添加 Anthropic API Key
+### 2. 添加 Gemini API Key (推荐 - 免费)
 
-1. 访问 https://console.anthropic.com/settings/keys
+1. 访问 https://aistudio.google.com/app/apikey
 2. 创建新的 API Key
 3. 在 GitHub 仓库设置中添加 Secret：
    - 进入仓库 Settings → Secrets and variables → Actions
    - 点击 "New repository secret"
-   - Name: `ANTHROPIC_API_KEY`
+   - Name: `GEMINI_API_KEY`
    - Value: 你的 API Key
+
+**或者使用 Anthropic Claude:**
+
+1. 访问 https://console.anthropic.com/settings/keys
+2. 创建 API Key
+3. 添加 Secret: `ANTHROPIC_API_KEY`
+4. 修改 workflow 中的 `AI_PROVIDER: anthropic`
 
 ### 3. 启用 GitHub Actions
 
@@ -39,10 +46,19 @@ gh repo create rss-digest --public --source=. --remote=origin --push
 
 ## 本地测试
 
+**使用 Gemini (推荐 - 免费):**
 ```bash
 cd /Users/dmawsome/projects/rss-digest
 pip install -r requirements.txt
+export GEMINI_API_KEY='your-api-key'
+export AI_PROVIDER='gemini'
+python fetch_feeds.py
+```
+
+**使用 Claude:**
+```bash
 export ANTHROPIC_API_KEY='your-api-key'
+export AI_PROVIDER='anthropic'
 python fetch_feeds.py
 ```
 
