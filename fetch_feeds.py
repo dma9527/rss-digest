@@ -12,7 +12,8 @@ except ImportError:
     HAS_ANTHROPIC = False
 
 try:
-    import google.generativeai as genai
+    from google import genai
+    from google.genai import types
     HAS_GEMINI = True
 except ImportError:
     HAS_GEMINI = False
@@ -80,7 +81,10 @@ def translate_titles(client, articles, provider='gemini'):
 {chr(10).join(titles)}"""
     
     if provider == 'gemini':
-        response = client.generate_content(prompt)
+        response = client.models.generate_content(
+            model='gemini-2.0-flash-exp',
+            contents=prompt
+        )
         translations = response.text.strip().split('\n')
     else:  # anthropic
         response = client.messages.create(
@@ -127,10 +131,9 @@ def main():
             print("Error: GEMINI_API_KEY not set")
             return
         if not HAS_GEMINI:
-            print("Error: google-generativeai not installed. Run: pip install google-generativeai")
+            print("Error: google-genai not installed. Run: pip install google-genai")
             return
-        genai.configure(api_key=api_key)
-        client = genai.GenerativeModel('gemini-2.0-flash-exp')
+        client = genai.Client(api_key=api_key)
         print("Using Gemini 2.0 Flash")
     else:  # anthropic
         api_key = os.environ.get('ANTHROPIC_API_KEY')
