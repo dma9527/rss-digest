@@ -53,10 +53,18 @@ def fetch_recent_articles(feeds, hours=24):
             for entry in feed.entries[:10]:
                 pub_time = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
                 if is_recent(pub_time, hours):
+                    # 获取文章摘要或内容
+                    summary = ''
+                    if hasattr(entry, 'summary'):
+                        summary = entry.summary
+                    elif hasattr(entry, 'content'):
+                        summary = entry.content[0].value if entry.content else ''
+                    
                     recent.append({
                         'title': entry.title,
                         'link': entry.link,
-                        'published': pub_time
+                        'published': pub_time,
+                        'summary': summary
                     })
             
             if recent:
@@ -70,31 +78,63 @@ def fetch_recent_articles(feeds, hours=24):
     
     return updates
 
-def translate_titles(client, articles, provider='gemini'):
-    """批量翻译标题"""
+def translate_and_summarize(client, articles, provider='gemini'):
+    """批量翻译标题并生成摘要"""
     if not articles:
         return []
     
-    titles = [a['title'] for a in articles]
-    prompt = f"""请将以下英文标题翻译成中文，保持简洁准确。每行一个翻译，不要添加序号或其他内容：
+    # 为每篇文章生成翻译和摘要
+    results = []
+    for article in articles:
+        prompt = f"""请完成以下任务：
+1. 将标题翻译成中文
+2. 根据以下内容生成 50-100 字的中文摘要
 
-{chr(10).join(titles)}"""
+标题: {article['title']}
+内容: {article['summary'][:500] if article['summary'] else '无内容预览'}
+
+请按以下格式输出：
+翻译: [中文标题]
+摘要: [50-100字的中文摘要]"""
+        
+        try:
+            if provider == 'gemini':
+                response = client.models.generate_content(
+                    model='gemini-2.5-flash',
+                    contents=prompt
+                )
+                text = response.text.strip()
+            else:  # anthropic
+                response = client.messages.create(
+                    model="claude-3-5-sonnet-20241022",
+                    max_tokens=500,
+                    messages=[{"role": "user", "content": prompt}]
+                )
+                text = response.content[0].text.strip()
+            
+            # 解析响应
+            lines = text.split('\n')
+            translation = ''
+            summary = ''
+            
+            for line in lines:
+                if line.startswith('翻译:') or line.startswith('翻译：'):
+                    translation = line.split(':', 1)[1].strip() if ':' in line else line.split('：', 1)[1].strip()
+                elif line.startswith('摘要:') or line.startswith('摘要：'):
+                    summary = line.split(':', 1)[1].strip() if ':' in line else line.split('：', 1)[1].strip()
+            
+            results.append({
+                'translation': translation or article['title'],
+                'summary': summary or '无摘要'
+            })
+        except Exception as e:
+            print(f"Error processing article: {e}")
+            results.append({
+                'translation': article['title'],
+                'summary': '处理失败'
+            })
     
-    if provider == 'gemini':
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt
-        )
-        translations = response.text.strip().split('\n')
-    else:  # anthropic
-        response = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
-            max_tokens=2000,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        translations = response.content[0].text.strip().split('\n')
-    
-    return [t.strip() for t in translations if t.strip()]
+    return results
 
 def generate_markdown(updates, client, provider='gemini'):
     """生成 Markdown 摘要"""
@@ -109,13 +149,17 @@ def generate_markdown(updates, client, provider='gemini'):
         for blog in updates:
             f.write(f"## {blog['blog']}\n\n")
             
-            translations = translate_titles(client, blog['articles'], provider)
+            # 翻译和生成摘要
+            results = translate_and_summarize(client, blog['articles'], provider)
             
             for i, article in enumerate(blog['articles']):
-                translation = translations[i] if i < len(translations) else article['title']
-                f.write(f"### {translation}\n\n")
-                f.write(f"**原标题:** {article['title']}\n\n")
-                f.write(f"**链接:** {article['link']}\n\n")
+                result = results[i] if i < len(results) else {'translation': article['title'], 'summary': '无摘要'}
+                
+                f.write(f"### {result['translation']}\n\n")
+                f.write(f"- **来源**: {blog['blog']}\n")
+                f.write(f"- **原标题**: {article['title']}\n")
+                f.write(f"- **链接**: {article['link']}\n")
+                f.write(f"- **摘要**: {result['summary']}\n\n")
                 f.write("---\n\n")
     
     print(f"Generated {filename}")
