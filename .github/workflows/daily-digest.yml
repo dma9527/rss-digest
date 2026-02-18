@@ -17,9 +17,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Clear pip cache
+        run: pip cache purge || true
       
       - name: Install dependencies
-        run: pip install feedparser google-genai
+        run: pip install --no-cache-dir feedparser google-genai
       
       - name: Fetch and translate feeds
         env:
