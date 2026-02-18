@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install feedparser google-generativeai
+        run: pip install feedparser google-genai
       
       - name: Fetch and translate feeds
         env:
