@@ -58,17 +58,3 @@ jobs:
               --body-file "$DIGEST_FILE" \
               --label "daily-digest"
           fi
-      
-      - name: Send email notification
-        if: success()
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: RSS 每日摘要 - ${{ github.run_id }}
-          to: ${{ secrets.EMAIL_TO }}
-          from: RSS Digest Bot
-          body: file://digest-$(date +%Y-%m-%d).md
-          content_type: text/markdown
