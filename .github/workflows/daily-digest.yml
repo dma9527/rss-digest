@@ -48,11 +48,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # 创建标签（如果不存在）
+          gh label create "daily-digest" --description "Daily RSS digest" --color "0E8A16" || true
+          
           DIGEST_FILE="digest-$(date +%Y-%m-%d).md"
           if [ -f "$DIGEST_FILE" ]; then
             gh issue create \
               --title "RSS 每日摘要 - $(date +%Y-%m-%d)" \
-              --body-file "$DIGEST_FILE"
+              --body-file "$DIGEST_FILE" \
+              --label "daily-digest"
           fi
       
       - name: Send email notification
