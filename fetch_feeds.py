@@ -82,7 +82,7 @@ def translate_titles(client, articles, provider='gemini'):
     
     if provider == 'gemini':
         response = client.models.generate_content(
-            model='gemini-2.0-flash-thinking-exp-01-21',
+            model='gemini-2.5-flash',
             contents=prompt
         )
         translations = response.text.strip().split('\n')
@@ -134,7 +134,7 @@ def main():
             print("Error: google-genai not installed. Run: pip install google-genai")
             return
         client = genai.Client(api_key=api_key)
-        print("Using Gemini 2.0 Flash")
+        print("Using Gemini 2.5 Flash")
     else:  # anthropic
         api_key = os.environ.get('ANTHROPIC_API_KEY')
         if not api_key:
