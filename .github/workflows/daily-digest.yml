@@ -33,3 +33,30 @@ jobs:
           git add digest-*.md
           git diff --staged --quiet || git commit -m "Daily digest $(date +%Y-%m-%d)"
           git push
+      
+      - name: Create Issue with digest
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DIGEST_FILE="digest-$(date +%Y-%m-%d).md"
+          if [ -f "$DIGEST_FILE" ]; then
+            gh issue create \
+              --title "RSS 每日摘要 - $(date +%Y-%m-%d)" \
+              --body-file "$DIGEST_FILE" \
+              --label "daily-digest"
+          fi
+      
+      - name: Send email notification
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: RSS 每日摘要 - ${{ github.run_id }}
+          to: ${{ secrets.EMAIL_TO }}
+          from: RSS Digest Bot
+          body: file://digest-$(date +%Y-%m-%d).md
+          content_type: text/markdown
