@@ -52,8 +52,7 @@ jobs:
           if [ -f "$DIGEST_FILE" ]; then
             gh issue create \
               --title "RSS 每日摘要 - $(date +%Y-%m-%d)" \
-              --body-file "$DIGEST_FILE" \
-              --label "daily-digest"
+              --body-file "$DIGEST_FILE"
           fi
       
       - name: Send email notification
