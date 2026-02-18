@@ -82,7 +82,7 @@ def translate_titles(client, articles, provider='gemini'):
     
     if provider == 'gemini':
         response = client.models.generate_content(
-            model='gemini-2.0-flash-exp',
+            model='gemini-2.0-flash-thinking-exp-01-21',
             contents=prompt
         )
         translations = response.text.strip().split('\n')
