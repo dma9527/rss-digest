@@ -1,4 +1,4 @@
-digest-*.md
 __pycache__/
 *.pyc
 .env
+list_models.py
