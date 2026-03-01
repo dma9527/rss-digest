@@ -1,3 +1,7 @@
 feedparser
 google-genai
 anthropic
+Pillow
+moviepy
+numpy
+edge-tts

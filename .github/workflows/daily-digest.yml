@@ -1,9 +1,9 @@
-name: Daily RSS Digest
+name: Daily RSS Digest + Social Content
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 每天 UTC 12:00 (北京时间 20:00)
-  workflow_dispatch:  # 支持手动触发
+    - cron: '0 12 * * *'  # UTC 12:00 = 北京时间 20:00
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,49 +12,68 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
-      - name: Clear pip cache
-        run: pip cache purge || true
-      
+
       - name: Install dependencies
-        run: pip install --no-cache-dir feedparser google-genai
-      
+        run: |
+          pip install --no-cache-dir feedparser google-genai pillow playwright
+          python -m playwright install chromium
+
       - name: Fetch and translate feeds
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           AI_PROVIDER: gemini
         run: python fetch_feeds.py
-      
-      - name: Commit digest
+
+      - name: Generate social content (top 5)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_social.py batch --top 5
+
+      - name: Commit all content
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add digest-*.md
-          git diff --staged --quiet || git commit -m "Daily digest $(date +%Y-%m-%d)"
+          git add digest-*.md social/
+          git diff --staged --quiet || git commit -m "Daily digest + social content $(date +%Y-%m-%d)"
           git push
-      
-      - name: Create Issue with digest
+
+      - name: Create review Issue
         if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # 创建标签（如果不存在）
-          gh label create "daily-digest" --description "Daily RSS digest" --color "0E8A16" || true
-          
-          DIGEST_FILE="digest-$(date +%Y-%m-%d).md"
-          if [ -f "$DIGEST_FILE" ]; then
-            gh issue create \
-              --title "RSS 每日摘要 - $(date +%Y-%m-%d)" \
-              --body-file "$DIGEST_FILE" \
-              --label "daily-digest"
+          gh label create "review-needed" --description "Social content ready for review" --color "FFA500" || true
+          DATE=$(date +%Y-%m-%d)
+          DIGEST="digest-${DATE}.md"
+
+          # Build issue body
+          BODY="## 📋 今日社交内容已生成\n\n"
+          BODY+="**日期**: ${DATE}\n\n"
+
+          if [ -f "social/tracking.json" ]; then
+            BODY+="### 已生成话题\n\n"
+            BODY+=$(python3 -c "
+import json
+t=json.loads(open('social/tracking.json').read())
+for dk in sorted(t.keys(), reverse=True)[:1]:
+  for k,v in sorted(t[dk].get('generated',{}).items(), key=lambda x:int(x[0])):
+    print(f'- **#{k}** {v[\"title\"]}')
+")
+            BODY+="\n\n### 操作\n\n"
+            BODY+="请审核后回复需要发布的话题编号，如: \`发布 1 3 5\`\n"
           fi
+
+          gh issue create \
+            --title "📱 社交内容待审核 - ${DATE}" \
+            --body "$(echo -e "$BODY")" \
+            --label "review-needed"

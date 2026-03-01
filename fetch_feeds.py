@@ -79,23 +79,26 @@ def fetch_recent_articles(feeds, hours=24):
     return updates
 
 def translate_and_summarize(client, articles, provider='gemini'):
-    """批量翻译标题并生成摘要"""
+    """批量翻译标题、生成摘要、打传播力分数"""
     if not articles:
         return []
     
-    # 为每篇文章生成翻译和摘要
     results = []
     for article in articles:
         prompt = f"""请完成以下任务：
 1. 将标题翻译成中文
 2. 根据以下内容生成 50-100 字的中文摘要
+3. 给这篇文章的"小红书传播力"打分（1-10分），考虑话题新鲜度、与普通人的相关性、标题党潜力、科普价值
+4. 如果分数>=7，建议一个小红书切入角度
 
 标题: {article['title']}
 内容: {article['summary'][:500] if article['summary'] else '无内容预览'}
 
 请按以下格式输出：
 翻译: [中文标题]
-摘要: [50-100字的中文摘要]"""
+摘要: [50-100字的中文摘要]
+评分: [1-10的数字]
+角度: [切入角度，如果评分<7则写"无"]"""
         
         try:
             if provider == 'gemini':
@@ -116,30 +119,47 @@ def translate_and_summarize(client, articles, provider='gemini'):
             lines = text.split('\n')
             translation = ''
             summary = ''
+            score = 5
+            angle = ''
             
             for line in lines:
                 if line.startswith('翻译:') or line.startswith('翻译：'):
-                    translation = line.split(':', 1)[1].strip() if ':' in line else line.split('：', 1)[1].strip()
+                    translation = line.split(':', 1)[-1].split('：', 1)[-1].strip()
                 elif line.startswith('摘要:') or line.startswith('摘要：'):
-                    summary = line.split(':', 1)[1].strip() if ':' in line else line.split('：', 1)[1].strip()
+                    summary = line.split(':', 1)[-1].split('：', 1)[-1].strip()
+                elif line.startswith('评分:') or line.startswith('评分：'):
+                    try:
+                        score = int(line.split(':', 1)[-1].split('：', 1)[-1].strip())
+                    except ValueError:
+                        score = 5
+                elif line.startswith('角度:') or line.startswith('角度：'):
+                    angle = line.split(':', 1)[-1].split('：', 1)[-1].strip()
+                    if angle == '无':
+                        angle = ''
             
             results.append({
                 'translation': translation or article['title'],
-                'summary': summary or '无摘要'
+                'summary': summary or '无摘要',
+                'score': score,
+                'angle': angle,
             })
         except Exception as e:
             print(f"Error processing article: {e}")
             results.append({
                 'translation': article['title'],
-                'summary': '处理失败'
+                'summary': '处理失败',
+                'score': 0,
+                'angle': '',
             })
     
     return results
 
 def generate_markdown(updates, client, provider='gemini'):
-    """生成 Markdown 摘要"""
+    """生成 Markdown 摘要 + articles.json"""
+    import json
     today = datetime.now().strftime('%Y-%m-%d')
     filename = f'digest-{today}.md'
+    all_articles = []
     
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(f"# RSS 每日摘要 - {today}\n\n")
@@ -153,7 +173,7 @@ def generate_markdown(updates, client, provider='gemini'):
             results = translate_and_summarize(client, blog['articles'], provider)
             
             for i, article in enumerate(blog['articles']):
-                result = results[i] if i < len(results) else {'translation': article['title'], 'summary': '无摘要'}
+                result = results[i] if i < len(results) else {'translation': article['title'], 'summary': '无摘要', 'score': 0, 'angle': ''}
                 
                 f.write(f"### {result['translation']}\n\n")
                 f.write(f"- **来源**: {blog['blog']}\n")
@@ -161,8 +181,25 @@ def generate_markdown(updates, client, provider='gemini'):
                 f.write(f"- **链接**: {article['link']}\n")
                 f.write(f"- **摘要**: {result['summary']}\n\n")
                 f.write("---\n\n")
+
+                all_articles.append({
+                    "title_en": article['title'],
+                    "title_cn": result['translation'],
+                    "summary_cn": result['summary'],
+                    "source": blog['blog'],
+                    "url": article['link'],
+                    "score": result.get('score', 0),
+                    "angle": result.get('angle', ''),
+                })
     
+    # 输出 articles.json（按分数排序）
+    all_articles.sort(key=lambda x: x['score'], reverse=True)
+    json_file = f'articles-{today}.json'
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(all_articles, f, ensure_ascii=False, indent=2)
+
     print(f"Generated {filename}")
+    print(f"Generated {json_file} ({len(all_articles)} articles, top score: {all_articles[0]['score'] if all_articles else 0})")
     return filename
 
 def main():

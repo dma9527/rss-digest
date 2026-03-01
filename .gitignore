@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 list_models.py
+social/tracking.json
