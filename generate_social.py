@@ -428,8 +428,10 @@ def cmd_gen(args):
     ))
     content = parse_xhs_content(raw)
 
-    # 保存
-    out_dir = Path(f"social/{date_key}/topic-{n}")
+    # 用标题做文件夹名（去掉特殊字符）
+    import re
+    safe_title = re.sub(r'[\\/:*?"<>|！？。，]', '', content.get('title', f'topic-{n}'))[:30].strip()
+    out_dir = Path(f"social/{date_key}/{n}-{safe_title}")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     md_file = out_dir / "xiaohongshu.md"

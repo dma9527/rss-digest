@@ -15,7 +15,7 @@ if tf.exists():
         if gen:
             body += "### 已生成话题\n\n"
             for k, v in sorted(gen.items(), key=lambda x: int(x[0])):
-                body += f"- **#{k}** {v['title']}\n"
+                body += f"- **Topic {k}** {v['title']}\n"
             body += "\n### 操作\n\n请审核后回复需要发布的话题编号\n"
 
 print(body)
