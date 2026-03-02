@@ -14,7 +14,7 @@
 ### 1. 创建 GitHub 仓库
 
 ```bash
-cd /Users/dmawsome/projects/rss-digest
+cd rss-digest
 git init
 git add .
 git commit -m "Initial commit"
@@ -48,7 +48,7 @@ gh repo create rss-digest --public --source=. --remote=origin --push
 
 **使用 Gemini (推荐 - 免费):**
 ```bash
-cd /Users/dmawsome/projects/rss-digest
+cd rss-digest
 pip install -r requirements.txt
 export GEMINI_API_KEY='your-api-key'
 export AI_PROVIDER='gemini'
