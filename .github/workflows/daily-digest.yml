@@ -25,8 +25,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --no-cache-dir feedparser google-genai pillow playwright
+          pip install --no-cache-dir feedparser google-genai pillow playwright pyyaml
           python -m playwright install chromium
+
+      - name: Validate code
+        run: |
+          python -c "import yaml; yaml.safe_load(open('.github/workflows/daily-digest.yml'))"
+          python -c "import py_compile; [py_compile.compile(f, doraise=True) for f in ['fetch_feeds.py','generate_social.py','card_renderer.py','issue_body.py']]"
+          echo "✅ All validations passed"
 
       - name: Fetch and translate feeds
         env:
