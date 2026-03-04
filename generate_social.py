@@ -79,6 +79,12 @@ GEN_PROMPT = """你是一个科技自媒体博主，风格参考小红书上的"
 话题：{topic}
 切入角度：{angle}
 原文摘要：{summary}
+原文全文：{article}
+
+重要规则：
+- 所有事实、数据、案例必须来自上面的原文，不要编造任何细节
+- 如果原文提到具体人名、公司名、数字，优先使用这些真实信息
+- 不要虚构原文中没有的案例或数据
 
 要求：
 - 标题：爆款公式，15字以内，不要用emoji
@@ -156,6 +162,29 @@ def call_gemini(prompt):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     resp = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
     return resp.text.strip()
+
+
+def fetch_article(url):
+    """抓取原文 URL，返回纯文本内容"""
+    if not url:
+        return ""
+    import urllib.request
+    import re as _re
+    try:
+        print(f"  📥 抓取原文: {url}")
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+        # 去 script/style/tag，保留文本
+        html = _re.sub(r"<(script|style)[^>]*>.*?</\1>", "", html, flags=_re.S)
+        text = _re.sub(r"<[^>]+>", " ", html)
+        text = _re.sub(r"\s+", " ", text).strip()
+        # 截取前 8000 字符，避免 prompt 过长
+        print(f"  ✅ 原文已抓取 ({len(text)} 字符)")
+        return text[:8000]
+    except Exception as e:
+        print(f"  ⚠️ 原文抓取失败 ({e})，将使用摘要")
+        return ""
 
 
 # ── 解析 ──────────────────────────────────────────────
@@ -421,11 +450,17 @@ def cmd_gen(args):
     # 用文章自带的摘要（来自 articles.json），比从 digest 里截取更精确
     summary = topic.get("summary", digest_text[:3000])
 
+    # 抓取原文全文作为生成依据
+    article_text = fetch_article(topic.get("url", ""))
+    if not article_text:
+        print("  ⚠️ 无法获取原文，生成质量可能受影响")
+
     print(f"正在为话题 #{n} 生成小红书内容: {topic['topic']}...")
     raw = call_gemini(GEN_PROMPT.format(
         topic=topic["topic"],
         angle=topic.get("angle", ""),
         summary=summary,
+        article=article_text or "（原文未获取，请基于摘要生成，不要编造细节）",
     ))
     content = parse_xhs_content(raw)
 
@@ -441,19 +476,16 @@ def cmd_gen(args):
         f.write(f"{content.get('body', '')}\n\n")
         f.write(f"{content.get('tags', '')}\n")
 
-    # Try HTML renderer first, fall back to PIL
-    try:
-        from card_renderer import render_images
-        images = render_images(content, out_dir, date_str=date_key)
-        print(f"HTML 卡片已生成: {len(images)} 张")
-    except Exception as e:
-        print(f"HTML 渲染失败 ({e})，使用 PIL")
-        images = generate_images(content, out_dir, topic_text=topic["topic"])
+    from card_renderer import render_images
+    images = render_images(content, out_dir, date_str=date_key)
+    print(f"HTML 卡片已生成: {len(images)} 张")
 
     # 更新 tracking
     tracking[date_key]["generated"][str(n)] = {
         "title": content.get("title", ""),
+        "subtitle": content.get("subtitle", ""),
         "tags": content.get("tags", ""),
+        "card_titles": [c.get("title", "") for c in content.get("cards", [])],
         "dir": str(out_dir),
         "images": [str(p) for p in images],
     }
