@@ -1,4 +1,4 @@
-name: Daily RSS Digest + Social Content
+name: Daily RSS Digest
 
 on:
   schedule:
@@ -24,15 +24,12 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install --no-cache-dir feedparser google-genai pillow playwright pyyaml
-          python -m playwright install chromium
-          sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+        run: pip install --no-cache-dir feedparser google-genai
 
       - name: Validate code
         run: |
           python -c "import yaml; yaml.safe_load(open('.github/workflows/daily-digest.yml'))"
-          python -c "import py_compile; [py_compile.compile(f, doraise=True) for f in ['fetch_feeds.py','generate_social.py','card_renderer.py','issue_body.py']]"
+          python -c "import py_compile; [py_compile.compile(f, doraise=True) for f in ['fetch_feeds.py','issue_body.py']]"
           echo "✅ All validations passed"
 
       - name: Fetch and translate feeds
@@ -41,17 +38,12 @@ jobs:
           AI_PROVIDER: gemini
         run: python fetch_feeds.py
 
-      - name: Generate social content (top 5)
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python generate_social.py batch --top 5
-
-      - name: Commit all content
+      - name: Commit digest
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add digest-*.md social/
-          git diff --staged --quiet || git commit -m "Daily digest + social content $(date +%Y-%m-%d)"
+          git add digest-*.md articles-*.json
+          git diff --staged --quiet || git commit -m "Daily digest $(date +%Y-%m-%d)"
           git push
 
       - name: Create review Issue
@@ -59,10 +51,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh label create "review-needed" --description "Social content ready for review" --color "FFA500" || true
+          gh label create "review-needed" --description "Articles ready for review" --color "FFA500" || true
           DATE=$(date +%Y-%m-%d)
           python3 issue_body.py > /tmp/issue_body.md
           gh issue create \
-            --title "📱 社交内容待审核 - ${DATE}" \
+            --title "📰 每日文章摘要 - ${DATE}" \
             --body-file /tmp/issue_body.md \
             --label "review-needed"
