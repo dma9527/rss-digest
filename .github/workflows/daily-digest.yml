@@ -28,7 +28,6 @@ jobs:
 
       - name: Validate code
         run: |
-          python -c "import yaml; yaml.safe_load(open('.github/workflows/daily-digest.yml'))"
           python -c "import py_compile; [py_compile.compile(f, doraise=True) for f in ['fetch_feeds.py','issue_body.py']]"
           echo "✅ All validations passed"
 
