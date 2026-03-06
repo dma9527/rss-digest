@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import feedparser
+import json
 import os
 from datetime import datetime, timedelta
 from xml.etree import ElementTree as ET
@@ -154,9 +155,63 @@ def translate_and_summarize(client, articles, provider='gemini'):
     
     return results
 
+def fetch_llm_trending(client):
+    """用 Gemini + Google Search 获取 RSS 未覆盖的 AI 热点新闻"""
+    from google.genai import types
+    prompt = """搜索过去24小时 AI 领域最重要的新闻和行业动态。
+
+重点关注：
+- AI 公司融资、估值、IPO 动态
+- 重大技术发布（新模型、新产品）
+- AI 政策法规、诉讼
+- AI 在军事、医疗、教育等领域的应用突破
+- 行业裁员、重组、并购
+
+要求：
+- 每条新闻必须附带真实的原文链接（新闻网站、官方博客等）
+- 只报道有可靠来源的新闻，不要编造
+- 返回 5-10 条最有传播价值的新闻
+
+严格按以下 JSON 格式输出，不要加其他内容：
+[
+  {
+    "title_en": "英文标题",
+    "title_cn": "中文标题",
+    "summary_cn": "50-100字中文摘要",
+    "url": "原文链接",
+    "score": 8,
+    "angle": "小红书切入角度"
+  }
+]
+
+只输出 JSON 数组。"""
+
+    try:
+        print("🔍 Fetching AI trending news via LLM + Google Search...")
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        raw = response.text.strip()
+        if "```" in raw:
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        articles = json.loads(raw.strip())
+        for a in articles:
+            a["source"] = "AI热点（LLM搜索）"
+        print(f"  ✅ Found {len(articles)} trending articles from LLM search")
+        return articles
+    except Exception as e:
+        print(f"  ⚠️ LLM trending fetch failed: {e}")
+        return []
+
+
 def generate_markdown(updates, client, provider='gemini'):
     """生成 Markdown 摘要 + articles.json"""
-    import json
     today = datetime.now().strftime('%Y-%m-%d')
     filename = f'digest-{today}.md'
     all_articles = []
@@ -193,6 +248,11 @@ def generate_markdown(updates, client, provider='gemini'):
                 })
     
     # 输出 articles.json（按分数排序）
+    # 追加 LLM 搜索的热点新闻
+    if provider == 'gemini':
+        llm_articles = fetch_llm_trending(client)
+        all_articles.extend(llm_articles)
+
     all_articles.sort(key=lambda x: x['score'], reverse=True)
     json_file = f'articles-{today}.json'
     with open(json_file, 'w', encoding='utf-8') as f:
