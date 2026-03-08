@@ -1,0 +1,128 @@
+[
+  {
+    "title_en": "U.S. Drafts Strict AI Rules for Civilian Contracts Amid Anthropic Dispute",
+    "title_cn": "美国就民用AI合同起草严格新规，此前与Anthropic公司出现争议",
+    "summary_cn": "美国政府已起草针对民用人工智能合同的严格新规定，要求与联邦政府合作的AI公司必须允许其模型用于“任何合法”用途。此举正值特朗普政府与AI公司Anthropic就模型用于政府目的的争议背景下。新规旨在建立更清晰的AI部署框架，并确保政府合同中的AI模型可被广泛合法使用。",
+    "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-3330669",
+    "score": 9,
+    "angle": "AI公司注意！美国政府要出“硬核”新规，做AI生意得接受“任何合法用途”？你的模型自由度要受限了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Major Layoffs Hit Morgan Stanley, Oracle, and Capital One; AI Costs Cited by Oracle",
+    "title_cn": "摩根士丹利、甲骨文和Capital One宣布大规模裁员，甲骨文归因于AI成本",
+    "summary_cn": "本周，摩根士丹利裁员约2500人，甲骨文据报计划进行数千人裁员，部分原因在于其AI数据中心建设成本上升。Capital One也解雇了1100多名员工。这些裁员行动预示着白领就业市场可能面临挑战，部分与AI技术进步带来的效率提升以及相关基础设施建设的高昂成本有关。",
+    "url": "https://finviz.com/news/fullstory.ashx?id=2888463",
+    "score": 9,
+    "angle": "AI时代真的来了？华尔街巨头们开始裁员了！甲骨文直指AI数据中心烧钱太厉害，你的饭碗还稳吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Florida Governor DeSantis Continues Push for 'AI Bill of Rights' Despite Stalled Bill",
+    "title_cn": "佛罗里达州州长德桑蒂斯继续推动“AI权利法案”，尽管法案受阻",
+    "summary_cn": "佛罗里达州州长罗恩·德桑蒂斯仍在推动一项全州范围的“人工智能权利法案”，尽管该法案在立法会议中陷入停滞。该提案要求AI平台告知用户其是否正在与AI系统互动，并规范未经授权使用个人姓名、肖像或形象的行为，同时禁止政府机构与“相关外国”的AI公司签订合同。",
+    "url": "https://www.wusf.org/politics-issues/2026-03-07/gov-desantis-heightens-push-for-ai-rules-as-bill-falters",
+    "score": 8,
+    "angle": "硬刚AI！佛州州长力推“AI权利法案”，要让AI系统透明化，你的数字形象谁说了算？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI Privacy Law Rapidly Evolving: EU AI Act in Force, U.S. States Enacting Statutes",
+    "title_cn": "AI隐私法快速演进：欧盟AI法案生效，美国各州立法加紧",
+    "summary_cn": "人工智能隐私法律正在迅速发展。欧盟AI法案已于2024年8月生效，建立了基于风险的分级监管框架，对高风险AI系统施加严格义务。在美国，加州的CCPA和CPRA已成为州级AI隐私法规的实际标准，其他各州也在制定全面的AI或隐私法规，以解决自动化决策和算法透明度问题。",
+    "url": "https://www.captaincompliance.com/blog/ai-privacy-issues/",
+    "score": 8,
+    "angle": "你的AI数据安全吗？全球AI隐私法正在大洗牌！从欧盟到美国，AI合规成为企业新挑战，你了解多少？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Ayar Labs Secures $500M in Series E Funding for AI Infrastructure",
+    "title_cn": "Ayar Labs完成5亿美元E轮融资，用于AI基础设施建设",
+    "summary_cn": "AI基础设施提供商Ayar Labs成功获得5亿美元E轮融资。该公司致力于生产用于AI基础设施的共同封装光学元件，旨在解决数据传输瓶颈问题，以支持AI规模化发展。此轮融资由Neuberger Berman领投，对Ayar Labs的估值达到37.5亿美元。",
+    "url": "https://crunchbase.com/article/the-weeks-10-biggest-funding-rounds-space-tech-ai-infrastructure-lead-fundraises",
+    "score": 8,
+    "angle": "重磅！AI基础设施赛道再获巨额融资，Ayar Labs斩获5亿美元！光子芯片将如何加速AI算力发展？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Codex for Open Source",
+    "title_cn": "开源版 Codex",
+    "summary_cn": "继Anthropic于2月27日宣布向热门开源项目（需满足5000+星标或100万+NPM下载量）的维护者提供六个月免费Claude Max服务后，OpenAI也推出了类似的重磅福利。现在，OpenAI为开源项目维护者提供六个月免费的ChatGPT Pro（价值与Claude Max相同，每月200美元），并包含强大的Codex功能。此举旨在支持开源社区，为开发者提供顶尖的AI工具，助力项目发展。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything",
+    "score": 7,
+    "angle": "AI巨头豪横“卷”起来了！顶级AI工具ChatGPT Pro+Codex免费领半年，开源项目维护者们冲啊！揭秘OpenAI和Anthropic如何用福利抢占开发者市场，普通人也能从中看到AI未来趋势。"
+  },
+  {
+    "title_en": "Pluralistic: The web is bearable with RSS (07 Mar 2026)",
+    "title_cn": "Pluralistic: 有了RSS，网络变得可忍受 (2026年3月7日)",
+    "summary_cn": "这篇文章以“Pluralistic”为名，重点阐述了RSS订阅功能和“阅读模式”如何显著提升网络浏览体验，使信息过载的互联网变得更加易于管理。作者精选并分享了一系列多元化的每日链接，涵盖了科技（如Eyemodule、故障打印机）、政治社会议题（如美国警察杀人统计、第四修正案）及其他有趣内容。此外，文章还更新了作者近期和未来的公开露面计划以及书籍出版信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/07/reader-mode/",
+    "score": 7,
+    "angle": "信息焦虑症有救了！💥 一个老牌『黑科技』，让你告别算法投喂，高效获取专属知识流！"
+  },
+  {
+    "title_en": "What's the source of Einstein's \"citizen of the world\" quip?",
+    "title_cn": "爱因斯坦“世界公民”妙语的出处是什么？",
+    "summary_cn": "本文作者热衷于从旧档案中追溯名言出处。他揭示了爱因斯坦一句常被引用、但鲜少注明来源的幽默言论。爱因斯坦曾说，如果他的相对论成功，德国会宣称他是德国人，法国会称他为“世界公民”；而一旦理论不被证实，法国便会转而说他是个德国人。这句妙语讽刺地展现了国家和个人荣誉之间的复杂关系。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/",
+    "score": 7,
+    "angle": "爱因斯坦最凡尔赛的自嘲？一句话道破人性的真实写照！🌍💔 原来这句关于‘世界公民’的经典妙语，背后藏着这样的故事和深意！✨"
+  },
+  {
+    "title_en": "Reading List 03/07/2026",
+    "title_cn": "阅读清单 2026年3月7日",
+    "summary_cn": "本期阅读清单聚焦科技与能源前沿动态。涵盖数据中心脱离电网的新趋势、太阳能光伏效率创纪录的突破，以及美国战略石油储备的修复进展。同时，关注了福特电动车业务面临的挑战，并深扒了OpenAI前CTO创立的新公司，展现了未来科技和能源领域的热点与变革。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-03072026",
+    "score": 7,
+    "angle": "AI大佬新动向、福特电动车“翻车”，普通人如何抓住未来风口？"
+  },
+  {
+    "title_en": "Insilico Medicine and Liquid AI Partner to Develop New AI Foundation Model for Drug Discovery",
+    "title_cn": "Insilico Medicine与Liquid AI合作开发新型AI药物发现基础模型",
+    "summary_cn": "Insilico Medicine与Liquid AI宣布合作开发一款轻量级人工智能基础模型LFM2-2.6B-MMAI (v0.2.1)，旨在支持药物发现的多个阶段，并可在私有基础设施上运行。该模型有望通过单一系统处理广泛的药物发现任务，提高研发效率，同时解决敏感数据安全问题。",
+    "url": "https://www.drugdiscoveryworld.com/new-ai-foundation-model-aims-to-speed-up-drug-discovery.htm",
+    "score": 7,
+    "angle": "AI制药迎来新突破！Insilico Medicine联手Liquid AI，打造“私有化”药物发现模型，新药研发要加速了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google Releases Gemini 3.1 Pro and Major Upgrade to Gemini 3 Deep Think",
+    "title_cn": "谷歌发布Gemini 3.1 Pro并大幅升级Gemini 3 Deep Think",
+    "summary_cn": "谷歌在2月份发布了一系列AI更新，其中包括更智能、更强大的基线模型Gemini 3.1 Pro，其推理性能是Gemini 3 Pro的两倍多。此外，专为科学和工程领域设计的Gemini 3 Deep Think也得到了重大升级，能够更有效地处理复杂的技术挑战并提供可操作的结果。",
+    "url": "https://blog.google/technology/ai/latest-ai-news-february/",
+    "score": 7,
+    "angle": "谷歌AI又有大动作！Gemini 3.1 Pro推理能力翻倍，Deep Think升级助力科研，AI模型内卷持续升级！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "‘npx workos’",
+    "title_cn": "npx WorkOS",
+    "summary_cn": "WorkOS 推出了一款名为 `npx workos` 的命令行工具，它通过独特的 ASCII 艺术启动一个由 Claude AI 驱动的智能代理。该代理能深入阅读用户的项目代码，自动检测所使用的开发框架，并直接将完整的认证集成方案写入现有代码库。其独特之处在于，它并非简单的模板生成器，而是真正理解项目的技术栈和现有代码。这款工具极大地简化了开发者集成认证功能的复杂过程，提高了开发效率。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Restricting IP address access to specific ports in eBPF: a sketch",
+    "title_cn": "eBPF中限制IP访问特定端口的构想",
+    "summary_cn": "作者此前探讨了systemd的IP地址限制功能，但发现其对特定端口的限制不够灵活，需要为每个端口单独配置systemd.socket单元，增加了复杂性。文章（或构想）由此提出了一个问题，旨在探索利用eBPF技术，实现更高效、更精细地限制IP地址对特定端口的访问，以期简化网络安全策略的配置，提供一个更优的解决方案。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "If It Quacks Like a Package Manager",
+    "title_cn": "如果它像个包管理器一样呱呱叫",
+    "summary_cn": "一些工具表面上看起来像包管理器，模仿了其部分行为，但实际上并未掌握包管理器的核心功能和精髓。它们或许能处理简单的软件安装，但在更复杂的依赖关系管理、版本控制、冲突解决、生态系统集成或安全性方面存在显著缺陷。这些工具只是“徒有其形”，缺乏真正的稳健性与可靠性，无法像成熟的包管理器那样提供全面且可靠的服务。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html",
+    "score": 2,
+    "angle": ""
+  }
+]
