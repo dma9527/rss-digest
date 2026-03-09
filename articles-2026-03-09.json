@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "OpenAI releases GPT-5.4 with enhanced reasoning and million-token context window",
+    "title_cn": "OpenAI发布GPT-5.4，具备增强推理能力和百万级上下文窗口",
+    "summary_cn": "OpenAI发布了GPT-5.4及其Pro版本，通过ChatGPT、API和Codex提供。新模型在推理、编码和工具使用方面有所进步，上下文窗口高达一百万个Token，显著提升处理复杂任务的能力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzQIipS_VvYn25v-JLzNnouqT7SRuItDxLOjRCGu7IoXT6BYiUpypDpXKH1OgHTs9wxSWr-6BMBS5U7Vl503ryJEey5AiwoM4UHbyGLUJpNFLXHNmiZCABfOxesfFfE7TOqhw8xBBA9rurBNGQY67mtvUg77EO4aEHqAk67VjP2-sxKXQOeVhZKVsTt7nGIOrc0eo1436Wmp-jna0",
+    "score": 10,
+    "angle": "重磅炸弹！GPT-5.4上下文窗口飙升至百万，AI能力边界再次突破！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Joseph Weizenbaum",
+    "title_cn": "引用约瑟夫·维森鲍姆",
+    "summary_cn": "约瑟夫·维森鲍姆，AI程序ELIZA的创造者，于1976年反思道，他当时未曾意识到，即使是短暂接触一个相对简单的电脑程序，也可能在相当正常的人群中诱发强烈的妄想思维。这句话揭示了早期人工智能对人类心理产生的深刻影响，警示人们在与技术互动时可能出现的过度信任或拟人化倾向，对于理解当前AI（如ChatGPT）的心理效应具有前瞻性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything",
+    "score": 9,
+    "angle": "结合约瑟夫·维森鲍姆47年前的预言，探讨现代人与ChatGPT等AI工具互动时可能产生的“妄想思维”或过度信任。引导用户反思自己是否也曾对AI产生不切实际的期待或情感依赖，警示AI可能带来的心理影响，鼓励更理性地使用和看待AI。可配以“AI正在悄悄改变你的大脑？”、“47年前的预言今日成真！”等吸睛标题。"
+  },
+  {
+    "title_en": "Donald Knuth on Claude Opus Solving a Computer Science Problem",
+    "title_cn": "唐纳德·克努特谈Claude Opus解决计算机科学问题",
+    "summary_cn": "计算机科学巨匠唐纳德·克努特（Donald Knuth）震惊地发现，他已研究数周的一个开放性问题，竟被Anthropic新发布仅三周的混合推理模型Claude Opus 4.6解决了。克努特表示，这一事件让他不得不修正自己对“生成式AI”的看法。他不仅为自己的猜想得到了一个精彩的解决方案感到高兴，也乐于庆祝这一AI里程碑，这标志着AI在复杂问题解决能力上的又一次飞跃。",
+    "source": "daringfireball.net",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 9,
+    "angle": "【科技前沿】震惊！计算机科学教父克努特都被AI“秒杀”？他研究数周的难题，被Claude Opus 4.6轻松破解！这AI到底有多牛？普通人如何抓住这波AI浪潮，提升学习和工作效率？来一起看看AI的逆天能力和未来趋势！"
+  },
+  {
+    "title_en": "AI Startups Secure Record £220B in Just Two Months of 2026",
+    "title_cn": "2026年前两月AI初创公司融资额达创纪录的2200亿英镑",
+    "summary_cn": "2026年1月至2月，全球AI初创公司融资额高达2200亿英镑，远超2025全年水平。其中68%资金流向企业级AI基础设施，显示投资者对后端系统盈利前景的信心增强，而非面向消费者的应用。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwBxjDH6kiQwZ9kzqCKj1ja0cPXLVksX-wVdLt6AGHVcftKtxGfO1RStdw8Xf1Mtax5L66OySuf8tEjFCC0tPAWIRmGAUNKcsGHQhIEqGtPZG8wcbTaBjnyfUYrxC_uujAUcg69uPBfwbVN6NzGsQo8Pr1seb9RgsxCnIH0iCFKUge4k2kgDp-g6QIDUwTmpx3yg==",
+    "score": 9,
+    "angle": "资本狂潮！AI领域再创融资新高，你的公司赶上这波红利了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Alibaba releases small open-source models that rival much larger AI systems",
+    "title_cn": "阿里巴巴发布小型开源模型，性能媲美大型AI系统",
+    "summary_cn": "阿里巴巴推出了Qwen3.5系列小型开源AI模型，这些模型在更少硬件资源下展现出强大的推理和多模态能力，在多个基准测试中超越了许多大型竞争模型。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1gwOV-OMR3q5CC70G8sf-B7kAt0v-3y6KuFRRrvAzI5ZA7ZbsYeAAzwpjeJ-1ZAJgv-VDjfA7wFI3aCdbeVkIvU1lnIh9i2JAoP01Qp7JQowI6bxE-D8hRsad0qAQvI_p48j94MVnfKmovLEJ-cqcKvQywz28IngoNKRNnccvBMJVXwVY_1YN-Wxv0mmruAQVoe8jihnbuDQEtZ5q74MBsnt-NDa3ceC",
+    "score": 9,
+    "angle": "小而强大！阿里Qwen3.5系列开源，AI模型进入“轻量化”时代！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "How AI Assistants are Moving the Security Goalposts",
+    "title_cn": "AI助手如何改变安全格局",
+    "summary_cn": "AI助手作为能自主访问用户电脑、文件及在线服务并自动化任务的程序，正日益受到开发者和IT工作者的青睐。然而，近期引发关注的事件表明，这些强大的工具正在迅速改变组织的安全优先级。它们模糊了数据与代码、可信同事与内部威胁、以及专业黑客与普通用户之间的界限，对传统安全防护提出了严峻的新挑战。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+    "score": 8,
+    "angle": "强调AI助手虽然方便，但正在模糊个人数据与代码、信任与风险的界限。可以从“AI助手正在重塑你的数字安全边界，你准备好了吗？”的角度切入，结合普通用户在使用各类AI工具（如AI写作、AI修图、AI助理等）时可能遇到的潜在隐私泄露、数据被滥用等问题，提供实际的警示和防范建议。例如，“AI时代，如何保护你的数字资产？”或“使用AI助手前，这几点你必须知道！”。"
+  },
+  {
+    "title_en": "Why Am I Paranoid, You Say?",
+    "title_cn": "你问我为什么偏执？",
+    "summary_cn": "文章指出，当今科技发展迅猛，从游戏画面到全球沟通都令人惊叹。然而，作者却对科技怀有偏执，甚至在电视遥控器上拒绝接受服务条款，这让家人感到困惑。作者表示，自己不善言辞解释这种不安，但希望尝试向家人及读者阐明其偏执的原因，揭示科技进步背后可能存在的隐忧。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/why-am-i-paranoid?src=feed",
+    "score": 8,
+    "angle": "你是不是也这样？我为什么拒绝所有APP条款！数字隐私自保，从不当“透明人”开始"
+  },
+  {
+    "title_en": "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+    "title_cn": "《反模因部不存在》by qntm ★★★★★",
+    "summary_cn": "一个“反模因部”在逻辑上不应存在，任何试图揭露它的人都会被抹去。然而，这本书却真实地摆在读者面前，巧妙地利用“反模因”概念，挑战读者的认知与记忆，营造出一种被擦除的恐惧感和独特的阅读魅力。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/",
+    "score": 8,
+    "angle": "🤯颠覆认知！这本关于“不存在”的奇书，读完你敢说还记得它吗？挑战你对记忆和现实的极限！"
+  },
+  {
+    "title_en": "Oracle layoffs to impact thousands in AI cash crunch",
+    "title_cn": "甲骨文因AI数据中心扩张致现金紧缺，计划裁员数千人",
+    "summary_cn": "甲骨文公司为资助其大规模AI数据中心建设计划，正面临现金流压力，预计将裁员数千人。此次裁员将影响公司多个部门，部分岗位因AI发展需求减少。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqDkD2M7VTzyCfJr24Top84AbZ2FyOkwS6blNrHjOkf23FUsOWSrnbzKDOhfT-rzSDQllMapD1mchmH25M0VO-rgpxwaEuWZX3sOiX0b617nG55fIFU_lLBVlJSsvGZdgdJyDbc71OYn_cpbV7cocz5CNO1WjK04iUG4NoNEzgHggjWQ_rvWkGmIwDVs_Ea_omGj9a-TQr8Z5KG3c3zd6FjKCwHf-vwY7ghZhE",
+    "score": 8,
+    "angle": "AI浪潮下的残酷现实：巨头裁员背后，是技术转型还是成本危机？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Treasury to stop using Anthropic AI tech, including Claude platform",
+    "title_cn": "美国财政部宣布停止使用Anthropic的AI技术，包括Claude平台",
+    "summary_cn": "美国财政部决定停止使用AI公司Anthropic的技术，包括其Claude平台。此举可能与AI治理和国家安全方面的担忧有关，反映了政府机构对AI工具应用的谨慎态度。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN1LXbaBK11NzGErd7E0SWIs3OrTZq-NqRcairlm9g4dk2SQTk9Wkh7LhMLW82HBK8ca3eHxw6m9zMZSygeC1Wmau4s4MSNITjUJqp78P3Qzs1F0iKJbxHNbskm7KTbohZKV-Yj-d5Rx2l3rS7Iw==",
+    "score": 8,
+    "angle": "政府出手！美国财政部禁用Claude AI，AI安全合规成新焦点？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chinese scientists use AI to crack mystery of Moon's far side composition",
+    "title_cn": "中国科学家利用AI揭示月球背面物质构成之谜",
+    "summary_cn": "中国科学家利用人工智能技术，成功破解了月球背面复杂物质构成之谜。这项突破性研究加深了人类对月球地质演化史的理解，展示了AI在深空探测领域的巨大潜力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN1LXbaBK11NzGErd7E0SWIs3OrTZq-NqRcairlm9g4dk2SQTk9Wkh7LhMLW82HBK8ca3eHxw6m9zMZSygeC1Wmau4s4MSNITjUJqp78P3Qzs1F0iKJbxHNbskm7KTbohZKV-Yj-d5Rx2l3rS7Iw==",
+    "score": 8,
+    "angle": "AI登上月球！中国科学家用AI探索月背奥秘，太空科技新突破！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
+    "title_cn": "编程代理能否通过“净室”代码实现来重新授权开源软件？",
+    "summary_cn": "该库最初于2006年以LGPL协议发布，其原作者退休后由他人接管维护。核心争议在于，当AI重现功能相似的代码时，是否能规避原始许可协议，这将对开发者和开源社区的知识产权产生深远影响。",
+    "source": "daringfireball.net",
+    "url": "https://simonwillison.net/2026/Mar/5/chardet/",
+    "score": 7,
+    "angle": "AI编程正在颠覆开源世界？警惕“净室”代码引发的版权与法律风险！程序员们，你的项目还安全吗？"
+  },
+  {
+    "title_en": "Two of My Favorite Things Together at Last: Pies and Subdomains",
+    "title_cn": "馅饼与子域名",
+    "summary_cn": "作者是一个热爱自制馅饼的人，他相信只有自己动手才能做出完美的馅饼。他习惯为每一个烘焙作品拍照留念，并一直将这些照片上传到Instagram。然而，他意识到这种做法与他倡导“拥有自己的内容”的理念是矛盾的。因此，他现在决心建立一个完全属于自己的馅饼图片档案，以实现内容的自主管理。这个计划将把他的两大爱好——馅饼和技术（子域名）结合起来。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/pies-and-subdomains/",
+    "score": 7,
+    "angle": ""
+  },
+  {
+    "title_en": "Criteo becomes first ad tech partner in ChatGPT advertising pilot",
+    "title_cn": "Criteo成为ChatGPT广告试点首个广告技术合作伙伴",
+    "summary_cn": "Criteo成为首家与OpenAI合作，参与ChatGPT广告试点的广告技术公司，将在美国ChatGPT的免费和付费订阅层级推出对话式广告位，探索AI平台的新商业价值。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1gwOV-OMR3q5CC70G8sf-B7kAt0v-3y6KuFRRrvAzI5ZA7ZbsYeAAzwpjeJ-1ZAJgv-VDjfA7wFI3aCdbeVkIvU1lnIh9i2JAoP01Qp7JQowI6bxE-D8hRsad0qAQvI_p48j94MVnfKmovLEJ-cqcKvQywz28IngoNKRNnccvBMJVXwVY_1YN-Wxv0mmruAQVoe8jihnbuDQEtZ5q74MBsnt-NDa3ceC",
+    "score": 7,
+    "angle": "ChatGPT要开始赚钱了？广告试点开启，你的营销方案准备好了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Noble Path",
+    "title_cn": "康庄大道 / 高贵的道路 (考虑到内容是关于独立开发者和商业模式，更像是一条有前景的道路)",
+    "summary_cn": "这篇文章探讨了独立开发者将个人项目商业化的普遍趋势。作者指出，如今每一个为了解决个人问题而在周末开发的工具、脚本或巧妙小技巧，都倾向于被视为一个潜在的创业公司或SaaS产品。这种观念认为，拥有一个技术产品就必须寻求一个商业模式，反映了当前科技创业领域中“万物皆可SaaS”的生态，鼓励人们将个人技术成果转化为商业价值。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/the-noble-path/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Paywalls For Minimalists",
+    "title_cn": "极简付费墙",
+    "summary_cn": "这篇文章探讨如何以最小的投入，为内容创作者构建一个高效且主要基于开源技术的付费墙系统。其核心理念是提供一个“极简主义”的解决方案，旨在帮助创作者摆脱对大型平台过度依赖，从而更自主地管理和变现自己的内容。通过降低技术门槛和运营成本，该方法旨在赋能创作者，提升其收入掌控力。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "GNU and the AI reimplementations",
+    "title_cn": "GNU与AI的软件重构",
+    "summary_cn": "本文以AI重构软件项目为例，质疑“不记历史者必重蹈覆辙”的说法。作者指出，当前许多人抗议AI重写现有项目不公平，但其中不少人早在上世纪90年代就活跃于软件领域。那时，理查德·斯托曼及其追随者也曾积极重实现已有软件，如GNU项目。文章借此反思当前对AI重构的反对是否缺乏历史视角，揭示了软件开发中“重实现”行为的复杂性与历史循环。",
+    "source": "antirez.com",
+    "url": "http://antirez.com/news/162",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Vibe Coding Trip Report: Making a sponsor panel",
+    "title_cn": "制作赞助商面板",
+    "summary_cn": "作者因手术临近，紧急采用“随心编程”的方式，在短时间内完成了赞助商面板的开发工作。尽管是在时间紧迫下凭直觉完成，但最终成果却意外地令人满意。",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Steve Lemay Hits Apple’s Leadership Page",
+    "title_cn": "史蒂夫·勒梅登上苹果高管页面",
+    "summary_cn": "苹果公司领导层页面近日更新，史蒂夫·勒梅（Steve Lemay）正式登榜，这可能意味着他在公司内部扮演更重要的角色。此外，资深高管艾迪·库（Eddy Cue）的个人头像也同步得到了更新。",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/leadership/steve-lemay/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "How much certainty is worthwhile?",
+    "title_cn": "多少确定性才值得？",
+    "summary_cn": "文章提及作者曾为三角函数和反函数创建组合表，并修正了初版错误，随后还撰写了相关双曲函数文章。这段内容暗示了在数学探索中，错误与修正的必要性。这与标题“多少确定性是值得的？”形成呼应，引发读者对追求知识准确性所需付出的努力及其价值的深思。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "100 Posts",
+    "title_cn": "第一百篇帖子",
+    "summary_cn": "这篇文章简洁明了地指出，它是作者发布的第100篇内容。这个简单的声明标志着一个重要的里程碑，可能代表着作者在特定平台或领域持续创作的成果和坚持。它暗示了作者为此付出的时间和努力，也可能是在向读者宣告这一成就，并期待着未来的更多分享。尽管内容极简，但其背后蕴含着积累与进步的意义，是对过往创作旅程的一种纪念和肯定。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/09/100-posts.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM PC/XT Model 5160",
+    "title_cn": "IBM PC/XT 5160型",
+    "summary_cn": "1983年3月8日，IBM发布了其广受欢迎的IBM PC的后续机型——PC/XT 5160型。这款新电脑的“XT”代表“eXtended Technology”（扩展技术），它相比前代产品提供了更强的可扩展性，进一步巩固了IBM在个人电脑市场中的地位，成为当时技术进步的重要标志。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-xt-model-5160",
+    "score": 2,
+    "angle": ""
+  }
+]
