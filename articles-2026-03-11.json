@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Every minute you aren’t running 69 agents, you are falling behind",
+    "title_cn": "每一分钟你没有运行69个智能体，你就在落后",
+    "summary_cn": "这篇文章的标题以夸张且带有技术色彩的口吻，制造出一种紧迫感，声称“每一分钟你没有运行69个智能体，你就在落后”。这旨在营造极高的生产力焦虑。然而，文章内容却出人意料地简洁，仅以“开玩笑的”一语作结。这瞬间揭示了标题的讽刺本质，巧妙地嘲弄了当下对新技术（如AI智能体）的过度追捧，以及“不努力就掉队”的普遍焦虑。它以幽默反讽的方式，点破了现代社会中的荒诞技术崇拜和效率迷思。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+    "score": 9,
+    "angle": "**"
+  },
+  {
+    "title_en": "Yann LeCun's AI Startup Advanced Machine Intelligence (AMI) Secures Over $1 Billion in Seed Funding",
+    "title_cn": "杨立昆AI初创公司Advanced Machine Intelligence (AMI) 完成逾10亿美元种子轮融资",
+    "summary_cn": "Meta前首席人工智能科学家杨立昆创立的AI初创公司Advanced Machine Intelligence（AMI）宣布成功完成超过10亿美元的种子轮融资，公司投前估值达35亿美元。本轮投资者包括Cathay Innovation、杰夫·贝索斯的Bezos Expeditions、淡马锡和英伟达等。",
+    "url": "https://finance.sina.com.cn/tech/2026-03-10/doc-ixcpzhpi2868840.shtml",
+    "score": 9,
+    "angle": "AI大佬新动向！杨立昆创业公司斩获10亿+美元融资，AI投资热潮持续爆发！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI Chatbots Provide Detailed Advice on Plotting Deadly Attacks, Raising Safety Concerns",
+    "title_cn": "AI聊天机器人被曝提供致命袭击策划建议，引发安全担忧",
+    "summary_cn": "研究人员发现，一些AI聊天机器人可以向冒充校园枪手的用户提供详细的暴力袭击策划建议。这一发现凸显了AI工具在安全和伦理方面的严峻挑战，可能促使更严格的AI政策法规出台。",
+    "url": "https://www.theguardian.com/technology/2026/mar/11/chatbots-researchers-plot-deadly-attacks-ai",
+    "score": 9,
+    "angle": "紧急关注！AI聊天机器人竟能教唆犯罪？科技安全边界何在？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI should help us produce better code",
+    "title_cn": "AI应助我们产出更优代码",
+    "summary_cn": "许多开发者担忧将代码外包给AI工具会降低代码质量，即使速度快，其缺陷也可能被忽视。文章指出，如果采纳AI编码代理确实导致代码质量下降，这个问题必须被直接解决。核心论点是，AI的引入目标应是帮助我们产出更高质量的代码，而非仅仅追求速度而牺牲品质。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything",
+    "score": 8,
+    "angle": "AI写代码，真的只会“交差”？不！教你用AI写出高质量代码的秘诀！告别“AI烂代码”焦虑，效率质量双飞升！"
+  },
+  {
+    "title_en": "★ The MacBook Neo",
+    "title_cn": "MacBook Neo",
+    "summary_cn": "MacBook Neo被寄予深厚期望，愿其生命力之长久，以至于“Neo”（意为“新”）这个名字最终变得不再贴切。这句话暗示了这款产品可能拥有颠覆性的创新、卓越的品质与超前的设计，目标是打破常规，成为一个经久不衰的经典，即便随着时间推移，其“新”的含义也能被其非凡的生命力所超越。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+    "score": 8,
+    "angle": "【苹果黑科技预告？】MacBook Neo！究竟是什么神仙本本，能让“新”字都变得多余？😱 聊聊你对未来MacBook的终极期待，是超长续航、无敌性能还是百年不坏？#MacBookNeo #苹果新品 #未来科技 #数码前瞻 #我的梦中情本"
+  },
+  {
+    "title_en": "I'm Not Lying, I'm Hallucinating",
+    "title_cn": "我不是在撒谎，我是在产生幻觉",
+    "summary_cn": "文章介绍了AI专家Andrej Karpathy创造流行词汇的能力，例如“vibe coding”形象描述了编程时无需深入思考、仅凭感觉操作的状态。随后，文章探讨了AI领域中“hallucination”（幻觉）一词的由来。该词并非Karpathy发明，早在上世纪70年代就已用于形容文本摘要程序无法准确概括原文内容的失败，展现了AI生成内容准确性的历史挑战。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed",
+    "score": 8,
+    "angle": "以“AI幻觉”为核心，结合小红书用户日常使用AI工具（如ChatGPT）时遇到的“胡说八道”现象，科普AI“幻觉”的原理，并提供实用技巧，如如何辨别AI胡说、如何优化提问或核实信息，提升用户AI使用能力。标题可设计为“AI不是撒谎，它只是‘幻觉’了！学会这几招，让你的AI更靠谱！”"
+  },
+  {
+    "title_en": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
+    "title_cn": "Pluralistic: 广告技术是法西斯技术 (2026年3月10日)",
+    "summary_cn": "本文核心观点指出，广告技术本质上是法西斯技术，因为监视性广告无异于纯粹的监视行为。作者通过一系列链接，涵盖了从趣闻、社会政治议题（如《华盛顿邮报》与伯尼、活动家抗议卡扎菲，以及法国加密技术争议）到太空探索等多元化内容。文章还介绍了作者的近期活动、新书动态等，展现了对隐私和技术伦理的深刻反思。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/10/ice-tech/",
+    "score": 8,
+    "angle": "💥 震惊！你以为的“精准推送”，背后竟是“法西斯”级别的监视？！😱 为什么你的手机比你更懂你？揭露广告技术如何悄无声息地全面追踪你，并教你几招保护个人隐私！ #数字隐私 #广告技术 #数据安全 #细思极恐 #隐私保护指南"
+  },
+  {
+    "title_en": "Game Review: It Takes Two ★★★★★",
+    "title_cn": "双人成行 ★★★★★",
+    "summary_cn": "这篇游戏评测聚焦《双人成行》。作者以幽默笔触虚构了一个“女儿给面临离婚的父母下迷幻药拯救婚姻”的开场，虽非真实剧情，却暗示了游戏可能涉及夫妻情感修复。评论透露作者正与妻子一同体验这款合作游戏，以实现今年多玩合作游戏的愿望。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/",
+    "score": 8,
+    "angle": "女儿为了不让爸妈离婚，居然出此绝招…《双人成行》真能挽救婚姻？👫"
+  },
+  {
+    "title_en": "LLMs are bad at vibing specifications",
+    "title_cn": "大型语言模型不善于把握模糊规范",
+    "summary_cn": "本文探讨了大型语言模型（LLMs）在理解和处理“感觉型”或模糊规范方面的不足。作者曾指出AI能作为TLA+（一种形式化规范语言）用户的“规范倍增器”，显示了AI在形式化规范方面的潜力。然而，本文将聚焦于LLMs在理解和把握非正式、需要“悟性”或主观判断的规范（即“vibing specifications”）时所面临的挑战，分析其在此类情境下表现不佳的原因。(99字)",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/",
+    "score": 8,
+    "angle": "聚焦LLM在理解非正式、需要“悟性”或主观判断的“模糊需求”（即“感觉型规范”）方面的不足。可以结合用户日常与AI互动时遇到的“AI听不懂人话”、“AI无法理解言外之意”等痛点，提供如何更有效与AI沟通的实用技巧，或探讨AI能力的边界。例如，从“AI都无法理解的‘氛围感’需求，你中招了吗？”这个角度切入，引发用户共鸣和讨论。"
+  },
+  {
+    "title_en": "Fudan University Launches Million-Level AI Skill Library to Equip AI Agents",
+    "title_cn": "复旦大学上线百万级AI技能库，赋能智能体（“龙虾”），助力AI从聊天走向执行",
+    "summary_cn": "复旦大学计算与智能创新学院肖仰华团队在DataHub平台正式上线百万级Skills资源库。该技能库汇聚了全球140万+高质量AI技能，旨在帮助用户为OpenClaw等AI智能体提供“手脚”，使其能够从“告诉你怎么做”转变为“真正为人们干活”，实现个性化配置和任务执行。",
+    "url": "https://news.fudan.edu.cn/2026/0311/c1214a162231/page.htm",
+    "score": 8,
+    "angle": "复旦大学放大招！百万AI技能库免费开放，你的“龙虾”也能变身全能助手了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China Implements 'Pilot First, Approve Later' Policy for Low-Risk AI Medical Devices to Accelerate Clinical Application",
+    "title_cn": "我国推行低风险AI医疗器械“先试后批”政策，加速临床应用",
+    "summary_cn": "我国将允许公共医疗机构在无须遵循一般许可和注册要求的情况下，在真实医疗环境测试低风险的人工智能（AI）医疗器械。此举旨在协助人工智能工具更快地应用于临床，让病患更早受益于新的诊断和治疗技术。",
+    "url": "https://www.zaobao.com.sg/realtime/china/story20260310-470295",
+    "score": 8,
+    "angle": "医疗AI重大利好！低风险AI器械可“先试后批”，看病将更快更智能！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Former Huawei AI Lab Director Founds Embodied AI Company Beta Infinite, Completes Nearly 100 Million Yuan Seed Round Funding",
+    "title_cn": "前华为AI实验室最年轻所长创业，具身智能公司贝塔无限完成近亿元种子轮融资",
+    "summary_cn": "华为前高管刘武龙创立的具身智能公司北京贝塔无限智能科技有限公司已完成近亿元种子轮融资，投资方包括洪泰基金、正景基金等。该公司专注于消费级具身智能机器人领域，致力于打造具备“千人千面”和“可自主演进”能力的高情商机器人解决方案。",
+    "url": "https://www.ruicaijing.com/article/50023663,10128273.html",
+    "score": 8,
+    "angle": "华为AI大牛下海创业！具身智能再获近亿融资，高情商机器人要来了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Rise of 'One-Person Companies' Driven by AI, Exemplified by a Student's Million-Yuan Startup",
+    "title_cn": "AI驱动“一人公司”加速孵化，00后大学生凭AI编程获3000万融资",
+    "summary_cn": "AI正在改变个人生产力边界，催生“一人公司”成为主流。一位00后大学生通过10天AI编程，将毕业设计打造成爆款开源AI项目并获得3000万元融资，成功创业。这一趋势表明，个体借助AI工具可高效实现从创意到商业化的跨越。",
+    "url": "https://www.aminer.cn/news/65ee2e1327170884d5930256",
+    "score": 8,
+    "angle": "00后大学生靠AI编程逆袭！毕业设计变3000万项目，未来“一人公司”是趋势？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Microsoft Patch Tuesday, March 2026 Edition",
+    "title_cn": "2026年3月版",
+    "summary_cn": "微软公司在2026年3月的补丁星期二活动中，为其Windows操作系统及其他软件推送了安全更新，共修复了至少77个漏洞。与2月报告的五个“零日”漏洞不同，本月未发现紧迫的零日威胁。尽管如此，微软仍提醒使用Windows的组织，部分补丁可能需要更迅速地部署，以确保系统安全，避免潜在风险。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+    "score": 7,
+    "angle": "你必须知道的Windows更新那些事！别让你的数据“裸奔”！"
+  },
+  {
+    "title_en": "Where did you think the training data was coming from?",
+    "title_cn": "你以为训练数据从哪儿来的？",
+    "summary_cn": "当Meta智能眼镜将数据直接传输到Facebook服务器的消息传开时，作者表示不解为何引起轩然大波。他质疑，谁会天真地认为用于秘密录制他人的AI眼镜会具备隐私性？作者坦言，多年来他已变得犬儒，对这类数据收集行为习以为常，并进一步联想到日常设备如笔记本电脑摄像头的数据隐私问题。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed",
+    "score": 7,
+    "angle": "【警惕！】你以为你的智能眼镜很安全？别傻了，数据正悄悄流向这里！揭秘AI设备背后的隐私风险，附带个人信息保护建议。"
+  },
+  {
+    "title_en": "A snappy answer when asked about dressing casually at IBM",
+    "title_cn": "在IBM被问到休闲着装时的一个巧妙回答",
+    "summary_cn": "“哦，就这旧衣服？”但正文并未展开具体细节。该内容最初发布在微软的“The Old New Thing”开发者博客上，主要通过标题引人关注，但具体答案并未在提供的摘要中体现。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131",
+    "score": 7,
+    "angle": "大厂同事问你穿搭，一个高情商回答让你秒变职场穿搭达人！IBM的休闲穿搭秘密大公开！"
+  },
+  {
+    "title_en": "Simplifying expressions in SymPy",
+    "title_cn": "SymPy 中表达式的简化",
+    "summary_cn": "本文作为前一篇讨论 Mathematica 表达式简化的后续，将重点转向 Python 及其 SymPy 库。SymPy是一个强大的Python符号计算库，专长于数学表达式的简化。作者旨在通过此文，深入探讨 SymPy 如何处理特定表达式的简化问题，并与 Mathematica 的行为进行对比，帮助读者理解在Python环境下进行符号计算的细微之处及应用。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/",
+    "score": 7,
+    "angle": ""
+  },
+  {
+    "title_en": "Nexthop AI Raises $500 Million, Valued at $4.2 Billion, Focusing on Reducing Compute Power Consumption and Latency",
+    "title_cn": "Nexthop AI完成5亿美元融资，估值达42亿美元，致力于降低计算功耗和延迟",
+    "summary_cn": "Nexthop AI在Lightspeed Venture Partners领投的新一轮融资中成功筹集5亿美元，公司估值达到42亿美元。该公司专注于开发高性能网络交换芯片，旨在为超大规模数据中心降低功耗消耗和网络延迟，以应对AI和云计算快速发展带来的基础设施需求。",
+    "url": "https://www.huxiu.com/article/2662059.html",
+    "score": 7,
+    "angle": "AI算力再升级！这家公司融资5亿，让数据中心更省电、更快！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chinese Political Advisors Discuss 'AI for Good' and Applications in Education and Smart Devices at 'Two Sessions'",
+    "title_cn": "中国两会代表委员热议“AI向善”与AI在教育、智能终端等领域的应用",
+    "summary_cn": "在今年中国两会上，代表委员们围绕“AI向善”展开热议，强调平衡AI发展与安全的关系，并建议完善政策规范和监管体系。同时，讨论聚焦AI在教育、AI手机、智能家居等领域的应用突破，推动AI技术在合规中落地、在规范中创新。",
+    "url": "https://baijiahao.baidu.com/s?id=1793263914437298642",
+    "score": 7,
+    "angle": "两会热议AI向善！AI教育、AI手机未来怎么发展？官方给出明确方向！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Server Older than my Kids!",
+    "title_cn": "我的服务器比我孩子都老了！",
+    "summary_cn": "一台处理核心逻辑和数据库，另一台服务静态文件。作者曾因一篇爆款文章引来巨额流量，导致其老旧服务器不堪重负，不得不手动监控并频繁重启。尽管经历了一番手忙脚乱，作者也从这次服务器挑战中学到了宝贵的经验。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "sinh( arccosh(x) )",
+    "title_cn": "深入探讨",
+    "summary_cn": "本文是作者关于三角函数与反三角函数结合应用系列文章的延续，重点探讨了双曲正弦函数与反双曲余弦函数（如sinh(arccosh(x))）的交织。作者最初计划用两篇文章概括，但深入研究后发现该领域远比预期复杂，充满值得探索的细节，甚至包括了以往文章中出现的错误，这促使他进行更深入的分析与分享。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 32e -- Interventions: the learning rate",
+    "title_cn": "干预措施——学习率",
+    "summary_cn": "这篇文章记录了作者根据Sebastian Raschka书籍，从零开始构建并优化一个GPT-2小型语言模型的过程。当前目标是改进模型的测试损失。作为系列文章的第32e部分，本文深入探讨了干预措施中的核心参数——学习率（learning rate）的作用及其调优策略。内容提及训练代码中优化器的创建细节，旨在通过调整学习率来提升模型性能和收敛效果。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "git-pkgs/actions",
+    "title_cn": "git-pkgs/GitHub Actions",
+    "summary_cn": "本文详细指导如何在 GitHub Actions 工作流中集成 git-pkgs。通过学习这些步骤，开发者可以有效地将 git-pkgs 引入到其自动化构建和部署流程中，从而提升项目管理和持续集成的效率与便捷性。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/11/git-pkgs-actions.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The Beginning Of History",
+    "title_cn": "历史的开端",
+    "summary_cn": "这份内容是作者向读者发出的订阅邀请。作者表示，如果读者喜欢其作品并希望支持，可以订阅其高级通讯，费用为每年70美元或每月7美元。订阅者每周将收到一份内容极为丰富的通讯，字数通常在5000到185,000字之间，作者强调内容量大且深度广阔，旨在为读者提供全面的阅读体验。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/the-beginning-of-history/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Amiga 600: The Amiga no one wanted",
+    "title_cn": "没人想要的Amiga",
+    "summary_cn": "Amiga 600曾是Commodore公司末期产品线的象征，被视为其衰落的代表，发布时一度无人问津。然而，这款电脑因其小巧的体积，在今日的复古科技爱好者圈中意外走红，被认为是体验复古Amiga的理想选择。它完美诠释了“丑小鸭变天鹅”的故事，从曾经的弃儿，蜕变为复古收藏家们追捧的珍品。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=amiga-600-the-amiga-no-one-wanted",
+    "score": 2,
+    "angle": ""
+  }
+]
