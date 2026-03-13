@@ -1,0 +1,245 @@
+[
+  {
+    "title_en": "Coding After Coders: The End of Computer Programming as We Know It",
+    "title_cn": "我们所知的计算机编程的终结",
+    "summary_cn": "这篇由Clive Thompson为《纽约时报杂志》撰写的重磅文章，深入探讨了AI辅助开发如何改变计算机编程的未来。作者采访了来自谷歌、亚马逊、微软、苹果等70多位软件开发者及行业领袖，揭示了AI对传统编程模式的颠覆性影响。文章探讨了我们所熟知的编程范式将如何终结。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+    "score": 9,
+    "angle": "AI终结编程时代？程序员的未来何去何从！**"
+  },
+  {
+    "title_en": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
+    "title_cn": "Pluralistic: 又有三起AI精神错乱事件 (2026年3月12日)",
+    "summary_cn": "这篇文章是作者的一篇博客或链接集，核心内容是提及了近期新增的三起AI“精神错乱”事件，并呼吁大家保持冷静。此外，文章还罗列了多个多样化且看似独立的话题，例如关于客体永恒的探讨、法律超级禁令、文学版权纠纷、3D打印猫战甲以及黑人科幻文学等。作者还在文中分享了其近期和未来的活动安排以及书籍出版信息，内容较为丰富和分散。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/12/normal-technology/",
+    "score": 9,
+    "angle": "“AI又‘疯’了？三起最新AI精神错乱事件大揭秘，我们该恐慌吗？”内容上先抛出AI异常现象，再科普解释其背后的技术原理（如AI幻觉、逻辑漏洞），呼吁大家不必过度恐慌，保持冷静。同时，可以适度提及文章中其他未来感或有趣的话题，如“3D打印猫战甲”，增加内容的丰富度和讨论度，引导用户思考AI的利弊和未来发展。"
+  },
+  {
+    "title_en": "Violoop Secures Tens of Millions in Funding to Create 24/7 AI Workers",
+    "title_cn": "Violoop获数千万元融资，打造24小时AI打工人",
+    "summary_cn": "AI PC自动化硬件公司Violoop宣布完成数千万元天使轮融资，致力于打造“世界上第一个物理AI操作员”，其产品能通过软硬件结合让AI“看到”屏幕并操作电脑，解决纯软件AI无API接口的痛点，助力企业实现24小时AI工作。",
+    "url": "https://www.iyiou.com/news/2026031336496.html",
+    "score": 9,
+    "angle": "打破次元壁！AI“打工人”即将上线，你的工作要被它抢走了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "PixVerse Developer Aishi Technology Completes $300 Million Series C Funding, Led by CDH Investments",
+    "title_cn": "AI视频生成巨头爱诗科技完成3亿美元C轮融资，鼎晖领投",
+    "summary_cn": "中国AI视频生成企业爱诗科技（Aishi Technology）宣布完成3亿美元C轮融资，由鼎晖香港基金、鼎晖VGC、鼎晖百孚领投，中国儒意、三七互娱等近20家机构参投。其海外产品PixVerse在图生视频和文生视频领域均位列全球第二。",
+    "url": "https://cj.sina.com.cn/articles/view/1650893093/6249b66502001n83v",
+    "score": 9,
+    "angle": "重磅！国内AI视频生成公司获3亿美元C轮融资，下一个Sora会是它吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Nvidia, Baidu, Huawei, Tencent Simultaneously Drive Industry Reshuffle in AI",
+    "title_cn": "英伟达、百度、华为、腾讯同日引爆行业洗牌",
+    "summary_cn": "过去24小时内，英伟达、百度、华为、腾讯四大科技巨头几乎同时发布重要动态，从底层模型到终端应用再到商业策略，全面覆盖AI产业链。这标志着AI行业正从“技术驱动”转向“价值驱动”，竞争焦点转向生态整合与垂直场景深耕。",
+    "url": "https://juejin.cn/post/7345638531771146274",
+    "score": 9,
+    "angle": "AI圈炸锅了！英伟达、百度、华为、腾讯大佬齐发力，行业大洗牌要来了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Axiom Math Raises $200 Million at $1.6 Billion Valuation, Using AI and Lean for Code Verification",
+    "title_cn": "Axiom Math获2亿美元融资，估值16亿美元，用AI与Lean验证代码",
+    "summary_cn": "由24岁中国00后女生洪乐潼创立的AI初创公司Axiom Math，获得2亿美元融资，估值达16亿美元。该公司致力于利用人工智能和Lean语言解决极其复杂的数学难题并验证代码，已取得突破性进展，解决了多个数学难题。",
+    "url": "https://www.huxiu.com/article/2607590.html",
+    "score": 9,
+    "angle": "24岁中国00后创业公司估值16亿美元！AI+数学，这是什么神仙组合？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Can the MacBook Neo replace my M4 Air?",
+    "title_cn": "MacBook Neo 能否取代我的 M4 Air？",
+    "summary_cn": "许多人都在思考 MacBook Neo 是否是他们的理想之选。文章作者因拥有更强大的桌面设备（M4 Max Mac Studio），习惯选择更便携的MacBook Air等低端笔记本作为旅行伴侣。他更看重设备的便携性而非极致性能。因此，本文将探讨 MacBook Neo 是否能满足这类特定用户群体的需求，并与M4 Air进行比较，以判断其是否适合作为下一代旅行用Mac。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/",
+    "score": 8,
+    "angle": "M4 Air用户看过来！未来MacBook Neo会是你的旅行新选择吗？深度分析便携与性能的取舍，帮你提前规划升级路线！"
+  },
+  {
+    "title_en": "Accents",
+    "title_cn": "强调色",
+    "summary_cn": "\"Accents\"是一款由Mahdi Bchatnia开发的Mac应用程序，它让用户可以在任何Mac电脑上使用原本仅限特定iMac/MacBook硬件的Neo强调色。这一巧妙的工具突破了苹果的硬件独占设计，让所有Mac用户都能通过一个简单的实用程序，个性化他们的设备，享受定制化色彩带来的乐趣和新鲜感。",
+    "source": "daringfireball.net",
+    "url": "https://mahdi.jp/apps/accents",
+    "score": 8,
+    "angle": "**标题党角度 + 实用教程分享**"
+  },
+  {
+    "title_en": "MacBook Neo Teardown",
+    "title_cn": "MacBook Neo 拆解",
+    "summary_cn": "MacBook Neo的拆解过程仅用不到10分钟，被认为是苹果笔记本中前所未有地易于修复和模块化。它没有粘性胶带或复杂粘合剂，零件精简且设计简洁优雅。",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=5k7Lv7f-5CQ",
+    "score": 8,
+    "angle": "强调MacBook Neo的“易于修复”和“模块化设计”如何颠覆苹果以往形象，突出普通用户也能轻松维护，省钱实用。可用“10分钟拆解Mac”、“苹果终于良心了”等标题党元素，吸引对维修成本和DIY感兴趣的Mac用户。"
+  },
+  {
+    "title_en": "Software Proprioception",
+    "title_cn": "软件本体感受",
+    "summary_cn": "本文介绍了“软件本体感受”的概念，强调当软件能感知其运行硬件的尺寸和特性时，可以实现许多有趣的功能。作者提出“指向而非描述”的原则，类似于“展示而非讲述”。这意味着，通过视觉指示（如箭头）直接引导用户，比阅读文字描述能显著降低认知负荷，让信息处理更高效。这种设计思维为提升软件用户体验带来了新的启发。",
+    "source": "daringfireball.net",
+    "url": "https://unsung.aresluna.org/software-proprioception/",
+    "score": 8,
+    "angle": "“揭秘！为什么有些App用起来超顺手？🤫 原来它们有‘第六感’，能自己‘看懂’你的屏幕！”内容可以从用户体验出发，举例说明App如何根据屏幕尺寸、设备方向等自动调整布局或通过动态指示（如箭头）引导操作，减少用户思考和阅读的时间。强调这种“软件的自我感知”如何让交互更直观、更省心，让用户感到惊喜和便利。"
+  },
+  {
+    "title_en": "It's Work that taught me how to think",
+    "title_cn": "工作教会我如何思考",
+    "summary_cn": "这篇文章描述了作者大学计算机科学(CS)课的第一天。教授拿着德州仪器计算器亮相，告诉学生们他曾参与制造这款产品。同学们原本以为CS数学内容很少，因此感到惊讶。教授随后分享了他的职业生涯以及制造计算器背后的工作过程，并准备将设备连接到电脑进行演示。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/work-taught-me-how-to-think?src=feed",
+    "score": 8,
+    "angle": "工作才是教会你深度思考的最佳课堂！💡🎓"
+  },
+  {
+    "title_en": "Btw: Software, turnkey, beheerd, as a service",
+    "title_cn": "软件、交钥匙服务、托管、即服务",
+    "summary_cn": "荷兰税务局计划将增值税系统外包给一家美国公司，作者对此表示强烈质疑和担忧。此事将于3月19日在议会委员会会议上讨论。最初，公众以为只是采用美国软件，但后来才明确，包括软件和服务器在内的整个系统都将由美国公司全面管理，引发了国家核心数据安全的隐忧。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/software-turnkey-as-a-service/",
+    "score": 8,
+    "angle": "【震惊】荷兰税务系统要给美国公司管？你的钱袋子和个人数据还安全吗？！普通人速看！"
+  },
+  {
+    "title_en": "Meta Delays 'Avocado' AI Model Launch Due to Underperformance Against Competitors",
+    "title_cn": "Meta全新AI模型“牛油果”推迟发布，性能不敌同行是主因",
+    "summary_cn": "Meta计划推出的文本AI模型“牛油果”（Avocado）的发布时间已从3月推迟至至少5月。据知情人士透露，该模型在内部测试中，性能表现不及谷歌、OpenAI和Anthropic等竞争对手的领先AI模型。",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-03-13/doc-cazxsvks5566376.shtml",
+    "score": 8,
+    "angle": "Meta AI新模型“牛油果”难产？AI巨头内卷加剧，谁能笑到最后？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Haier Smart Home Launches AI Eye 2.0 and Family Robots, Advancing 'Unmanned Housework'",
+    "title_cn": "海尔智家发布AI之眼2.0和家庭机器人让“无人家务”更进一步",
+    "summary_cn": "海尔智家在展会上正式发布三大类家庭服务机器人，包括“海娃清洁机器人”、“海娃陪伴机器人”和“海娃家务机器人”，旨在实现“无人家务”。这些机器人能主动打扫卫生、提醒老人吃药、协助家务，标志着家电AI应用迈入新阶段。",
+    "url": "https://finance.eastmoney.com/a/202603123861298642.html",
+    "score": 8,
+    "angle": "家务神器！海尔AI机器人上市，解放双手不是梦！懒人福音来袭！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's Ministry of National Defense Comments on Military AI Applications: Emphasize Human Control and Prevent Loss of Control",
+    "title_cn": "中方就人工智能军事应用发表评论：应坚持由人主导、防止失控",
+    "summary_cn": "中国国防部新闻发言人蒋斌大校表示，不加限制地推进人工智能军事化，可能导致技术失控，甚至使《终结者》中的灾难场景成为现实。中方坚持“以人为本、智能向善”原则，认为AI军事应用应坚持由人主导，反对谋求绝对军事霸权。",
+    "url": "http://www.news.cn/mil/2026-03/11/c_1212005934.htm",
+    "score": 8,
+    "angle": "《终结者》预言成真？国防部回应AI军事应用，科技伦理引发深思！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Tech Giants Including Amazon Issue Nearly $54 Billion in Bonds for AI Infrastructure Investment",
+    "title_cn": "亚马逊等美国科技巨头发债近540亿美元投资AI基础设施",
+    "summary_cn": "近日，包括亚马逊在内的全球科技巨头掀起新一轮大规模发债潮，通过债券融资加码人工智能（AI）基础设施投资。亚马逊在3月10日至11日两天内，累计发行了近540亿美元（含欧元债）债券，用于AI相关的基础建设。",
+    "url": "https://finance.eastmoney.com/a/202603123861348827.html",
+    "score": 8,
+    "angle": "钱都投哪儿了？亚马逊豪掷540亿美元，AI基建狂潮来袭，科技巨头都在抢滩！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Les Orchard",
+    "title_cn": "引用 Les Orchard",
+    "summary_cn": "作者引用 Les Orchard 的观点指出，AI 辅助编程正显露开发者群体中长期存在但此前不明显的分歧。在AI出现前，无论是热爱编程艺术的“匠人”还是追求高效交付的“实干家”，都以相同方式手动编码。他们共用工具和流程，并肩合作交付产品，使得这种内在差异难以察觉。AI的介入，则让这两种核心理念的根本区别变得日益清晰。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything",
+    "score": 7,
+    "angle": "AI让程序员现出原形？你是追求编程艺术的“匠人”，还是效率至上的“实干家”？深扒AI如何撕裂开发者群体，也许你的行业也正面临类似选择！"
+  },
+  {
+    "title_en": "Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator",
+    "title_cn": "苹果平台安全指南新增MacBook Neo屏幕摄像头指示灯简短说明",
+    "summary_cn": "苹果在其平台安全指南中更新了一条关于MacBook Neo摄像头安全的重要说明。MacBook Neo结合了A18 Pro芯片的专用硬件和系统软件，旨在为摄像头馈送提供额外的安全保障。这项架构设计确保任何未受信任的软件，即便拥有macOS的root或内核权限，也无法在不点亮屏幕上可见的摄像头指示灯的情况下启用摄像头。这显著增强了用户隐私保护，防止潜在的偷窥行为。",
+    "source": "daringfireball.net",
+    "url": "https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1",
+    "score": 7,
+    "angle": "抓住用户对隐私安全的担忧，强调MacBook Neo通过A18 Pro芯片专用硬件与系统软件结合，确保摄像头指示灯无法被绕过，从而彻底杜绝偷窥行为。可突出“硬件级隐私保护”、“告别摄像头被偷开”、“A18 Pro守护你的隐私”等关键词，以科普和安心为主线。"
+  },
+  {
+    "title_en": "An odd font rendering bug in Firefox and Safari",
+    "title_cn": "火狐和Safari浏览器中的一个怪异字体渲染错误",
+    "summary_cn": "演员Ronkẹ Adékọluẹ́jọ́的名字在Firefox和Safari浏览器中显示异常，但在Chrome中正常。这个小缺陷引发了对不同浏览器渲染机制的思考。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/",
+    "score": 7,
+    "angle": "标题可以设为“【好奇心爆棚】我在国家剧院官网发现了一个浏览器冷门bug！你是不是也遇到过字体显示异常？” 内容可以从发现这个特殊字符渲染bug开始，对比Chrome与其他浏览器的显示效果，引发用户好奇。然后可以科普性地介绍浏览器字体渲染原理、国际化字符（如音标、特殊符号）的处理难点，以及不同浏览器内核的差异。最后可以引导读者检查自己的浏览器，并分享是否遇到过类似问题。"
+  },
+  {
+    "title_en": "Eddy Cue Says F1 on Apple TV Opened to Increased Viewership",
+    "title_cn": "艾迪·库称 Apple TV 上的 F1 赛事开局收视率增长",
+    "summary_cn": "苹果高级副总裁艾迪·库向《好莱坞报道》透露，Apple TV上播放的2026年F1赛季开局强劲。上周澳大利亚大奖赛的观赛人数与去年ESPN播出的2025年赛事相比有所增长，表明Apple流媒体平台实力增强。库表示，粉丝反响积极，收视表现超出预期，为新赛季奠定了良好基础。",
+    "source": "daringfireball.net",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Microsoft’s 1986 IPO",
+    "title_cn": "微软1986年首次公开募股",
+    "summary_cn": "1986年3月13日，微软成功进行了首次公开募股（IPO），这一事件彻底震撼了当时的金融界。四十年后，这次具有里程碑意义的IPO所带来的深远影响至今仍在持续发酵。微软的巨大成功不仅定义了一个时代，也激发了无数投资者和创业者，至今仍在寻找并追逐下一个能创造同样奇迹的科技巨头。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-1986-ipo",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Forge",
+    "title_cn": "锻造",
+    "summary_cn": "Forge是一款强大的统一命令行界面（CLI）工具，旨在帮助开发者在一个地方集中管理GitHub、GitLab、Gitea、Forgejo和Bitbucket等多个代码托管平台。它能够简化跨平台操作，显著提升开发工作效率。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/13/forge.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+    "title_cn": "解析与渲染速度提高 53%，内存分配减少 61%",
+    "summary_cn": "Shopify 首席执行官 Tobias Lütke 最近为其在 2005 年受 Django 启发创建的开源 Ruby 模板引擎 Liquid 提交了一个重要的性能优化拉取请求（PR）。通过深入的微优化，此更新显著提升了 Liquid 的表现。数据显示，解析与渲染速度提升了 53%，同时内存分配减少了 61%。这项改进将对使用 Liquid 的应用程序性能产生积极影响，显示了即使是创始人在多年后仍致力于优化核心工具的精神。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "MALUS - Clean Room as a Service",
+    "title_cn": "MALUS - 净室即服务",
+    "summary_cn": "MALUS推出的“净室即服务”是一个辛辣的讽刺，旨在揭露和挑战当前IP移植与许可洗白现象。该服务声称利用其专有AI机器人，能够完全从零开始、独立地重现任何现有的开源项目。其核心承诺是生成法律上全新的、与原始开源项目代码无关的代码，并提供对企业更友好的专属许可。这意味着用户将彻底摆脱开源许可的各种束缚和义务，包括无需进行任何署名，从而实现真正的“解放”。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Windows stack limit checking retrospective: x86-32, also known as i386",
+    "title_cn": "x86-32，又称 i386",
+    "summary_cn": "这篇博客文章回顾了Windows操作系统在x86-32（即i386）架构下的堆栈限制检查机制。文章指出，在探讨此话题时，读者将遇到一种可能是有史以来最独特的调用约定。该内容深入探讨了Windows针对特定旧版架构如何管理和验证程序堆栈边界的历史和技术细节，属于微软官方博客“The Old New Thing”的技术回顾系列。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Inverse cosine",
+    "title_cn": "反余弦",
+    "summary_cn": "本文延续前两篇博文，探讨了数学软件中`sinh(arccosh(x))`为何难以简化的问题。在此基础上，文章进一步探究了为何`sin(arccos(x))`却能得到简洁的简化结果。作者通过草图式证明，阐述了包括`sin(arccos(x)) = √(1 − [...])`在内的多个恒等式，旨在揭示反三角函数与反双曲函数在简化性质上的差异及其背后的数学原理。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/12/arccos/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Everything's Casino",
+    "title_cn": "万物皆赌场",
+    "summary_cn": "文章描述了一个虚构的2026年2月28日晚上，美国B-2轰炸机从密苏里州起飞，配合波斯湾潜艇发射的战斧导弹，对伊朗发动了代号为“史诗狂怒”的军事行动。此次行动打击了超过一千个目标，揭示了一场大规模、高烈度的未来冲突场景。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/everythings-casino/",
+    "score": 2,
+    "angle": ""
+  }
+]
