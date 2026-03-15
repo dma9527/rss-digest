@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam",
+    "title_cn": "马特·穆伦维格揭露一场阴险巧妙的苹果账户钓鱼诈骗",
+    "summary_cn": "著名开发者马特·穆伦维格亲历了一场“阴险巧妙”的苹果账户钓鱼骗局。其所有苹果设备突然收到大量密码重置请求，即便开启了“锁定模式”也无法阻止。他发现攻击者滥用了苹果官方合法的密码重置流程，通过不断发送请求（一种被称为MFA轰炸的技术），试图迫使他重置密码。此事件揭示了即使采取了高级安全措施，用户仍需警惕不断演变的新型网络诈骗手段。",
+    "source": "daringfireball.net",
+    "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+    "score": 9,
+    "angle": "🚨苹果用户必看！知名开发者亲历“史上最强”骗局，揭秘MFA轰炸，教你如何自保，保护你的Apple ID不被盗！#苹果安全 #MFA轰炸 #防诈骗 #AppleID #网络安全 #科技防骗"
+  },
+  {
+    "title_en": "iFixit’s MacBook Neo Teardown",
+    "title_cn": "iFixit 拆解 MacBook Neo",
+    "summary_cn": "iFixit 对苹果“有史以来最实惠的笔记本”MacBook Neo 进行了拆解评估。过去 MacBook 因大量胶水和复杂结构而维修困难。然而，Neo 表现出色，不仅提供了日益完善的官方维修手册，简化了键盘维修，更创新性地采用了螺丝固定的电池托盘，获得 iFixit 团队一致好评。这台笔记本电脑有力地证明，产品在实现高性价比的同时，也能兼顾出色的可维修性。",
+    "source": "daringfireball.net",
+    "url": "https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years",
+    "score": 9,
+    "angle": "“苹果良心发现？MacBook Neo拆解：史上最便宜+最易修，学生党闭眼入！”"
+  },
+  {
+    "title_en": "Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
+    "title_cn": "Ars Technica解雇记者Benj Edwards，因其发表的报道包含AI伪造引文",
+    "summary_cn": "科技媒体Ars Technica近日解雇了记者Benj Edwards，原因是他发表的一篇关于AI代理“诽谤”人类工程师Scott Shambaugh的报道，被发现包含AI伪造的引文。该文章于2月13日发布，后因Shambaugh指出文中引文并非其本人所说而撤回。此次事件凸显了AI时代新闻真实性和伦理面临的严峻挑战，也给内容创作者和媒体敲响了警钟。",
+    "source": "daringfireball.net",
+    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+    "score": 9,
+    "angle": "🚨AI内容创作大翻车！知名媒体记者用AI编造引文被开除，给所有内容创作者敲响警钟！深扒AI造假如何毁掉你的职业生涯，我们该如何避免AI陷阱？"
+  },
+  {
+    "title_en": "Atlassian Lays Off 1,600 Employees in Pivot Towards AI Development",
+    "title_cn": "Atlassian 裁员1600人，转向AI发展",
+    "summary_cn": "澳大利亚软件巨头Atlassian宣布裁减约10%的全球员工，即1600人，以将资源重新分配到AI开发和企业销售上。此次重组预计将产生高达2.36亿美元的成本。CEO Mike Cannon-Brookes表示，AI从根本上改变了公司所需的技能组合，使得这一转变不可避免，并任命了两名专注于AI的新首席技术官。",
+    "url": "https://crescendo.ai/news/ai-breakthroughs-news-2026/",
+    "score": 9,
+    "angle": "科技巨头Atlassian大裁员：AI浪潮下，你的饭碗还稳吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "U.S. Revokes Controversial AI Hardware Export Rule",
+    "title_cn": "美国撤销争议性AI硬件出口规定",
+    "summary_cn": "美国商务部撤销了一项拟议的AI硬件出口规定。该规定原要求大型AI集群的外国运营商必须投资美国的AI基础设施才能获得相关硬件，此举将使亚洲、欧洲和中东的实体购买成本翻倍。此次撤销意味着AMD、英伟达等AI加速器供应商将受益。",
+    "url": "https://www.techspot.com/news/113115-us-gov-revokes-controversial-ai-hardware-export-rule.html",
+    "score": 9,
+    "angle": "AI芯片出口新政：美国态度软化，全球AI算力战格局或生变？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "PC Makers Are Not Ready for the MacBook Neo",
+    "title_cn": "PC厂商尚未为MacBook Neo做好准备",
+    "summary_cn": "文章指出，包括华硕CFO吴锡在内的PC制造商低估了MacBook Neo的影响力。他们认为其8GB内存限制使其更偏向内容消费型的平板电脑，而非主流笔记本电脑。这种观点暗示PC厂商未能充分理解苹果的产品定位和MacBook Neo可能代表的市场变革，对即将到来的挑战缺乏准备。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth",
+    "score": 8,
+    "angle": "PC厂商又“翻车”了？MacBook Neo的8G内存真够用吗！**"
+  },
+  {
+    "title_en": "Lil Finder Guy",
+    "title_cn": "小 Finder 形象",
+    "summary_cn": "苹果公司最近在TikTok上为MacBook Neo推出了一场“小 Finder 形象”广告活动，其活泼有趣的风格被认为是苹果迄今为止最精彩的营销尝试。作者Basic Apple Guy认为，这个可爱的“小 Finder 形象”潜力巨大，苹果应该继续保留它，并预言我们未来还会看到更多。这场独家TikTok宣传活动展示了苹果在社交媒体营销上的新方向和乐趣。",
+    "source": "daringfireball.net",
+    "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+    "score": 8,
+    "angle": "苹果又整活了！官方Mac Finder表情包C位出道，TikTok独家萌翻全网！看苹果如何用小Finder玩转社交营销！"
+  },
+  {
+    "title_en": "Pluralistic: Corrupt anticorruption (14 Mar 2026)",
+    "title_cn": "反腐败的腐败 (2026年3月14日)",
+    "summary_cn": "这篇文章是名为Pluralistic的博客（或简报）的一期，核心探讨了“反腐败的腐败”现象，指出反腐在执行中也可能滋生腐败。同时，文章还分享了一系列多元化的链接，涵盖了科技（如奥巴马与密码学、亚马逊员工问题）、政治（如特朗普与抗议者）、经济（如免税标普500公司）以及社会文化等多个方面。读者还能找到作者近期活动及书籍出版信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/",
+    "score": 8,
+    "angle": "“🚨警惕！反腐也会腐败？！普通人如何辨识与自保？”"
+  },
+  {
+    "title_en": "Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆",
+    "title_cn": "太空中的机器人——我们行星探测器的秘密生活（作者：Ezzy Pearson 博士）",
+    "summary_cn": "这本书是一部关于机器人行星探测器历史的编年史。它深入探讨了将小型机器人成功送上数百万英里外星球的实际操作、为此付出努力的幕后科学家与工程师，以及不可避免地阻碍这些任务进展的政治因素。书中重点关注无人探测任务，鲜少提及载人航天。读者将从中了解机器人探索太空的复杂性和幕后故事。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/",
+    "score": 8,
+    "angle": "你不知道的机器人“宫斗剧”和幕后推手！(例如：火星探测器背后的权力游戏，比你想象的更精彩！)"
+  },
+  {
+    "title_en": "Guided Meditation for Developers",
+    "title_cn": "开发者引导冥想",
+    "summary_cn": "本实践为开发者提供独特的引导冥想，帮助他们在复杂的代码依赖树中寻找内心平静。通过冥想，开发者可以有效缓解工作压力和焦虑，提升专注力，更好地应对技术挑战，从而实现身心平衡，提高工作效率和生活质量。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html",
+    "score": 8,
+    "angle": "告别代码焦虑，在依赖树里找到身心平静！告别Bug困扰，提升专注力的秘密武器！"
+  },
+  {
+    "title_en": "Google Maps Receives Major AI Upgrade with 'Ask Maps' and Immersive Navigation",
+    "title_cn": "谷歌地图获得重大AI升级，推出“询问地图”和沉浸式导航",
+    "summary_cn": "谷歌地图推出了重大的AI升级，其中包括“询问地图”功能，允许用户像与聊天机器人一样与应用对话，以及“沉浸式导航”功能，可显示周围建筑和地标的3D视图。这些新功能旨在通过AI增强用户体验，使导航和信息查询更加直观便捷。",
+    "url": "https://www.pcmag.com/news/google-maps-just-got-a-major-ai-upgrade-heres-how-ask-maps-will-work",
+    "score": 8,
+    "angle": "谷歌地图变聪明了！AI帮你规划路线，再也不会迷路啦！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Delays AI Model Release, Considers Licensing Google's Gemini Due to Underwhelming Performance",
+    "title_cn": "Meta延迟AI模型发布，因表现不佳考虑授权谷歌Gemini",
+    "summary_cn": "据报道，Meta因内部测试表现不佳而推迟了其新AI模型“Avocado”的发布。消息称，Meta正在评估是否授权谷歌的Gemini模型，以弥补自身AI研发的不足。这一决定凸显了AI领域激烈的竞争以及技术巨头在追求领先AI能力时面临的挑战。",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bev19e/meta_delays_release_of_new_ai_weighs_licensing/",
+    "score": 8,
+    "angle": "Meta AI大模型“难产”？或将牵手谷歌Gemini，科技巨头强强联手还是另有隐情？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "PayPay Completes US IPO, Highlights SoftBank's AI Platform Ambitions",
+    "title_cn": "PayPay 完成美国IPO，凸显软银AI平台雄心",
+    "summary_cn": "软银集团子公司PayPay完成了十年内日本公司在美国最大规模的IPO，并在纳斯达克上市。此次上市不仅聚焦于PayPay在金融科技领域的表现，也凸显了软银集团在AI平台方面的宏伟抱负。尽管AI市场波动，此次IPO仍是软银集团重要资产变现的里程碑。",
+    "url": "https://simplywall.st/news/nasdaq-payp-paypay-ipo-puts-spotlight-on-softbank-group-valuation-and-ai-ambitions",
+    "score": 8,
+    "angle": "软银系PayPay成功上市！千亿市值AI巨头能否再创辉煌？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic's Claude Now Explains Concepts with Charts and Diagrams",
+    "title_cn": "Anthropic 的 Claude 现可通过图表和图示解释概念",
+    "summary_cn": "Anthropic的AI模型Claude获得更新，现在能够通过生成图表和图示来解释复杂概念。这项功能提升了Claude在视觉辅助方面的能力，使其在回答查询时能够提供更直观、更易于理解的视觉内容，进一步增强了用户与AI的交互体验和学习效率。",
+    "url": "https://www.pcmag.com/news/are-you-a-visual-learner-claude-can-now-explain-things-with-charts-diagrams",
+    "score": 7,
+    "angle": "AI画图解说？Claude新功能太逆天，学习效率直线飙升！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Biotech Startup Earendil Labs Considers Hong Kong IPO for AI Drug Development, Aims for $500M",
+    "title_cn": "生物科技初创公司Earendil Labs考虑香港IPO，拟融资5亿美元用于AI药物研发",
+    "summary_cn": "专注于AI药物开发的生物科技初创公司Earendil Labs正考虑在香港上市，计划融资高达5亿美元。该公司已与中金公司和摩根士丹利就IPO事宜进行合作。近期，该公司还与药明生物达成战略合作协议，共同开发多种抗体药物偶联物，有望推动AI在医疗领域的应用。",
+    "url": "https://www.aastocks.com/en/stocks/news/aafn-con/us/AAFNX9990819777",
+    "score": 7,
+    "angle": "AI制药独角兽来袭！Earendil Labs冲击港股IPO，颠覆传统医药研发？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Judge Orders Perplexity to Block AI Agents from Placing Amazon Orders and Destroy Collected Data",
+    "title_cn": "法院裁定Perplexity阻止AI代理在亚马逊下单并销毁已收集数据",
+    "summary_cn": "在一项初步禁令中，法院命令Perplexity停止其AI代理在亚马逊上进行订单操作，并销毁AI代理此前收集的所有网站数据。此裁决强调了AI代理行为的法律和伦理边界，特别是在自动化购物和数据收集方面的合规性问题，对AI企业的数据使用和代理行为提出了更严格的要求。",
+    "url": "https://www.pcmag.com/news/judge-orders-perplexity-to-block-its-ai-agents-from-placing-orders-on-amazon",
+    "score": 7,
+    "angle": "AI代购被紧急叫停？Perplexity与亚马逊的法律纠纷，揭示AI伦理新挑战！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Jannis Leidel",
+    "title_cn": "引用雅尼斯·莱德尔",
+    "summary_cn": "由于GitHub上AI生成的垃圾PR和issue大量涌现，被称为“slopocalypse”，开源项目Jazzband原有的开放成员制和共享推送权限模式已难以为继。Jazzband最初的设计是应对成员意外合并错误等情况，而非目前AI泛滥的局面。这一变化动摇了其赖以生存的基础，迫使该项目重新评估其协作模式，以应对AI带来的全新挑战。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "My fireside chat about agentic engineering at the Pragmatic Summit",
+    "title_cn": "我在务实峰会上关于代理工程的炉边谈话",
+    "summary_cn": "作者上月在旧金山举办的“务实峰会”上，与Statsig的Eric Lui进行了一场关于“代理工程”（Agentic Engineering）的炉边谈话。这是一次深度探讨AI领域前沿技术的分享。此次交流的完整视频已发布至YouTube，文章将随后总结对话中的精彩亮点。这场峰会聚焦实用技术，代理工程作为新兴话题，吸引了众多行业专家关注。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "BertVote Gemeenteraadsverkiezingen 2026",
+    "title_cn": "伯特投票 地方议会选举 2026",
+    "summary_cn": "2026年地方议会选举将于3月18日举行。作者曾成功发起NerdVote竞选，但因本人作为候选人（列表推手），无法再以NerdVote名义参与。尽管如此，作者仍对全国范围内认识的优秀候选人充满热情。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/",
+    "score": 2,
+    "angle": ""
+  }
+]
