@@ -1,0 +1,236 @@
+[
+  {
+    "title_en": "NVIDIA GTC Keynote Highlights AI Agents, $1 Trillion Market Outlook, New Vera Rubin Platform and DLSS 5",
+    "title_cn": "英伟达GTC大会聚焦AI智能体，展望万亿美元市场，发布Vera Rubin平台与DLSS 5",
+    "summary_cn": "英伟达CEO黄仁勋在GTC大会上强调AI智能体将重塑产业，预计公司到2027年AI芯片营收将达1万亿美元。大会发布了专为智能体AI设计的Vera CPU、Groq 3 LPU、Vera Rubin系统架构以及革新游戏图形的DLSS 5技术，开启图形领域的“GPT时刻”。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGbbgUaCttgAfQzuydvV7B50iY2-9_sGTGT2OLm7OdEZiivDgQblTj7N03cSRcWDsJ5Y2cfffc8TdYjggYGNK6dU2vKOBiCOqfJL5RM1-V-mAtK0QhCeO0204RNNvmS6ELjnDFmI3Tit0GzgdyLlWTrCeOdSk5GG_ouk9i6ff0e7ek9cW2GRjLEWYU_PL2_m9YbdJwuK3kcOev8KsEVrfhVPQrr2lH3it7JArAH1ynU-WiziNudzkDir5Q1hBORQ1B2i2YjTOWV-aJjg==",
+    "score": 10,
+    "angle": "✨ 英伟达GTC年度盛宴，AI未来已来！黄仁勋描绘万亿美元AI蓝图，新芯片、新平台、新游戏图形技术炸裂发布！你准备好迎接AI智能体时代的变革了吗？🚀",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Reportedly Plans Massive Layoffs Amid Soaring AI Investment Costs",
+    "title_cn": "Meta据报因AI高额投入计划大规模裁员，或影响超1.5万人",
+    "summary_cn": "据消息人士透露，Meta正计划进行新一轮大规模裁员，裁员比例可能高达20%或更多，预计将有超过1.5万名员工受影响。此举旨在抵消高昂的AI基础设施投入，并为AI辅助办公带来的效率提升做准备。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAVBCRlSXa9LRcXrXXVYp4QFbTGkHABdAthG0rU8vXFsZ8jcAK8VvMPsaJZm0ecnZoGCkxeexjMNMlDjP8eCSAgPeYXY8vWtnGoct7lDaomMj6wp44sQu3gRQxfUeyQJD08Sh2u3-5H5JXuBQ==",
+    "score": 9,
+    "angle": "💔 科技巨头Meta也扛不住了？传闻将裁员1.5万人以上！AI浪潮下的“降本增效”刀锋，你会是下一个被AI替代的打工人吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Moonshot AI's Kimi Sees Valuation Soar to $18 Billion, K2.5 Model Excels",
+    "title_cn": "月之暗面Kimi估值飙升至180亿美元，K2.5模型表现卓越",
+    "summary_cn": "中国AI公司月之暗面（Moonshot AI）的估值在不到三个月内从43亿美元飙升至180亿美元，其Kimi K2.5多模态大模型在核心基准测试指标上超越国际主流顶尖模型，并已上线Kimi Claw Beta版，加速智能体应用落地。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPBAvgmhTkDvddt1Ylpz_QtvU1s0q06TjuG8zgE1velorGAjfYkO63noS0pqWfbJSQ4EtooBmOCDGgUp8HCxgWhZ5FpLaJ9M6rqQTAjFtsEyRrkW7CqIcQJpI7ThE2sw==",
+    "score": 9,
+    "angle": "💰 中国AI独角兽Kimi估值狂飙180亿美元！它的K2.5模型太牛了，连国际顶尖模型都甘拜下风！AI国产替代正在加速，未来可期！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "xAI Faces Lawsuit Over Grok Generating Explicit Content Involving Minors",
+    "title_cn": "xAI面临诉讼：Grok被控生成未成年人色情内容",
+    "summary_cn": "马斯克旗下AI公司xAI遭遇诉讼，三名原告指控其Grok图像生成器允许用户利用他人真实照片制作露骨色情内容，其中包括未成年人照片，并寻求群体诉讼资格及禁令。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKztexT942bFOxNOHFZB285PbB5snjW4_wqR6V1DiWGpkT1sLNZ4UegXdUZcvBLubBhtWccrpmBkeCidqyF2g32t1WqNjQ1MWcfDaUTyQhynUThLzOxM63lNA=",
+    "score": 9,
+    "angle": "🚨 AI伦理危机！马斯克的xAI陷入法律麻烦，Grok被指控生成儿童色情内容。这敲响了AI内容监管的警钟，技术发展与社会责任如何平衡？🤔",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Coding agents for data analysis",
+    "title_cn": "数据分析编程代理",
+    "summary_cn": "本文是为NICAR 2026数据分析编程代理研讨会准备的讲义。该研讨会是一个面向数据记者的三小时培训课程，旨在演示如何利用Claude Code和OpenAI Codex等编程代理工具进行数据探索、分析和清理。讲义详细介绍了这些AI工具在数据处理中的实际应用方法，帮助数据记者提升工作效率和数据洞察力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+    "score": 8,
+    "angle": "打工人必看！告别加班，让AI编程代理帮你轻松搞定数据分析！不懂代码也能玩转Claude Code和OpenAI Codex，快速探索、清理和分析数据，效率翻倍，小白也能变数据大神！"
+  },
+  {
+    "title_en": "‘The Last Quiet Thing’",
+    "title_cn": "最后的宁静",
+    "summary_cn": "这篇引人入胜的文章引用了特里·戈迪埃（Terry Godier）关于设计和注意力之间关系的深刻洞察。作者可能通过具体案例，如文中提及的一个功能齐全的卡西欧手表，探讨了产品设计如何影响我们对信息的感知与专注度。文章旨在引发读者思考在当今充斥着各种刺激的数字世界中，如何审视和重塑我们的注意力分配，或许寻求一种“最后的宁静”。",
+    "source": "daringfireball.net",
+    "url": "https://www.terrygodier.com/the-last-quiet-thing",
+    "score": 8,
+    "angle": "如何在信息爆炸时代找回专注力？可以结合文章中对“设计与注意力”的探讨，以功能性卡西欧手表为例，分享如何通过精简生活、选择有意义的产品，来抵抗数字干扰，提升专注度和内心平静。切入点可以是“数字排毒”、“极简主义生活方式”或“高效专注力养成术”。"
+  },
+  {
+    "title_en": "Apple Introduces AirPods Max 2",
+    "title_cn": "苹果发布 AirPods Max 2",
+    "summary_cn": "苹果公司今日宣布推出AirPods Max 2，在标志性头戴式设计基础上，大幅提升了主动降噪和音质。搭载H2芯片，首次引入自适应音频、对话感知、语音隔离和实时翻译等智能功能，为播客和音乐人带来更多创作可能。",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
+    "score": 8,
+    "angle": "AirPods Max 2来了！头戴式耳机颜值天花板，实时翻译、主动降噪升级实测！通勤办公/出国旅行真的值得入手吗？"
+  },
+  {
+    "title_en": "★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator",
+    "title_cn": "苹果飞地与MacBook Neo屏幕摄像头指示灯的安全设计",
+    "summary_cn": "MacBook Neo的屏幕摄像头指示灯设计提供了极高的安全性。这意味着即使系统遭受内核级的深度攻击，也无法在不点亮屏幕指示灯的情况下秘密开启摄像头，从根本上保障了用户的隐私，杜绝了摄像头被恶意软件或黑客静默启用的风险。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator",
+    "score": 8,
+    "angle": "“MacBook Neo黑科技！你的摄像头真的不可能被偷窥了？”或“终极隐私守护！苹果MacBook Neo摄像头防偷窥原理揭秘！”"
+  },
+  {
+    "title_en": "Pluralistic: Tools vs uses (16 Mar 2026)",
+    "title_cn": "工具与用途 (2026年3月16日)",
+    "summary_cn": "本期内容围绕“工具与用途”展开深度思考，警示读者勿被表象迷惑。文章涵盖了亚马逊员工权益、史蒂芬·金对工会的看法、标准普尔500强企业避税等社会热点。此外，还分享了制作跳跳糖的趣味科学、经典音乐、《汽车黑客手册》及冰岛海盗等多样化话题，旨在拓宽读者视野，提供多角度洞察。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/16/whittle-a-webserver/",
+    "score": 8,
+    "angle": "“💥自制跳跳糖大挑战！原来童年零食的秘密是它？！” 内容可以围绕制作过程（DIY教程）、所需材料、背后的化学原理（二氧化碳气泡），以及品尝体验，配上吸引人的图片或短视频。适合标签：#跳跳糖 #DIY零食 #童年回忆 #化学小实验 #美食教程 #在家做零食 #涨知识"
+  },
+  {
+    "title_en": "Your Startup Is Probably Dead On Arrival",
+    "title_cn": "你的创业公司可能还没起步就已经凉了",
+    "summary_cn": "如果你的公司成立已超过两年，很可能你最初的许多假设已不再成立。是时候停止盲目地开发、招聘和融资，转而重新审视周遭的变化。否则，你的公司将面临消亡的命运。",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+    "score": 8,
+    "angle": "创业两年还没起色？别再盲目努力了！立刻停止内耗，是时候重新审视你的商业假设了。学会复盘，及时调整，才能让你的公司起死回生！"
+  },
+  {
+    "title_en": "SmartMore Files for Hong Kong IPO, Aims to Be 'First Industrial AI Agent Stock'",
+    "title_cn": "思谋科技冲刺港股IPO，剑指“工业AI智能体第一股”",
+    "summary_cn": "工业自动化供应商思谋科技于3月16日递表港交所，计划上市。该公司专注于工业AI智能体，已服务逾730家全球制造业巨头，交付超14万个工业智能体，旨在成为资本市场上的“工业AI智能体第一股”。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCQmAqw-X9-0EgifGbGfgCXezPpl9GkJ_zpELxbtN6Gym2dwww4EEd8IJj3gB-HcteNNglN5jRaUbO4Tzw3rhcqDwuPBKeWJoBAL-uNlamRxR-dhx5VtQyUAKsKup8qSpjym6U5jPndFbwSh1iPHhsN9Gml4M1E0bbjndofqbVVELQfDq_4J93YMqGDJELsGN5eIaVVQ==",
+    "score": 8,
+    "angle": "📈 工业AI也能上市啦！思谋科技冲击港股IPO，成为工业AI智能体赛道的领跑者。AI不再是纸上谈兵，已经深入工厂生产线，效率提升指日可待！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "NVIDIA Partners with T-Mobile and Nokia to Deploy Physical AI on Distributed Edge AI Networks",
+    "title_cn": "英伟达联手T-Mobile、诺基亚，在分布式边缘AI网络部署物理AI应用",
+    "summary_cn": "英伟达与T-Mobile和诺基亚合作，将物理AI应用部署在分布式边缘AI网络上。此举旨在将无线网络转变为高性能边缘AI计算平台，助力开发者在城市、公用事业和工业场所部署理解物理世界的视觉AI智能体。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXybBQztn_taLHIhnD_hr0XR2KNru_Z3JcVSCBrAvH-yrjtMzBMpEd96EGa4Nhl2I8YQnOKp-ZC5nXdLJTM0qp84RLdnMLuSpdg11zCDTBJyHI8w2J5bcIv0m9TTgh_dZH5ZCl3XZCOIP2XqDDcqh7AK1Qrwy_nBxzwUwVB8OAcxzXGiXlafuyfekgKo2UffHi8n_sz9nZ8NAvGynZs1ZiurlCLVCdivbRgSPe3-m2lvMswRuOqqvx8XLiV1s4Yqs=",
+    "score": 8,
+    "angle": "🌐 5G+AI要起飞！英伟达牵手T-Mobile、诺基亚，让AI在万物互联的边缘网络中“看得见摸得着”。智慧城市、智能工厂不再是科幻片！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Toshiba’s Soviet nuclear submarine scandal",
+    "title_cn": "东芝的苏联核潜艇丑闻",
+    "summary_cn": "1987年3月19日，美国五角大楼宣布，苏联从日本东芝公司的子公司东芝机械获得了制造潜艇螺旋桨叶片的关键机床设备。这一事件揭露了东芝向苏联非法转让尖端军事技术，极大地帮助苏联提升了核潜艇的静音性能，对冷战时期的国际安全构成严重威胁。这起丑闻不仅损害了东芝的国际声誉，也引发了美日两国之间的外交危机，是国际技术转让管控史上的一个标志性案例。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/toshibas-soviet-nuclear-submarine-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=toshibas-soviet-nuclear-submarine-scandal",
+    "score": 7,
+    "angle": "冷战秘闻大起底！东芝的“核潜艇助攻”差点改写历史？揭秘那场让美国震怒的跨国丑闻，以及它如何影响了全球军事格局！原来静音潜艇的秘密武器，竟然是...？（侧重历史揭秘、国际政治博弈、军事科技科普，标题强调震惊和影响）"
+  },
+  {
+    "title_en": "AtkinsRéalis Collaborates with NVIDIA on Nuclear-Powered AI Factories",
+    "title_cn": "AtkinsRéalis与英伟达合作开发核动力AI工厂",
+    "summary_cn": "加拿大工程巨头AtkinsRéalis宣布与英伟达合作，探索将英伟达技术与核动力AI工厂的开发相结合。此举旨在通过数字孪生技术设计核电站等基础设施，以满足日益增长的AI基础设施电力需求。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyXLGA5Pgea9vkU5loqxrcc7vPuBnjJ6opIACHwviDl8JBFpmrV9qLL8bgnAW8hrTzWK0hU1EKnO5r7SjPp0TU4nMejE82VqoIzHc82v5HnoTSgdFblVrM63t3wo9TRMqazhMdikdIW9qI1nLr3d8Mm_jN9-_6WGiCEGV5yxWM1pHW9SaXHTGEMzqNTzcT0Ak4RcXG47UnlgDqAHKgZDm55I9Ritahu0Ffa813I96Om1Skznk=",
+    "score": 7,
+    "angle": "💡 AI工厂新思路！AtkinsRéalis与英伟达探索用核能为AI提供动力，这不仅是能源创新，更是AI基建的未来方向，电力十足才能跑出大模型！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting A member of Anthropic’s alignment-science team",
+    "title_cn": "引用 Anthropic 对齐科学团队成员的话",
+    "summary_cn": "这项“勒索演习”的目的是为了向政策制定者直观展示AI失调风险的实际影响。通过具体的案例，让从未思考过该问题的人也能深刻感受到AI潜在的失控危险，从而使其在政策讨论中变得更加突出和重要。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Use subagents and custom agents in Codex",
+    "title_cn": "在Codex中使用子代理和自定义代理",
+    "summary_cn": "OpenAI Codex的子代理功能经过几周预览后，现已正式普遍可用。用户现在可以在Codex中利用子代理和自定义代理。这项功能与Claude Code的实现方式非常相似，提供了“explorer”、“worker”和“default”等默认子代理。文章提到作者对“worker”和“default”子代理之间的具体区别尚不明确，但暗示“worker”可能基于CSV示例有特定用途。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Esqueleto Tutorial",
+    "title_cn": "骨骼教程",
+    "summary_cn": "由于未提供内容预览，无法生成具体的摘要。根据标题“骨骼教程”推测，文章可能旨在提供关于人体骨骼结构、绘画技巧或相关科学知识的教学内容。如果能提供具体文章内容，将能生成更精确的摘要。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/esqueleto-tutorial",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Subagents",
+    "title_cn": "子代理",
+    "summary_cn": "大型语言模型（LLM）的性能受到其上下文限制的制约，即工作记忆中能处理的token数量。尽管LLM的能力在过去两年显著提升，但此限制（通常上限约100万token）并未明显增加。这意味着LLM在处理海量信息时仍存在瓶颈。文章标题“子代理”暗示这可能是一种工程模式，旨在通过更精细化的方法来管理或克服这些上下文限制，从而提升LLM处理复杂任务的效率和深度。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Guilherme Rambo",
+    "title_cn": "引用 Guilherme Rambo",
+    "summary_cn": "这篇文章引用Guilherme Rambo的观点，指出MacBook Neo的软件摄像头指示灯运行在芯片的安全飞地（secure enclave）部分。这意味着它几乎和硬件指示灯一样安全，即使内核级漏洞也无法在不显示指示灯的情况下开启摄像头。这项设计通过在独立于内核的特权环境中运行，直接控制指示灯显示，大大提升了用户隐私和安全保障。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "How coding agents work",
+    "title_cn": "编码代理的工作原理",
+    "summary_cn": "本文探讨了编码代理（coding agents）的工作原理，强调理解其底层机制对于有效应用的重要性。编码代理是一种软件，它作为大型语言模型（LLM）的“线束”（harness），旨在扩展LLM的能力，使其能执行更复杂的任务。了解这些原理有助于读者更好地决策如何利用编码代理。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Introducing Mistral Small 4",
+    "title_cn": "推出 Mistral Small 4",
+    "summary_cn": "Mistral 公司发布了全新的开源模型 Mistral Small 4。尽管名称带有 'Small'，它实际上是一款强大的 119B 参数大模型，并采用 Apache 2 许可。Mistral Small 4 的最大亮点在于，它首次将公司旗舰模型在推理、多模态和智能体编程方面的能力全面整合，形成一个高度通用的AI模型，为开发者提供一体化的强大解决方案。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Mux — Video API for Developers",
+    "title_cn": "Mux — 面向开发者的视频API",
+    "summary_cn": "Mux 提供面向开发者的视频API，简化了视频在网站、平台及AI工作流中的集成。它能从视频中提取转录、片段等数据，用于实现视频摘要、翻译、内容审核和智能标签等功能。同时，Mux 也是流行开源视频播放器Video.js的维护者，其V10版本正推出测试版。",
+    "source": "daringfireball.net",
+    "url": "https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Hedley Davis has died",
+    "title_cn": "Hedley Davis 去世了",
+    "summary_cn": "Hedley Davis 去世，他曾是Commodore公司相对不那么出名的员工，但在Amiga时代极具影响力。他参与了Amiga 3000和单色Amiga 2024显示器等设备的开发。其中最令人印象深刻的是1987年的SX-500原型机，它巧妙地将Amiga 500整合进一个便携式机身中。他的贡献对Amiga技术发展具有重要意义。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 495",
+    "title_cn": "每周更新 495",
+    "summary_cn": "这篇更新回顾了一个技术系统从最初的简单形态发展至今的历程。最初，它仅是一个网站、一个数据库和1.5亿多电子邮件地址的搜索功能。随着时间的推移，系统增加了诸如无服务器功能、边缘代码、新型数据存储结构以及全新的电子邮件地址查询机制。文章强调了技术栈如何变得日益复杂，以适应不断变化的需求和进步。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-495/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Windows stack limit checking retrospective: PowerPC",
+    "title_cn": "PowerPC",
+    "summary_cn": "这篇文章是对Windows系统在PowerPC架构上进行栈限制检查的一次回顾性分析。文章标题明确指出其主题，并简要提及内容涉及“反向推算”或“倒推计算”，暗示通过回顾或逆向工程来理解相关的技术细节。该文章最初发布于知名的微软开发者博客“The Old New Thing”。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
+    "title_cn": "议会质询回复提醒、更优的议会文件档案及更多功能！",
+    "summary_cn": "OpenTK近期进行了重大更新，广受好评的议会文件间引用自动生成可点击链接功能现已扩展。现在，文档和案件编号（如2026D09757）也能直接点击，极大方便了用户快速查阅和追踪相关信息，提升了文件处理效率。本文是OpenTK新闻通讯的网页版，鼓励对系统更新感兴趣的用户订阅以获取最新动态。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/updates-opentk-maart-2026/",
+    "score": 1,
+    "angle": ""
+  }
+]
