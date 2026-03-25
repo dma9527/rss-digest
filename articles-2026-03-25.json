@@ -1,0 +1,254 @@
+[
+  {
+    "title_en": "Claude Can Now Take Control of Your Mac",
+    "title_cn": "Claude 现在可以控制你的 Mac",
+    "summary_cn": "Claude 推出了突破性新功能，允许 Claude Pro 和 Max 订阅者通过研究预览，让 AI 直接操控 Mac 电脑。当缺乏所需工具时，Claude 能自动在屏幕上进行点击、导航和执行任务，无需任何设置。它能轻松打开文件、使用浏览器、运行开发者工具，极大扩展了 AI 的能力范围，让其能更深入地与用户系统互动，提升自动化水平。",
+    "source": "daringfireball.net",
+    "url": "https://claude.com/blog/dispatch-and-computer-use",
+    "score": 9,
+    "angle": "AI黑科技来袭！Claude现在能‘接管’你的Mac了，告别繁琐操作，AI帮你搞定一切！这是Mac用户的福音还是潘多拉魔盒？评论区一起聊聊你对AI操控电脑的看法吧！"
+  },
+  {
+    "title_en": "The Top 10 Biggest Conspiracies in Open Source",
+    "title_cn": "开源领域十大阴谋论",
+    "summary_cn": "本文探讨了开源社区中流传最广的十大阴谋论。作者强调，虽然他本人不将这些“点”连接起来，但他指出这些可疑的迹象确实存在。文章旨在揭示开源软件世界中可能存在的幕后故事和不为人知的模式，邀请读者以批判性思维审视这些引人深思的观点，探讨科技背后的复杂性与潜在权力结构。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html",
+    "score": 9,
+    "angle": "😱【细思极恐】你每天用的免费软件，背后竟藏着这些惊天大秘密？！💡揭秘开源世界十大阴谋论，看完怀疑人生！"
+  },
+  {
+    "title_en": "The AI Industry Is Lying To You",
+    "title_cn": "AI行业正在欺骗你",
+    "summary_cn": "本文旨在推广作者的付费高级通讯，邀请读者订阅以支持其独立报道和分析。订阅费用为每年70美元或每月7美元，读者将每周收到一份内容长度在5000至18000字之间的通讯。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+    "score": 9,
+    "angle": "AI行业正在欺骗你？普通人必看，拆穿巨头背后的『谎言』，擦亮眼睛少踩坑！"
+  },
+  {
+    "title_en": "OpenAI shuts down Sora video generation application, refocuses on coding and enterprise",
+    "title_cn": "OpenAI关停Sora视频生成应用，战略重心转向代码与企业",
+    "summary_cn": "OpenAI于3月24日宣布关停其AI视频生成应用Sora，上线仅六个月。此举标志着公司战略从“多线出击”转向聚焦代码和企业服务，以应对市场竞争和算力挑战。同时，与迪士尼的10亿美元投资及IP授权协议终止。",
+    "url": "https://www.36kr.com/p/2680213813970438",
+    "score": 9,
+    "angle": "Sora停用引热议！OpenAI为何'狠心'砍掉爆款产品？AI行业巨头也'迷茫'？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's daily token call volume for AI models exceeds 140 trillion, growing over 1000 times in two years",
+    "title_cn": "中国AI模型日均词元调用量突破140万亿，两年增长超千倍",
+    "summary_cn": "国家数据局局长刘烈宏在3月24日新闻发布会上透露，截至3月，中国AI模型日均词元（Token）调用量已超140万亿次，相比2024年初增长逾千倍，表明中国AI发展进入快速增长阶段。",
+    "url": "http://www.news.cn/tech/2026-03/25/c_1130283256.htm",
+    "score": 9,
+    "angle": "爆！中国AI日活量破140万亿！这是AI爆发前夜的信号吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Christopher Mims",
+    "title_cn": "引述克里斯托弗·米姆斯",
+    "summary_cn": "华尔街日报科技专栏作家克里斯托弗·米姆斯警示，未来人们回看如今让AI完全掌控个人电脑及生活的行为时，会觉得异常愚蠢。他将这种做法比作多年前名人盲目追捧NFT的潮流（如吉米·法伦展示其无聊猿），暗示届时选择将主导权完全交给AI的人，其举动将显得同样可笑和不智。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything",
+    "score": 8,
+    "angle": "就像当年追无聊猿的傻子！**"
+  },
+  {
+    "title_en": "WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’",
+    "title_cn": "OpenAI 计划推出桌面“超级应用”",
+    "summary_cn": "OpenAI正计划推出一款桌面“超级应用”，旨在将ChatGPT应用、Codex编程平台和浏览器整合一体，简化用户体验，并更专注于工程和商业客户。该项目将由应用程序负责人Fidji Simo负责。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1",
+    "score": 8,
+    "angle": "建议从“如何利用OpenAI桌面超级应用提升学习和工作效率”的角度切入，强调其一站式AI服务将如何简化用户体验，预测在日常办公、学习、编程中的具体应用场景，以及它能带来的效率提升，吸引追求高效率的职场人士和学生群体。"
+  },
+  {
+    "title_en": "OpenAI Is Closing Sora",
+    "title_cn": "OpenAI 正在关闭 Sora",
+    "summary_cn": "OpenAI 官方宣布旗下 Sora 应用即将关闭，并向所有用户表达感谢，承认此消息令人失望。官方承诺将尽快公布应用和API的关闭时间表，以及如何保存用户作品的详细信息。然而，文章评论指出，Sora的流行仅持续了一两周，其作品影响力微乎其微。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/soraofficialapp/status/2036546752535470382",
+    "score": 8,
+    "angle": "震惊！OpenAI的Sora应用突然关闭！😭 这到底意味着什么？AI视频工具是昙花一现还是迭代太快？普通人的AI焦虑是不是要来了？快来分享你的看法！#AI #Sora #OpenAI #科技大瓜 #未来科技 #AI视频"
+  },
+  {
+    "title_en": "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
+    "title_cn": "继谷歌Pixel手机之后，三星宣布Galaxy S26系列将支持隔空投送",
+    "summary_cn": "三星正式宣布，其Galaxy S26系列手机将支持“隔空投送”（AirDrop）功能，旨在通过Quick Share让用户在设备间更便捷地共享内容。该功能将从3月23日起率先在韩国推出，随后逐步扩展至欧洲、香港、日本、拉丁美洲、北美、东南亚及台湾等全球多个地区。初期仅限Galaxy S26系列，未来计划扩展到更多三星设备。",
+    "source": "daringfireball.net",
+    "url": "https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/",
+    "score": 8,
+    "angle": "**打破次元壁！三星Galaxy S26也能“隔空投送”了！📱✨ Android和iOS终于可以无缝互传文件？** 详细介绍三星S26如何通过Quick Share实现与AirDrop兼容，操作演示，对比传统传输方式的便捷性，分享跨系统互传文件的小技巧和使用场景，尤其是解决安卓和苹果用户之间分享照片视频的痛点。配上实际操作小视频和清晰截图。"
+  },
+  {
+    "title_en": "Choose Boring Technology and Innovative Practices",
+    "title_cn": "选择无聊技术与创新实践",
+    "summary_cn": "这篇文章引用了知名文章《选择无聊技术》的观点，深入探讨了使用创新技术面临的两大核心挑战。首先，新兴技术往往充满“未知之未知”，其潜在问题难以预料；相比之下，成熟稳定的“无聊”技术，其风险和解决方案都已广为人知。其次，那些一度光鲜亮丽的新技术，在热度消退后，仍会留下持久且沉重的维护负担。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/",
+    "score": 8,
+    "angle": "选择这些“无聊”但超好用的工具和方法，避开踩雷，告别维护烦恼！"
+  },
+  {
+    "title_en": "Worth AI completes $30 million Series A funding to enhance SMB financial services",
+    "title_cn": "Worth AI完成3000万美元A轮融资，赋能中小企业金融服务",
+    "summary_cn": "2026年3月，专注于AI驱动中小企业金融服务的Worth AI宣布完成3000万美元A轮融资，由Fulcrum Equity Partners领投。资金将用于扩大研发、加速市场拓展及增强合规能力，以升级全球中小企业信贷服务。",
+    "url": "https://www.donews.com/news/detail/5070215.html",
+    "score": 8,
+    "angle": "AI金融新贵Worth AI获3000万美元A轮融资！中小企业信贷要智能化升级啦！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Luode Medical strategically invests in AI medical startup Enmeida's multi-million angel round",
+    "title_cn": "鹿得医疗战略领投恩美谛千万级天使轮融资，加速AI医疗心肺音诊断产业化",
+    "summary_cn": "2026年3月24日，浙江大学湖州研究院孵化的AI医疗公司恩美谛完成数千万元天使轮融资，由鹿得医疗联合出资。本轮融资将重点支持远程心肺音AI初筛质控系统产业化落地，推动AI在心肺疾病早筛领域的应用。",
+    "url": "https://www.stcn.com/article/detail/1094396.html",
+    "score": 8,
+    "angle": "AI医疗再迎资本青睐！浙大系恩美谛获千万融资，未来听诊器都带AI了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chinese cloud providers increase AI compute prices by up to 34% due to surging demand",
+    "title_cn": "国内云厂商上调AI算力价格，最高涨幅达34%",
+    "summary_cn": "3月18日起，阿里云、百度智能云相继宣布上调AI算力及存储产品价格，最高涨幅达34%；腾讯云此前也已率先提价。这反映出全球AI需求爆发、供应链紧张导致的算力供需失衡。",
+    "url": "https://www.xinhuafinance.com/detail/2085350",
+    "score": 8,
+    "angle": "AI算力太'抢手'，价格飙升34%！云厂商集体涨价，你的AI成本要涨了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "JD.com open-sources JoyAI-LLM Flash large model and launches 'Lobster Troupe' AI agents",
+    "title_cn": "京东公布五项AI进展，开源大模型JoyAI-LLM Flash并推出“龙虾天团”智能体",
+    "summary_cn": "3月24日，京东公布AI研发应用进展，首次开源基础大模型JoyAI-LLM Flash的Instruct版本，并推出基于OpenClaw架构的“龙虾天团”智能体系列产品，旨在降低AI使用门槛和优化成本效率。",
+    "url": "http://www.chinanews.com.cn/cj/2026/03-25/10186985.shtml",
+    "score": 8,
+    "angle": "京东也'养龙虾'了？！开源AI大模型+智能体，普通人也能玩转AI了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "iOS 26.4",
+    "title_cn": "iOS 26.4",
+    "summary_cn": "MacRumors文章介绍了iOS 26.4的新变化。其中App Store经过重新设计，将应用和购买历史合并，并为应用更新设立了独立版块。这使得查看应用更新需要多一次点击。作者表示，虽然初期感到不便，但最终认为这种调整让应用更新的管理更加合理。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/guide/ios-26-4-features/",
+    "score": 7,
+    "angle": "iOS 26.4更新后，App Store大改版，更新应用竟要多点一下？！亲测体验从『烦』到『真香』！你觉得新设计更方便了吗？"
+  },
+  {
+    "title_en": "★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe",
+    "title_cn": "★ macOS 26 Tahoe 中那些菜单项图标该怎么办？",
+    "summary_cn": "文章表达了作者对macOS 26 Tahoe系统应用菜单栏上恼人图标的不满。作者曾寄希望于一个隐藏偏好设置能彻底隐藏这些图标，就像“地狱里的一壶冰水”般解渴。然而，实际效果却令人失望，该设置只能部分隐藏图标，就像“半杯温水”般无济于事，远未达到完全解决问题的效果。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe",
+    "score": 7,
+    "angle": "Mac用户怒了！MacOS未来版本菜单栏图标丑哭我，传说中的隐藏设置竟然没用？！"
+  },
+  {
+    "title_en": "Steve Ballmer, Microsoft executive and NBA owner",
+    "title_cn": "史蒂夫·鲍尔默，微软高管与NBA球队老板",
+    "summary_cn": "史蒂夫·鲍尔默（Steven Anthony Ballmer），生于1956年3月24日，曾于2000年至2014年担任微软公司首席执行官。卸任后，他成为了美国职业篮球联赛（NBA）洛杉矶快船队的老板。他以其在科技界的卓越贡献和对体育的热情而闻名，个人财富亦相当可观，是少数同时在科技和体育界拥有巨大影响力的人物之一。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss&utm_medium=rss&utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner",
+    "score": 7,
+    "angle": "微软前CEO史蒂夫·鲍尔默的硬核人生下半场！普通人如何实现财富和事业的跨界跳跃？（可探讨财富自由、职业转型、成功人士的人生选择等话题）"
+  },
+  {
+    "title_en": "US White House releases National AI Framework, urging Congress to enact unified federal laws",
+    "title_cn": "美国白宫发布国家AI框架，敦促国会制定统一法律政策",
+    "summary_cn": "白宫于3月20日（但持续在新闻中被讨论）公布人工智能国家立法框架，概述保护儿童、社区安全、知识产权等六项优先事项，并敦促国会制定统一的联邦政策以避免各州法律碎片化，确保美国AI领导地位。",
+    "url": "https://www.voachinese.com/a/us-white-house-releases-national-ai-framework-20260320/7989504.html",
+    "score": 7,
+    "angle": "美国AI监管要'统一'了？白宫框架出炉，对全球AI发展影响有多大？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenClaw AI agent suffers severe update accident, causing plugins to fail",
+    "title_cn": "开源AI智能体OpenClaw升级现严重事故，大量插件瘫痪",
+    "summary_cn": "3月24日，开源AI智能体OpenClaw在一次重大更新后，因激进的破坏性重构，导致大量用户反馈插件瘫痪、功能失效。这是OpenClaw诞生以来最严重的升级事故，凸显开源AI生态治理挑战。",
+    "url": "https://www.21jingji.com/article/20260325/homepage10005.html",
+    "score": 7,
+    "angle": "OpenClaw大更新'翻车'！AI智能体插件集体'罢工'，你的'龙虾'还安好吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Pluralistic: The cost of doing business (25 Mar 2026)",
+    "title_cn": "Pluralistic: 商业经营的代价 (2026年3月25日)",
+    "summary_cn": "这篇文章探讨了当今商业环境中的多重“代价”。核心观点是“市场定义”如何成为反垄断法的“拒绝服务攻击”，削弱其效力。此外，文章还通过一系列案例——如大型公司与模型爱好者、哈利波特粉丝、媒体的商标滥用等——揭示了权力不对等的问题。它强调了在版权、商标和商业纠纷中，普通人或小群体常常需要面对的挑战和代价。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/25/fact-intensive/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Auto mode for Claude Code",
+    "title_cn": "Claude Code 自动模式",
+    "summary_cn": "Claude Code 近期推出“自动模式”，旨在替代传统危险的跳过权限选项。该模式允许 Claude AI 代替用户自动进行权限决策，并内置安全机制，在代码运行前对操作进行监控和把控，显著提升了开发效率与安全性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Using FireWire on a Raspberry Pi",
+    "title_cn": "在树莓派上使用FireWire",
+    "summary_cn": "苹果在macOS 26 Tahoe中终止了对FireWire (IEEE 1394) 的支持。面对这一变化，作者开始寻找解决方案，以便继续使用如硬盘、DV摄像机和专业音视频设备等大量旧款FireWire设备。本文将深入探讨如何在树莓派上实现FireWire功能，为那些希望在现代平台上重新利用或保留经典硬件的发烧友们提供一个经济且可行的替代方案。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Code as a Tool of Process",
+    "title_cn": "一种过程的工具",
+    "summary_cn": "本文指出，编程与写作类似，是一个迭代精进的过程。正如写作需要多稿打磨，编程也通过反复构建和优化，实现持续的学习与提升。在这个过程中，编码者不断“磨砺”自己的技能和理解，将代码视为一种促进自我完善和知识深化的工具，而非仅仅是最终产物。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/code-as-process/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Package Managers Need to Cool Down",
+    "title_cn": "包管理器需要冷静一下",
+    "summary_cn": "本文受近期LiteLLM供应链攻击事件启发，重提了“依赖冷却期”（dependency cooldowns）的概念。作者提出，为了提高软件供应链的安全性，在安装新的依赖更新时，不应立即进行，而是等待几天，让它们在实际环境中运行一段时间，以便社区有时间发现并报告潜在的问题或恶意行为。这有助于减少像LiteLLM攻击这类安全风险。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
+    "title_cn": "凭据窃取器",
+    "summary_cn": "LiteLLM v1.82.8 发布到 PyPI 的软件包被发现存在恶意攻击。一个凭证窃取器被巧妙地隐藏在 `litellm_init.pth` 文件中，并以 base64 编码。这意味着用户只需安装该软件包，无需运行 `import litellm` 就能触发恶意代码，从而窃取敏感凭据。v1.82.7 版本也曾出现类似漏洞，但位于不同位置。此事件提醒开发者和用户注意供应链安全风险。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Windows 95 defenses against installers that overwrite a file with an older version",
+    "title_cn": "Windows 95 对安装程序覆盖旧版本文件的防御",
+    "summary_cn": "Windows 95 针对安装程序可能用旧版本文件覆盖新版本文件的问题，设计了防御机制。这种机制旨在防止系统文件被意外降级，从而维护系统的稳定性和兼容性。尽管这可能是一个非常早期且原始的恢复或保护方案，但它体现了微软在操作系统设计之初就考虑到了软件兼容性和系统完整性的重要性，是其早期系统恢复能力的一种体现。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "From Mendeleev to Fourier",
+    "title_cn": "从门捷列夫到傅里叶",
+    "summary_cn": "对于次数为n的实多项式P(x)，若在[-1,1]上|P(x)|≤1，则其导数|P'(x)|≤n²。随后指出，对于三角多项式，伯恩斯坦证明了这一上界会从n²降低到n。文章可能深入剖析了这些经典数学定理及其在不同函数类型上的应用和发展。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 32g -- Interventions: weight tying",
+    "title_cn": "权重共享",
+    "summary_cn": "这篇文章是“从头构建大型语言模型”系列教程的第32g部分，深入探讨了“权重共享”（weight tying）这一干预措施。作者引用了Sebastian Raschka的观点，即虽然权重共享能够有效减少模型参数数量，但在实践中反而会导致模型性能下降。因此，现代大型语言模型普遍不再采用这种技术。本文旨在从直观层面解释为何权重共享在LLM中效果不佳。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying",
+    "score": 2,
+    "angle": ""
+  }
+]
