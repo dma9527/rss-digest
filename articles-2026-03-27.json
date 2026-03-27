@@ -1,0 +1,263 @@
+[
+  {
+    "title_en": "NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’",
+    "title_cn": "‘梅拉尼娅·特朗普与机器人一同亮相，称更多孩子应由它们教育’",
+    "summary_cn": "《纽约时报》报道称，梅拉尼娅·特朗普近日与一个机器人共同亮相。在公开场合，她发表了惊人言论，建议未来应有更多孩子接受机器人的教育。此言一出，立即引发了热议，甚至有评论讽刺地联想到她本人独特的说话方式，暗示其可能也受到过“机器人”的影响。这则新闻触及了对未来教育模式和人工智能在儿童成长中角色的深刻探讨。",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share",
+    "score": 9,
+    "angle": "** 🚨梅拉尼娅惊人言论：未来孩子让机器人来教？你敢信吗？！"
+  },
+  {
+    "title_en": "How we get radicalized in America",
+    "title_cn": "我们如何在美国被“激进化”",
+    "summary_cn": "文章揭示了美国医疗保险的深层问题，指出保险公司被激励在投保人最脆弱时拒绝承保。其根本在于，每月支付的保费流入公司口袋，而一旦需赔付，资金便从其流出。这种固有的利益冲突，导致保险公司倾向于不覆盖高额医疗费用，严重损害消费者权益，令人对该系统感到极度不满。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
+    "score": 9,
+    "angle": "突出美国医保系统“激进化”普通人的本质，切入“留学/移民前必看”的实用警示，揭露保险公司利用利益冲突拒绝赔付的“潜规则”。"
+  },
+  {
+    "title_en": "Anthropic Reportedly Plans IPO as Early as October, Valued at $380 Billion",
+    "title_cn": "消息称Anthropic最早10月IPO，估值达3800亿美元",
+    "summary_cn": "据报道，人工智能公司Anthropic计划最早于今年10月进行首次公开募股，估值在最新一轮300亿美元融资后已达3800亿美元，有望成为今年全球第二大IPO。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGik_CVpuloEPVDnE9QL7JVB3wUUkf3mH2CQvR1ag_3Vo0O8AZGwg9FDKWy2Br3pXJbuuY4yaLuRzld-VBrwmw7-HkT8EbPSJNSrTntTzVwbHTVzIqLZnc6bdk-p_CPxdY_kfLfRu4HIUVQ7h8m",
+    "score": 9,
+    "angle": "AI巨头上市潮来了？Anthropic万亿市值冲刺IPO，普通人如何抓住AI红利？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Moonshot AI Reportedly Considers Hong Kong IPO, Valuation Reaches $18 Billion",
+    "title_cn": "月之暗面据悉考虑赴港IPO，估值或达180亿美元",
+    "summary_cn": "中国AI独角兽月之暗面（Kimi聊天机器人开发商）正考虑在香港进行首次公开募股，并寻求在新一轮融资中筹集高达10亿美元，估值或推升至约180亿美元。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXa40QR28mnEuhFZoITfhrsevZihooq9-k27MD53BEq8TjNO0WjC4FKQ2ThXpOt4iWhSY7cEJkKf7s9Mlq5Me_o6GtpNfU3lRSMZliGZlxhzWgDdWxS66ozfSU8F0KUFSPpT9vAam62D07ZCX5aDAVWX4",
+    "score": 9,
+    "angle": "Kimi要上市了？中国AI独角兽估值狂飙，港股AI概念股要爆！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Apple Charging Situation",
+    "title_cn": "苹果充电现状",
+    "summary_cn": "这篇文章围绕苹果设备的充电情况展开讨论，特别推荐了一篇来自Rands in Repose的深度信息指南。该指南被描述为既实用又富有启发性，旨在帮助用户全面了解苹果充电器的正确使用方法、潜在问题以及提升充电效率的技巧。对于希望更好地维护苹果设备电池健康，解决充电困惑的用户来说，这篇文章提供了一个宝贵的学习资源。",
+    "source": "daringfireball.net",
+    "url": "https://randsinrepose.com/guides/apple-charging-guide.html",
+    "score": 8,
+    "angle": "苹果充电的秘密你知道吗？⚡️ 搞懂这几点，iPhone电池寿命翻倍，告别慢充和不耐用！"
+  },
+  {
+    "title_en": "The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’",
+    "title_cn": "苹果能“精炼”谷歌大型Gemini模型",
+    "summary_cn": "科技媒体The Information报道，苹果与谷歌的AI合作协议深度远超预期。苹果不仅能对谷歌的Gemini AI进行微调，更获得了对其大型Gemini模型的完全访问权限，并可在自己的数据中心进行部署。这意味着苹果拥有极大的自由度，能根据自身需求“精炼”或简化谷歌的强大模型，从而开发出更小、更高效的定制化AI版本，以更好地集成到其产品中。",
+    "source": "daringfireball.net",
+    "url": "https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk",
+    "score": 8,
+    "angle": "“深度揭秘！苹果AI不再‘平庸’？它正用谷歌Gemini炼出‘专属’大脑！这意味着你的iPhone未来会多智能？AI内行人必看！”"
+  },
+  {
+    "title_en": "MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks",
+    "title_cn": "macOS 26.4 新增 MacBook ‘慢速充电器’指示器",
+    "summary_cn": "macOS Tahoe 26.4 系统更新新增了一项实用的‘慢速充电器’指示器功能。当MacBook的充电设备无法提供足够功率时，该指示器会以橙色文字显示在电池状态菜单中，并在电池设置的电量图表上方提示用户。这一新功能旨在帮助用户轻松识别并解决充电效率低下的问题，并配有信息按钮提供更多详情，提升用户体验。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/",
+    "score": 8,
+    "angle": "**MacBook充电慢终极解决方案！苹果新功能帮你揪出‘罪魁祸首’！**"
+  },
+  {
+    "title_en": "Jennifer Daniel on the New ‘Distorted Face’ Emoji",
+    "title_cn": "詹妮弗·丹尼尔谈论新的“扭曲的脸”表情符号",
+    "summary_cn": "詹妮弗·丹尼尔在其“有人说表情符号了吗？”博客中，探讨了表情符号如何捕捉并演变人们的情绪表达。她提到“融化脸”🫠象征着集体的屈服，“虚线脸”🫥代表着升华，是逃避对话的视觉表现。而最新的“扭曲的脸”表情符号（U+1FAEA）则定义了一种紧张时刻，它不再仅仅是感受某种情绪，而是你本身就化身为那种情绪。这个新表情符号反映了人们在数字交流中表达更深层次复杂情感的需求。",
+    "source": "daringfireball.net",
+    "url": "https://jenniferdaniel.substack.com/p/new-emoji-distorted-face",
+    "score": 8,
+    "angle": "😭2024新表情包来了！‘扭曲的脸’到底在表达什么？你是不是也这样？🫠🫥"
+  },
+  {
+    "title_en": "Sharing a Name",
+    "title_cn": "同名之困",
+    "summary_cn": "叙述者因银行卡迟迟未收到，与银行客服争论数日无果。最终，银行卡竟是由住在两街之隔的邻居亲自送来。信封上叙述者的地址被划掉并手写“不正确”。结合标题“同名之困”，这暗示银行卡可能因叙述者与他人同名而发生投递错误，导致了这场意想不到的乌龙事件和一系列沟通不便。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/sharing-a-name?src=feed",
+    "score": 8,
+    "angle": "我的银行卡迟迟不到，邻居竟亲自送上门！同名原来还会惹出这种乌龙？😭银行、快递你们都给我听好了！#银行卡 #同名 #奇葩经历 #生活不易 #吐槽 #避坑指南"
+  },
+  {
+    "title_en": "Anthropic Wins Temporary Injunction Against US Department of Defense Ban on AI Tools",
+    "title_cn": "Anthropic诉美国防部首胜！法院叫停禁用AI工具命令",
+    "summary_cn": "AI初创公司Anthropic在与美国国防部的法律对峙中获胜，美国联邦法院批准其临时禁令申请，阻止禁用其AI技术的命令生效，法官称此举是“违宪报复”。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8jRXQHafIEl7GYHqXk9m5vK8-9XItBS8rchFDrrK1ynG3SlHMExV2AMd7qCz3ha9r5wIIJgEAoKnWDenKndjGh5Kg7d7PqJQShr0BJUlBDzgd37DGw470HIH_tCzwon9vtPIFi-1dIL0doS88dEHDNwb8ji57hPmbuFnQetw5p-vhQx-vdmMQkhbcPvkAbPurTCjosKmMaJmgeJ2RV_0yATmVPoz0",
+    "score": 8,
+    "angle": "AI公司硬刚美国防部！这波法庭大战，到底谁赢了？AI政策走向何方？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Continues Layoffs While Increasing AI Investments, Hundreds Affected",
+    "title_cn": "Meta加大AI投入同时仍推进新一轮裁员，数百人受影响",
+    "summary_cn": "Meta公司正在进行新一轮裁员，涉及数百名员工，波及Facebook、全球运营、招聘、销售及元宇宙部门，同时公司持续加大对AI领域的投资。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT_zhZ25Z9l74ByPGbXWMOw-w0AOsNj9C22uyuHLR-eJnkB8sUC6ua5ziGBKZAPMi6JjYG8-9jMSSbw2QO2dhSgQXZEFtc-xyAoCYgUajuMEmhUShebNBUQUD6jk27VxthauYJIQDyhRXDOfV020TIoq0ljbwt7SEJc45rEQvf",
+    "score": 8,
+    "angle": "一边狂砸AI一边裁员！Meta这波操作你看懂了吗？职场人AI时代如何自保？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It",
+    "title_cn": "谷歌吹嘘安卓网页浏览器基准测试高分，但设备不明；轻信记者纷纷上当。",
+    "summary_cn": "谷歌通过 Chromium 博客宣称，安卓平台在移动网页浏览性能上创下新纪录，已成为最快的移动平台，并归因于其在最新旗舰设备上的软硬件深度整合。然而，原文指出谷歌并未透露进行基准测试的具体设备信息，并批评一些记者轻信并盲目报道了这一未经充分验证的“喜讯”。",
+    "source": "daringfireball.net",
+    "url": "https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html",
+    "score": 7,
+    "angle": "手机跑分大揭秘！谷歌“炫耀”安卓浏览器速度，却不提设备？别被大厂营销忽悠了，教你如何理性看待手机性能数据，做个不踩坑的明白人！"
+  },
+  {
+    "title_en": "Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’",
+    "title_cn": "“你对这个世界来说太美太蠢了”",
+    "summary_cn": "知名Sora用户凯蒂·诺托普洛斯发文告别Sora，她观察到朋友们和她本人对这款AI视频生成工具的新鲜感逐渐消退。文章指出，最初的兴趣过后，大家最终都对Sora感到厌倦，她自己也鲜少再打开应用。这篇告别文用“你对这个世界来说太美太蠢了”来形容Sora，既肯定了其惊艳之处，也暗示了其在实际应用或用户留存方面的不足，最终失去了吸引力。",
+    "source": "daringfireball.net",
+    "url": "https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3",
+    "score": 7,
+    "angle": "【AI拔草】Sora终究只是昙花一现？那些“太美太蠢”的科技新宠，你也被它们“辜负”过吗？聊聊AI工具的新鲜感周期！"
+  },
+  {
+    "title_en": "Members Only: On Cathedral thinking",
+    "title_cn": "论大教堂思维",
+    "summary_cn": "鉴于未提供文章内容，以下摘要仅根据标题推测。“大教堂思维”是一种超越个人寿命限制、着眼于长远和宏伟目标的思考模式。它鼓励人们像建造大教堂一样，投入数十年甚至数个世纪的耐心与努力，进行跨代协作，为未来奠定坚实基础，创造具有不朽价值和深远影响的项目。本文可能深入探讨如何培养这种精神，并将其应用于个人成长、事业规划或社会建设等多个领域。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/members-only-on-cathedral-thinking/",
+    "score": 7,
+    "angle": "💡思维升级 | 你在短期内耗，高手的秘诀竟是‘大教堂思维’！✨ 告别内卷，学会像建造大教堂一样规划你的人生大项目，实现真正有复利、有价值的长期目标！这不只是成功学，更是让你在浮躁世界里找到方向的指南针！🧭 #大教堂思维 #长期主义 #人生规划 #思维模式 #个人成长 #自我提升"
+  },
+  {
+    "title_en": "xAI Co-founder Departs, Musk Reportedly Reassigns Tesla Employees to Support xAI",
+    "title_cn": "xAI联合创始人离职，马斯克重组架构调特斯拉员工支援",
+    "summary_cn": "据报道，xAI联合创始人Manuel Kroiss即将离职，创始团队仅剩一人。马斯克正重组xAI架构，并调动特斯拉员工支援，显示公司内部正经历重大调整。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJAD1MwYhC7oJRfXKKZ8A8rDZ4_cBUVbaLd19Hm_GVSpVAIVYJX2lvCcapIVVs6r1G-OXRrPzprtXLt_wx7NzOZA3GRHHVO897u10Sq-6lb7xiYimAe2gh7m6ysBo0JkStbQPRm-8gRovBILez53DMNf51wyDgdmhn0sw==",
+    "score": 7,
+    "angle": "马斯克的AI梦还能实现吗？xAI团队大换血，特斯拉员工来救场！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Industrial AI Agent Provider SmartMore Seeks Hong Kong IPO",
+    "title_cn": "工业AI智能体提供商思谋科技（SmartMore）寻求港股IPO",
+    "summary_cn": "据港交所文件，工业AI智能体提供商思谋科技（SmartMore）正在寻求香港IPO，公司已获得多轮融资，计划将募集资金用于技术研发和商业拓展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxXOr0Ddpbo7XxAJJsRqI-xuNhIdBReNOi0uQP-JQRp6ZgUfPMeEl-n82rEBHNulRijuilJ_uI6Xd3RmFjWlBKzM7zZ4dt8KH8q_hh_XKnhCST3--I93JWpAJ2W0I43mJITKJvHG1z4i3W0isepQ6t1BgCZQ==",
+    "score": 7,
+    "angle": "AI赛道新玩家！工业AI智能体公司思谋科技要上市，下一个AI独角兽？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Discontinues the Mac Pro With No Plans to Bring It Back",
+    "title_cn": "苹果停产 Mac Pro，且无计划重新推出",
+    "summary_cn": "9to5Mac独家消息称，苹果已证实停产Mac Pro，标志着一个时代的结束。目前Mac Pro已从苹果官网下架，其购买页面已重定向至Mac产品主页，所有相关信息均被移除。苹果无计划重新推出该产品，这意味着这款专业级电脑将彻底告别市场。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+    "title_cn": "我们一天内用AI重写JSONata，每年节省50万美元",
+    "summary_cn": "本文介绍Reco.ai团队如何利用AI在一天内重写了JSONata，并成功将其定制化地用Go语言实现，预计每年可节省50万美元。JSONata是一种类似于jq的JSON表达式语言，常与Node-RED平台配合使用。尽管文章承认标题略有夸张，但这是一个典型的“vibe porting”案例，展示了如何通过新技术的重构来优化现有工具和降低成本。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "My minute-by-minute response to the LiteLLM malware attack",
+    "title_cn": "我对 LiteLLM 恶意软件攻击的实时应对",
+    "summary_cn": "Callum McMahon 在发现 LiteLLM 恶意软件攻击后，立即向 PyPI 报告，并详细分享了他利用 AI 助手 Claude 应对此次事件的分钟级记录。在这篇文章中，他展示了 Claude 如何协助他确认恶意代码的漏洞，帮助他决定后续处理步骤，甚至主动提供了 PyPI 的安全联系方式。这揭示了 AI 在网络安全应急响应中，尤其是在识别威胁和指导行动方面，所发挥的关键作用。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed",
+    "title_cn": "迪士尼放弃对OpenAI原定10亿美元投资，因OpenAI退出视频生成业务",
+    "summary_cn": "迪士尼已终止与OpenAI的合作，并放弃原定对其10亿美元的投资计划。迪士尼方面表示，尊重OpenAI退出视频生成业务并调整优先事项的决定。尽管合作结束，迪士尼仍对双方之前的建设性协作表示赞赏。这反映了在快速发展的AI领域，大公司之间的战略调整和合作变动是常态。",
+    "source": "daringfireball.net",
+    "url": "https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "The Age of the Amplifier",
+    "title_cn": "放大器时代",
+    "summary_cn": "本文开宗明义地指出，美国电话电报公司（AT&T）旗下的贝尔实验室在20世纪的大部分时间里，一直是美国最顶尖的工业研究机构。这不仅意味着它在当时的技术创新领域占据主导地位，也暗示了其对美国乃至全球科技进步的深远影响。文章多次强调这一点，凸显了贝尔实验室在奠定现代科技基础方面无可替代的历史地位。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quantization from the ground up",
+    "title_cn": "从头说起",
+    "summary_cn": "Sam Rose 最新发布了一篇精彩的互动式科普文章，深入浅出地解释了大型语言模型（LLM）的量化技术。这篇文章延续了他一贯高质量的创作风格，以信息量大、交互性强著称。Sam Rose 甚至认为这是他“有史以来最好的文章”，因为它不仅详细解释了量化原理，还包含了出色的视觉解释，帮助读者更好地理解这一复杂概念。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4",
+    "title_cn": "在 iOS 26.4 中，你可以直接跳转到 App Store 应用的更新界面",
+    "summary_cn": "用户只需在主屏幕上长按 App Store 应用图标，通过上下文菜单即可直接跳转到“更新”屏幕。此外，也可以创建快捷指令实现同样功能。这个小技巧能有效提升用户在未来版本中管理应用更新的便捷性。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/linked/2026/03/24/ios-264",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Considering mmap() verus plain reads for my recent code",
+    "title_cn": "mmap()与普通读取的权衡",
+    "summary_cn": "文章探讨了作者先前开发的IP到ASN暴力映射系统。该系统将IPv4 /24子网数据存储在一个大型稀疏文件中，并按固定位置访问。本文重点分析了在读取这些数据时，使用mmap()与传统文件读取方式的性能差异和技术考量。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Computing sine and cosine of complex arguments with only real functions",
+    "title_cn": "仅使用实函数计算复数参数的正弦和余弦",
+    "summary_cn": "这篇文章探讨了如何在仅支持实数输入的计算器或编程库（例如没有安装 NumPy 的 Python `math` 库）中，计算复数参数（如 sin(3 + 4i)）的正弦和余弦。当用户受限于只能处理实数的函数时，文章旨在提供一种实用的方法或解决方案，将复杂的复数运算分解为基础的实数运算，帮助程序员和数学爱好者克服在特定技术环境下的计算难题。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/27/complex-argument/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "How much precision can you squeeze out of a table?",
+    "title_cn": "你能从表格中榨取多少精度？",
+    "summary_cn": "费曼曾说深入探究万物皆有趣。查阅表格数据初看枯燥，但若深入探究如何在已知值之间填补空缺，以及能从中榨取出多少精度，便会发现其引人入胜之处。本文将探讨如何精准地从表格中获取介于已知数据点之间的函数值。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "AMD K5 CPU: Not quite what AMD hoped",
+    "title_cn": "未达AMD预期",
+    "summary_cn": "AMD K5是AMD首款完全自主研发的x86处理器，于1996年3月27日发布。这款处理器主要与英特尔的奔腾微处理器竞争。K5的设计雄心勃勃，其内部架构更接近于奔腾Pro而非普通的奔腾。(57字)",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/amd-k5-cpu-not-quite-what-amd-hoped/?utm_source=rss&utm_medium=rss&utm_campaign=amd-k5-cpu-not-quite-what-amd-hoped",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?",
+    "title_cn": "当对话框是MessageBox时，为何WM_ENTERIDLE不起作用？",
+    "summary_cn": "为什么当对话框是MessageBox时，WM_ENTERIDLE消息无法正常工作？作者给出的直接且唯一的答案是：“因为它选择了退出。”文章本身并未提供更深入的技术原理或设计细节，仅仅给出了这一结论。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Lebesgue constants",
+    "title_cn": "勒贝格常数",
+    "summary_cn": "本文介绍了“勒贝格常数”这一概念。作者指出，在之前的文章中曾提及但未命名。勒贝格常数在确定n阶插值误差的上限方面扮演着关键角色。插值误差的边界形式通常涉及插值点之间的间距h，以及表格数据中的误差δ。文章进一步解释说，这个误差界限中的常数c即是勒贝格常数，其具体值取决于被插值的函数f。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/",
+    "score": 1,
+    "angle": ""
+  }
+]
