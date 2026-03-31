@@ -1,0 +1,290 @@
+[
+  {
+    "title_en": "Anthropic's Claude Model Powers US Military's 'Intelligent Warfare' in Iran, Raising Ethical Concerns and Sparking Tech Giant Competition",
+    "title_cn": "Anthropic Claude 模型助力美军在伊朗“智能化作战”，引发伦理担忧并激化科技巨头竞争",
+    "summary_cn": "2026年3月初，美军联合以色列军队在24小时内对伊朗军事设施发动“智能化作战”，锁定并打击了超1000个目标，效率远超传统认知。此次行动核心依赖Palantir构建的Maven系统，并深度嵌入Anthropic的Claude模型，大幅提升情报处理与目标分配速度。然而，白宫与Anthropic就AI技术“控制权”爆发分歧，政府虽打压但因高度依赖而预留过渡期，为OpenAI、xAI等巨头提供了市场机会，但也引发了对AI伦理和生成式AI“幻觉”风险的警惕。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsRjHGVR-Dt6WunilMd_dpmNdTWIfOPOo5M4bzwS2HsVJBTWAdbyxkJZUJJBeoRNJzctcCschuFgQYZBYLUSEMqEJdVv5IJmo7gFAVlThIkFnPLy3SPjWSUpvvZq_e0Jwm38krVJsWAHHfcpbos9MG_LB4KKVkc1DeWuL4LtmYQ9BH",
+    "score": 9,
+    "angle": "AI军事应用新突破！24小时打击千个目标，效率惊人，但科技巨头与政府的伦理博弈才刚刚开始！#AI战争 #Anthropic #军事科技",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic Secures $30 Billion Funding, Valued at $380 Billion, Driven by Claude Code's Strong Performance",
+    "title_cn": "Anthropic 获得300亿美元融资，估值达3800亿美元，Claude Code表现强劲",
+    "summary_cn": "Anthropic公司完成300亿美元G轮融资，投后估值飙升至3800亿美元，成为全球估值最高的AI公司之一。此次融资主要得益于其模型Claude Code的强劲表现，年化收入已达25亿美元，周活跃用户半年翻倍。新版Claude Code还新增多仓库会话与Git可视化功能，进一步强化了工程协同体验。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8dRbxWclQ6RWIgHFatO8DS2c6NUZm5sLGvkdw68n5j5lFB6ctl0oiFP6eAIF-uC_6bRV-XK7yxOPUtUgHta8kiqnsql1oqRW1IYloFrXtBvQ6ufxqrc8ZbhVJgPmpFNgHC3HtsA==",
+    "score": 9,
+    "angle": "AI界再出巨头！Anthropic狂揽300亿美元，估值直冲3800亿！Claude Code成超级印钞机，打工人快来围观！#AI融资 #Anthropic #独角兽",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "‘The Brand Age’",
+    "title_cn": "品牌时代",
+    "summary_cn": "Paul Graham担忧一个仅由品牌定义的“怪异、糟糕”世界，并以机械表行业为例。然而，作者对此持不同意见，认为当前的机械表市场前所未有地充满活力和乐趣。他指出，真正的亮点并非来自传统高端瑞士奢侈品牌，而是像Baltic这类独立品牌，它们正在为市场注入新鲜的血液和独特的魅力。",
+    "source": "daringfireball.net",
+    "url": "https://paulgraham.com/brandage.html",
+    "score": 8,
+    "angle": "别只盯着大牌了！机械表圈的隐藏宝藏，独立品牌才是真玩家的选择！"
+  },
+  {
+    "title_en": "Pluralistic: Market participation is exhausting (30 Mar 2026)",
+    "title_cn": "参与市场令人筋疲力尽 (2026年3月30日)",
+    "summary_cn": "这篇文章集合了多条链接，核心观点是“市场参与令人筋疲力尽”，反映了人们在市场博弈中不愿成为“冤大头”的心态。内容涵盖了从数字版权管理（DRM）争议、绿色投资的困境、大型科技公司的政治立场，到微软聊天机器人失控、高昂的Wi-Fi费用以及对“千禧一代”概念的质疑。文章还触及了医院勒索软件、新闻合作社、AI“艺术”质量等广泛议题，整体呈现出对当下社会、科技和市场现象的批判性观察与思考。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/30/players-of-games/",
+    "score": 8,
+    "angle": "“月薪3千，竟要花838刀买WiFi？！这些市场大坑你踩过几个？”或“打工人自救！在消费主义陷阱里，如何避免当‘大冤种’？”"
+  },
+  {
+    "title_en": "The World's First Bullshit",
+    "title_cn": "世界首创的胡扯",
+    "summary_cn": "作者早上打开Twitter，发现三家初创公司都在宣称自家产品是“世界首个”，包括AI首席营销官、自主AI营销人员及“有品味”的设计代理。这些夸大的“世界首创”说法，尤其是“有品味”的描述，让作者感到极度不屑和无奈，甚至气到想合上电脑。文章讽刺了当前科技行业中泛滥的“世界首创”营销噱头，质疑其真实价值和创新程度。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/the-worlds-first-bullshit/",
+    "score": 8,
+    "angle": "别再被「世界首个」忽悠了！揭秘AI营销的智商税套路，普通人如何不当韭菜？"
+  },
+  {
+    "title_en": "Clip Show",
+    "title_cn": "片段秀",
+    "summary_cn": "本博客迎来了由人工智能GPT-5.4撰写的首篇客座文章。这标志着博主首次邀请AI作为“共同朋友”参与内容创作，开启了博客合作的新篇章，预示着未来可能带来更多关于AI在内容领域应用的探讨和分享。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html",
+    "score": 8,
+    "angle": "突出“人工智能GPT-5.4”作为客座作者的新奇和前沿性，可以分享与AI合作的心得、其展现出的能力，并探讨AI在内容创作领域的潜力与挑战。建议标题可以采用“我把博客交给AI写了？！GPT-5.4首秀体验！”或“震惊！我的第一篇客座文章竟然是AI写的！”。"
+  },
+  {
+    "title_en": "Closed Source AI = Neofeudalism",
+    "title_cn": "闭源AI = 新封建主义",
+    "summary_cn": "这篇文章的作者反思了之前发布的AI生成内容（AI slop）的不足。作者强调，即使自己觉得AI内容看起来不错，他人也能轻易辨别出其低质量的本质。因此，作者决定重写这篇帖子，以人工撰写的方式呈现相同的核心观点，但力求摆脱AI生成内容常见的空洞和劣质感，确保内容的真实性和可读性。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+    "score": 8,
+    "angle": "建议从普通用户关心的个人数据隐私、未来财富分配和数字主权等角度切入。例如，可以发布标题为“警惕！你用的免费AI，可能正在把你变成‘数字农奴’？”的文章，通过具象化的比喻，探讨闭源AI对个人自由和经济地位的潜在威胁。内容可引导用户思考数据所有权、选择开源工具的重要性，以及如何在AI时代掌握主动权，配以可视化图表或生活化案例，引发共鸣。"
+  },
+  {
+    "title_en": "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
+    "title_cn": "通行密钥、k-匿名搜索、大幅速度提升及批量域名验证API",
+    "summary_cn": "HIBP（Have I Been Pwned）这一最初的业余项目，现已发展成为每日服务数十万访问者、处理数千万API查询和数亿次密码搜索的庞大服务。本次特大更新引入了Passkeys（通行密钥）支持、k-匿名搜索功能、大幅提升了系统速度，并新增了批量域名验证API。这些改进旨在进一步增强用户数据安全和查询效率，帮助用户更便捷、安全地检查个人信息是否被泄露。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/",
+    "score": 8,
+    "angle": "【你的数据安全吗？HIBP重磅更新，教你一键查泄露，告别密码危机！】"
+  },
+  {
+    "title_en": "Meta Plans Large-Scale Layoffs, Citing AI's Impact on Workflows and Rising Investment Costs",
+    "title_cn": "Meta 计划大规模裁员，归因于AI对工作模式的影响及高昂的投资成本",
+    "summary_cn": "脸书母公司Meta首席执行官扎克伯格预言2026年是AI显著改变工作方式的一年。Meta已累计裁减数百人，并计划裁员20%或更多，涉及约1.58万名员工，以抵消其在AI领域高达数千亿美元的惊人投资。一些分析认为，将裁员归咎于AI可能也是一种公关策略，以塑造企业创新者形象，同时缓解高昂AI投入带来的财务压力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3pnfiaSQ0_5wR8L9Kt76lB6nnOfkVIZh0RjPUbrAS02Xylo_hiHtbTkdY1eWYfJZEXY_dJwH9CJhTWhNws1k5pTblPxBUaglKd7eB8lfDuN7QYEJEMdKTVzOd5Tn8MXaHxdFL",
+    "score": 8,
+    "angle": "硅谷裁员潮又来了！Meta甩锅AI，背后竟是千亿投资压力？是效率革命还是公关策略？#Meta裁员 #AI影响就业 #科技巨头",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "France's Mistral AI Secures $830 Million Debt Financing to Acquire Nvidia Chips and Build Large Data Centers",
+    "title_cn": "法国Mistral AI 获得8.3亿美元债务融资，用于采购英伟达芯片并建设大型数据中心",
+    "summary_cn": "欧洲领先的法国人工智能初创公司Mistral宣布获得8.3亿美元的新债务融资。这笔资金将主要用于采购13800块英伟达芯片，以在巴黎附近建设一个大型数据中心。此次融资标志着投资者对欧洲AI公司信心日益增强，也凸显了欧洲在人工智能基础设施建设方面追赶美国和中国的决心。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqxhkMTy7wTyRrEGMyzXPp-4kQt0RnDn9CFDh-NahV3UXUwriSrvvwDzw1Fv5-GHeJNHDSKZ2p_MRiaxNW3zqRmYoGLRzhjxgWTNqo6mUozCpmK9EzG_M1--rJOOyMujw6fTpOgLAuxrvxpybXTotCkfLy1x6m7p6W0bEsKQeovALs2uxP",
+    "score": 8,
+    "angle": "欧洲AI崛起！法国Mistral豪掷8.3亿美元买英伟达芯片，誓要挑战美中AI霸主地位！#欧洲AI #MistralAI #芯片竞赛",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chinese Tech Companies Release New AI Models, Driving Innovation and Application in Various Sectors",
+    "title_cn": "中国多家科技公司发布新款AI模型，推动各领域创新与应用",
+    "summary_cn": "近期，百度、阿里巴巴、月之暗面（Kimi）及DeepSeek等中国科技公司相继推出新款AI模型。月之暗面开源了最新的Kimi K2.5模型，具备原生多模态架构设计。阿里千问发布旗舰推理模型Qwen3-Max-Thinking，已上线PC和网页端。百度发布并上线原生全模态大模型文心5.0正式版。这些进展显示中国大模型正进入全球第一梯队，成为引领生产力发展的智能底座。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyEuQUNgxUygVvMH_MzB6Cn8DIi0usx6g-ggxNsMnKf-h_o14x2BHyN87Nx2hYeGVmgmX1yjlcDb1Fm7s80H-nqT4wc0ljJwbPT5vSHKVwyNNNxaXFCyrw5oiw9IaoDTGwpZrF71S-Ljj6_bBjhCUtIjT9EQ==",
+    "score": 8,
+    "angle": "中国AI大爆发！百度、阿里、Kimi轮番放大招，新模型层出不穷，科技实力不容小觑！#中国AI #大模型 #技术发布",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Ant Group's AI Health App AQ Tops Apple App Store, Offering 24/7 AI Doctor Services and Integration with Wearables",
+    "title_cn": "蚂蚁集团旗下AI健康应用AQ登顶苹果应用榜，提供24小时AI医生服务并整合可穿戴设备",
+    "summary_cn": "蚂蚁集团旗下AI健康应用AQ推出iOS版不到24小时，火速攀升至苹果应用商店医疗榜榜首。AQ通过自研医疗大模型提供寻医、问诊、读报告、测健康等上百项AI服务，并与真人医生及公立医院连接。其“AI诊室”和“AI医生分身”功能可模仿真人医生提供个性化健康建议，并支持与iPhone、Apple Watch连接管理健康数据，是国内首批通过国家信通院医疗大模型双领域可信评估的应用。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3LCGcYJWkMqYXKfomhvSAhn5EZAw3JvLeB_37B9to4W1abPUT9TUss66gxJ1_l70kbTZG3jfnjBINSXCpnK-JXX0vKDNR_MqAqIAQ2xBcd7iMsIrkuxiRrfg=",
+    "score": 8,
+    "angle": "你的24小时AI家庭医生来了！蚂蚁AQ霸榜苹果App Store，健康管理进入智能时代！#AI医疗 #智能健康 #蚂蚁AQ",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Individual Engineer Uses AI to Replicate Apple's Paper, Running Large Language Models on Limited Memory",
+    "title_cn": "24小时90次实验，全程AI写代码，工程师独自复现苹果三年前论文成果",
+    "summary_cn": "CVS Health的人工智能平台副总裁丹·伍兹，在24小时内完成了90次实验，并全程由Claude Code辅助写代码，成功在一台仅有48GB内存的MacBook Pro上离线运行了3970亿参数的Qwen3.5-397B大模型，运行速度达到约5.7 tokens/秒。这复现了苹果三年前关于“有限内存高效运行LLM”的论文成果，证明了AI在软件工程和复杂优化任务上的强大能力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZU2YjCeHEeToCScTZ1U5OqxpPv8E2OA5IlJS9_BmsHXjX4g6Q-nMEjpXkA1hSlYRh-ZSc55GoUs_092kllYt2-GOZUgVX2ruZmSYYi7ceg4si-DaLdZ9MSR8HUgWBmIJGoR66ndDER5jZdz3-Ag==",
+    "score": 8,
+    "angle": "神操作！24小时AI写代码，MacBook Pro也能跑3970亿参数大模型？网友：我的电脑又活了！#AI编程 #大模型优化 #技术突破",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+    "title_cn": "一个可在你电脑上运行的（弱版）维多利亚时代伦理训练模型",
+    "summary_cn": "Trip Venturella 发布了名为“查特伯克斯先生”的语言模型。该模型完全基于英国图书馆内28,000多份1837年至1899年间出版的维多利亚时代英国无版权文本从零开始训练。这个独特的AI模型旨在反映维多利亚时代的语言风格和伦理观念，且用户可以在自己的电脑上运行，提供了一个新颖的跨时代对话体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+    "score": 7,
+    "angle": "可以从“AI也能玩复古？在你的电脑上召唤一个维多利亚时代的‘老学究’！”切入，强调其独特的训练数据（纯维多利亚时代文本），可以在个人电脑上运行的特性，以及它可能带来的趣味性（比如问它对现代事物的看法，或者请它用古典风格写诗），吸引对历史文化、AI技术有兴趣的科技或学习类博主。还可以突出其“伦理训练”的特点。"
+  },
+  {
+    "title_en": "Making human languages irrelevant",
+    "title_cn": "让人类语言变得多余",
+    "summary_cn": "文章指出，若全球大规模人类交流持续集中于YouTube等大型社交媒体平台，人类语言在这些空间中可能逐渐变得无关紧要。作者举例称，即使搜索结果显示本地语言（如芬兰语），实际内容却往往并非该语言，暗示平台正在超越语言界限，可能使特定语言在网络空间中的重要性下降。",
+    "source": "rakhim.exotext.com",
+    "url": "https://rakhim.exotext.com/making-human-languages-irrelevant",
+    "score": 7,
+    "angle": "**标题党（Clickbait Title）:** 😱 你的母语在网上正变得「不重要」？社媒背后的语言真相！"
+  },
+  {
+    "title_en": "The Webs Digital Locks have Never had a Stronger Opponent",
+    "title_cn": "网络数字锁从未遇到如此强大的对手",
+    "summary_cn": "文章指出，当前我们正处于逆向工程的“文艺复兴”时代。随着大型语言模型（LLM）的迅速发展和应用，网络安全领域的防御者们将面临前所未有的巨大压力，长期处于被动劣势。除非能尽快找到有效的方法来应对LLM带来的挑战，否则数字世界的“锁”将难以抵挡其强大的攻势。",
+    "source": "blog.pixelmelt.dev",
+    "url": "https://blog.pixelmelt.dev/the-webs-digital-locks/",
+    "score": 7,
+    "angle": "【硬核揭秘】AI时代你的数据还安全吗？ChatGPT等LLM已成网络数字锁最强对手！普通人必知未来网络安全趋势"
+  },
+  {
+    "title_en": "Chinese Regulations Aim for Full AI-Powered Smart Bidding by End of 2026, Accelerating Automation in Government Procurement",
+    "title_cn": "中国八部门发文：2026年底实现AI智能评标全覆盖，加速政务采购自动化",
+    "summary_cn": "中国八部门联合印发文件，要求加快AI在招标投标领域的应用，明确2026年底前实现智能评标、自动清标等场景全覆盖。此举将极大推动政务与企业采购流程自动化，为垂直领域AI解决方案创造明确政策窗口。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8dRbxWclQ6RWIgHFatO8DS2c6NUZm5sLGvkdw68n5j5lFB6ctl0oiFP6eAIF-uC_6bRV-XK7yxOPUtUgHta8kiqnsql1oqRW1IYloFrXtBvQ6ufxqrc8ZbhVJgPmpFNgHC3HtsA==",
+    "score": 7,
+    "angle": "AI要抢评标员的饭碗了？中国八部门联手，2026年底实现AI智能评标全覆盖，政府工作效率要飞升！#AI政策 #智能政务 #行业变革",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Financial AI Agent Company Xuntu Technology Raises Nearly 200 Million RMB in Series A Funding",
+    "title_cn": "金融AI Agent 讯兔科技再获近2亿A轮融资，启明红杉高瓴押注",
+    "summary_cn": "金融AI领跑者讯兔科技（Alpha派）宣布完成近2亿元A轮融资，由启明创投、红杉中国、高瓴创投共同领投。这是继去年10月完成超亿元Pre-A融资后，讯兔科技在短短5个月内再次获得顶级机构加持。公司聚焦投研核心业务，旗下产品Alpha派已服务超8万名投研人员，覆盖逾6000家机构，实现了机构投研效率的跨越式提升。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWRKvs3WlDJkc9rXL90FCxB33idcsbWnlvUiOqnN0iW3VAuG9ktXLSQygER-ujcj52F4zcM211zJ6d0UjJ9wt0dMqjHoDMfBWynYIOD00DbWz1EbzcqLGHIzLB6bZ6xz-rKi1DrkptrUTURIxu4m8=",
+    "score": 7,
+    "angle": "AI研究员也要“打工”了？金融AI新星讯兔科技再融资近2亿，顶级机构纷纷押注，你的投资顾问要变AI了！#AI金融 #Agent #融资动态",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "White House AI Framework Indicates Federal AI Regulations Still Far Off, States Continue Independent Efforts",
+    "title_cn": "白宫人工智能框架显示联邦AI法规仍遥遥无期，各州持续独立监管",
+    "summary_cn": "白宫于3月20日发布的国家人工智能政策框架显示，一项旨在推翻美国各州AI监管法规的联邦法律今年不太可能通过。这份高层级文件缺乏具体细节，难以获得足够两党支持。与此同时，特朗普曾签署行政令，为AI制定联邦政府监管“单一规则”，限制各州监管权力，但各州仍在独立推进相关法规，如加州要求科技公司披露新AI模型的安全测试情况。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs_Gbj4F-cVfe4p3DXkzig91WDomWvPtiTs-YGYr_LD9Y-BCWmzxhmHdAas-cYlCEUeNWhLTz2c0UaoZL5sVe5XcJRUQIEGpD4jaQmEHrCENE7P5T-ZwZvQOTyp3npAwpV-FysyLvNfwfNPQhW",
+    "score": 7,
+    "angle": "美国AI监管迷雾重重！白宫框架难产，各州各自为政，AI伦理和安全谁来管？#AI政策 #美国监管 #科技法律",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Macs of Unusual Size",
+    "title_cn": "尺寸不寻常的Mac电脑",
+    "summary_cn": "你可能想不到，提到“Mac”，一个“巨无霸”（Big Mac，这里巧妙双关）的尺寸竟然是“小Mac”的22倍。这个巧妙的对比，探讨了Mac电脑之间“不寻常的尺寸”差异。",
+    "source": "daringfireball.net",
+    "url": "https://scottknaster.substack.com/p/macs-of-unusual-size",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Here in 2026, we're retaining old systems instead of discarding them",
+    "title_cn": "2026年，我们正在保留旧系统而非淘汰它们",
+    "summary_cn": "在2026年，文章指出作者所在的工作单位正在反常地保留旧有系统，而非像以往一样淘汰它们。这样做的主要原因是，新服务器的成本显著飙升。这主要归因于内存（尤其是DDR5 RAM）和各种固态硬盘（SSD）价格的不断上涨，特别是考虑到新服务器可能需要支持更昂贵的U.2 NVMe接口的存储设备。因此，为了应对高昂的硬件成本，保留旧系统成为一种务实的选择。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Morse code tree",
+    "title_cn": "摩尔斯电码树",
+    "summary_cn": "Peter Vogel在X上分享了一张图片，展示了一个用于解码摩尔斯电码的决策树。这个决策树的独特之处在于其紧凑的形状，与传统决策树通常采用的水平分层、对角线分支的扩展布局大相径庭，因此显得格外有趣。它以一种新颖且高效的方式呈现了复杂的决策过程。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/31/morse-code-tree/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)",
+    "title_cn": "州民主党人必须阻止ICE窃取中期选举 (2026年3月31日)",
+    "summary_cn": "这篇文章以“州民主党人必须阻止ICE窃取中期选举”为核心呼吁，强调这是他们最起码能做的事。此外，文中还涵盖了一系列多元化话题，包括有趣的发现、对日常现象的观察（如插线板bug、电影发行模式冲突、旧金山增长图表）、国际视角（如古巴的精英制免费医学院）、政治分析（如特朗普策略师的观点）以及对垄断等社会现象的思考。文章还提及了作者未来的活动预告和最新书籍。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/03/31/actual-federalist-society/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Continuous, Continuous, Continuous",
+    "title_cn": "持续、持续、持续",
+    "summary_cn": "Jason Gorman在文中探讨了软件开发中“持续性”的核心理念。传统上，软件开发被视为设计、编码、测试、集成、发布等离散阶段。文章指出，这种阶段性做法与现代软件构建和交付的需求不符。它倡导一种不间断、流畅的“持续”流程，以提升效率和质量，挑战旧有分阶段的工作模式。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Georgi Gerganov",
+    "title_cn": "引用Georgi Gerganov",
+    "summary_cn": "这段引文指出，当前用户在使用本地AI模型时，面临着一系列普遍存在但可能未被察觉的问题。主要症结在于模型协调机制（harness）、聊天模板的复杂性以及提示词的构建方式。有时甚至会出现纯粹的推理错误。从用户输入任务到最终得到结果，背后是一条漫长且脆弱的组件链条，这些组件由不同方开发，使得整个过程变得困难且容易出错。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm 0.1a3",
+    "title_cn": "datasette-llm 0.1a3",
+    "summary_cn": "datasette-llm 插件发布了 0.1a3 版本。此次更新主要增加了对大型语言模型（LLM）可用性进行配置的功能。用户现在可以根据特定用途或插件的需求，灵活限制可用的 LLM 模型列表。这意味着可以更精细地控制每个插件调用哪些特定的模型，从而实现更精准、更安全的应用。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A question about the maximimum number of values in a registry key raises questions about the question",
+    "title_cn": "关于注册表项中最大值数量的问题引发了对该问题本身的质疑",
+    "summary_cn": "这篇文章的核心内容是对一个技术问题——关于注册表项中最大值数量的疑问——表达了强烈的困惑与不解。它以一句“为什么这甚至会是一个问题？”开篇，直接质疑了提出该问题的必要性或合理性。文章引用了微软Raymond Chen的博客“The Old New Thing”上的一篇同名帖子，暗示了更深层次的探讨。整体而言，本文内容极简，主要表达了对某个技术疑问的诧异。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Quantum hard drives",
+    "title_cn": "昆腾硬盘",
+    "summary_cn": "昆腾（Quantum）是上世纪八九十年代活跃的硬盘制造商之一，与希捷和西部数据等巨头并存。作为一家相对较小的独立硬盘厂商，昆腾在那个时代占据了一席之地。最终，在2001年3月31日，昆腾与另一家独立硬盘制造商迈拓（Maxtor）合并。这段历史反映了早期硬盘市场的竞争格局和厂商的演变。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/quantum-hard-drives/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-hard-drives",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 497",
+    "title_cn": "每周更新 497",
+    "summary_cn": "文章介绍了OpenClaw项目在优化工作流程方面的最新进展。团队正逐步找到人类与智能代理（AI）之间协作的最佳平衡点，并成功将越来越多的工作负载转移给代理来完成。这意味着OpenClaw项目正朝着更加自动化和高效的方向发展，通过智能代理的自主执行能力，显著提升了整体运作效率并减轻了人类员工的负担。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-497/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-files 0.1a3",
+    "title_cn": "Datasette-files 0.1a3",
+    "summary_cn": "\"Datasette-files\"插件发布了0.1a3新版本，此次更新旨在加强其与\"datasette-extract\"等其他插件的集成能力。本次发布主要引入了`owners_can_edit`和`owners_can_delete`等新的配置选项，旨在为用户提供更精细的文件管理权限控制。这使得插件拥有者能更好地管理文件的编辑和删除权限，以支持更复杂的集成应用场景。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Material Security",
+    "title_cn": "[赞助商] Material Security",
+    "summary_cn": "许多安全团队并非缺乏人才，而是面临繁琐的“噪音问题”，如手动处理钓鱼邮件、追踪OAuth权限和审计文件共享等。Material Security旨在解决此痛点，它将云工作区的邮件、文件和账户检测与响应功能整合于一处，有效弥补Google和Microsoft原生安全能力的不足。该方案能帮助企业扩展工作区安全，而非无限增加人力，从而提升安全运营效率。",
+    "source": "daringfireball.net",
+    "url": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Solving Yesterday’s Problems Will Kill You",
+    "title_cn": "Solving Yesterday’s Problems Will Kill You",
+    "summary_cn": "处理失败",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/",
+    "score": 0,
+    "angle": ""
+  }
+]
