@@ -1,0 +1,362 @@
+[
+  {
+    "title_en": "OpenAI Secures Record $122 Billion Funding Round, Valued at $852 Billion",
+    "title_cn": "OpenAI 完成创纪录1220亿美元融资，估值达8520亿美元",
+    "summary_cn": "OpenAI于3月31日宣布完成新一轮1220亿美元融资，投后估值高达8520亿美元，创下硅谷史上最高融资纪录。亚马逊、英伟达和软银等巨头领投，显示市场对AI基础设施和企业级应用前景的强烈信心，并计划年底IPO。",
+    "url": "https://openai.com/blog/openai-raises-122-billion-to-accelerate-the-next-phase-of-ai",
+    "score": 10,
+    "angle": "AI巨头OpenAI再次刷新融资纪录！估值近万亿美元，这艘AI航母将驶向何方？对普通人有什么影响？🤔",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Jensen Huang Doesn’t Smell Anything",
+    "title_cn": "黄仁勋什么都没闻到",
+    "summary_cn": "“美国独一无二的优势，是任何国家都无法拥有的特朗普总统。” 这一表态引发关注，尤其考虑到他刚被任命到总统顾问委员会。",
+    "source": "daringfireball.net",
+    "url": "https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n",
+    "score": 9,
+    "angle": "🔥AI教父黄仁勋语出惊人！被问美国独有优势，他竟脱口而出‘特朗普总统’？！😱 科技大佬的政治站队，这波你怎么看？难道AI和政治圈也要开始联动了吗？评论区聊聊你的看法！👇 #黄仁勋 #英伟达 #特朗普 #科技与政治 #美国优势"
+  },
+  {
+    "title_en": "Technical Analysis of the Android Version of the White House’s New App",
+    "title_cn": "白宫新应用安卓版的技术分析",
+    "summary_cn": "这篇文章对白宫新应用的安卓版进行了技术分析。分析发现，该应用内置了完整的GPS追踪功能，每隔4.5分钟在前台或9.5分钟在后台收集经纬度、精度和时间戳，并同步到OneSignal服务器。更令人担忧的是，它加载YouTube嵌入的JavaScript代码竟然来自一个个人GitHub Pages网站，一旦该账户被攻破，任意代码便可在应用内执行，存在严重的安全隐患。",
+    "source": "daringfireball.net",
+    "url": "https://blog.thereallo.dev/blog/decompiling-the-white-house-app",
+    "score": 9,
+    "angle": "🚨 白宫新APP被曝重大安全漏洞！你的位置数据正在被悄悄收集？普通人如何保护隐私，远离“跟踪”风险！"
+  },
+  {
+    "title_en": "Q1 2026 Sees Record-Breaking Venture Funding, AI Dominates with $239 Billion",
+    "title_cn": "2026年第一季度创投融资打破纪录，AI领域狂揽2390亿美元",
+    "summary_cn": "Crunchbase报告显示，2026年第一季度全球风险投资创历史新高，其中AI领域获得2390亿美元，占总融资额的81%。这表明AI投资热潮持续升温，大型AI初创公司获得前所未有的资本支持。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn2qLVNM-KkHKMcHqLZquaZ3dJkFH-hjoG0Pav5IMWcOyDelv51rxHbQgkfPp0rSOo-GG4r4oBzeg97xb4lPrtwq6JMGcuxUTMhwkSB0EcShu-m3ELTTEBVxupfT4R2r0eLATM_lokaduLNvfZRe1cPRm1xzMZH3SmlqZGqRyvKojDM5-U8sD42g==",
+    "score": 9,
+    "angle": "太疯狂了！AI融资简直是印钞机！一季度狂吸2390亿美元，普通人如何抓住这波AI红利？💰",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Over 45,000 Tech Jobs Cut in Early 2026, AI Cited as a Major Factor",
+    "title_cn": "最新报告：2026年初科技行业裁员超4.5万，AI重塑劳动力市场",
+    "summary_cn": "最新数据显示，2026年初全球科技行业已裁员超4.5万，约20%与AI自动化直接相关。企业正通过AI重塑组织架构和运营策略，导致部分重复性工作被自动化工具取代，尤其影响入门级岗位。",
+    "url": "https://cryptorank.io/news/ai-layoff-wave-hits-tech-45-000-jobs-gone-in-early-2026",
+    "score": 9,
+    "angle": "AI大裁员潮来了？2026年已有4.5万科技人失业，你的工作会被AI取代吗？如何提升AI竞争力？😮",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’",
+    "title_cn": "商业内幕专访OpenAI“应用首席执行官”Fidji Simo",
+    "summary_cn": "商业内幕报道了OpenAI的应用首席执行官Fidji Simo。她表示，自己的职责是作为首席执行官独立运营公司的应用部门，拥有充分的自主权。Simo透露，当OpenAI首席执行官Sam Altman没有强烈意见时会听取她的，而当他有强烈意见时，两人则会进行辩论。这篇专访揭示了她在OpenAI内部的重要地位和决策影响力，以及她与Altman的独特工作模式。",
+    "source": "daringfireball.net",
+    "url": "https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3",
+    "score": 8,
+    "angle": "OpenAI的“应用CEO”到底有多牛？这位科技界“铁娘子”如何与Sam Altman平起平坐，掌舵AI应用未来！"
+  },
+  {
+    "title_en": "RAM Is the New Bearer Bond",
+    "title_cn": "新一代无记名债券",
+    "summary_cn": "近日，内存（RAM）盗窃事件激增。佛罗里达一家Costco为防盗，甚至要求员工移除展示电脑中的内存条。此外，犯罪团伙还通过劫持运输卡车来盗取大量内存。这表明内存已成为极具价值的商品，其流动性和匿名性使其在犯罪分子眼中堪比“无记名债券”，引发了新的安全挑战，揭示了其在黑市中的高价值。",
+    "source": "daringfireball.net",
+    "url": "https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/",
+    "score": 8,
+    "angle": "《万万没想到！电脑内存条竟成“新一代无记名债券”？全球疯狂盗抢RAM背后的惊人真相！》"
+  },
+  {
+    "title_en": "What is Copilot exactly?",
+    "title_cn": "Copilot 到底是什么？",
+    "summary_cn": "作者对同事频繁使用并高度依赖 Microsoft Copilot 感到惊讶，因为他自己无法忍受这款工具。这位高效同事的“离开它就不知道怎么工作”的评价，让作者意识到自己可能使用方式不对。为此，作者决定抛开所有偏见，重新全身心投入去尝试和了解 Copilot，希望能找到它的真正价值和用法。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/what-is-copilot-exactly?src=feed",
+    "score": 8,
+    "angle": "“10倍工程师都离不开的Copilot，真有那么香吗？我从‘拒绝’到‘尝试’的AI效率工具实测！”"
+  },
+  {
+    "title_en": "The Entire Internet Is a UGC Reaction Video Now",
+    "title_cn": "整个互联网都成了UGC反应视频",
+    "summary_cn": "作者通过收集“诅咒网站”来记录他眼中社会契约瓦解的现象，Dansugc.com是最新一例。文章以此为引，探讨整个互联网如何日益演变为一个充斥无序与不安的UGC反应视频。它反映了数字时代人际关系和社会连接的异化，以及网络生态的某种崩坏。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/",
+    "score": 8,
+    "angle": "【网络反思】整个互联网都成了UGC反应视频？你有没有那些让你觉得“社会契约瓦解”的“诅咒网站”瞬间？"
+  },
+  {
+    "title_en": "Wayne’s World",
+    "title_cn": "韦恩的世界",
+    "summary_cn": "在苹果公司迎来50周年之际，我们有机会采访到其鲜为人知的第三位创始人罗纳德·G·韦恩。虽然他在苹果的创立初期扮演了重要角色，但对这位高龄创始人而言，苹果的历史仅仅是他漫长而丰富人生中的一个注脚。本文旨在揭示这位被遗忘的关键人物的独特视角和人生轨迹，探讨他与苹果的渊源，以及苹果之外的精彩故事。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview",
+    "score": 8,
+    "angle": "他曾拥有10%股份却为何放弃？错失万亿财富的人生选择与财富观。"
+  },
+  {
+    "title_en": "Infinite midwit",
+    "title_cn": "无尽的自作聪明",
+    "summary_cn": "文章作者通过《卡坦岛》游戏比喻，反思自身在策略与适应能力上的不足。他以“无限的自作聪明”形容自己，暗示常因高估能力而陷入困境，无法在复杂环境中生存，引发对自我认知和现实表现的反思。",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/infinite-midwit",
+    "score": 8,
+    "angle": "玩桌游才发现我是个“战略废物”？！😱 原来这就是传说中的“无限自作聪明”！💡 你也有过这种“被现实打脸”的时刻吗？"
+  },
+  {
+    "title_en": "Advanced Machine Intelligence Raises $1.03 Billion Seed Round Amid Surge in Large AI Seed Investments",
+    "title_cn": "AI初创公司Advanced Machine Intelligence完成10.3亿美元种子轮融资，AI早期投资火热",
+    "summary_cn": "3月31日Crunchbase报告指出，近期AI领域的种子轮融资规模空前，巴黎初创公司Advanced Machine Intelligence在3月完成10.3亿美元种子轮，多家AI公司也获得数亿美元早期投资，物理AI成热门赛道。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-JPgPYvai9E_K5vTljTOEmEwcaiRAXdbjHJcTekUQDJHb9jg-p7gABLUJPDvJh0Z2q3RCFdlBUjuvr5-_DNQHXCNv5BXskZG6ECwgxvnjN9FRSmk0RvPMjp1xFmkpkvGYUUVUcGZCBBpeb79foGdJT1awKmNe1mhYQc5lDyMH9zMCHv4=",
+    "score": 8,
+    "angle": "AI创业门槛有多高？这家公司种子轮就拿了10亿美元！早期AI投资的钱都投到哪去了？🤫",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Alibaba Cloud Launches Qwen3.5-Omni, a New Multimodal Large Model",
+    "title_cn": "阿里云发布全模态大模型Qwen3.5-Omni，支持音视频理解",
+    "summary_cn": "3月30日，阿里云千问全模态大模型Qwen3.5-Omni正式上线，支持文本、图片、音频、音视频等多模态理解，拥有更强的多语言能力和超长上下文处理，进一步推动AI应用场景拓展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs_1auTi3e3A6SMp279DlAC0TdBR9pJ1ty76VNH1O5pfKa7oJsbUeqN9-To1wPdc8PpD-tC-EYRPBeyouJQL1EndPkvifOVWMhRK9FqoZ5zwyHGwxfJNZUg7LAt9KupuUT4N4G36cOjRue7Hex6Hl3fKdOUe8wbjSDNDiBCPbtHK3T-gRwL9AjIWgEhpR0XcIo",
+    "score": 8,
+    "angle": "阿里千问又出新模型啦！全模态Qwen3.5-Omni能听会看，AI助手要进化到什么程度？速来体验！🤩",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "European Innovation Council Awards €118 Million for Breakthrough AI Research in Medical Diagnosis",
+    "title_cn": "欧盟EIC拨款1.18亿欧元，支持生成式AI在癌症诊断治疗中突破",
+    "summary_cn": "4月1日，欧洲创新理事会（EIC）宣布，将向30个前沿研究项目拨款1.18亿欧元，其中包括利用生成式AI革新癌症诊断和治疗的项目，加速AI在医疗领域的应用突破。",
+    "url": "https://eic.ec.europa.eu/news-events/news/eic-awards-eu118-million-30-breakthrough-research-projects-under-eic-pathfinder-challenges-2026-04-01_en",
+    "score": 8,
+    "angle": "欧盟大手笔投资AI医疗！生成式AI或将彻底改变癌症诊疗，这是人类健康的一大步！💉",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Appointees to Trump’s Council of Advisors on Science and Technology",
+    "title_cn": "特朗普科学与技术顾问委员会任命者名单",
+    "summary_cn": "白宫宣布了特朗普政府科学技术顾问委员会（PCAST）的任命名单。该委员会将由David Sacks和Michael Kratsios共同主持。委员会成员汇集了众多科技和商业界的领军人物，包括马克·安德森、谢尔盖·布林、萨夫拉·卡茨、迈克尔·戴尔、拉里·埃里森、英伟达创始人黄仁勋、AMD CEO苏姿丰以及Meta创始人马克·扎克伯格等。在特朗普的领导下，PCAST将专注于科技相关议题的咨询与建议。",
+    "source": "daringfireball.net",
+    "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+    "score": 7,
+    "angle": "扎克伯格、黄仁勋、苏姿丰…他们为何“入局”白宫？揭秘科技权力新格局！"
+  },
+  {
+    "title_en": "The Subprime AI Crisis Is Here",
+    "title_cn": "AI次贷危机已至",
+    "summary_cn": "这段内容并非文章主体摘要，而是作者发出的付费订阅邀请。作者鼓励读者订阅其高级新闻通讯，以支持其独立的报道和分析工作。订阅费用为每年70美元或每月7美元，订阅者每周将收到一篇通常篇幅在5000至18000字之间的深度分析文章。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
+    "score": 7,
+    "angle": "警惕AI“智商税”！深度解读你可能遇到的“次贷式AI”危机，普通人如何辨别并避开那些华而不实、甚至有风险的AI产品和服务？"
+  },
+  {
+    "title_en": "How Mark Cuban became rich",
+    "title_cn": "马克·库班如何致富",
+    "summary_cn": "1999年4月1日，对马克·库班而言绝非愚人节玩笑。在那一天，他将其公司broadcast.com以57亿美元的天价出售给雅虎，一举跃升为亿万富翁。尽管这笔交易在今天看来可能令人费解，但它无疑是库班财富之路上的一个里程碑。本文将深入探讨马克·库班如何通过这笔交易成功实现财富自由，成为商界传奇的故事。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/how-mark-cuban-became-rich/?utm_source=rss&utm_medium=rss&utm_campaign=how-mark-cuban-became-rich",
+    "score": 7,
+    "angle": "聚焦马克·库班在互联网泡沫时期如何凭借前瞻性眼光和果断决策，成功出售公司实现财富自由。可围绕“普通人如何抓住时代机遇”、“亿万富翁的商业嗅觉”、“一次交易改变人生”等话题展开，为渴望创业或财富增长的用户提供启发和思考，引发对“价值判断”和“时机选择”的讨论。"
+  },
+  {
+    "title_en": "Flagship Pioneering and AWS Announce Collaboration to Accelerate AI Drug Discovery",
+    "title_cn": "Flagship Pioneering与AWS合作加速AI药物发现",
+    "summary_cn": "4月1日，科学创新引擎Flagship Pioneering与亚马逊云服务（AWS）宣布战略合作，将利用AWS的云和AI能力加速生命科学公司发展，特别是在AI药物发现和科学平台方面。",
+    "url": "https://www.prnewswire.com/news-releases/flagship-pioneering-and-aws-announce-collaboration-to-accelerate-drug-discovery-and-life-sciences-innovation-302324567.html",
+    "score": 7,
+    "angle": "科技巨头联手攻克AI制药难题！AWS与Flagship Pioneering合作，AI+生物科学将带来哪些颠覆？💊",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Cara Raises $8 Million Seed Funding to Build AI Platform for Insurance Brokers",
+    "title_cn": "AI平台Cara获800万美元种子轮融资，赋能保险经纪人自动化",
+    "summary_cn": "4月1日，为保险经纪公司提供AI平台的Cara完成800万美元种子轮融资，旨在通过AI自动化销售和行政任务，将传统90分钟流程缩短至2分钟，提升行业效率。",
+    "url": "https://www.fintech.global/2026/04/01/cara-raises-8m-seed-to-build-ai-platform-for-brokers/",
+    "score": 7,
+    "angle": "保险行业也要被AI改造了！这家公司让经纪人工作效率飙升45倍，你的工作会被AI取代吗？💼",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "White House Releases National AI Policy Framework, Emphasizing Unified Federal Approach",
+    "title_cn": "白宫发布国家AI政策框架，强调统一联邦监管方法",
+    "summary_cn": "白宫于3月20日发布国家人工智能政策框架，提出非约束性立法建议，旨在建立统一联邦AI监管方法，优先考虑儿童安全、创新和劳动力准备，并避免碎片化的州级法规。",
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2026/03/20/national-policy-framework-for-artificial-intelligence/",
+    "score": 7,
+    "angle": "美国AI监管新动向！白宫发布AI政策框架，明确联邦政府AI治理方向，会如何影响AI发展？⚖️",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Mini-review: David Pogue's Apple: The First 50 Years",
+    "title_cn": "大卫·波格的《苹果：最初50年》",
+    "summary_cn": "最初50年》一书。尽管原文内容不完整，但从标题推断，该书可能深入回顾了苹果公司从创立至今半个世纪的发展历程、标志性产品、创新技术及其对科技界和全球文化的影响。评论通常会分析作者的视角、内容的深度以及对读者的吸引力。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Soohoon Choi",
+    "title_cn": "引述 Soohoon Choi",
+    "summary_cn": "本文观点认为，经济激励将促使AI模型生成优质代码。优质代码的生成和维护成本更低，因此在当前AI模型竞争激烈的市场中，能够帮助开发者最快交付可靠功能（需简洁、易维护代码）的模型将脱颖而出。作者强调，这不是出于开发者意愿，而是市场经济力量的必然需求，好代码终将成为主流。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "My ramblings are available over gopher",
+    "title_cn": "我的随笔可通过Gopher访问",
+    "summary_cn": "作者认为现代网站需要复杂的客户端才能访问，这不可接受。为了提供更简洁的浏览体验，他的网站支持Gopher协议。文章通过 `telnet` 命令演示了如何连接到 `maurycyz.com` 的70端口，并请求 `/about.txt` 来获取内容。这是一种回归互联网早期、去除冗余、直接获取信息的方式，体现了作者对简洁技术的推崇。",
+    "source": "maurycyz.com",
+    "url": "https://maurycyz.com/misc/gopher/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Before you check if an update caused your problem, check that it wasn’t a problem before the update",
+    "title_cn": "在排查更新是否引发问题前，先确认问题在更新前是否已经存在。",
+    "summary_cn": "在将问题归咎于最近的软件更新之前，用户或开发者应首先核实该问题在更新部署之前是否已经存在。这能有效避免盲目归因，节省诊断时间。许多时候，我们容易将近期改变视为问题根源，但事实可能是问题早已存在，甚至在更早的版本中就已经出现。作者通过简洁的标题，提醒读者养成先溯源、再归因的思维习惯，提高排查效率。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quantum Y2K",
+    "title_cn": "量子千年虫",
+    "summary_cn": "尽管作者对量子计算的近期实用性持怀疑态度，但文章指出，一旦量子计算意外实现，全球金融系统可能面临崩溃风险。作者强调，无论量子计算何时变得实用，所有人都应为此做好准备。目前量子计算机已存在，关键在于它何时真正具备广泛应用的能力，以及我们是否能在此之前充分应对潜在的巨大冲击。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/03/31/quantum-y2k/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Summary of reading: January - March 2026",
+    "title_cn": "2026年1月-3月",
+    "summary_cn": "这篇阅读总结涵盖了2026年1月至3月的一部分阅读书目。其中详细介绍了托马斯·索维尔的《知识分子与社会》，一本出版于2009年的论文集。索维尔在书中批判了左倾思想家，虽然带有明显偏见，但其对20世纪早期和中期历史的洞察力仍引人深思，并指出历史有惊人的相似之处。",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-enrichments-llm 0.2a0",
+    "title_cn": "Datasette 大语言模型增强插件 0.2a0",
+    "summary_cn": "Datasette 大语言模型增强插件更新至 0.2a0 版本。此次发布的主要亮点是该插件现已集成 `datasette-llm`，用于配置和管理大语言模型。这意味着用户可以更灵活地指定哪些大语言模型可用于执行数据增强操作，从而提升了插件的功能性和自定义能力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
+    "title_cn": "Axios 遭供应链攻击，从 npm 引入恶意依赖",
+    "summary_cn": "近期，知名 HTTP 客户端 npm 包 Axios 遭受了一次供应链攻击。此攻击在 Axios 的 1.14.1 和 0.30.4 版本中引入了一个名为 `plain-crypto-js` 的恶意依赖项。该恶意软件旨在窃取用户凭据。鉴于 Axios 每周下载量高达 1.01 亿次，此次攻击影响范围广泛，提醒开发者需警惕开源软件供应链安全风险。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
+    "title_cn": "Pluralistic: 特朗普主义 对抗 小型多边主义 (2026年4月1日)",
+    "summary_cn": "敌人也有发言权”，探讨了政治格局中的对立与互动。文章还涵盖了多种有趣链接，包括蒂姆·伯纳斯-李对网络未来的展望、神奇女侠毛衣图案、无法修补的药柜系统以及DRM与Netflix未来的关系等科技文化内容。作者同时分享了即将到来的公开活动和最新书籍信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/01/minilateralism/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "How Tandy bought Radio Shack",
+    "title_cn": "Tandy 如何收购 Radio Shack",
+    "summary_cn": "这篇文章以1963年4月1日查尔斯·坦迪在波士顿丽思卡尔顿酒店召集Radio Shack员工会议为开端。当时公司内部关于即将发生变革的传闻甚嚣尘上，但文章内容在提及员工对此一无所知时便戛然而止。因此，所提供的部分仅为读者描绘了Tandy收购Radio Shack这一历史性事件的序幕，并未详细阐述收购的具体过程和细节。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=how-tandy-bought-radio-shack",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-extract 0.3a0",
+    "title_cn": "Datasette-Extract 0.3a0 版本",
+    "summary_cn": "datasette-extract 0.3a0 版本已发布。此更新的主要亮点在于它现在利用 datasette-llm 来管理模型配置。这意味着用户可以更精确地控制哪些语言模型可用于执行数据提取任务。通过使用特定的“extract”目的和 datasette-llm 的模型配置功能，开发者能够灵活地选择和配置适合其数据处理需求的模型，从而提升数据提取的效率和准确性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm-usage 0.2a0",
+    "title_cn": "Datasette LLM 使用情况 0.2a0",
+    "summary_cn": "移除了与配额和预估定价相关的功能，这些已转由 datasette-llm-accountant 插件负责。同时，新版本现在依赖 datasette-llm 插件进行模型配置。此举旨在优化功能划分，提高模块化管理效率。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm 0.1a4",
+    "title_cn": "datasette-llm 0.1a4",
+    "summary_cn": "datasette-llm 0.1a4 版本发布，新增功能允许用户为不同用途的LLM模型配置独立的API密钥。例如，可为数据富集任务指定gpt-5.4-mini，并为其分配专用密钥，实现更精细的模型管理和成本控制。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-all-models-async 0.1",
+    "title_cn": "LLM所有模型异步插件 0.1",
+    "summary_cn": "llm-all-models-async 0.1 版本正式发布。该版本允许LLM插件定义新的大语言模型，支持同步（sync）和异步（async）两种方式。其中，异步模式更常用于通过API调用的外部模型，而同步模式则适用于在本地运行的模型。这一更新为LLM插件提供了更灵活的模型集成能力，尤其优化了API驱动型模型的性能和兼容性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-echo 0.4",
+    "title_cn": "llm-echo 0.4",
+    "summary_cn": "llm-echo 0.4版本正式发布。此次更新主要改进了提示词（prompt）功能，现在响应中会填充`input_tokens`和`output_tokens`字段，方便用户追踪和分析大语言模型的输入输出代币数量。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "GopherTree",
+    "title_cn": "Gopher树",
+    "summary_cn": "Gopher协议常被误认为早期网页，但其本质更接近文件传输协议（FTP）。它不含标记格式、链接和URL，文件以层级结构组织，格式不限。这种严格的结构反而为客户端提供了创意显示空间，也是间歇性连接下离线阅读的理想模型。尽管内容中断，但原文似乎对Gopher的某些方面表达了不满。",
+    "source": "maurycyz.com",
+    "url": "https://maurycyz.com/projects/gopher/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Random File Format",
+    "title_cn": "随机文件格式",
+    "summary_cn": "这个想法诞生于Napster盛行的千禧年前后。当时，人们常会遇到因下载中断而导致音乐文件末尾缺失几秒，或某些视频文件因缺少末尾的关键“moov原子”而无法播放的问题。作者由此思考，能否设计出一种更具鲁棒性的文件格式，即使文件不完整也能最大限度地播放，以提升用户体验，解决早期数字媒体的播放兼容性挑战。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/random-file-format/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Updating Ubuntu packages that you have local changes for with dgit",
+    "title_cn": "使用 dgit 更新包含本地修改的 Ubuntu 软件包",
+    "summary_cn": "本文探讨了使用dgit工具对Ubuntu软件包进行本地修改后，如何处理官方更新的问题。当Ubuntu发布该软件包的新版本时，用户需要在应用更新的同时，保留已做的本地更改。文章旨在指导用户如何有效利用dgit工具来整合官方更新与个人定制。这解决了在现有软件包上叠加更新的挑战，与之前在新Ubuntu版本中迁移修改的情景不同。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm 0.1a5",
+    "title_cn": "datasette-llm 0.1a5",
+    "summary_cn": "datasette-llm 0.1a5 版本已发布。本次更新主要改进了其 llm_prompt_context() 插件钩子封装机制。现在，该机制能够追踪在链式执行中以及一次性执行的提示，从而更好地监控工具调用的循环。这项功能增强了对大型语言模型（LLM）交互的可见性和控制力，对于开发者追踪和调试复杂的LLM应用流程尤其有价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "llm 0.30",
+    "title_cn": "llm 0.30 版本发布",
+    "summary_cn": "llm 工具发布了 0.30 版本。此版本的主要更新在于 `register_models()` 插件钩子。它现在新增了一个可选的 `model_aliases` 参数，该参数会列出其他插件迄今为止已注册的所有模型、异步模型及别名。这使得带有 `@hookimpl(trylast=True)` 的插件能够利用这些现有注册信息，从而增强了插件在模型管理和交互方面的灵活性与控制力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
+    "score": 1,
+    "angle": ""
+  }
+]
