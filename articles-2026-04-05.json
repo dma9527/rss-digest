@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "OpenAI Secures Historic $122 Billion Funding Round, Valuing Company at $852 Billion",
+    "title_cn": "OpenAI完成历史性1220亿美元融资，估值达8520亿美元",
+    "summary_cn": "在2026年第一季度，OpenAI完成了破纪录的1220亿美元融资，公司估值飙升至8520亿美元。这笔巨额资金凸显了投资者对AI领域的巨大信心，尤其是在生成式AI和前沿实验室方面。此次融资被认为是全球风险投资史上最大的一轮，预示着AI行业将迎来新一轮的快速发展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIshn0pW0ZLAtrwDX3Ka16pc--DwacJw5uydMUI5h7cXVIPZ1Jhb-if5pV2OLXj7BjlJDfRuu3Ie_t5mySGS60-SQ66V8IutiwKtIyDP6iot8VRT9g580YqgyVCmK4Qsp7LcLbqMX8AliI-zVG6usvqFsU",
+    "score": 10,
+    "angle": "OpenAI又双叒叕吸金千亿！AI赛道巨头估值再创新高，谁是下一个赢家？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’",
+    "title_cn": "集体诉讼称Perplexity的“隐身模式”是场“骗局”",
+    "summary_cn": "一项针对AI搜索引擎Perplexity的集体诉讼指出，其“隐身模式”是个骗局。诉讼方通过开发者工具发现，无论是用户首次提问还是点击的追问，都会被共享。更令人担忧的是，非订阅用户的初始提示甚至通过URL与Meta、Google等第三方共享，使得整个对话可能被访问。这严重侵犯了用户隐私，暴露出Perplexity在隐私保护方面的虚假承诺，引发了广泛的隐私担忧。",
+    "source": "daringfireball.net",
+    "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "score": 9,
+    "angle": "“AI隐私警报！你以为的Perplexity‘隐身模式’是假的？聊天记录竟被Meta和Google‘围观’！😱 AI时代如何保护你的数据安全？” 可以围绕“你以为的安全，其实不然”的对比，强调数据泄露的严重性，并提醒用户在AI时代更应警惕隐私保护。配图可以是一些问号、叹号、隐私泄露的示意图，或者AI图标上打上“假”的标志。"
+  },
+  {
+    "title_en": "Someone at BrowserStack is Leaking Users' Email Address",
+    "title_cn": "BrowserStack 有人在泄露用户邮箱地址",
+    "summary_cn": "作者习惯为每个在线服务生成独一无二的邮箱地址，这不仅能验证邮件来源、防止撞库攻击，还能立即揪出泄露自己邮箱的服务。几周前，作者为加入BrowserStack的开源项目而注册，此后发现自己的邮箱地址被泄露，从而确认是BrowserStack导致了这次信息泄露。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+    "score": 9,
+    "angle": "【警惕！你的个人信息安全吗？】我亲测有效！一招教你揪出哪个平台在偷卖你的邮箱地址，从此告别垃圾邮件和潜在风险！ #个人信息保护 #邮箱安全 #防诈骗 #隐私泄露 #实用小技巧"
+  },
+  {
+    "title_en": "White House Proposes $1.5 Trillion for Defense, Including $1.2 Billion for AI Supercomputers",
+    "title_cn": "白宫提议1.5万亿美元国防预算，其中12亿美元用于AI超级计算机",
+    "summary_cn": "美国白宫于2026年4月4日提出预算，计划为国防领域拨款1.5万亿美元，并特别拨出12亿美元用于在阿贡和橡树岭国家实验室建设AI超级计算机，同时非国防研发支出将削减10%。此举表明美国政府正大力投资AI基础设施以支持国家安全，但引发了对其他科学研究领域资金削减的担忧。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFZX44K6EiM-nQRI0hHyBka_pNqFvBsBboa3TAfra_FqlG0cjSPumPFdNLtVQrcJiz4nUowQ6ezXJ-orQZC1KzVZ7kv38ctXLJn20CRTPnPoNEquhnozKHdhckP4xOGuSna9P875dYklyN4BofEeahDl9zoFaRIksU_-zrb8U6COgaqRCS24zmP_5mMm-Zb4dbrhefm2uw4KEZahVjrxnmgi3rFtQ7xnSiQwLO71sPMFQIgs_bH5EYDyGnO_WnpgikBTRRYJM2QPB-_O7-MaUgQ44W",
+    "score": 9,
+    "angle": "军事AI赛道开启，新基建项目狂撒钱，这些AI概念股要爆！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Utah Pilot Program Allows AI Chatbots to Prescribe Psychiatric Medication",
+    "title_cn": "犹他州试点项目允许AI聊天机器人开具精神药物处方",
+    "summary_cn": "2026年4月4日，犹他州一项突破性试点项目启动，允许由健康科技公司Doctronic提供的AI聊天机器人开具精神药物处方。虽然存在诸多限制，但这一发展标志着AI在医疗领域的重大应用突破，尤其是在精神健康护理方面，为远程医疗和药物管理带来了新可能性。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE7O7qmr00iFTHeaJZY5-vzzE4ij2-wLkXRd-hmyeGq5BV7tg9giHRtbkH5zqz92YLwlhIGT0lsPh_SP0VFi8MTjKIvu5ZEixqzmXSF5VBwP3fxcvq1fyn14dv3NGgd-tWcw",
+    "score": 9,
+    "angle": "AI医生要来啦！以后看病不用排队，聊天机器人就能开药？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Oracle Cuts Up to 30,000 Jobs to Fund AI Data Center Expansion",
+    "title_cn": "甲骨文裁员高达3万人，为AI数据中心扩张提供资金",
+    "summary_cn": "据2026年4月1日报道，甲骨文启动了其史上最大规模的裁员行动，预计将削减2万至3万个职位（约占全球员工总数的18%）。此次裁员旨在为公司高达1560亿美元的AI基础设施建设和数据中心扩张提供资金，反映出科技巨头为聚焦AI发展而进行的战略性重组。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnMdLdkM3akgzi1eD7dDG5-13OeACpH0_6iC-0BNYouch1vnbFIXzqthKVYl0dd-POiu8dZ2BBlED_rBccXpEzaWEznXyJ-1s8o63itJxJB5XM1e6eVxZiTRVN3Upp9b2vklRpjDNPYkzv4ofaJz6mLdfmlV47TrubfhZrjDoRBdq6Ogoo65S9TZzGSXxX3HQ2jE",
+    "score": 9,
+    "angle": "AI发展下的裁员潮！甲骨文大刀阔斧削减3万岗位，你的工作会被AI取代吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic Unveils Claude Mythos 5, a 10-Trillion-Parameter AI Model",
+    "title_cn": "Anthropic发布Claude Mythos 5，拥有10万亿参数的AI模型",
+    "summary_cn": "Anthropic于2026年4月1日至3日期间推出了其前沿AI系统Claude Mythos 5，这是一个具有里程碑意义的10万亿参数模型。该模型专为网络安全、学术研究和复杂编码等高风险环境设计，旨在解决小型模型在长程规划中常出现的“跳过块”错误，标志着AI模型架构向专业化密度的转变。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_e2tf7HXlyJvCF32iRLbFxRxsqwnt4xAaoW7sSO2Wu5awk1JC37oGx4aI2a0BJROvPYZJOnbwZ8Ggc_Cyat-6PsSYhGlk_oLyCMJDCGsCwFpzw35HEVXEcMTvupMkyR4mFGyK_9q-uCgxKV2KvWW6sHj8Fue3pNdsVIj2nxru6fseFOrEQnazi6w2-XpAqf06RfC5OdFE",
+    "score": 9,
+    "angle": "10万亿参数！Anthropic新模型Claude Mythos 5震撼发布，AI能力再攀高峰！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "iOS 26 Feels Faster Than iOS 18",
+    "title_cn": "iOS 26 比 iOS 18 感觉更快",
+    "summary_cn": "作者在使用运行 iOS 18.7.7 的 iPhone 16 Pro 作为主力机后发现，去年夏天在 iOS 26 的某个测试周期后期，苹果明显加速了多项系统级动画，例如从屏幕底部上滑返回主屏幕的动画。尽管当时有人注意到这一变化，但此后并未获得广泛关注。文章旨在强调这种让设备感觉更快的微妙但显著的系统级改进。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts",
+    "score": 8,
+    "angle": "你的iPhone动画速度变快了吗？iOS 26实测比iOS 18更丝滑，苹果到底优化了啥！"
+  },
+  {
+    "title_en": "Kalman and Bayes average grades",
+    "title_cn": "卡尔曼与贝叶斯平均成绩",
+    "summary_cn": "本文以更新平均成绩为例，深入浅出地解释了贝叶斯统计和卡尔曼滤波的核心原理。它假设你已经知道n次等权重测试后的平均分，并探讨如何在此基础上科学地更新你的最新平均成绩。这是一种用高级统计方法解决日常学习问题的有趣视角。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/",
+    "score": 8,
+    "angle": "用卡尔曼和贝叶斯算法，科学管理你的平均分，轻松实现成绩逆袭！】"
+  },
+  {
+    "title_en": "Anthropic Ends Paid Access for Claude in Third-Party Tools",
+    "title_cn": "Anthropic停止通过第三方工具付费访问Claude模型",
+    "summary_cn": "2026年4月4日，Anthropic宣布，其Claude模型的付费订阅将不再支持OpenClaw等第三方工具的访问。用户现在必须使用官方API或Claude Code，此举旨在解决通过第三方工具使用订阅凭证绕过更高API成本的问题，对依赖这些工具的开发者和用户产生直接影响。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdixlmt4NBUBdMGkxam0NdzsyITm40q4HYB5SefVexUEvjeHATgqTHzXBxWF34JA3vBMuNY1WqvHXK122fytaGoWyssMVyuNzU1DCTstuwk-KMYkDtcEMB6epQ0JX4FldZ0fGSRwx1vVwUbPwnu2Do19JNKyv2kyBHKz4j5nNX9jsaPGjAMhYuTsdwKk9MGKFm8vxF5RmE",
+    "score": 8,
+    "angle": "AI大厂Anthropic出手整治，第三方工具访问Claude要凉？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google Introduces TurboQuant, a Memory Compression Breakthrough for Large AI Models",
+    "title_cn": "谷歌推出TurboQuant，大型AI模型内存压缩技术实现突破",
+    "summary_cn": "2026年4月2日，谷歌研究团队在ICLR 2026大会上发布了TurboQuant算法，这是一项针对大型AI模型的内存压缩突破。该算法能显著减少KV缓存导致的内存开销，从而使具有庞大上下文窗口的模型运行效率更高，有望加速AI开发从参数规模向效率优先的转变，并降低数据中心成本。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2eRERNhyALRLu2bJbZ1TfpAX01mhuyvQL2fVoDJXH11ct1Uom1ieka92zmikQq8VeIqGo_Spo7l9jFTfnHYMO0rOaOblj6piTIqgU5vL4YY0NKuCMYHzQdza3VsJuvCd0Q3wBimzuZSoBj8dCFirgL4",
+    "score": 8,
+    "angle": "谷歌黑科技TurboQuant来袭，AI模型也能“瘦身”了？大大降低运行成本！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "It's not that deep",
+    "title_cn": "没那么复杂 / 其实没那么复杂",
+    "summary_cn": "作者在周日夜晚独自坐在厨房餐桌旁，反思自己的人生轨迹和现状。他回忆起过去那些充满灵感的日子，那时他没有任何家庭责任，可以自由地将脑中的想法付诸实践。现在，他仍然渴望那种灵感迸发、付诸行动的状态，但家庭责任让这一切变得有所不同。文章探讨了在生活变化中，如何平衡个人抱负与现实责任的心境。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/its-not-that-deep?src=feed",
+    "score": 7,
+    "angle": "从一个人的说走就走到家庭责任的甜蜜负担，我们该如何平衡理想与现实？"
+  },
+  {
+    "title_en": "scan-for-secrets 0.1",
+    "title_cn": "秘密扫描工具 0.1",
+    "summary_cn": "`scan-for-secrets 0.1` 是一款新发布的Python工具，旨在帮助开发者扫描本地代码会话记录或日志文件，检测并防止API密钥等敏感信息意外泄露。该工具解决了作者在分享技术内容时对敏感信息泄露的担忧，让用户可以更安心地发布和分享。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "scan-for-secrets 0.2",
+    "title_cn": "秘密扫描工具 0.2",
+    "summary_cn": "本次发布带来了scan-for-secrets工具的0.2版本更新。主要改进包括命令行界面（CLI）工具现在能够实时流式输出扫描结果，解决了处理大型目录时等待时间过长的问题。此外，新增了支持多次使用`-d/--directory`选项来同时扫描多个目录的功能，并引入了`-f/--file`选项，方便用户指定扫描一个或多个独立文件。这些优化显著提升了工具的效率和灵活性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "scan-for-secrets 0.1.1",
+    "title_cn": "秘密扫描工具 0.1.1",
+    "summary_cn": "本次发布的是 `scan-for-secrets` 工具的 0.1.1 版本，该工具旨在扫描代码中的敏感信息。此次更新主要提升了文档的清晰度和工具的效率。新版本详细记录了工具所扫描的各种转义方案，帮助用户更好地理解其工作机制。此外，它还移除了冗余的 `repr` 转义方案，因为其功能已被 `json` 方案涵盖，使工具更加精简高效，进一步优化了开发者的使用体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "research-llm-apis 2026-04-04",
+    "title_cn": "研究LLM API 2026-04-04",
+    "summary_cn": "这篇发布宣布了“research-llm-apis 2026-04-04”的更新。作者正对其LLM Python库和命令行工具进行重大改动。该工具通过插件系统，为来自数十家供应商的数百种大型语言模型（LLM）提供抽象层。由于过去一年中，一些供应商新增了功能，目前的抽象层需要进行升级以支持这些新的特性，从而确保工具能继续兼容并有效利用这些LLM服务。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Material Security",
+    "title_cn": "核心安全",
+    "summary_cn": "Material Security致力于解决企业安全团队面临的“噪音问题”，例如耗时的手动网络钓鱼修复、追查高风险OAuth权限和文件共享审计。该平台将电子邮件、文件和账户的检测与响应功能整合到云工作空间中，提供一体化安全管理。它有效弥补了谷歌和微软原生安全功能的不足，提供真正高效的解决方案，帮助企业实现运作良好的安全防护。",
+    "source": "daringfireball.net",
+    "url": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Two little scripts: <code>addup</code> and <code>sumup</code>",
+    "title_cn": "`addup` 和 `sumup`",
+    "summary_cn": "这篇文章介绍了两个实用的小脚本`addup`和`sumup`。作者在处理多列数据时，经常需要对某一列的数字进行求和（例如统计Apache日志的总传输量），或者根据另一列的值对某一列的数字进行分组求和。`addup`用于简单的列求和，而`sumup`则可以实现分组求和，为系统管理员或需要处理类似数据分析任务的用户提供了便捷的解决方案。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Sponsorship Openings for Daring Fireball",
+    "title_cn": "Daring Fireball 赞助机会开放",
+    "summary_cn": "知名科技博客Daring Fireball的赞助位销售火爆，近期空档期稀缺。原定最早的赞助空缺要到7月底，但由于日程调整，下周突然出现了一个意想不到的赞助机会。错过下周，下一个空位将再次回到7月27日那周。文章邀请有兴趣、产品或服务与Daring Fireball读者群匹配的品牌或开发者，抓紧联系以把握下周的独特曝光机会。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/feeds/sponsors/",
+    "score": 1,
+    "angle": ""
+  }
+]
