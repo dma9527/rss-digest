@@ -1,0 +1,218 @@
+[
+  {
+    "title_en": "Why I quit \"The Strive\"",
+    "title_cn": "为什么我退出了《The Strive》",
+    "summary_cn": "这篇通讯（newsletter）提供免费阅读，并且未来也将保持免费模式。然而，如果读者渴望获取更多内容，可以选择付费订阅。付费用户每月将获得额外文章、免除赞助商的行动呼吁（CTAs），并能访问社区，从而获得更深度的内容体验和互动机会。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/why-i-quit-the-strive/",
+    "score": 9,
+    "angle": "聚焦“放弃无意义的努力/内卷”带来的自由与成长，探讨如何摆脱盲目追求，找到更适合自己的生活节奏和价值。可以分享放弃后的心理转变、实际收益，并提供如何识别并停止“无效内卷”的实用建议。"
+  },
+  {
+    "title_en": "Firmus Technologies Secures AU$725M Investment from Coatue and Nvidia, Valued at ~US$8 Billion",
+    "title_cn": "Firmus Technologies获Coatue和英伟达7.25亿澳元投资，估值达80亿美元",
+    "summary_cn": "新加坡能源效率AI工厂开发商Firmus Technologies获得Coatue领投、英伟达参与的7.25亿澳元战略股权投资，投后估值约80亿美元，旨在支持高性能、可持续的AI计算。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYkoGGo3QR3qWV9_7rknHb2n_NUQgU-9OzfzKyJexREox9-DOfH7krxUL3Y1oQmO0TxlwQslPSNsQDshnJfzG05jORkd9Q0HPQiGAbuFIFxmCKHWgCY2YYnDYawz9Wxy1cATov1ssDdoqgEH-j0qtCxpx_d-E-xKk=",
+    "score": 9,
+    "angle": "AI独角兽再添新星！英伟达重金押注“绿色AI工厂”，碳中和与高科技双赢时代来临？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "FDA Grants Breakthrough Device Designation to Voice-Based AI for Heart Failure Detection",
+    "title_cn": "FDA授予语音AI心力衰竭检测算法突破性设备认定",
+    "summary_cn": "FDA授予一项基于语音的算法突破性设备认定，该算法旨在通过5秒日常语音片段检测心力衰竭恶化的迹象，有望加速其监管审批和临床应用。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWjCVELl2oZ4AS8tU22gQwGUyPQFsTSL4uv8XBPHGI_yiYCyadQX4V3cyBBdsje3qj8Djr6hr3nGcm8rKMFcNrx6xlffmf1NU54LAfeYeO81PZ7vD2qJaFmOYm0dgCiSNGgNtohtWA==",
+    "score": 9,
+    "angle": "AI黑科技救命！动动嘴就能测心衰，未来看病就这么简单？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Q1 2026 Tech Layoffs: Nearly 80,000 Jobs Cut, Almost Half Attributed to AI",
+    "title_cn": "2026年第一季度科技行业裁员近8万人，近半数归因于AI",
+    "summary_cn": "据报道，2026年第一季度科技行业裁员78,557人，其中37,638个职位（约47.9%）因AI和工作流程自动化导致，Meta、Oracle等公司均受影响。",
+    "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQEjIoOp2_ihV3jMRiwPWw56oo50txq35ac_4FStnTMyeoGI_ssGtTDjlzJ3wbIvNA60-WRYBkgTh_2J2ebyUGh3EtYuSmYLNogEBeWUy17adEi205bX1jPoFtRT6XGjg_QD2DkFWAAcBu523vr4nYel_ZRIJG3CIFOXgosmXI2VuorP4sFtd9-LM5tI_P1cg5tNoxmrQJdkuFgTu3qVcJCeyrO1UrgxEC99dUMD8vzLA-yqx214uXhYbMHK4aK2ez_82q7e0A5-mUDhyiA63jyc-AKbMRJppnZgx6vmiBxjPS0PDK9OFlw=",
+    "score": 9,
+    "angle": "AI抢饭碗实锤？科技巨头一季度裁员近8万，你的工作还保得住吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+    "title_cn": "macOS 运行49天后“崩溃”——可能是Tahoe独有的“特性”",
+    "summary_cn": "软件开发者Photon发现macOS存在一个重大bug。所有Mac电脑在持续运行49天17小时2分钟47秒后，会因Apple XNU内核中32位无符号整数溢出而冻结，导致系统看似崩溃。这个“隐藏的到期日”就像一个“定时炸弹”，对需要Mac持续运行的应用程序影响尤其大，尽管这或许是Tahoe系统特有的一个“特性”。",
+    "source": "daringfireball.net",
+    "url": "https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/",
+    "score": 8,
+    "angle": "苹果Mac电脑可能存在一个隐秘Bug，连续开机49天17小时2分47秒后，系统就可能冻结“崩溃”！✨ 这就像一个隐藏的定时炸弹，尤其是对那些需要Mac长期运行的小伙伴（比如开发者、视频剪辑师）来说，影响超大！你的Mac多久没关机了？快来检查一下，是不是该让它休息一下了？评论区聊聊你的Mac最长开机记录吧！#MacBook #Mac隐藏功能 #苹果电脑 #电脑维护 #科技冷知识 #Mac死机 #电脑bug #定时炸弹"
+  },
+  {
+    "title_en": "Adobe Diddles With Your /etc/hosts File",
+    "title_cn": "Adobe 操弄你的 /etc/hosts 文件",
+    "summary_cn": "Reddit用户爆料称，Adobe正通过一种隐秘方式检测用户是否安装了Creative Cloud。当用户访问Adobe官网时，网站会加载一个特定的图像。如果用户的`/etc/hosts`文件中存在针对该图像域名的DNS条目（通常是为屏蔽Adobe服务而设置），浏览器在尝试连接时就会暴露相关信息。此举表明Adobe试图利用系统底层文件来判断用户设备上是否安装了Creative Cloud软件或曾屏蔽其服务。",
+    "source": "daringfireball.net",
+    "url": "https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/",
+    "score": 8,
+    "angle": "“🚨Adobe偷窥你的电脑？！揭秘它如何利用hosts文件查你是否用了‘盗版’！”或“Adobe用户速看！你电脑里的这个文件正在‘出卖’你！”。内容可科普hosts文件的作用，Adobe的检测机制，以及对普通用户（尤其是使用修改版或屏蔽服务的用户）的潜在影响。可以引导用户检查自己的hosts文件，并讨论如何保护个人隐私。"
+  },
+  {
+    "title_en": "The Great Pyramid of Giza and the Speed of Light",
+    "title_cn": "吉萨大金字塔与光速",
+    "summary_cn": "本文探讨了吉萨大金字塔纬度与光速之间一个惊人的数值巧合。作者在核实社交媒体上的传闻时发现，金字塔的精确纬度（北纬29.9792458度）与真空中的光速数值（299,792,458米/秒）在数字上惊人地完全一致。这个发现引发了人们对古老文明智慧与宇宙奥秘的无限遐想。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/",
+    "score": 8,
+    "angle": "吉萨大金字塔的纬度数值竟然和光速数值完全一致！然后简单科普这个数值，并提出疑问：这究竟是巧合，还是古埃及文明掌握了我们无法理解的宇宙奥秘？引发用户好奇心和讨论欲，鼓励分享类似的“世界未解之谜”。"
+  },
+  {
+    "title_en": "The Solitaire Shuffle",
+    "title_cn": "纸牌接龙的万象",
+    "summary_cn": "本文深入探讨了经典的单人纸牌游戏及其无穷无尽的变体。它超越了我们熟悉的Windows 3.1版本，揭示了这款看似简单的游戏背后蕴藏的丰富多样性和复杂性。作者通过沉思，带领读者领略单人纸牌世界里不为人知的广阔天地，发现其远超想象的魅力。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history",
+    "score": 8,
+    "angle": "告别焦虑，重拾童年乐趣！🎮 Windows 3.1后，纸牌接龙居然有上万种玩法，每个都比刷手机过瘾，还能悄悄提升专注力！🤫"
+  },
+  {
+    "title_en": "Meta Unveils Muse Spark, a Multimodal Reasoning AI Model",
+    "title_cn": "Meta发布多模态推理AI模型Muse Spark，助力个人超级智能",
+    "summary_cn": "Meta推出Muse Spark，这是一款具备工具使用、视觉思维链和多智能体编排能力的多模态推理模型，旨在推动个人超级智能的发展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHOgOAYM-Fumylx5c8BCIK393MOyzEF4EVuJqq_E0FjxvAtH8CkmUakdBHjmTPf3YqwwQo9_0h0-qdbiMZRYou0h58TPQstScxFK0zlKb4D_GqV0eeRcpRrWJbmI2n0JC6RqwgHDmuKjb1dRPMsAn41yltTiwv8sGVs3W1-npAL1nBuc0oe1WLUTmS_sJFuGubyl5fMLa1pjuFFw==",
+    "score": 8,
+    "angle": "Meta放大招！全新AI模型Muse Spark能看、能想、能指挥，你的下一个“超级大脑”要来了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Elon Musk's xAI Sues Colorado Over New AI Regulations",
+    "title_cn": "埃隆·马斯克的xAI起诉科罗拉多州，反对新AI法规",
+    "summary_cn": "埃隆·马斯克的xAI公司对科罗拉多州的新人工智能规则提起诉讼，这标志着AI公司与监管机构之间在AI治理问题上的紧张关系进一步升级。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHukWb6TQ0kskAFxmMcL3Z5WQzMtT66XzlsMyyhNZxAyhVJkB-tP8eHPPP3FypSwdur-mefPdEexwYADDYIAp5MhIds2uKTV2WrYbf2l7n75xiY4Wh48NuxtJ4FJ98oaRQFCSYxG2q25gp9WjW0L0RZw8SGfG6GeMj_",
+    "score": 8,
+    "angle": "马斯克硬刚政府！xAI起诉科罗拉多州，AI发展与监管的天秤该如何平衡？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Intel and Google Expand Collaboration to Advance AI Infrastructure",
+    "title_cn": "英特尔与谷歌深化合作，共同推进AI基础设施建设",
+    "summary_cn": "英特尔与谷歌宣布建立多年合作关系，将继续利用Intel Xeon处理器为Google Cloud AI基础设施提供动力，并扩大定制ASIC基础设施处理单元(IPU)的共同开发。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcU33hvrvXY_OA9E0RuKalIR6O5Zf5hUtsbATj7IrZX_k4V4LnuD4gDdFXFQw3n12ZdZ37OXlSCa8efiVbLYVAw7DEYCl5FByi7dYUd7Gi3iPvZ-sLhG9U8SyRkbI0zqR68IdI1bwbYQjNG21VPR_-nRvJQfpaw0hGj90d6JpbtljA-ExkZiorkivjijt2AwKkLN1h41BVkbTCCTXgBPw=",
+    "score": 8,
+    "angle": "强强联手！英特尔+谷歌，共同打造AI“高速公路”，未来算力更强大？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Faraday Future Demonstrates Autonomous Food Delivery with FX Aegis Embodied AI Robot",
+    "title_cn": "Faraday Future展示FX Aegis具身AI机器人自主送餐场景",
+    "summary_cn": "Faraday Future发布其FX Aegis具身AI机器人的最新演示视频，展示了该机器人在真实环境中自主完成送餐任务，并集成了OpenClaw框架以实现无代码技能开发。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFum3-HTjhOd9oIuXLCp_X7T2Rgm8tAZ7iHQZ1LPUtxbw3HayIfvBlTiqFEW8JItximOwpsEfuk42FbMuriRYOR5xrqgwL-aMd2GHUtQBdGs1t_XiG8RRht_1Qr3ZNEJsgs8gsYpromQQ0nLOqhF9_5zesc3ejGQdP1xnvluPs3iIYClIXCcML6otY-gU544DKVuvART2E=",
+    "score": 7,
+    "angle": "FF机器人能送外卖了！具身智能离我们更近一步，未来生活会是怎样？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Random hexagon fractal",
+    "title_cn": "随机六边形分形",
+    "summary_cn": "本文介绍了一种生成随机分形的方法。首先，在一个六边形内随机选取一点c。接着，在每一步中，随机选择六边形的一条边，并与点c构成一个三角形。然后，将点c更新为这个新三角形的中心。通过重复这一过程，便可逐步生成一个独特的随机六边形分形图案。这一方法最初由X上的一篇帖子描述，详细内容可在John D. Cook的博客上找到。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+    "title_cn": "精明谷与知识共享协议 (2026年4月10日)",
+    "summary_cn": "这篇文章集合了多篇链接，探讨了“精明谷”与“知识共享协议”的议题，并触及了广泛的社会热点。内容涵盖了对“拜登经济学”的审视、平衡战争预算的讨论、教皇与伯尼·桑德斯的对话，以及艺术品洗钱、英国政府谴责版权流氓行为、制药公司伦理等多元主题。此外，作者还提及了未来的公开活动和新书动态。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/10/canny-valley/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "GitHub Repo Size",
+    "title_cn": "GitHub 仓库大小",
+    "summary_cn": "\"GitHub Repo Size\"是一个实用的在线工具，旨在帮助用户快速查询GitHub仓库的实际大小。由于GitHub官方界面不直接显示这一信息，该工具通过调用CORS友好的GitHub API，让用户只需粘贴仓库链接，即可轻松获取其存储占用空间。例如，`simonw/datasette`仓库显示大小为8.1MB。这对于开发者或对项目规模感兴趣的人士来说，提供了便捷的数据查询途径。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Lickspittle of the Week: Todd Blanche",
+    "title_cn": "托德·布兰奇",
+    "summary_cn": "代理司法部长托德·布兰奇在谈及美国总统时，发表了一段极尽谄媚的言论。他表示为特朗普总统工作是“一生中最大的荣幸”，并称如果特朗普选择提名他人或让他从事其他工作，他会说“非常感谢，我爱您，先生”。文章暗示布兰奇的言辞过于卑躬屈膝，甚至将其评为“本周马屁精”，认为这种表达超出了正常的工作关系范畴。",
+    "source": "daringfireball.net",
+    "url": "https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Intel 486 CPU announced April 10, 1989",
+    "title_cn": "英特尔486 CPU于1989年4月10日发布",
+    "summary_cn": "1989年4月10日，英特尔在Comdex大会上正式发布了其划时代的486 CPU。这款处理器当时以每千片950美元的高昂价格面市，是当时最先进的个人电脑核心。文章回顾了当年科技杂志对这款里程碑式芯片的报道，带领读者重温其诞生时刻及其在当时的社会反响，揭示了个人电脑发展史上一个重要的篇章。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/?utm_source=rss&utm_medium=rss&utm_campaign=intel-486-cpu-announced-april-10-1989",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud",
+    "title_cn": "尝试在云端训练更优模型",
+    "summary_cn": "自二月初以来，作者一直在对一个1.63亿参数的GPT-2风格模型进行各种干预实验。该模型是作者在本地RTX 3090显卡上从零开始训练的，其代码实现借鉴了Sebastian Raschka的著作《从零构建大型语言模型》。本文是系列文章的第32部分，主要探讨在云端尝试训练更优模型的具体干预措施和初步成果。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Fewer Computers, Fewer Problems: Going Local With Builds & Deployments",
+    "title_cn": "回归本地构建与部署",
+    "summary_cn": "尽管作者喜爱Netlify等现代云部署工具，但在2025年，他正考虑回归到本地构建和从个人电脑直接部署。他厌倦了因远程构建环境引发的额外DevOps问题。即使代码在本地运行良好，也常需要额外时间确保其在远程Linux服务器上也能正常工作。因此，他希望通过回归本地化操作来简化开发流程，减少因环境差异造成的无谓烦恼，提升效率，将精力集中于代码本身。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "watgo - a WebAssembly Toolkit for Go",
+    "title_cn": "watgo - 一个 Go 语言的 WebAssembly 工具包",
+    "summary_cn": "很高兴宣布 watgo 正式推出，这是一个专为 Go 语言设计的 WebAssembly 工具包。watgo 的功能与 C++ 的 wabt 或 Rust 的 wasm-tools 等现有工具类似，但其核心优势在于它是完全用纯 Go 语言编写，并且没有任何外部依赖。这为 Go 开发者提供了一个简洁高效的 WebAssembly 开发和处理方案。",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Some quick notes to myself on nftables 'symbolic variables'",
+    "title_cn": "nftables '符号变量' 随笔",
+    "summary_cn": "Nftables 作为当前 Linux 系统的新一代防火墙规则系统，已取代了先前的 iptables。文中提到，nftables 引入了‘符号变量’这一概念。作者结合自己使用 BSD PF 防火墙的经验，对其进行了初步的描述和理解。本文是作者为方便个人记忆和理解 nftables 中‘符号变量’特性所做的简短笔记，旨在帮助熟悉其他防火墙系统（如 BSD PF）的用户快速了解这一新机制。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?",
+    "title_cn": "如何从一个活跃的 `WaitForMultipleObjects` 中添加或移除句柄？",
+    "summary_cn": "这篇文章简要指出，无法直接从一个正在运行的 `WaitForMultipleObjects` 函数调用中动态添加或移除句柄。这是一个关于Windows编程中进程间通信和同步的底层技术问题。作者强调，虽然直接操作不可行，但可以通过线程间的协作来间接实现动态管理句柄的需求。这暗示开发者在设计需要动态句柄的场景时，需要采用更复杂的线程间协作机制，而非寄希望于直接修改活跃的等待对象。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Package Registries and Pagination",
+    "title_cn": "软件包注册中心与分页",
+    "summary_cn": "本文探讨了软件包注册中心在管理大量数据时的挑战。例如，一个注册中心可能包含上万个版本的软件包，其元数据总量可达100MB。文章可能深入分析如何通过分页技术有效处理和展示这些庞大的数据，以优化用户体验和系统性能。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
+    "title_cn": "SQLAlchemy 2 实战 - 第四章 - 多对多关系",
+    "summary_cn": "本文是《SQLAlchemy 2 实战》系列书籍的第四章，专门深入探讨数据库中的“多对多关系”类型。本章延续了关系主题的讨论，旨在帮助读者理解并掌握如何在SQLAlchemy 2中有效地处理复杂的多对多数据关联。作者鼓励读者通过购买此书来支持其创作，书籍可在作者官网或亚马逊平台购买。",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships",
+    "score": 1,
+    "angle": ""
+  }
+]
