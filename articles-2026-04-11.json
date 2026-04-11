@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "Kākāpō parrots",
+    "title_cn": "鸮鹦鹉",
+    "summary_cn": "Lenny最近发布了一段精选自我们时长1小时40分钟播客录音的剪辑，这段精彩内容全部围绕着独特的鸮鹦鹉展开。随附的视频片段进一步展示了播客讨论的主题，为听众提供了一个了解鸮鹦鹉的便捷窗口，共同探索这种稀有鸟类的趣闻。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+    "score": 9,
+    "angle": "呆萌睡神鸮鹦鹉的奇葩生活！”为标题，内容深入科普鸮鹦鹉的独特之处，如其夜行性、巨大的体型、濒危状况及保护故事，配以它呆萌可爱的图片或视频，引发用户对稀有动物的好奇心和保护意识。"
+  },
+  {
+    "title_en": "ChatGPT voice mode is a weaker model",
+    "title_cn": "ChatGPT语音模式性能较弱",
+    "summary_cn": "许多人误以为ChatGPT语音模式是其最智能的版本，但实际上，它运行在一个较旧、性能较弱的模型上。尽管语音模式会告知其知识截止日期为2024年4月（即GPT-4o时代），但其实际能力并不如文本模式强大。这篇文章揭示了用户对AI语音模式的普遍误解，提醒大家语音模式并非总代表最先进的AI，帮助用户更理性地认识和使用AI工具。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
+    "score": 9,
+    "angle": "ChatGPT语音模式竟是‘弱鸡’？”。内容上，先点出普通用户对语音模式的普遍误解（以为是最高级最智能），然后揭示其真正性能较弱的原因（底层模型较旧），并可举例说明其与文本模式的差异。最后，给出实用建议：何时适合使用语音模式（简单闲聊），何时应切换到文本模式以获得更准确、强大的回答，引导用户高效利用AI。"
+  },
+  {
+    "title_en": "Cheapest way to keep a UK mobile number using an eSIM",
+    "title_cn": "使用eSIM保留英国手机号的最便宜方式",
+    "summary_cn": "这篇文章探讨了如何以最经济的方式保留一个旧的英国手机号码。作者希望保留该号码几年，以防其被用于各种服务的双重验证或登录。鉴于不愿使用实体SIM卡的麻烦，作者正在寻找通过eSIM技术实现这一目标的最佳且最便宜的解决方案，并提及市面上存在多种提供商可供选择。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/",
+    "score": 9,
+    "angle": "针对留学生、回国党或长期旅英人士，分享如何利用eSIM以最低成本（强调价格优势，如每年仅需几英镑甚至免费方案）保留英国手机号。详细介绍不同eSIM运营商的保号套餐选择，强调无需实体卡、避免国际漫游费，确保重要验证码和消息永不丢失。可辅以各运营商资费对比图。"
+  },
+  {
+    "title_en": "Elon Musk's xAI Sues Colorado Over New AI Regulation Law, Citing Free Speech Violations",
+    "title_cn": "马斯克旗下xAI起诉科罗拉多州，挑战AI监管法案称侵犯言论自由",
+    "summary_cn": "埃隆·马斯克的AI公司xAI对科罗拉多州的新AI监管法案提起诉讼，认为该法案要求AI系统披露风险并防止算法歧视，此举侵犯了宪法第一修正案的言论自由。该法案原定于6月30日生效，xAI主张其将迫使AI模型Grok推广州的意识形态观点。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYjakORQrpwNT-ya2tyv1eitJEbSWL6PMLC-NmFJGO1GYaBZ7jC84kWpBQO48aBDtzNkN0b5GYiBD8HEc-_dDfJOS0U981nXfg8d03f_7OfCIw-xlLWwyJKQNHCe-0wC6MM8xlBaiJCDD4alLNbnKL1WWFCYOs8=",
+    "score": 9,
+    "angle": "AI自由边界在哪？马斯克硬刚政府，这事关我们每个人未来使用的AI长啥样！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic Unveils Claude Mythos Preview, a Powerful AI Model Restricted Due to Zero-Day Vulnerability Discovery Capabilities",
+    "title_cn": "Anthropic发布“神级”AI模型Claude Mythos Preview，因可发现零日漏洞被限制开放",
+    "summary_cn": "Anthropic宣布推出前沿AI模型Claude Mythos Preview，该模型在SWE-bench测试中表现出色，甚至能在操作系统和浏览器中发现大量零日漏洞。因其强大能力带来的潜在风险，Anthropic决定不向公众开放此模型，并启动“Project Glasswing”计划，仅供选定的科技和金融公司用于防御性网络安全工作。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjnIHfdwGORsUSx1-Ut6M4Mjcb_dG2YH4YA4vs2wtViG5j4O7Q1ml_XxDKqoDP3YvpS4k2zj3sdc1xQ9jdmSuuKsOHtCUBMQLy1axSR_rKVcyYEclLuVrnC-zEWoxcvuvCfjL_0eIDcJRN9Gx8cRTHOtE33z80c-WDMu4As67cjIKI5-w_10tYhayGradsnjfoExHopQrCSOnqWazFWniCi3Oi7vJQ_jxoerdAlWc4OVceaqtfG2ryzdgQdQ==",
+    "score": 9,
+    "angle": "AI太强被“雪藏”！Anthropic发布“神级”模型，普通人到底该焦虑还是期待？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead",
+    "title_cn": "生前友谊，弥足珍贵；身后悼念，为时已晚",
+    "summary_cn": "本文聚焦《纽约客》杂志上由罗南·法罗和安德鲁·马兰茨撰写的关于知名科技人物萨姆·奥特曼的深度报道。这篇史诗级特稿深入剖析了奥特曼的个人与职业生涯，引发广泛关注，也借此标题探讨了对活着的人表达真情实意的价值。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead",
+    "score": 8,
+    "angle": "「生前友谊」这标题背后的职场启示录！普通人如何从AI教父故事中学到人性与领导力？"
+  },
+  {
+    "title_en": "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
+    "title_cn": "Ed Bindels 的荷兰乌得勒支苹果博物馆",
+    "summary_cn": "位于荷兰乌得勒支（阿姆斯特丹以南约30-40分钟车程）的Ed Bindels苹果博物馆近期开馆，它被描述为令人惊叹。博物馆的亮点之一是其令人难以置信的iMac彩虹墙，这使得整个展馆显得格外震撼。这个新博物馆无疑为苹果爱好者提供了一个沉浸式体验经典产品的机会。",
+    "source": "daringfireball.net",
+    "url": "https://applemuseum.nl/",
+    "score": 8,
+    "angle": "这堵iMac彩虹墙，我能看一天！🌈 荷兰小众旅行，苹果博物馆美到窒息！"
+  },
+  {
+    "title_en": "Your friends are hiding their best ideas from you",
+    "title_cn": "你的朋友正在向你隐藏他们最好的想法",
+    "summary_cn": "大学时，作者和同学在JavaScript课上完成了一项期末项目——为虚构的“珊瑚礁”餐厅制作网站。作者发挥美术特长，用Photoshop巧妙地将设计好的Logo融入餐厅图片中。正当大家在CRT显示器前欣赏成果时，作者突然间有了“灵光一现”的感觉，这预示着一个关于想法与创造力的有趣故事即将展开。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed",
+    "score": 8,
+    "angle": "朋友真的在藏好点子？我的大学项目告诉你，真正的宝藏创意可能就在你身边！"
+  },
+  {
+    "title_en": "Premium: The Hater's Guide to OpenAI",
+    "title_cn": "OpenAI黑粉指南",
+    "summary_cn": "这篇名为“OpenAI黑粉指南”的文章，引用《纽约客》的报道指出，Sam Altman在2023年短暂被逐出OpenAI后的一次“紧张通话”中，似乎未能正视其存在的“欺骗模式”。文章可能从批判性角度，深入探讨OpenAI及其领导者Sam Altman在公司运营和个人行为中引发的争议，揭露潜在问题和不透明之处，为读者提供一个不同于官方宣传的视角，引发对AI巨头更深层次的思考。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/hatersguide-openai/",
+    "score": 8,
+    "angle": "【AI内幕】Sam Altman被曝“欺骗模式”？！这份《OpenAI黑粉指南》揭露了哪些惊人真相！#OpenAI #SamAltman #AI争议 #科技内幕 #吃瓜大会"
+  },
+  {
+    "title_en": "Meta Launches Muse Spark, Its New Flagship AI System to Compete with OpenAI and Google",
+    "title_cn": "Meta推出全新旗舰AI系统Muse Spark，旨在与OpenAI和谷歌竞争",
+    "summary_cn": "Meta发布了其新的旗舰AI系统Muse Spark，旨在直接与OpenAI、谷歌和Anthropic的模型竞争。该模型在写作和推理测试中与顶级竞争对手表现相当，并将很快应用于Meta AI应用、网站以及Facebook、Instagram和WhatsApp等产品中，支持语音、文本和图像输入。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEueUP6S1XudHPooHd9EJG-wearttiPlZUwC02fCe9dTvk_ZqlatxSLkRL57N9rA2IQxODsrzViW8L8XF1i_9iyZrqS_wwDOTuDFiutFlgzJnyHlJ-cqwynKVPtMkpNIG5Nf4cIrSqJ3ucV0n8VxrwgyyCvALHVtIziDAybNn60F6zuYugUW2iFd8HdAtezDimOjfW55L-N8ro6MHxjAV1hQALCX4C6Q5WoTX_0PaFbmA==",
+    "score": 8,
+    "angle": "Meta也放大招了！全新AI模型Muse Spark挑战GPT，你的社交生活要被AI重新定义？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Tsinghua-backed AI Company Shengshu Technology Completes Nearly 2 Billion Yuan Series B Funding Led by Alibaba Cloud",
+    "title_cn": "清华系人工智能公司生数科技完成近20亿元B轮融资，阿里云领投",
+    "summary_cn": "清华系人工智能公司生数科技于4月10日宣布完成近20亿元人民币B轮融资，由阿里云领投。本轮融资旨在支持生数科技在多模态通用大模型及“世界模型”方面的研发，以期实现AI对物理世界的统一表征与预测能力，推动物理AGI的发展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXrfQiVPtjzA54jnfvF0FPcOa5OX7rp3IB7vFIfxUDvaaSV45YTWg5ZIjfUdgU5GDJvAdVi9HJSi9l_j2dIy2q6ZKKYiZj0sLpjALuhS01vYFcypakwhoW3-jCvM3Cd2ziRrYEB0zu5fRC2XVDC_C-4mA=",
+    "score": 8,
+    "angle": "国产AI又赢麻了！清华系公司获阿里20亿投资，世界模型要打开元宇宙新大门？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Nebius Secures $2 Billion Investment from Nvidia and Over $40 Billion in Infrastructure Deals",
+    "title_cn": "Nebius获Nvidia 20亿美元战略投资，并签订超400亿美元基础设施协议",
+    "summary_cn": "AI超大规模计算公司Nebius在数周内获得了Nvidia 20亿美元的战略投资，并与微软和Meta等超大规模提供商签订了超过400亿美元的基础设施协议。此外，还完成了43.4亿美元的可转换债券交易。这些大规模的投资和合作将推动Nebius进一步发展其AI基础设施。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9-R7sbN-WcQ2bOpEHeNAuBrFW6K7jAFAatgkLkF23nfKJ35DCxr_JgG71pp8gobJWoBNUbeKAlh9yDrYC2gXSAJa4fDCbOE15N9h21ZKBW5FRn-Q6d8FWieMmS9yn4t1ORNVZtSOVmDMQgSBuR6y9pqFDcwojapfiXnvqWEHY84RY-CwIjcJRnQpxAQ2K",
+    "score": 8,
+    "angle": "巨头抢滩AI算力！Nvidia豪掷20亿，下一个科技巨头是它？普通人如何抓住AI基建红利？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Latent, a Clinical AI Platform, Raises $80 Million in Series A Funding to Accelerate Medication Access",
+    "title_cn": "临床AI平台Latent完成8000万美元A轮融资，加速患者用药可及性",
+    "summary_cn": "临床AI公司Latent宣布完成8000万美元的A轮融资。该公司专注于利用人工智能平台加速患者获取挽救生命的药物。此次融资将助力Latent进一步开发和推广其AI驱动的解决方案，以改善医疗健康领域药物的可及性。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcK7O_LBHcgXfP4MZ1SlVn1EQN3TTsYm0TkX5DIzAb1Ju0h6WIPzdrjGNKdJA0sEzXCiMRhA8uO7f9eT6Z_8Wckyvw9QNkJtp_Olr7mHU=",
+    "score": 7,
+    "angle": "AI+医疗再获巨额融资！未来看病吃药更智能，我们的健康AI管家要上线了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Open Source China Completes C+ Round Funding, Aiming to Become the 'First Open Source AI Stock'",
+    "title_cn": "开源中国完成C+轮融资，冲刺“开源AI第一股”",
+    "summary_cn": "开源中国于4月10日宣布完成C+轮融资。作为中国领先的开源技术社区和平台，此轮融资将助其在开源AI领域继续发力，并有望冲击“开源AI第一股”。这标志着资本市场对开源AI生态及其商业化前景的认可。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrnv9okpntfSHxHsFnBv8Le8fBieDSNkVbmRrkET8JeSW04QNxmN0VzBOKrrvfGnJr0efidx8YkGlS-1q2WyNAt-eea_zHU816gu4BDl4mrHUp9pi6JUkgEW82is68RjbjIpZ7UzDxS7TQfejPvGxwJuPWaj8btg0nsBmkfe_d0w==",
+    "score": 6,
+    "angle": "开源AI迎来新金主！C+轮融资助力国产AI，开发者春天要来了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI is nothing without its people",
+    "title_cn": "没有人才，OpenAI 将一无是处",
+    "summary_cn": "这篇文章是对Sam Altman某篇博客文章的回应。鉴于提供的文章内容仅限于此说明，摘要只能指出其性质为一篇针对特定博客的回复。文章的具体论点、立场以及对“人才”重要性的详细阐述，均未在此内容中体现。因此，本文旨在表达对Altman观点的某种反馈，但具体方向和深度尚不明确。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Reading List 04/11/2026",
+    "title_cn": "2026年4月11日阅读清单",
+    "summary_cn": "这份阅读清单涵盖了地缘政治、城市发展和科技前沿的多个热门话题。内容包括对霍尔木兹海峡开放状态的关注，建筑规范成本效益分析，英特尔加入Terafab的最新动态，以及海绵城市理念的探讨。这些文章旨在提供全球供应链、可持续发展、半导体产业和城市韧性等领域的深度见解，帮助读者了解未来趋势和挑战。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-04112026",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Distribution of digits in fractions",
+    "title_cn": "分数中数字的分布",
+    "summary_cn": "这篇文章指出，即使在基础数学领域，也存在许多不为人知且引人入胜的知识点。作者旨在揭示分数小数形式中一个你可能从未了解的独特现象。通过一个具体的数学示例（如涉及条件 p > 5），文章将深入探讨分数小数点后数字的分布规律，展现数学的无限魅力和探索空间，鼓励读者探索数学中“偏僻但有趣”的角落。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/10/fraction-digits/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "I'm now using nftables for (new) static rulesets",
+    "title_cn": "我现在正在使用nftables来配置（新的）静态规则集",
+    "summary_cn": "作者最近在Ubuntu系统上配置了一些静态IP过滤规则集，并开始使用nftables。他表示已经喜欢上nftables，认为其体验比iptables更接近pf，这对于编写连贯的规则集来说是个优点。与动态修改不同，nftables在处理固定规则方面表现出色，让作者感受到极大的便利和效率提升。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?, part 2",
+    "title_cn": "如何从一个活跃的 `WaitForMultipleObjects` 中添加或移除句柄？（第二部分）",
+    "summary_cn": "本文是关于如何在活跃的 `WaitForMultipleObjects` 调用中动态添加或移除句柄的系列文章的第二部分。它深入探讨了在对 `WaitForMultipleObjects` 监听的句柄集进行更改后，如何确保等待线程能够及时且正确地感知并响应这些变化。文章的核心在于处理等待线程确认更改的同步机制，强调确保操作的原子性和线程安全性，避免潜在的竞争条件和错误。这对于需要动态调整事件监听的Windows编程场景至关重要。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223",
+    "score": 1,
+    "angle": ""
+  }
+]
