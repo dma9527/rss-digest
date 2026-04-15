@@ -1,0 +1,290 @@
+[
+  {
+    "title_en": "OpenAI Ships GPT-6 Globally, Claims Significantly Reduced Hallucination Rates",
+    "title_cn": "OpenAI 全球发布 GPT-6，宣称幻觉率大幅降低",
+    "summary_cn": "OpenAI 于4月14日全球发布了GPT-6模型，采用两层推理架构，将幻觉率降低至0.1%以下，并在编码和推理基准测试中表现出色，较GPT-5.4提升约40%。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw0dUgiUxLRnY9w2rDssS4cflR4vVcrxlPA_HCD-W7icWPYhk38gdx4OfLBBBEX0DZcYA81RHl1DmI-E0szT2o4SUKpSPjckIn_YtZG6boEJKZxBZBzaY5Sq6AWRVeYqOUnzcXmI9w9phPRDYcherGmJaiEw=",
+    "score": 10,
+    "angle": "AI界重磅！GPT-6升级，幻觉变少更可靠，你的工作效率要起飞了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users",
+    "title_cn": "Mac App Store假冒加密货币应用盗走50多用户950万美元",
+    "summary_cn": "一款假冒的Ledger加密货币钱包应用成功上架苹果App Store，导致50多名用户损失高达950万美元。受害者误以为是官方产品，输入助记词后，其加密货币钱包随即被盗空。其中一位名为G. Love的音乐家因此失去了他的退休金。此事件凸显了即使是号称高度审查的官方应用商店也存在安全漏洞，提醒用户需警惕假冒应用和保护数字资产安全。",
+    "source": "daringfireball.net",
+    "url": "https://www.web3isgoinggreat.com/?id=fake-ledger-app",
+    "score": 9,
+    "angle": "1. 曝光假冒应用如何通过苹果审核；2. 提醒用户如何验证应用真伪（不要随意输入助记词、核对开发者信息、通过官方渠道下载等）；3. 强调数字资产安全的重要性，以及官方渠道也非百分之百安全，提高用户警惕性。标题可设置为“苹果App Store惊现诈骗！950万美元一夜蒸发，你的数字资产还安全吗？”或“血泪教训！我在App Store下载的假应用，让我失去了退休金！”。"
+  },
+  {
+    "title_en": "On the Name of Apple’s Foldable iPhone",
+    "title_cn": "苹果折叠屏iPhone的命名探讨",
+    "summary_cn": "知名中国爆料人“数码闲聊站”称，苹果首款折叠屏iPhone或将命名为“iPhone Ultra”，而非此前猜测的“Fold”。该博主以准确性著称，并指出苹果这款“书本式”折叠屏的命名，甚至可能影响国内其他制造商的命名策略。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/",
+    "score": 9,
+    "angle": "💥重磅爆料！苹果折叠屏iPhone不叫Fold，竟是『iPhone Ultra』？！这名字暗示了什么大动作？你期待吗？🤔"
+  },
+  {
+    "title_en": "OpenAI Raises Record-Breaking $122 Billion Funding Round, Valuation Reaches $852 Billion",
+    "title_cn": "OpenAI 完成创纪录的1220亿美元融资，估值达8520亿美元",
+    "summary_cn": "OpenAI 完成了一轮高达1220亿美元的融资，投后估值达到8520亿美元。亚马逊投资500亿美元，英伟达和软银各投资300亿美元，并首次向散户投资者开放30亿美元。公司月收入已达20亿美元。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw0dUgiUxLRnY9w2rDssS4cflR4vVcrxlPA_HCD-W7icWPYhk38gdx4OfLBBBEX0DZcYA81RHl1DmI-E0szT2o4SUKpSPjckIn_YtZG6boEJKZxBZBzaY5Sq6AWRVeYqOUnzcXmI9w9phPRDYcherGmJaiEw=",
+    "score": 9,
+    "angle": "震撼！OpenAI吸金千亿再创新高，AI巨头如何搅动资本市场？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June",
+    "title_cn": "谷歌终于将在六月开始惩罚劫持返回按钮的网站",
+    "summary_cn": "谷歌在其搜索中心博客宣布，从六月起将扩大其垃圾信息政策，明确打击“劫持返回按钮”（back-button hijacking）这一欺骗性行为。该行为将被视为“恶意操作”的明确违规，实施此类手段的网站将面临潜在的垃圾信息处理措施。谷歌旨在通过此举正式惩罚阻止用户正常使用浏览器返回功能的网站，从而提升用户搜索体验，确保搜索结果的质量和安全性，让用户不再被恶意网站困扰。",
+    "source": "daringfireball.net",
+    "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "score": 8,
+    "angle": "从用户痛点出发，科普什么是“劫持返回按钮”（back-button hijacking），结合自身或朋友遇到的具体例子，强调这种行为的烦人之处，然后引出谷歌出手惩罚的好消息，并提醒大家以后可以更安心地上网，或是分享如何识别这类网站。"
+  },
+  {
+    "title_en": "Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch",
+    "title_cn": "亚马逊收购Globalstar，宣布与苹果达成协议将继续为iPhone和Apple Watch提供服务",
+    "summary_cn": "亚马逊公司宣布将收购Globalstar，旨在通过其Amazon Leo低地球轨道卫星网络提供直连设备（D2D）服务，从而将蜂窝网络覆盖范围扩展至地面网络无法触及的区域。同时，亚马逊还与苹果达成协议，未来Amazon Leo将为iPhone和Apple Watch提供卫星服务，确保用户在户外或紧急情况下也能获得持续的连接，提升设备的实用性和安全性。",
+    "source": "daringfireball.net",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple",
+    "score": 8,
+    "angle": "iPhone/Apple Watch户外党看过来！亚马逊和苹果官宣合作，未来你的设备也能太空上网，野外再也不怕失联！😱这波科技升级你期待吗？（可重点突出对户外运动、旅行爱好者、自驾游人群在安全和通讯方面的潜在益处）"
+  },
+  {
+    "title_en": "Why is it so hard to passively stalk my friends' locations?",
+    "title_cn": "为什么想悄悄掌握朋友行踪这么难？",
+    "summary_cn": "作者感到困惑，为什么自己总是错过与朋友相遇的机会。无论是去新城市旅行，还是参加会议，总是在事后才得知朋友也在附近，从而错失了聚餐或相聚。他对此感到内疚和遗憾，希望能有一种更轻松、更被动的方式，能及时了解朋友的行踪，避免这种擦肩而过的遗憾。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/",
+    "score": 8,
+    "angle": "【旅行遗憾清单+1】每次出门都跟朋友完美错过！😫 有没有让你悄悄知道朋友在哪的神器？"
+  },
+  {
+    "title_en": "I Will Never Respect A Website",
+    "title_cn": "我永远不会尊重一个网站",
+    "summary_cn": "这篇文章片段邀请读者订阅作者的付费周报，以支持其独立报道和分析。订阅费用为每年70美元或每月7美元，订阅者将每周收到一篇字数介于5,000至18,000字之间的深度文章。文中未提及具体网站或其不受尊重的具体原因，仅为推广付费订阅服务，文章内容本身无法从这段介绍中得知。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/i-will-never-respect-a-website/",
+    "score": 8,
+    "angle": "你也有同感吗？我为什么永远无法‘尊重’某些网站！😫 深度揭秘互联网背后的‘潜规则’！"
+  },
+  {
+    "title_en": "Nothing ever dies. It merely becomes embarrassing.",
+    "title_cn": "科学的光环理论。",
+    "summary_cn": "在科学领域，事物并非真正消亡，而只是随着时间的推移变得令人尴尬。它引入了“科学的光环理论”，用以解释某些理论或概念为何即使已显陈旧或被证伪，仍能凭借其过去的光环效应而持续存在，不肯完全退场，最终可能成为科学发展道路上的有趣注脚或“尴尬遗产”。",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes",
+    "score": 8,
+    "angle": "那些你以为早已淘汰、却还在我们生活中“尴尬”存在的科学概念！科普冷知识，帮你擦亮眼，告别智商税！"
+  },
+  {
+    "title_en": "Meta Rolls Out Muse Spark AI Model Across Its Apps, Enhancing Multimodal Reasoning",
+    "title_cn": "Meta 将 Muse Spark AI 模型推广至旗下应用，强化多模态推理能力",
+    "summary_cn": "Meta 的Muse Spark模型正从Meta AI应用和网站扩展到WhatsApp、Instagram、Facebook、Messenger及AI眼镜中。该模型代号为Avocado，专注于小型、快速的多模态推理和工具使用。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw0dUgiUxLRnY9w2rDssS4cflR4vVcrxlPA_HCD-W7icWPYhk38gdx4OfLBBBEX0DZcYA81RHl1DmI-E0szT2o4SUKpSPjckIn_YtZG6boEJKZxBZBzaY5Sq6AWRVeYqOUnzcXmI9w9phPRDYcherGmJaiEw=",
+    "score": 8,
+    "angle": "你的Meta应用要变聪明了！Muse Spark AI加持，社交互动更有趣！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "NVIDIA Pushes Vera Rubin Platform into Full Production for Agentic AI Factories",
+    "title_cn": "英伟达 Vera Rubin 平台全面投产，赋能代理式AI工厂",
+    "summary_cn": "英伟达的Vera Rubin平台已全面投产，该平台结合了新的Vera CPU、Rubin GPU、NVLink 6等技术，旨在支持代理式AI工厂。首批实例预计2026年下半年登陆各大云服务商。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw0dUgiUxLRnY9w2rDssS4cflR4vVcrxlPA_HCD-W7icWPYhk38gdx4OfLBBBEX0DZcYA81RHl1DmI-E0szT2o4SUKpSPjckIn_YtZG6boEJKZxBZBzaY5Sq6AWRVeYqOUnzcXmI9w9phPRDYcherGmJaiEw=",
+    "score": 8,
+    "angle": "英伟达新一代AI工厂来了！Vera Rubin平台将如何重塑AI算力版图？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Pluralistic: Rights for robots (15 Apr 2026)",
+    "title_cn": "机器人的权利 (2026年4月15日)",
+    "summary_cn": "这篇文章围绕“机器人的权利”展开讨论，提出并非所有事物都应享有道德考量。此外，内容还涵盖了广泛的社会与技术议题，包括数字千年版权法（DMCA）、新奥尔良市长候选人事件、警察包围策略的合法性、美国在线（AOL）邮件投递问题、漫画家Chris Ware、莫萨克·冯塞卡律所突袭、企业游说开支、科尔宾多缴税款、知识产权的含义，以及对比尔·盖茨的看法等多元化链接和评论。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/15/artificial-lifeforms/",
+    "score": 7,
+    "angle": "未来已来！🤖 我们该如何定义机器人的“权利”？这不是科幻，而是我们必须面对的AI伦理挑战！从扫地机器人到自动驾驶，AI正渗透我们生活，未来它们真的会拥有道德考量和权利吗？一起来深度思考，我们与智能体的边界在哪里。#AI伦理 #机器人权利 #未来科技 #深度思考 #数字时代 #科技与人文"
+  },
+  {
+    "title_en": "Why was there a red telephone at every receptionist desk?",
+    "title_cn": "为什么每个前台都有一部红色电话？",
+    "summary_cn": "为什么在微软（或类似公司）的前台会摆放一部红色电话？它并非通往比尔·盖茨办公室的专线。虽然当前内容并未直接揭示其真实用途，但它作为引子，引导读者探索微软官方开发博客“The Old New Thing”上发布的相关文章，以揭开这个关于办公室历史和趣闻的谜团。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260414-00/?p=112231",
+    "score": 7,
+    "angle": "前台那部红色电话是干嘛用的？绝不是你想象的紧急专线或老板热线！🧐 一起来看看这个看似普通却隐藏着“大秘密”的办公室物件，背后的真实用途竟然是…… #办公室趣闻 #职场冷知识 #微软 #科技历史 #红电话之谜"
+  },
+  {
+    "title_en": "Intersecting spheres and GPS",
+    "title_cn": "球体相交与GPS",
+    "summary_cn": "文章解释了GPS定位的几何原理。当你知道自己与一颗卫星的距离d时，你的位置并非一个点，而是一个圆。这是因为你的实际位置是地球表面与一个以卫星为中心、半径为d的虚拟球体的交点。根据几何学原理，两个球体相交会形成一个圆。因此，一次卫星观测只能将你的位置限定在地球表面的一个特定圆周上。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/14/intersecting-spheres-and-gps/",
+    "score": 7,
+    "angle": "切入角度可以设置为“你以为GPS一次就能精准定位你？没那么简单！”。通过悬念标题吸引用户，然后用简洁明了的图示（如两个球体相交形成圆的动画），解释当手机接收到一颗卫星信号时，其实只知道自己处于地球表面一个“巨大圆圈”上的几何原理。强调“一个卫星定位一个圈”的知识点，引发好奇。可以配上酷炫的地球与卫星轨道图，并用通俗语言解释为什么需要多颗卫星才能最终锁定你的精确位置。"
+  },
+  {
+    "title_en": "Pressed For Options",
+    "title_cn": "选择有限",
+    "summary_cn": "本文作者分享了为Linux笔记本电脑购买USB指纹识别器的经历。由于市场上能找到的兼容设备选择有限，作者最终在Temu平台购得一款，因为这是他唯一能找到的、确认能够与Linux系统完美配合并正常工作的型号。这一选择凸显了Linux用户在寻找特定硬件时面临的兼容性挑战与无奈，以及他们在有限选项中做出决策的过程。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges",
+    "score": 7,
+    "angle": "唯一完美兼容的USB指纹识别器，秒速解锁，告别繁琐密码输入！"
+  },
+  {
+    "title_en": "zappa: an AI powered mitmproxy",
+    "title_cn": "AI驱动的中间人代理",
+    "summary_cn": "Zappa是一个由AI驱动的中间人代理。未来，人工智能将能够以与人类无异的方式与互联网互动。这项技术提供了一个绝佳机会，帮助我们摆脱那些不断争夺我们注意力的信息和平台，从而实现真正的数字自由。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html",
+    "score": 7,
+    "angle": "围绕“AI如何帮助普通人摆脱信息过载和注意力劫持，实现数字生活‘断舍离’”的主题。例如，标题可以设计为“AI帮你‘数字排毒’！告别信息轰炸，重夺你的专注力！”，内容则强调AI作为个人数字助手，智能筛选内容、屏蔽打扰，最终提升生活品质和专注力，无需深究技术细节，而是聚焦其带来的“自由感”和“高效性”。"
+  },
+  {
+    "title_en": "Happy Horse 1.0 AI Video Generation Model Rumored for Release on fal",
+    "title_cn": "传闻 Happy Horse 1.0 AI视频生成模型将登陆 fal 平台",
+    "summary_cn": "神秘的AI视频模型 Happy Horse 1.0 在AI视频生成排行榜上超越了Seedance 2.0，有望于2026年4月晚些时候通过 fal 的API和游乐场提供。该模型具有150亿参数，可同步生成视频和音频。",
+    "url": "https://www.einpresswire.com/article/700810762/happy-horse-1-0-is-rumored-to-be-coming-to-fal-later-in-april-2026",
+    "score": 7,
+    "angle": "刷爆朋友圈的AI视频大神！Happy Horse 1.0要来了，零基础也能变身剪辑大师！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Validus AI Partners Launches Executive Sprint on Enterprise AI Governance Amidst New Regulations",
+    "title_cn": "Validus AI Partners 推出企业AI治理高管冲刺计划，应对新规挑战",
+    "summary_cn": "Validus AI Partners 宣布推出为期一天的企业AI治理高管强化课程，旨在帮助高管评估企业AI准备情况，以应对欧盟AI法案和科罗拉多AI法案等全球新法规带来的风险和挑战。",
+    "url": "https://www.einpresswire.com/article/700773099/validus-ai-partners-announces-executive-sprint-enterprise-ai-governance-evaluating-risk-via-iso-42001-nist",
+    "score": 7,
+    "angle": "AI法规步步紧逼？企业AI治理如何合规又高效，专家为你划重点！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Has Hidden the Pre-Creator-Studio Versions of Keynote, Numbers, and Pages in the Mac App Store",
+    "title_cn": "苹果已在 Mac App Store 中隐藏了 Keynote、Numbers 和 Pages 的 Creator Studio 更新前旧版本",
+    "summary_cn": "苹果为 Keynote、Numbers 和 Pages 推出的 Creator Studio 新功能在不同平台更新方式有别。iPhone 和 iPad 端是常规更新，但在 Mac 端则复杂得多。文章指出，苹果在 Mac App Store 中并未移除这些应用的旧版本，而是将其隐藏起来，用户仍能找到并下载。这为那些需要旧版本或不希望更新的用户提供了选择，避免了更新带来的困惑。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "HeartSciences Advances ECG Technology Through AI Integration",
+    "title_cn": "HeartSciences 通过AI技术整合推动心电图技术发展",
+    "summary_cn": "HeartSciences 公司正通过将人工智能整合到心电图（ECG/EKG）中来推进其医疗信息技术。公司提醒股东在4月30日的年度会议上投票，强调了AI在改进医疗诊断中的作用。",
+    "url": "https://www.globenewswire.com/news-release/2026/04/14/3807270/0/en/HeartSciences-Reminds-Its-Shareholders-to-Submit-Their-Vote-at-the-Upcoming-April-30-2026-Annual-Shareholders-Meeting.html",
+    "score": 6,
+    "angle": "AI看心电图更准了！HeartSciences带来医疗新突破，健康管理更智能！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Aiarty Image Enhancer Enables Fast, Private On-Device AI Image Enhancement for macOS Users",
+    "title_cn": "Aiarty Image Enhancer 为 macOS 用户提供快速、私密的设备端AI图像增强",
+    "summary_cn": "Aiarty Image Enhancer leveraging Apple的Core ML，为macOS用户提供快速、安全的设备端AI图像处理。它利用CPU、GPU和ANE优化性能，无需云服务器即可完成图像增强，保障用户隐私。",
+    "url": "https://www.einpresswire.com/article/700850239/aiarty-image-enhancer-enables-fast-private-on-device-ai-image-enhancement-for-macos-users",
+    "score": 6,
+    "angle": "Mac用户狂喜！AI修图神器Aiarty Image Enhancer，隐私安全两不误，轻松P出大片感！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Cybersecurity Looks Like Proof of Work Now",
+    "title_cn": "网络安全如今如同工作量证明",
+    "summary_cn": "英国AI安全研究所近期发布了一份关于“Claude Mythos Preview”网络能力的独立评估报告。这份报告是其对“Claude Mythos”进行的独立分析，旨在评估其网络安全能力，并初步支持了某种观点（原文在此处截断）。文章标题暗示，网络安全领域可能正展现出与“工作量证明”机制相似的特性或趋势。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Trusted access for the next era of cyber defense",
+    "title_cn": "网络防御新时代的可信访问",
+    "summary_cn": "OpenAI为应对竞争对手“Claude Mythos”，推出了一款名为GPT-5.4-Cyber的新模型。该模型经过专门微调，旨在为防御性网络安全用例提供可信访问能力。OpenAI正为未来数月内发布更强大的模型做准备，致力于提升AI在防范网络攻击方面的效能，为网络安全新时代提供先进的解决方案，以应对日益复杂的网络威胁。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Glider Is Back in the Mac App Store",
+    "title_cn": "Glider 重返 Mac App Store",
+    "summary_cn": "知名开发者John Calhoun曾为macOS/iOS制作的游戏Glider，因兼容性问题（或与Apple Retina显示更新有关）一度从App Store下架。最近，在朋友Claude的帮助下，解决了代码中的坐标问题，Glider Classic for MacOS现已成功回归Mac App Store。距离其上一个版本发布已时隔11年，这款经典游戏的回归对老玩家来说无疑是个好消息。",
+    "source": "daringfireball.net",
+    "url": "https://bsky.app/profile/engineersneedart.com/post/3mjf3ldjbp22k",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Universities, email, and the issues of running things in house",
+    "title_cn": "大学、电子邮件与内部自营的问题",
+    "summary_cn": "近年来，许多大学已将电子邮件和部分认证系统（如MFA）外包给微软、谷歌等大型供应商。文章揭示，大学内部自营这些服务存在诸多问题，例如维护复杂性高和资源投入大。因此，将关键IT服务外包已成为普遍趋势，旨在减轻内部运营负担，并借助专业供应商提升服务效率和安全性。这反映了高校在IT管理策略上的重大转变。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Patch Tuesday, April 2026 Edition",
+    "title_cn": "2026年4月补丁星期二",
+    "summary_cn": "微软发布了大规模安全更新，修复了Windows及相关软件中的167个安全漏洞，包括一个SharePoint Server零日漏洞和Windows Defender的“BlueHammer”弱点。同时，Google Chrome修复了其2026年的第四个零日漏洞，Adobe Reader也紧急更新，解决了一个正被积极利用的远程代码执行缺陷。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Zig 0.16.0 release notes: \"Juicy Main\"",
+    "title_cn": "“Juicy Main”",
+    "summary_cn": "Zig 0.16.0版本发布说明以其详尽的特性描述和实用示例而备受赞誉。本次更新的亮点是引入了名为“Juicy Main”的新功能。这是一个为程序`main()`函数设计的依赖注入特性，它允许`main()`函数接受`process.Init`，从而提升程序启动和配置的灵活性与模块化程度。对于Zig开发者而言，这项核心改进将显著优化代码的可维护性和测试性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+    "title_cn": "datasette PR #2689: 用 Sec-Fetch-Site 头部保护取代基于令牌的 CSRF 防护",
+    "summary_cn": "Datasette 长期以来一直使用基于令牌的 CSRF 防护机制，通过 asgi-csrf Python 库实现。然而，这种方式在实际操作中较为繁琐，需要开发者在模板表单中手动添加隐藏的 CSRF 令牌字段。最新的 datasette PR #2689 旨在解决这一痛点，提议用更简洁高效的 `Sec-Fetch-Site` 头部保护来取代现有的基于令牌的 CSRF 防护机制。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "John Calhoun on Steve Lemay",
+    "title_cn": "约翰·卡尔霍恩谈史蒂夫·勒梅",
+    "summary_cn": "本文引用约翰·卡尔霍恩在Hacker News上关于史蒂夫·勒梅的评论。卡尔霍恩回顾了自己在苹果公司担任工程师时，与当时作为新设计师的勒梅共事的经历。他表示勒梅是个好人，尽管两人之间曾有过一些“争执”。这段内容揭示了两位前苹果员工之间早期工作关系的一瞥，为读者提供了对业内人士互动和公司文化背景的洞察。",
+    "source": "daringfireball.net",
+    "url": "https://news.ycombinator.com/item?id=47297653",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider",
+    "title_cn": "理查德·莫斯2010年对约翰·卡尔霍恩关于《Glider》起源的访谈",
+    "summary_cn": "理查德·莫斯在2010年通过邮件采访了约翰·卡尔霍恩，深入探讨了经典Mac游戏《Glider》系列的起源与发展。《Glider》系列在1990年代是Mac游戏平台的标志性作品，拥有庞大的忠实粉丝群，他们为游戏，特别是后来的《Glider 4》和《Glider PRO》，创作了大量原创内容。这次访谈旨在揭示这款深受喜爱的游戏的幕后故事及其在Mac游戏历史上的独特地位。",
+    "source": "daringfireball.net",
+    "url": "https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Intel Celeron 266 introduced April 15, 1998",
+    "title_cn": "英特尔赛扬 266 于 1998 年 4 月 15 日推出",
+    "summary_cn": "1998年4月15日，英特尔发布了赛扬266处理器，开启了一个长达25年的产品系列。然而，这款作为精简版奔腾II处理器的赛扬266，并非英特尔的得意之作。尽管它标志着赛扬时代的开端，但其发布并未给英特尔带来“最辉煌的时刻”。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/intel-celeron-266-introduced-april-15-1998/?utm_source=rss&utm_medium=rss&utm_campaign=intel-celeron-266-introduced-april-15-1998",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Speaking of Tips",
+    "title_cn": "说到蒂普斯",
+    "summary_cn": "克里斯汀·蒂普斯（Kristin Tips），德克萨斯州备受争议的殡葬服务委员会的长期主席，已不再担任该职务。州长阿博特的发言人证实了她的离职，并表示州长感谢她的服务，后续将公布接替人选。蒂普斯与丈夫共同经营圣安东尼奥著名的使命公园殡仪馆、公墓和火葬场，她在该委员会中曾发挥重要作用。",
+    "source": "daringfireball.net",
+    "url": "https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php",
+    "score": 1,
+    "angle": ""
+  }
+]
