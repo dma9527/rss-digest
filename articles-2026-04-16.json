@@ -1,0 +1,317 @@
+[
+  {
+    "title_en": "Quoting Kyle Kingsbury",
+    "title_cn": "引用 Kyle Kingsbury",
+    "summary_cn": "即由人类对他们所监督的机器学习系统承担责任。这种问责可以是企业内部的，例如Meta公司雇佣员工审查自动化审核系统的决策；也可以是外部的，例如律师因提交大型语言模型生成的虚假信息给法院而受到处罚。核心观点是，随着AI的广泛应用，人类将越来越多地需要为人工智能的输出负责，确保其可靠性和准确性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+    "score": 9,
+    "angle": "你愿意成为AI的“人肉盾牌”吗？揭秘未来AI系统背后的责任与挑战！"
+  },
+  {
+    "title_en": "Anthropic attracts investor offers at over $800 billion valuation, IPO plans in sight",
+    "title_cn": "Anthropic估值超8000亿美元引投资者追捧，IPO或将提速",
+    "summary_cn": "AI巨头Anthropic获得投资者超过8000亿美元的估值报价，远超数月前3800亿美元的估值，并计划最早于2026年10月进行IPO，有望成为科技史上最大规模上市之一。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxM1dn1KtFxisAJcFtTSdZ7zrCR1lS3kboJl-uIFBiVrKeW7MlHUdmB5iH-s8gwZ6dGqj3Hl12eB2CFGcuDKmkrGWpMCSEE9nA73rruObJ10nzF6YPBAu7VojsCXtNa8kbE0hWkhp2vJVPXKlfGZw1Vp-4RaLKYii6jOhTdaox93pVTpXS0OcQ5EMADc8=",
+    "score": 9,
+    "angle": "AI独角兽身价暴涨！Anthropic冲刺万亿IPO，这波科技红利你抓住了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Tech industry lays off nearly 80,000 employees in Q1 2026, almost 50% due to AI",
+    "title_cn": "2026年第一季度科技行业裁员近8万人，近半数受AI影响",
+    "summary_cn": "据报告，2026年第一季度科技行业裁员78,557人，其中近50%（37,638人）的职位削减归因于AI和工作流自动化，显示AI对就业市场的巨大冲击。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM3AVg2MF-ob1eWJS1jWEzfFboVtecI9p_xwmxmbo5rUQW1fBN54KhN6z53hp-wICsBI1EHxNnIndzmCyhnbEBci_Ipb1vVEaeS95UrLTxNJ1POGg3D4x8dr48_0Haqm7SJDeXNQrQqdz-fBWJMwJFJzO0uAigDJrzad1_qP2o6mgI1z5163ZIyieOQliL1-FUfjy4LJc8miY4AUKfwEv2ENMgcEPnYysvLZi_HG9XCgzgudiP-cRUT04k8o7B9Mjs__Pkt9gPRue1dFg5e10d_BNbYGLJSmz2IQPwyt263b-6C4HsZ818",
+    "score": 9,
+    "angle": "AI抢饭碗！Q1科技公司裁员近8万，你的工作会被AI取代吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting John Gruber",
+    "title_cn": "引用 John Gruber",
+    "summary_cn": "文章指出，苹果真正的“金矿”并非App Store的抽成，而是其平台拥有最优质的应用，从而吸引用户选择iPhone、Mac和iPad。然而，这一优势正在减弱。作者认为，这并非因为其他平台软件质量提高，而是苹果自身平台上的第三方软件正在逐渐“回归平庸”，从某种程度上侵蚀了苹果赖以吸引用户的核心竞争力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+    "score": 8,
+    "angle": "苹果的“黄金摇钱树”要倒了？揭秘iPhone应用质量下降的深层原因！📱 为什么你的手机App越来越难用？(可以引导用户讨论哪些App体验变差了，或分享自己对iPhone应用体验的感受。)"
+  },
+  {
+    "title_en": "Gemini 3.1 Flash TTS",
+    "title_cn": "Gemini 3.1 闪电语音合成",
+    "summary_cn": "Google今日发布了Gemini 3.1 Flash TTS，这是一款全新的文本转语音模型。其主要亮点在于能够通过提示词（prompt）进行定向指导，从而生成高质量的语音内容。用户可通过标准Gemini API，使用`gemini-3.1-flash-tts-preview`模型ID访问此功能，目前仅支持输出音频文件。这项技术预示着AI语音生成将更加灵活和个性化。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+    "score": 8,
+    "angle": "** 🔥炸裂！Google Gemini 3.1新功能，你的文字终于开口说话了！AI配音大神来了！"
+  },
+  {
+    "title_en": "★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again",
+    "title_cn": "重磅！大卫·皮尔斯试用多款安卓手机后，再次购入iPhone",
+    "summary_cn": "这篇文章揭示了苹果生态系统的核心吸引力。作者认为，苹果真正的“金矿”并非来源于应用商店的交易抽成，而是其平台拥有业内顶尖的应用程序。正是这些卓越的应用体验，吸引并留住了大量用户，从而促使他们选择iPhone、Mac和iPad等苹果设备。因此，优质应用是苹果产品生态系统保持强大竞争力的关键所在，也是其盈利模式的深层基础。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/piece_android_iphone_apps",
+    "score": 8,
+    "angle": "用了那么多安卓，最终还是逃不过iPhone真香定律？背后的真相竟然不是App Store分成，而是它...😱 手机党必看！"
+  },
+  {
+    "title_en": "I truly hate mostpeopleslop",
+    "title_cn": "我真心厌恶大多数人的俗套内容",
+    "summary_cn": "广告首句唯一目的在于吸引读者阅读次句。作者指出，这条原则在很大程度上解释了社交媒体的演变趋势，强调了在信息爆炸时代，如何通过精心设计的开篇抓住用户注意力至关重要。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/",
+    "score": 8,
+    "angle": "小红书爆款笔记流量翻倍的秘密：第一句话怎么写才能牢牢抓住读者？**"
+  },
+  {
+    "title_en": "Speed is Not Conducive to Wisdom",
+    "title_cn": "欲速不达智",
+    "summary_cn": "观点被现实颠覆，成品被世界撕裂，想法因短视而瓦解。这个过程可能缓慢且令人不适，但唯有放下速度，才能真正面对并体验这些，从而获得深刻的领悟和智慧。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/",
+    "score": 8,
+    "angle": "【反内卷】为什么你越快越迷茫？慢下来，才能真正“搞懂”这个世界！"
+  },
+  {
+    "title_en": "ECB to quiz bankers about risks of Anthropic's new AI model, Mythos, amid cybersecurity warnings",
+    "title_cn": "欧洲央行就Anthropic新AI模型Mythos网络安全风险质询银行",
+    "summary_cn": "Anthropic推出的新AI模型Mythos因其强大的网络攻击能力，引发欧洲央行监管机构的担忧，将质询银行对潜在网络攻击的防御准备。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSiEmuC4zDs01tH8KLyUoQA2L0AXmBI_Uxo7YGtxx7a_cHEiX4uIBD4nWizuyz0uWj_ATA2JJ_df_YOpq43zsmeAixJfEyRXWq97io8I24Yoq8YyUVIhUikuXsUXVoDgeaUZACNGik9u6PLwG22eZNUiLd2rWnJTIXm_avAzFg9PiS8UMmFtwbRRjiaxqVzMq0E8Fj6iL",
+    "score": 8,
+    "angle": "AI安全警报拉响！央行点名新模型Mythos，你的数字资产还好吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US House to Weigh Penalties on AI Model Copying by Chinese Firms",
+    "title_cn": "美国众议院拟对中国公司复制AI模型行为施加惩罚",
+    "summary_cn": "美国众议院共和党议员呼吁对中国实体施加制裁，因其涉嫌不当提取美国领先AI模型成果以开发自有系统，旨在应对中美AI竞争。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt6KBKLXQR0zPGpWmwpHKiv-o4sHaJIekbNkI3sMO8v9iC4gagmfkSjL3XlUVQdn44UD-8zkQ5fdo125dW71qxMb5gPZZJCrFboiIboonzz4OL58yKyeQ2cFdNRGP4VHKPgIXl3XHGNf70aUV_v3qPwyYwI8qSCDOX7IN_rjGrrTrjWdflshpU_RHAidZB80dw4lFgGWISME8XwXX99TG1Ldx3JGbYJsvpbuE-9VI=",
+    "score": 8,
+    "angle": "中美AI大战升级！复制AI模型或遭制裁，科技竞争进入白热化！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta and Broadcom agree to mega-deal to co-develop AI chips",
+    "title_cn": "Meta与博通达成协议，共同开发AI芯片",
+    "summary_cn": "Meta已与博通达成合作，共同设计和开发多代Meta训练和推理加速器芯片，旨在减少对Nvidia的依赖并支持其长期AI战略。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-nEJ175PCyFh7ByouINDFPlxuzQ4zl1TNMKb9x79s6ndQi28xtl4FS5Q0lwaKSMBHztiVgVIsLXNI3xIx8ceBj07hFe30D5KiV59tPrEAX_DtGxluYzzJ3u-HBi-2tMJ6pERjGKsVQ5zNxsvAdxVb0gyyklt6grFdBAIA3eAUfiu42cHq14D4ftl87ntbHZX",
+    "score": 8,
+    "angle": "AI芯片之争白热化！Meta牵手博通自研芯片，未来手机里的AI更智能？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "So Close to Getting It",
+    "title_cn": "差点就到位了",
+    "summary_cn": "文章引用《The Verge》专栏作家David Pierce对Sofa 5.0版本更新的高度赞扬，并得到了作者本人的认同。Sofa 5被形容为一个“巨大更新”和“Installerverse最爱”，现在能出色地管理用户所有想看、想读、想玩甚至想做的线上线下活动。这款应用被认为是帮助用户高效整理和管理数字与现实生活的强大工具。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+    "score": 7,
+    "angle": "围绕“告别碎片化生活，你的娱乐、阅读、待办清单一站式管理神器！”的主题，介绍Sofa 5.0如何作为一个“宝藏App”帮助用户高效整合和管理所有想看、想读、想玩以及现实生活中的计划和活动。强调其“全能性”和“几乎完美”的用户体验，解决现代人信息过载、任务繁杂的痛点。可以展示使用Sofa管理书单、电影清单、健身计划等不同场景的截图，吸引追求精致生活和效率提升的用户。"
+  },
+  {
+    "title_en": "Sofa 5.0",
+    "title_cn": "Sofa 5.0",
+    "summary_cn": "Sofa 5.0 是一款旨在帮助用户追踪各种个人进度（如剧集、书籍、游戏）的应用程序。它解决了人们容易开启新事物却难以记住上次中断之处的痛点。通过应用内直观的进度环，用户可以一目了然地看到各项内容的进展。主屏幕还清晰展示“接下来做什么”，并提供一键勾选功能，方便用户随时更新状态，告别半途而废的困扰，让休闲娱乐更有效率。",
+    "source": "daringfireball.net",
+    "url": "https://www.sofahq.com/5",
+    "score": 7,
+    "angle": "告别半途而废！这个App让你的追剧、看书、玩游戏进度一目了然！强迫症福音，再也不怕烂尾，轻松管理你的休闲时光！"
+  },
+  {
+    "title_en": "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+    "title_cn": "《关于史蒂夫的记忆》（特别是Safari独特的页面加载指示器）",
+    "summary_cn": "曾带领团队开发Safari浏览器的丽莎·梅尔顿，分享了她与史蒂夫·乔布斯打交道的经验。她强调，当乔布斯提问时，最重要的是不要支支吾吾或凭空编造答案。如果不知道，就坦诚相告，并承诺何时能给出答案。她认为这不仅是向上管理的黄金法则，更是与任何人有效沟通的A+建议，即“不知道就说不知道”。",
+    "source": "daringfireball.net",
+    "url": "https://lisamelton.net/2023/10/05/memories-of-steve/",
+    "score": 7,
+    "angle": "乔布斯教会我的职场沟通法则！一句话让你高情商搞定老板。"
+  },
+  {
+    "title_en": "Screen Zooming on iOS and iPadOS",
+    "title_cn": "iOS 和 iPadOS 屏幕缩放",
+    "summary_cn": "本文介绍了 iOS 和 iPadOS 设备上的“缩放”辅助功能。用户可以通过触摸、键盘或触控板来控制屏幕缩放，该功能支持显示镜像，并提供迷你地图和抬头显示（“缩放控制器”）等选项，帮助用户观察屏幕细节。这些设置位于“设置”→“辅助功能”→“缩放”中，用户还可以将缩放区域从默认的窗口缩放进行切换，以满足不同的使用需求。",
+    "source": "daringfireball.net",
+    "url": "https://mastodon.social/@stroughtonsmith/116404958539831051",
+    "score": 7,
+    "angle": "将屏幕秒变放大镜！📱🔍” 以“你不知道的iOS隐藏功能”或“护眼神器”为切入点，强调其能帮助用户看清细节、保护视力，并展示其多样化的控制方式（触摸、键盘、触控板）和附加功能（迷你地图、HUD），突出实用性和便捷性。例如：【iPhone/iPad隐藏小技巧：屏幕放大镜你用过吗？一招搞定细节查看！】"
+  },
+  {
+    "title_en": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
+    "title_cn": "TPU竞争，为何应向中国出售芯片，以及英伟达的供应链护城河",
+    "summary_cn": "这篇文章围绕英伟达CEO黄仁勋的观点展开，探讨了英伟达在人工智能芯片领域的竞争，特别是来自TPU的挑战。文章还深入分析了向中国出售芯片的战略意义及其重要性。黄仁勋强调，英伟达拥有强大的供应链作为其护城河，并充满信心地表示，即使未来几年公司规模达到万亿美元，其供应链也能完全支持这一增长。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/jensen-huang",
+    "score": 7,
+    "angle": "围绕黄仁勋关于“向中国出售芯片”的争议性言论，结合其AI教父的个人魅力，用通俗易懂的方式解读背后的大佬商业智慧、AI芯片竞争格局及供应链的重要性，引发用户对科技趋势和国际商业策略的讨论。可以从“大佬的商业考量”、“AI芯片如何影响普通人生活”等角度切入。"
+  },
+  {
+    "title_en": "AI hiring tool faces lawsuit under Fair Credit Reporting Act for using consumer data",
+    "title_cn": "AI招聘工具因涉嫌使用消费者数据而面临《公平信用报告法》诉讼",
+    "summary_cn": "Eightfold AI的招聘平台被指控在未经同意下收集个人数据并生成求职者评估，引发了一起集体诉讼，挑战AI招聘工具的隐私边界。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDMvuiM0vCcMGlB4X8firDFwo1aL0eQAX4PGbvsPMvu14f2lZN8yHsK4eQvnE7b7aODZUWtH-PfzfEk--m6EPjxH8XB56KnWfx7RroFHz5C9HzRdiczKl9TwPHCORoxtlrKaeOnUMWSrZWP1_ZYH8F99AEPiQ9uLSZb4Sg2xobXrpvdUkJFKpW-n4eoHCvOuCNp3F4xw=",
+    "score": 7,
+    "angle": "AI面试官侵犯隐私？求职者注意！你的个人数据可能被悄悄评分了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Canada launches national initiative to build large-scale AI supercomputing capacity",
+    "title_cn": "加拿大启动国家计划，建设大规模AI超级计算能力",
+    "summary_cn": "加拿大政府宣布启动AI主权计算基础设施计划，投入巨资建设先进的AI超级计算系统，以支持国内AI研发，保障国家利益。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBaEWQaYnvMUhe9TsZgQT7y4ZABEiCQmBd0qtjXKg7ZFaZwfv_xpeLemKZdSZc_hWgeMpfrbYqIdPfvqxVT1CjB5gVcWagMc6BTy5mplOxu-u4JzI031a-OLdAc3j84i7GLvPPBdfwKiTaS5w_xyWFLQlRbELLFpScSZ7gcLYTCFhZoVOf44BaLz3r2_Mxj-z1ID8LeqvqunGfF5M6HJyOuhpBt-x-T0_dGtssH6d260cdhlyYK786fSWpusZw-PPZEwGgr2g-AEjcXVAMsXtt3KVDndhTWSmZqETM3dmQNxh5",
+    "score": 7,
+    "angle": "加拿大也要发力AI！国家级超级计算中心来了，AI人才有新机遇！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly",
+    "title_cn": "Adobe Firefly推出全新创意智能体和生成式AI创新，开启创意新时代",
+    "summary_cn": "Adobe发布了由其创意智能体驱动的Firefly AI Assistant，通过单一对话界面协调和执行多步工作流，为创意专业人士带来前所未有的控制和效率。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYzXMYRMjkXjfqap7Mq1sHHZioPhN0bM9CNHE6FAH9mCpJSE20h8JA5ko9AioEB8A2XHFHOiHKRRBfrRzGyrBM-N-jvcxxJghCFCD_ACXgItn5gnj3Nv6WChm6lDxL0Jspyw1JnfLq-elSiCrtXx6cJMxp0JOdw==",
+    "score": 7,
+    "angle": "设计师狂喜！Adobe Firefly AI助理上线，一句话搞定复杂创意，效率爆炸！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI cybersecurity is not proof of work",
+    "title_cn": "人工智能网络安全不是工作量证明",
+    "summary_cn": "这篇文章指出，将人工智能网络安全比作“工作量证明”是一个错误的类比。工作量证明机制中，投入足够“工作”就一定能找到哈希碰撞，资源更多的一方最终会获胜。然而，软件漏洞的性质不同，例如大型语言模型（LLM）的执行路径虽多，但基于代码的可能状态最终会达到饱和，这与工作量证明的逻辑存在本质差异。",
+    "source": "antirez.com",
+    "url": "http://antirez.com/news/163",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)",
+    "title_cn": "给AI末日论者的帕斯卡赌注 (2026年4月16日)",
+    "summary_cn": "本文以“帕斯卡赌注”的视角探讨AI末日论，指出人类可能已在不知不觉中被“回形针化”。此外，文章还分享了一系列多元链接，内容涵盖数字版权、开源加密技术、企业运作失误、文化独特性（如不可翻译词）以及版权问题（如克林贡语版权），甚至提及“谋杀抵消”等话题。文章末尾附有作者的活动预告和书籍信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Gemini 3.1 Flash TTS",
+    "title_cn": "Gemini 3.1 闪电文本转语音",
+    "summary_cn": "本文介绍了谷歌推出的全新文本转语音模型 Gemini 3.1 Flash TTS。该模型旨在提供快速、高效的语音合成能力。作者Simon Willison分享了他对这款新工具的详细笔记和看法。它属于谷歌Gemini系列技术，强调“Flash”特性，预示其在语音生成速度上可能有所突破，对于需要将文字快速转换为自然语音的应用场景具有潜在价值。用户可以通过提供的链接查看更多细节。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "An Arm Mainboard for the Framework Laptop",
+    "title_cn": "适用于 Framework 笔记本的 Arm 主板",
+    "summary_cn": "本文作者持续对易于维修的Framework 13笔记本电脑进行主板测试。在此前已发布低端x86（Ryzen AI 5 340）和最快RISC-V（DC-ROMA II）主板的测试结果后，现在将公布唯一的Arm主板——MetaComputing AI PC的性能数据。这款Arm主板搭载12核Arm SoC，并支持最高32GB内存，为对模块化笔记本和不同架构处理器感兴趣的用户提供了详细的参考信息。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "RSS Club for WordPress",
+    "title_cn": "WordPress 的 RSS 俱乐部",
+    "summary_cn": "“RSS 俱乐部”是一种独特的“秘密社交网络”，其文章仅对 RSS / Atom 订阅者可见，普通用户无法在网站上直接看到。阅读此消息即意味着你已成为俱乐部会员。如果你想在自己的 WordPress 网站上实现类似功能，你需要创建一些只在 RSS / Atom 中显示、且在网站上不进行 HTML 渲染的博文。这为内容传播提供了一种新颖且排他性的方式，让订阅者感受到独特的价值和归属感。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple II announced April 16, 1977",
+    "title_cn": "Apple II 于 1977 年 4 月 16 日发布",
+    "summary_cn": "1977年4月16日，苹果公司发布了Apple II，这是最早的预装式台式电脑之一。尽管同年6月才正式出货，但这款划时代的电脑在其生命周期内售出了约600万台。它的问世不仅标志着个人电脑发展史上的重要里程碑，也极大地推动了个人电脑的普及，对现代科技产生了深远影响。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/apple-ii-announced-april-16-1977/?utm_source=rss&utm_medium=rss&utm_campaign=apple-ii-announced-april-16-1977",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette.io news preview",
+    "title_cn": "datasette.io 新闻预览",
+    "summary_cn": "\"datasette.io 新闻预览\"是一款工具，用于展示 datasette.io 网站新闻部分的预告。datasette.io 网站的新闻内容并非直接编辑，而是通过其底层 GitHub 仓库中的 `news.yaml` 文件自动构建。该 YAML 文件采用简洁的格式，包含发布日期和新闻主体内容，例如文章中展示的 Datasette 1.0a27 版本更新日志。这使得网站新闻的更新和管理更加系统化和自动化。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Our options in remote server installation and management",
+    "title_cn": "远程服务器安装与管理的方案",
+    "summary_cn": "本文探讨了远程服务器的安装与管理方案。由于服务器位于不便的远程地点，我们面临着定期重装Ubuntu LTS系统（如即将发布的26.04版本）的挑战，且不希望亲临现场操作。因此，寻找高效且无需现场干预的远程安装与管理方法变得至关重要，以确保系统更新和维护的顺利进行，避免前往现场的麻烦。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?",
+    "title_cn": "为什么线程退出后，WaitForSingleObject 会延迟很长时间才返回？",
+    "summary_cn": "这篇文章探讨了为什么在线程看似已经退出后，`WaitForSingleObject` 函数仍可能经历长时间延迟才能返回的问题。核心观点指出，这种延迟可能并非因为函数本身的问题，而是线程实际上可能尚未完全退出其所有资源或状态。即使表面上线程已完成任务，其内部仍可能有系统级的清理或状态同步过程未结束，导致`WaitForSingleObject`无法立即感知其最终终止状态。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Newton diameters",
+    "title_cn": "牛顿直径",
+    "summary_cn": "这篇文章介绍了数学中的“牛顿直径”概念。对于一个n次多项式f(x, y)，其零集通常会被直线在n个位置相交。牛顿将那些恰好与多项式f的零集相交n次的直线定义为“直径”。例如，如果f(x, y) = x² + y² − 1，其零集是一个圆，那么圆的直径正是这种定义的体现。这是一个纯粹的几何数学概念，展示了牛顿在几何领域严谨的定义方式。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/16/newton-diameters/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 32k -- Interventions: training a better model locally with gradient accumulation",
+    "title_cn": "利用梯度累积在本地训练更优模型",
+    "summary_cn": "作者正基于Sebastian Raschka的《从零开始构建大型语言模型》一书，开发一个GPT-2-small风格的LLM。作为系列文章的第32k部分，本文承接了之前在云端进行的模型和训练代码干预效果探索。作者致力于找出有效方法，并在本地环境中使用梯度累积技术，训练出一个性能更优越的语言模型。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Features everyone should steal from npmx",
+    "title_cn": "npmx 的这些功能",
+    "summary_cn": "npmx 是一个创新项目，它探索了当用户可以设计自己的包注册表前端时会发生什么。这意味着开发者不再受限于统一的官方界面，而是能够根据自身需求定制化访问和管理代码包的方式。这种模式有望提升开发效率，优化用户体验，并催生更多独特的功能和交互设计。文章将深入探讨并介绍 npmx 中那些值得其他平台或开发者学习和借鉴的创新特性。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A sufficiently comprehensive spec is not (necessarily) code",
+    "title_cn": "足够详尽的规格说明不（必然）是代码",
+    "summary_cn": "该文章探讨了软件开发中的一个常见误解，即认为一份足够全面和详尽的规格说明可以完全替代实际的代码编写或程序员的工作。作者通过引用一幅漫画来阐述自己的“痛点”，旨在指出商业决策者可能错误地认为，详尽的规范就等同于可执行的代码。文章强调，无论规范多么细致，它仍需经过程序员的解读、实现和转换为功能性软件。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
+    "title_cn": "SQLAlchemy 2 实践 - 第五章 - 高级多对多关系",
+    "summary_cn": "本文是《SQLAlchemy 2 实践》系列书籍的第五章，作者 Miguel Grinberg 在此深入探讨了关系型数据库的设计构建块。内容指出，这些基础模块在实际应用中有时需要进行“调整”。作者鼓励读者购买其作品，以支持其创作，书籍可在其个人商店或亚马逊平台购得。",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-export-database 0.3a1",
+    "title_cn": "Datasette 数据库导出 0.3a1",
+    "summary_cn": "Datasette 数据库导出插件发布了 0.3a1 版本。此次更新主要为了解决与 Datasette 1.0a27 的兼容性问题。此前，该插件利用 `ds_csrftoken` cookie 来生成自定义签名 URL。然而，随着 Datasette 1.0a27 版本的推出，该 cookie 已不再设置。因此，本次升级至关重要，它确保了插件在最新的 Datasette 环境下仍能正常、安全地提供数据库导出功能，避免因底层框架变化而导致的功能失效。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette 1.0a27",
+    "title_cn": "Datasette 1.0a27",
+    "summary_cn": "Datasette 最新 alpha 版本 1.0a27 发布，带来了两项主要更新。其中一项重大变化是Datasette不再使用传统的Django风格CSRF表单令牌，而是采用由Filippo Valsorda描述的现代浏览器头部信息进行CSRF防护。这项更新旨在简化安全机制并提高防护效率。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+    "score": 1,
+    "angle": ""
+  }
+]
