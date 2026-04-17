@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Anthropic Withholds Mythos After Zero-Day Breakthrough",
+    "title_cn": "Anthropic因检测到“毁灭性”安全风险而暂停发布前沿AI模型Mythos",
+    "summary_cn": "Anthropic宣布推出能够自主发现并利用零日漏洞的AI模型Claude Mythos Preview，但随后限制了其广泛发布。由于内部测试触发了ASL-4最高风险协议，Anthropic选择不向公众发布该模型，而是通过“玻璃之翼项目”向约40家防御伙伴提供有限访问。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv9jMOA-AenLIcOWOMpFsKM8g_Uu0HRm0fndfd7EpuEZGZSwBuptrpPThNvTVLkwOk8cRyIx0hgkCJm5U2KJfcN0ZGZCUkbgj5qB6Bd0_u5QKI6SH4ZewGunYuBwuKYxfhbE6T-MLLPXKvL454x1H9ii4zPmhCUNjLGV0NDL-fOLIfyUVqn_e1vAjno0OR12Oqhbn1r65nAPDy7w=",
+    "score": 10,
+    "angle": "AI安全红线拉响警报！Anthropic为何叫停前沿模型发布？ #AI安全 #模型伦理",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+    "title_cn": "Apple Pay 快捷交通模式与 Visa 卡联用时，存在被诈骗性刷卡设备盗刷的风险",
+    "summary_cn": "MacRumors报道，当Apple Pay的快捷交通模式与Visa卡配合使用时，存在被诈骗性触碰支付设备盗刷的风险。此漏洞并非iPhone本身的问题，而是源于Visa卡相关的安全机制漏洞。文章指出，由于Mastercard和美国运通卡采用了不同的安全方法，它们不受此漏洞影响，同样，Samsung Pay也无法利用此漏洞。该骗局仅在特定条件组合下才能成功。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/",
+    "score": 9,
+    "angle": "【🚨紧急提醒！Apple Pay用户速看！】"
+  },
+  {
+    "title_en": "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆",
+    "title_cn": "《如何杀死一个女巫——致父权制指南》",
+    "summary_cn": "这篇书评深入探讨了《如何杀死一个女巫——致父权制指南》一书。作者旨在通过阅读该书，理解苏格兰女巫审判背后的历史，包括女性为何被指控为女巫、审判的真实过程及其对现代社会的影响。本书主要聚焦苏格兰女巫审判，并简要涉及英格兰及其他地区，核心在于审视巫术是否真实存在的这一历史争议。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/",
+    "score": 9,
+    "angle": "从历史上的女巫审判，看父权制下女性的困境与反思。可以结合书名和内容，探讨现代社会中女性仍面临的刻板印象、指责与压力，引导读者思考“谁是现代社会的‘女巫’”以及如何打破这些束缚，引发关于女性力量与社会偏见的讨论。"
+  },
+  {
+    "title_en": "Tiger Global-backed Upscale AI eyes $200M raise at $2B valuation: report",
+    "title_cn": "Tiger Global支持的Upscale AI寻求以20亿美元估值融资2亿美元",
+    "summary_cn": "AI网络初创公司Upscale AI正寻求在新一轮融资中筹集1.8亿至2亿美元，公司估值约20亿美元。该公司在过去七个月内已完成两轮融资，累计筹集超3亿美元，主要投资者包括Tiger Global Management等知名机构。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgE8ECkCG-Bz93aEYvbvqaNA476VeXfR2O2URWAMwaVU-fBkfo6bwl1a3id1ljM8oDKBAY4Rr105POFf4AHU7XE4O1CNC8-fgPAko-ayLze4zzTnUQo5z0TrJf8c2q_mtEi793IO6HsqCJBjjFkFzOW2cHItzRWNw_DMtoCtxF4-a3e_0yqj_H3yE=",
+    "score": 9,
+    "angle": "AI独角兽再获巨额融资，下一个科技巨头正在崛起？ #AI融资 #科技投资",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "U.S. lawmakers gathered quietly to talk about AI. Angst and fears of 'destruction' followed",
+    "title_cn": "美国立法者就AI展开闭门讨论，忧虑与“毁灭”恐惧弥漫",
+    "summary_cn": "美国国会一个小组委员会举行了关于人工智能潜力的圆桌讨论，立法者们表达了对这项快速发展技术的担忧，包括AI系统滥用个人肖像生成不雅图像、联邦工作人员使用AI处理敏感政府数据，以及AI可能影响军事行动决策等问题。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzcGwMABuKbHC26DeSxJCNSHIqtsnZvydTXs3gpWZaNwxj5YnwWmWx1JRMM2BBURj1V4aqfskHYx05rOJYAzqKzYjC9EezIsicaJ6sFG1neAnF3LUfeUA8ocCLxgrAoXnUzOQI8Rn1RMgtM0idPPf6uwbX1Q_J1Mfm_gUt7KFiqJY6EQ6dAHN2vEevI7YjkHKtHK_RY5zFCdHJKg-eEfjgI9wHw2Hl5atGE5vfpywn7HkAGGPV0wWFjWIV0lVB9aqe2WAlmojqmEXiXjC9o3w5uuYGc0KVlkO974=",
+    "score": 9,
+    "angle": "美国国会大佬们都在担心什么AI？未来法规走向大猜想！ #AI政策 #立法趋势",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "NVIDIA and Idaho National Laboratory Launch AI Project to Cut Nuclear Build Time in Half",
+    "title_cn": "英伟达与爱达荷国家实验室合作，利用AI将核反应堆建造时间缩短一半",
+    "summary_cn": "爱达荷国家实验室与英伟达启动一项重大项目，旨在利用人工智能将核反应堆的建造时间缩短50%，并大幅降低运营成本。该项目名为“普罗米修斯”，将AI应用于核反应堆的整个生命周期，以实现数年内而非数十年内完成部署的目标。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwddtf_PxbHRdyYz6yhBOaigELAdtsZHbnxn2WAqpknF6TipIGykvSzalqvdrda-qg6DpWuTlBts2Tc3uSjy76oECAyiEJ-XqpXTPP8sWtVNQo2xl_SyyYllN2G_5LGoZLMX7TmNqgNuIJjiaRYdBhTtVLow0DoYaQnKR4gjsfe5cW52xlRddw0jcYvzEvcsYB4LZKuL6UUt1bD219cvc9tyB8zK-k_itrTSsc_v0=",
+    "score": 9,
+    "angle": "AI+核能：英伟达携手实验室，加速核反应堆建设，为AI发展注入绿色动力！ #AI应用 #清洁能源",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Snap announces massive layoffs after collapse of Perplexity deal",
+    "title_cn": "Snap宣布大规模裁员，因AI效率提升和Perplexity合作破裂",
+    "summary_cn": "Snapchat母公司Snap宣布裁员1000人，占其员工总数的16%。首席执行官Evan Spiegel在内部备忘录中指出，AI技术的快速发展使得团队能够减少重复性工作，提高效率。此次裁员也与此前Perplexity AI合作交易的告吹有关。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsasGujUuaz6X2NofbB15IDReiadR_Il7Ti3TY5RJqv9tfIORLpL1Ysb170dJ05xu6oG67ZAgAO0ySm-Hp0lhVXWmPEzSH0zfJuo0eqlVTxfN0nIYnkX8c-lbbDRxjsMm3oC2MWXIZC6rZtQfmjmU_MvG3ou9zKf6kmhzZeFuaOw=",
+    "score": 9,
+    "angle": "AI抢饭碗？！Snapchat大裁员，揭示AI对职场的深远影响 #职场动态 #AI对就业影响",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "App Store Reviews Are Busted",
+    "title_cn": "App Store评论系统有缺陷",
+    "summary_cn": "这篇文章指出App Store评论系统存在一个悖论。当一款应用的平均评分已很高（例如4.1星）时，即使是用户留下的一条4星评论，也会数学性地拉低其整体平均分，使其在某种程度上相当于一条“负面”评论。许多用户在留下“这是我最喜欢的应用！”或“颠覆者！”这样高度赞扬的4星评论时，可能并未意识到他们实际上正在损害高评分应用的平均分，这揭示了星级评分机制在感知和实际影响之间存在的矛盾。",
+    "source": "daringfireball.net",
+    "url": "https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html",
+    "score": 8,
+    "angle": "App Store评分内幕大揭秘！😮 原来你给的‘4星好评’竟然在‘帮倒忙’？！学会正确打分，支持你喜欢的宝藏App！🌟 #AppStore #应用推荐 #数码生活 #评分机制 #手机技巧"
+  },
+  {
+    "title_en": "Freecash Was More Like Scamcash",
+    "title_cn": "与其说是免费，不如说是诈骗",
+    "summary_cn": "Freecash是一款声称通过刷TikTok就能赚钱的奖励应用，今年在TikTok上被广泛宣传，并在短时间内冲上应用商店榜首。然而，TechCrunch的文章揭露，这款看似诱人的应用更像是一场精心设计的骗局。它利用吸引人的广告和高排名诱导用户下载，但其承诺的“免费赚钱”模式与实际运作存在巨大差异，暗示用户最终未能获得收益，反而可能被欺骗。",
+    "source": "daringfireball.net",
+    "url": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+    "score": 8,
+    "angle": "【打假】警惕！TikTok爆火的“刷视频赚钱”App Freecash，竟然是骗局！别再被诱惑了，看我揭露它的真面目，教你如何避坑！"
+  },
+  {
+    "title_en": "Rory Goss’s Accessibility Story",
+    "title_cn": "罗里·戈斯的无障碍故事",
+    "summary_cn": "2024年1月，16岁的优等生罗里·戈斯在北爱尔兰的课堂上突然视力受损，无法看清白板，这打乱了他备考A-levels和申请大学的计划。这篇来自苹果公司的报道和短片，讲述了这位少年在学业关键时期遭遇视力挑战后，如何面对并适应。故事聚焦于个人面对身体变化，以及无障碍技术和支持如何帮助他继续学业和生活。",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/education/college-students/success-stories/goss/",
+    "score": 8,
+    "angle": "可以从小红书用户最感兴趣的“逆境重生”和“科技赋能”角度切入。标题可以强调“16岁学霸突发视力障碍，人生按下暂停键？看他如何用苹果科技重启学业！”或“那些我们忽略的无障碍功能，竟是TA的希望之光！”。内容可以分享 Rory Goss 的心路历程，科普苹果产品的无障碍功能如何帮助到他，并引发大家对生命无常和科技普惠价值的思考。"
+  },
+  {
+    "title_en": "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
+    "title_cn": "抖音化将使我们获得自由 (2026年4月17日)",
+    "summary_cn": "这篇“Pluralistic”文章以“抖音化将使我们获得自由”为核心主题，探讨了科技巨头（如扎克伯格）在某种程度上“释放”用户的现象。文章还精选了一系列广泛且引人深思的链接，涵盖了从B2B托洛茨基主义、公共服务游戏、新西兰三振出局法案，到斯诺登事件、奥巴马谈金钱影响、荒谬的“树摩天大楼”以及特斯拉里程表骗局等多元话题。此外，作者还分享了近期和未来的演讲行程以及最新书籍信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/17/for-youze/",
+    "score": 8,
+    "angle": "“抖音化是真自由还是数字陷阱？当扎克伯格‘意外’放手，特斯拉却在悄悄‘偷走’…”"
+  },
+  {
+    "title_en": "The last MP3 patent",
+    "title_cn": "最后的MP3专利",
+    "summary_cn": "文章探讨了MP3最后一个专利的终结，标志着这一开创性数字音频格式一个时代的落幕。MP3曾彻底改变了音乐的传播和消费方式，而其核心专利的到期，不仅意味着该技术将变得更加开放，也引发了对未来音频编码技术发展的思考。这预示着数字音频领域可能迎来新的变革，同时也是对MP3这一经典技术历史地位的一次重新审视。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/mp3-is-dead-long-live-mp3-oh-wait-its-just-the-patent/?utm_source=rss&utm_medium=rss&utm_campaign=mp3-is-dead-long-live-mp3-oh-wait-its-just-the-patent",
+    "score": 8,
+    "angle": "“我的青春告别式：你还记得你的第一台MP3吗？用了20年的MP3，它最后一个专利居然这样了？！#MP3再见 #数字音乐进化史 #专利到期意味着什么”"
+  },
+  {
+    "title_en": "Oregon and Washington Join California in Enacting Companion Chatbot Laws",
+    "title_cn": "俄勒冈州和华盛顿州效仿加州，颁布陪伴式AI聊天机器人法规",
+    "summary_cn": "继加州之后，俄勒冈州和华盛顿州也于2026年3月颁布了针对陪伴式AI聊天机器人的法规，将于2027年1月1日生效。新法要求聊天机器人在互动开始时及每隔一段时间内明确披露其非人类身份，并强制实施识别和处理用户自杀倾向或自残表达的协议。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3867W_yYSg0sXzJhPV6VsXVD-9K5f5Q182RV1dFmxwuPoC6KTP5CneIyUDWktuweJMdQy2r4W71-Cgh7FeP0vywHmpSpl85-G4hP7I7e9Y-kTednX0tTq3FCsS4lqcEIs1NStSGtAHibx8dRvGSY1VSzw2qJFzn9NZZ-Fl9_A8wKZ30SeESyk1WHp",
+    "score": 8,
+    "angle": "你的AI伴侣是机器人还是真人？美国两州立法强制AI披露身份！ #AI监管 #伦理法规",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Bringing AI-driven protein-design tools to biologists everywhere | MIT News",
+    "title_cn": "MIT公司OpenProtein.AI推出AI驱动蛋白质设计无代码平台，赋能生物学家",
+    "summary_cn": "MIT校友创立的公司OpenProtein.AI推出一个无代码平台，让生物学家也能轻松使用AI驱动的蛋白质设计工具。该平台提供强大的基础模型和一套工具，用于设计蛋白质、预测蛋白质结构和功能，以及训练模型，旨在加速药物开发和疾病理解。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbz9ErHgBuR-UnpBZIhNjT4OCAg7h_jLWyQHiGGyv3cUnBTSHF0wvLZPobvqsFx9EoyrfpXk8hj_08f3pSX0AhmO6IT8g7X8SeyNlNDkhsNFOjBGC-HqiHzi-mNtGs1fZVFuy9p-py4oFq0ZAx95rk0pxfya5ZMWcUOQfII7ouxqHedrHz4-_binegxQ=",
+    "score": 8,
+    "angle": "生物学家福音！MIT新平台让AI蛋白质设计变得像搭乐高一样简单 #AI医疗 #生物科技",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "DeepL Voice Translation Breakthrough: Revolutionizing Real-Time Multilingual Communication With AI",
+    "title_cn": "DeepL实现语音翻译突破：AI革新实时多语言交流",
+    "summary_cn": "以其卓越文本翻译准确性闻名的DeepL公司，推出了一套变革性的语音到语音翻译套件。该产品旨在重塑商业和专业环境中的实时多语言交流，通过AI技术克服口语转换的复杂挑战，为虚拟会议、移动对话等提供高效解决方案。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHvDUL-v5S6P-6Y1EWhJdzFBQ5YtC006iwm8v4MFslyVf01PFwVgU6kr93dup_pXHtYydrqaLTJe4UVZrrTpxa24QW7Q3OKrPZNNcQWyX_TE321KeqwnGVfslCMKPj32TWtxIzsJjzJO-AgOh6o9hgBQ=",
+    "score": 8,
+    "angle": "全球沟通无障碍！DeepL语音翻译新突破，AI让你与世界无缝对话！ #AI翻译 #多语言交流",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+    "title_cn": "关于“iPhone Ultra”命名的一点额外思考",
+    "summary_cn": "文章探讨了苹果传闻中的双屏折叠iPhone可能命名为“iPhone Ultra”的可能性。作者认为，如果苹果最终将折叠手机命名为“iPhone Ultra”，那将暗示公司目前没有计划推出类似Apple Watch Ultra那样的“坚固耐用型”iPhone。这一命名策略将对未来iPhone产品线的定位和发展方向产生重要影响，引发科技界对苹果产品规划的深入思考。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Colliding With Reality, Indeed",
+    "title_cn": "果然与现实碰撞",
+    "summary_cn": "纽约时报报道指出，美国前总统特朗普正试图将伊朗危机粉饰为一场“大功告成”的胜利。然而，在他多年来试图将个人叙事强加于世界的背景下，此次伊朗危机却未能屈从于他的“现实”。报道强调，特朗普的说法与真实情况之间存在明显碰撞，他的惯用策略在此次事件中似乎失效，暴露出其与客观现实之间的脱节。",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&smid=url-share",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "How to Format 10-Digit Phone Numbers",
+    "title_cn": "如何格式化10位电话号码",
+    "summary_cn": "212-621-1500。国际电话号码的格式为011（美国拨打）+国家代码+城市代码+电话号码，如011-44-20-7535-1515。免费电话号码采用800-111-1000形式。如果需要添加分机号，则使用逗号与主号码分隔。",
+    "source": "daringfireball.net",
+    "url": "https://www.threads.com/@apstylebook/post/DXKtXVXEh7T",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’",
+    "title_cn": "Netflix 更换自定义视频播放器，毁了其 Apple TV 应用",
+    "summary_cn": "Netflix近期为其Apple TV应用更换了自定义视频播放器，此举引发了用户强烈不满。大量用户抱怨称，新播放器破坏了原有的观看体验，并导致他们失去了通过Apple TV遥控应用进行完整播放控制的功能。Reddit上已有用户发起讨论并表示将因此取消订阅。用户认为Netflix此举严重损害了其Apple TV应用的可用性。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-anthropic 0.25",
+    "title_cn": "llm-anthropic 0.25",
+    "summary_cn": "llm-anthropic 0.25版已发布，本次更新引入了新的claude-opus-4.7模型，该模型支持“xhigh”思维努力度。同时，新版本增加了“thinking_display”和“thinking_adaptive”两个布尔选项，其中“thinking_display”的摘要输出目前仅支持JSON格式或JSON日志。此外，默认的最大token数也得到了提升。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "title_cn": "我的笔记本电脑上的Qwen3.6-35B-A3B画出的鹈鹕比Claude Opus 4.7更好",
+    "summary_cn": "本文作者使用其自创的“骑自行车鹈鹕”基准，对比测试了最新发布的阿里巴巴Qwen3.6-35B-A3B模型和Anthropic的Claude Opus 4.7。作者惊喜地发现，在自己的笔记本电脑上本地运行的Qwen3.6-35B-A3B，在生成鹈鹕图像方面表现得比高端的Claude Opus 4.7更加出色。这篇分享展示了在特定图像生成任务中，不同AI模型的实际性能差异，并突出了Qwen模型在本地设备上运行的强大能力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Here's What Agentic AI Can Do With Have I Been Pwned's APIs",
+    "title_cn": "代理式AI能用Have I Been Pwned的API做什么",
+    "summary_cn": "作者对前沿科技充满热情，但对夸大其词深恶痛绝，因此他认为AI是一个悖论。在众多一夜成名的网红、虚假信息和荒谬主张的混乱中，隐藏着真正有价值的AI“黄金”，这些技术具有实际用途，能带来有意义的改变。本文将深入探讨这些真正有用的AI应用。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette 1.0a28",
+    "title_cn": "datasette 1.0a28",
+    "summary_cn": "Datasette发布了最新的1.0a28版本，主要目的是解决前一个alpha版本1.0a27中出现的一系列意外兼容性问题和故障。此更新特别修复了1.0a27中引入的`execute_write_fn()`回调函数的一个兼容性错误。通过这次更新，Datasette旨在提高系统的整体稳定性和可靠性，确保用户能够平稳地使用其新功能。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Does your DSL little language really need operator precedence?",
+    "title_cn": "你的DSL小语言真的需要运算符优先级吗？",
+    "summary_cn": "通常会省略真正的运算符优先级处理，只保留对括号的支持。尽管运算符优先级被认为是优秀特性，且存在许多巧妙的实现算法，作者却质疑其在所有DSL中是否都是不可或缺的。他认为，对于某些DSL来说，简化处理或许能带来不同的益处。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
+    "title_cn": "窗口消息 0x0091 到底怎么回事？我们收到了意料之外的参数",
+    "summary_cn": "这篇文章探讨了Windows系统中的一个特定问题，即开发者收到了窗口消息 0x0091（WM_NCCREATE）但其参数却出乎意料。文章指出，这可能涉及到对系统消息的“越界”操作或不当处理，暗示了在Windows编程中，不正确地拦截或修改系统消息流可能导致应用程序出现难以预料的行为。它旨在解释这种异常情况的潜在原因，并提供相关技术见解。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240",
+    "score": 1,
+    "angle": ""
+  }
+]
