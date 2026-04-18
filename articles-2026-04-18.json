@@ -1,0 +1,218 @@
+[
+  {
+    "title_en": "AI Coding Startup Cursor Seeks $2 Billion Funding, Valuation Reaches $50 Billion with Nvidia's Interest",
+    "title_cn": "AI编程独角兽Cursor拟融资20亿美元，估值达500亿美元，英伟达或参投",
+    "summary_cn": "AI编程工具Cursor正寻求20亿美元融资，估值飙升至500亿美元，显示AI编码市场爆发式增长，英伟达亦有意参投，预示行业巨头对AI开发效率的重视。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqqR94ssKowGKZyUcJ_Js9i1MWH-54BtpED9iUNMZNZWTZI-awKX_aDP2_d7Mn-y2h-L948c2M_ehlBE5FYnfKeS-c5pziAQa2-Fu8YiRbwCuVjk0ZCVDEEc8qhZngIahpyHgXUR0bj_pDFUd5enHdFixB-zQkkThiyX10hOSjT8v3hNbJOnRGXV0vRJnkk1J5QGA3F1xHOA==",
+    "score": 9,
+    "angle": "程序员福利！AI编程工具再升级，效率翻倍，英伟达都看上了！你的代码要被AI承包了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic Launches Claude Opus 4.7, Significantly Enhancing Programming and Visual Recognition Capabilities",
+    "title_cn": "Anthropic发布Claude Opus 4.7，编程与视觉识别能力大幅跃升",
+    "summary_cn": "Anthropic发布旗舰模型Claude Opus 4.7，在编程基准测试和视觉理解能力上表现卓越，免费提供，将进一步加剧AI大模型市场竞争，赋能开发者。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7GkyuP_1W2wnWgpR7ud7tudnhkb_dPbC2_E5W4YNE4jNAr8CI77H1RaxO7bPE4haTB7kdv3BrgLo8b_6I2QjgNPWDtwI69o1p7wSg50vQqSf4rzu544T8VBcXHYLfl22vjLjKUg==",
+    "score": 9,
+    "angle": "AI又进化了！Claude Opus 4.7编程、识图更强，打工人的生产力工具又多一个神队友！快来试试！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Humanoid Robot \"Far Expedition III\" Mass Production, Operating Costs Lower Than Manual Labor",
+    "title_cn": "智元机器人大会：人形机器人“远征三代”量产，上下料成本低于人工",
+    "summary_cn": "智元机器人宣布其“远征三代”人形机器人实现量产，且在上下料场景中成本低于人工，标志着人形机器人进入规模化应用新阶段。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7GkyuP_1W2wnWgpR7ud7tudnhkb_dPbC2_E5W4YNE4jNAr8CI77H1RaxO7bPE4haTB7kdv3BrgLo8b_6I2QjgNPWDtwI69o1p7wSg50vQqSf4rzu544T8VBcXHYLfl22vjLjKUg==",
+    "score": 9,
+    "angle": "🚨颠覆性新闻！人形机器人比人便宜了！你的工作会被机器人取代吗？制造业将迎来巨变！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Many anti-AI arguments are conservative arguments",
+    "title_cn": "许多反AI论点实为保守主义论点",
+    "summary_cn": "这篇文章旨在揭示反AI论点中不为人知的保守主义面向。它指出，虽然当前流行的反AI言论常被认为是左倾的，如将AI描述为技术法西斯工具，或关注碳排放、劳工权益等左翼议题，但作者认为，许多看似进步或左倾的反AI担忧，其底层逻辑实则深植于保守主义思想，是对变革、自动化冲击社会秩序以及传统价值观维护的体现。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/many-anti-ai-arguments-are-conservative/",
+    "score": 8,
+    "angle": "揭示反AI论点中被忽视的“保守主义”内核。通过对比看似左翼的担忧（如AI造成技术性失业、社会秩序动荡、甚至技术法西斯化）与传统保守主义对变革的抗拒、对现有秩序的维护，来“颠覆”读者对反AI论点的固有认知，引发深度思考。"
+  },
+  {
+    "title_en": "Apple’s Developer Guidelines for Ratings and Review Prompts",
+    "title_cn": "应用评分与评论提示",
+    "summary_cn": "苹果开发者指南建议App开发者在请求用户评分和评论时，应避免频繁打扰用户。两次请求间至少间隔一到两周，并在用户持续使用后再次提示，以防引起反感并损害应用形象。指南还强调，开发者应优先使用iOS、iPadOS和macOS系统提供的统一、不突兀的评分提示功能。",
+    "source": "daringfireball.net",
+    "url": "https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices",
+    "score": 8,
+    "angle": "可以从“为什么你的iPhone App总让你打分？”这个普通用户痛点入手，科普苹果官方开发者指南中关于评分提示的规定。强调苹果建议开发者“避免打扰用户”，两次提示至少间隔一两周，并优先使用系统自带的非侵入式提示。这能让用户理解App评分机制，并知道哪些App做得好，哪些做得不好。"
+  },
+  {
+    "title_en": "Premium: The Hater's Guide to Private Credit",
+    "title_cn": "私募信贷的喷子指南",
+    "summary_cn": "本文作者曾尝试申请商业贷款，虽未成功，却因此个人信息被泄露，陷入了无休止的短信骚扰。如今，作者每天都会收到多条推销短信，内容涉及从15万美元起的高额信用额度。这篇“喷子指南”可能旨在揭露私营信贷行业的某些乱象，警示普通人警惕潜在的金融风险与信息泄露问题。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/hatersguide-privatecredit/",
+    "score": 8,
+    "angle": "一个表格引发的骚扰地狱，私募信贷真的值得信赖吗？”为切入点，通过个人经历分享填写金融表格后信息泄露的风险，并揭示私募信贷行业可能存在的营销乱象和潜在陷阱，警示读者保护个人隐私，避免不必要的金融骚扰和风险。"
+  },
+  {
+    "title_en": "Chinese AI Unicorn DeepSeek Seeks First External Funding Round, Aiming for $300 Million at $10 Billion Valuation",
+    "title_cn": "中国AI独角兽DeepSeek首次寻求外部融资，估值超100亿美元拟募资3亿美元",
+    "summary_cn": "中国AI大模型公司DeepSeek计划首次外部融资3亿美元，估值超100亿美元，打破此前“自我供血”模式，反映大模型研发高昂成本与激烈竞争。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO2rbi6H9y9zRY39R-JoRVAOHT-OTnsaxFP1Z_BLgIVakgO9z9mtj45xeU79WpRmFh5hQ8ORa4gAI0QdNnuMvsCqK52PSIzLb_iy5X9K9NFawBSDVVAUmtX1hbqJiV83dgZ34aH31Kucb7Sv172koHn1NsmCy3L_BL5as=",
+    "score": 8,
+    "angle": "震惊！中国AI巨头DeepSeek也\"缺钱\"了？大模型烧钱战升级，普通人如何搭上AI红利？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US White House Eyes Opening Anthropic's Powerful Mythos AI to Federal Agencies Amid Cybersecurity Risk Concerns",
+    "title_cn": "白宫拟向联邦机构开放Anthropic强力AI模型Mythos，网络安全风险引关注",
+    "summary_cn": "美国白宫正考虑在部署网络安全防护措施后，向联邦机构开放Anthropic的AI模型Mythos，因其潜在网络攻击风险引发各方高度关注。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE69yZXXFH7kejBb89QMW1epXS66Y9FEDdOPh5-6lob43dgu3k3DXKL77dYAr-KDrNq9_KqVgbVNJGtFRhj59UCrsd5Exs5jQeO9jsc4m8AikkhvLDs8U6QwWwC7VxmDrosYldHUlRtMzSHbUP9yEJvCDMEgKov4Sftg9_UF5ic_WVhggsxRHwNFzs_rQqqTOAEswQ7TMZItQQiQ3upvEyX0hcUkw==",
+    "score": 8,
+    "angle": "😱AI模型Mythos太强大，连白宫都要小心翼翼！未来我们的数据安全，AI会是守护者还是威胁者？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's National Development and Reform Commission to Boost Investment in \"AI+\" Infrastructure This Year",
+    "title_cn": "国家发改委：今年中国将重点在“人工智能+”基础设施等领域扩大有效投资",
+    "summary_cn": "中国国家发改委宣布，今年将加大在“人工智能+”基础设施、城市更新等领域投资，以优化供给结构，激发民间投资活力，推动AI产业发展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERV5ZeD27xohyP26dMprhl6uU3kN_DADClTqTslONJmULzw5qDvEAxNizrIgg2uZUNoPGqNZ7W-WBlJQPL2kK_W1ONhPsKuHg8GWzmjyufaW1LZoNMevUEYDWEZp4NjYLcxRjBBysyzdh-g74fPcbFekEZsA==",
+    "score": 8,
+    "angle": "国家队出手！“人工智能+”基建将获大笔投资，普通人如何抓住AI新机遇，搭上发展快车？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+    "title_cn": "与我们相约2026年美国PyCon长滩大会——今年新增AI和安全专题",
+    "summary_cn": "2026年美国PyCon大会将于5月13日至19日在加州长滩举行，主会议日期为5月15日至17日。这是自2017年以来该大会首次重返美国西海岸，也是自2013年以来首次在加州举办。大会今年特别新增了人工智能和安全专题，旨在为Python社区提供与时俱进的交流平台，尤其对加州地区的开发者而言，是一个难得的参与机会，能与Python核心开发者和社区成员深度交流。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+    "score": 7,
+    "angle": ""
+  },
+  {
+    "title_en": "We Are All Playing Politics at Work",
+    "title_cn": "我们都在职场玩政治",
+    "summary_cn": "文章指出，职场政治被定义为真相不再主导行动的讨论。多数人误以为自己在工作中理性客观，只凭事实做决策，但这其实是天真的幻想。我们并非处理数据的机器，而是要在不完美世界中前行的政治动物。因此，职场政治无处不在，每个人都身在其中，无法置身事外。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/we-are-playing-politics?src=feed",
+    "score": 7,
+    "angle": "以“职场政治，你真的懂吗？别再天真以为自己是‘局外人’了！”为主题，结合个人经历或观察，揭示职场中那些“真相不再主导”的决策瞬间，并鼓励大家正视和学习适应职场政治，而非简单逃避。"
+  },
+  {
+    "title_en": "JAMA Study Reveals Mainstream Large Language Models Show Over 80% Error Rate in Early Clinical Diagnosis",
+    "title_cn": "《美国医学会杂志》研究：主流大模型在临床早期诊断中错误率超八成",
+    "summary_cn": "《美国医学会杂志》研究指出，GPT-5、Claude等主流大语言模型在临床早期诊断中错误率高达80%以上，强调AI在医疗应用需谨慎辅助，而非独立诊断。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDNwEValbFO0HcdqTkdzlF7UNFDsT2ljrvGy6Y-F7cOY6XaW-OkaWtAKOzbnyUvDysIFUi078ZM274_D8Dw5OYaiyP1xnpeT4qCD2YCkxJgF_Pvl7mhe_Xi6YaJqBAtcmKdfeqvDEsJHzeQwWc08N1Gr7tIIxWzcWwJl4u1VJBk1581GC9rQlW5OD89FAi5douB0=",
+    "score": 7,
+    "angle": "AI医生还没那么靠谱！权威研究揭示AI诊断高错误率，看病还得信专业医生，AI只是辅助！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Poaches Thinking Machines Core Engineer Joshua Gross, Igniting Silicon Valley's AI Talent War",
+    "title_cn": "Meta挖角Thinking Machines核心工程师，硅谷AI人才争夺战白热化",
+    "summary_cn": "Meta从AI初创公司Thinking Machines挖角资深工程师Joshua Gross，进一步凸显科技巨头对顶尖AI人才的激烈争夺，AI人才战持续升级。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIacZZS-8E7RNsQip3wk_CFKVNWjqheag-Hv8k01eUif9qjeGgfgpJKheH-xGrk84SF_9trZEHkZFvSCXTv_CiWo0TLV_wnLVqra1tN2iPp1kfyJyhLamgI7xLvMX0_w==",
+    "score": 7,
+    "angle": "亿万年薪也难留人？硅谷AI人才争夺战火爆！你的简历准备好了吗？进AI大厂的机会来了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Follow-Up Regarding App Store Reviews, Which Are Definitely Busted",
+    "title_cn": "它们确实有问题",
+    "summary_cn": "本文是对之前关于App Store评论话题的跟进。作者重申，那些不主动请求用户留下评论的优质应用（如Godier的Current）反而会因此吃亏。知名开发者Steven Troughton-Smith在Mastodon上回应并指出，评论提示（review prompts）对于应用获取大量正面评价至关重要，是区分少数几条评论和数千条评论的关键。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Reading List 04/18/2026",
+    "title_cn": "2026年4月18日阅读清单",
+    "summary_cn": "这篇阅读清单汇集了多项前沿科技与地缘经济热点。内容涵盖了创新性的四足焊接机器人、对“中国冲击2.0”现象的深入探讨、迅速崛起的变压器初创企业，以及中国神秘移动卫星的最新进展等。这份清单旨在为读者提供一个快速了解未来科技趋势、全球经济动态和潜在国际影响的窗口，适合关注技术创新、产业变革和国际战略的专业人士及爱好者。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-04182026",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "America lost the Mandate of Heaven",
+    "title_cn": "美国失去了天命",
+    "summary_cn": "这篇文章以“美国失去了天命”为题，探讨了美国在全球地位的变化。作者可能借用中国历史上的“天命”概念，质疑美国是否仍处于“赢家”地位。文章会重新审视国家成功的定义与衡量标准，并深入分析美国在经济、政治、文化等多个层面所面临的挑战与衰退迹象。它旨在引发读者思考，在当前复杂国际局势下，一个国家真正的力量源泉和合法性基础究竟是什么，以及“胜利”的真正含义。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
+    "title_cn": "虚构与非虚构的交汇",
+    "summary_cn": "圣血、圣地与被诅咒者》背后真实与虚构的历史。文章提到，备受争议的著作《圣血与圣杯》于1982年1月18日在英国出版，并在五周后以简化标题在美国发行。本系列旨在梳理这些交织的历史脉络，揭示一部经典游戏如何与神秘传说和畅销书籍产生联系。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
+    "title_cn": "佐治亚州投票技术失误 (2026年4月18日)",
+    "summary_cn": "这篇文章主要讨论了佐治亚州的投票技术问题，特别是对Dominion投票机可靠性的争议。作者指出，尽管Dominion机器可能存在缺陷，但其问题并非如塔克·卡尔森等所宣称的舞弊性质。文章旨在澄清围绕投票技术的误解，强调真正的挑战可能源于技术本身的不足，而非阴谋论中的指控。此外，文末还穿插提及了其他一些轻松话题。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/18/dominion-sucks-actually/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Adding a new content type to my blog-to-newsletter tool",
+    "title_cn": "为我的博客转邮件工具新增内容类型",
+    "summary_cn": "作者分享了如何为他的“博客转邮件工具”新增内容类型。他每周都会将博客内容复制粘贴到免费的 Substack 邮件通讯中，将 Substack 作为轻量级订阅工具。文章提到这是一个通过一个“看似简短的提示”完成了大量工作的好例子。这篇内容旨在介绍他如何利用AI提示词或其他自动化方法，提升博客内容分发效率，从而扩展他的邮件订阅服务。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Hiding the option to leave comments from some visitors to here",
+    "title_cn": "对部分访客隐藏评论功能",
+    "summary_cn": "本文介绍了一项作者在其博客上悄悄添加的新功能。有访客发现，博客上的“添加评论”按钮现在会根据特定条件有选择地隐藏。这意味着并非所有访问者都能看到并使用评论功能。作者确认了这项巧妙的设计，旨在有选择性地控制哪些用户可以进行评论，为博客管理提供了更精细的控制。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "How an LLM becomes more coherent as we train it",
+    "title_cn": "大型语言模型如何通过训练变得更连贯",
+    "summary_cn": "这篇文章探讨了大型语言模型（LLM）在训练过程中如何变得更连贯。作者回顾了Andrej Karpathy 2015年关于RNN输出随训练改进的例子，并思考了这一现象在现代基于Transformer的LLM上会如何体现。为探究此问题，作者近期训练了一个拥有1.63亿参数的GPT-2-小型LLM，使用了约32亿个token数据。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Forgotten message from the past: LB_INIT­STORAGE",
+    "title_cn": "LB_INITSTORAGE",
+    "summary_cn": "这篇文章揭示了一个来自过去的编程“秘籍”——`LB_INITSTORAGE`。它强调了预先分配内存的重要性，旨在避免程序运行时可能出现的二次（quadratic）性能衰退。通过在初期就为数据结构预留好空间，可以有效提升程序的运行效率和响应速度，避免因动态内存分配导致的不必要开销，这对于优化旧有系统或理解底层性能原理具有重要的参考价值。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "4-bit floating point FP4",
+    "title_cn": "4位浮点数FP4",
+    "summary_cn": "这篇文章探讨了浮点数存储格式的历史演变。从早期广泛使用的32位浮点数，到后来成为行业标准的64位浮点数，编程语言如C也沿用了这一传统，分别用float和double来指代。文章标题提及的4位浮点数FP4，暗示了对更精简、高效的浮点数表示方法的探索。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Five Simple Steps to Fix America",
+    "title_cn": "修复美国的五个简单步骤",
+    "summary_cn": "文章作者在夏季重返美国，并计划分享一些简单的建议来“修复”这个国家。他深信，只要美国能听取这些忠告，便能解决现有问题，并实现更多成功与辉煌。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html",
+    "score": 1,
+    "angle": ""
+  }
+]
