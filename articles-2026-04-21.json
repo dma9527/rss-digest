@@ -1,134 +1,170 @@
 [
   {
-    "title_en": "Chinese Tech Giants Alibaba Cloud and Tencent Dive into 'World Model' Race; Groupthink Technology IPO Signals Market Confidence",
-    "title_cn": "中国科技巨头阿里云、腾讯加速布局“世界模型”，群核科技IPO上市",
-    "summary_cn": "阿里云发布世界模型HappyOyster，腾讯开源混元3D世界模型2.0，中国科技企业集体迈入“世界模型”赛道竞争。同时，专注空间智能的群核科技成功在港交所上市，市值超300亿港元，表明市场对AI基础设施和空间智能应用前景充满信心。",
-    "url": "https://www.tmtpost.com/7123683.html",
+    "title_en": "Amazon to Invest Up to $25 Billion in Anthropic; Anthropic's Valuation Reaches $380 Billion with IPO Talks",
+    "title_cn": "亚马逊向Anthropic追加最高250亿美元投资，Anthropic估值达3800亿美元并洽谈IPO",
+    "summary_cn": "亚马逊宣布向AI初创公司Anthropic追加最高250亿美元投资，深化AI基础设施合作。Anthropic年化收入已达300亿美元，估值飙升至3800亿美元，并计划最早于2026年10月上市。",
+    "url": "https://www.cfmm.com.cn/news/249336",
     "score": 9,
-    "angle": "AI的‘元宇宙’要来了？阿里云和腾讯都在抢跑！下一个ChatGPT风口可能就是它，快来围观！",
+    "angle": "AI巨头争霸！亚马逊大手笔投资Anthropic，独角兽估值狂飙，普通人还有机会搭上AI财富快车吗？",
     "source": "AI热点（LLM搜索）"
   },
   {
-    "title_en": "Meta Plans Significant Layoffs in May, Citing AI Investments and Efficiency Drives",
-    "title_cn": "Meta计划5月启动大规模裁员，以应对AI投资并提升效率",
-    "summary_cn": "据报道，Meta计划于5月启动首轮大规模裁员，预计裁减约8000名员工，占全球员工总数的10%。此举被解读为公司为抵消人工智能基础设施的高昂投入，并通过AI工具提升工作效率，实现人力精简和业务转型。",
-    "url": "https://finance.eastmoney.com/a/202604183863777558.html",
+    "title_en": "Over 73,000 Tech Jobs Cut in 2026 as Companies Restructure for AI Efficiency",
+    "title_cn": "2026年超7.3万科技岗位被裁，AI驱动重组成为主因",
+    "summary_cn": "截至2026年4月21日，全球已有超过73,000个科技岗位因AI扩张和组织重组被裁撤。Meta计划5月裁员8,000人，显示企业正将资源转向AI基础设施。",
+    "url": "https://www.gate.io/zh/article/362070",
     "score": 9,
-    "angle": "AI真的要抢饭碗了？！Meta宣布大规模裁员，技术进步对职场意味着什么？打工人如何应对AI冲击波？",
-    "source": "AI热点（LLM搜索）"
-  },
-  {
-    "title_en": "Spaced Repetition: Beginner Guide/FAQ",
-    "title_cn": "新手指南与常见问题",
-    "summary_cn": "本文详细介绍了科学高效的学习方法——间隔重复。作为一份新手指南，它将从基础概念入手，解释间隔重复的原理及其对记忆巩固的独特优势。同时，文章也将解答读者在实践中可能遇到的常见问题，帮助你轻松掌握并有效运用间隔重复法，显著提升学习效率与长期记忆效果。",
-    "source": "entropicthoughts.com",
-    "url": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq",
-    "score": 8,
-    "angle": "告别死记硬背！学霸都在用的【间隔重复法】新手指南，让你的记忆力提升N倍！"
-  },
-  {
-    "title_en": "iQIYI Launches Nadou Pro AI Platform and Decentralized Content Model to Empower Creators",
-    "title_cn": "爱奇艺发布AI生产平台“拿豆Pro”并转向去中心化内容模式，赋能创作者",
-    "summary_cn": "爱奇艺在2026世界大会上推出AI专业内容生产平台“拿豆Pro”，同时宣布向去中心化社交媒体平台转型，开放IP库、人才网络及商业基础设施，旨在大幅降低内容制作成本，提升创作效率与商业回报，赋能AIGC创作者。",
-    "url": "https://www.prnewswire.com/news-releases/iqiyi-charts-new-course-for-the-ai-era-decentralized-content-model-and-nadou-pro-launched-at-world-conference-2026-apac-302302148.html",
-    "score": 8,
-    "angle": "未来创作者福利来袭！爱奇艺AI生产平台上线，人人都能当IP主，你的内容变现之路要起飞了！",
-    "source": "AI热点（LLM搜索）"
-  },
-  {
-    "title_en": "China's Supreme People's Court to Draft Opinions on Handling AI-Related Disputes",
-    "title_cn": "中国最高人民法院正抓紧起草人工智能纠纷案件审理意见",
-    "summary_cn": "中国最高人民法院发布2025年知识产权司法保护状况，并透露正抓紧起草关于依法妥善审理涉人工智能纠纷案件的意见。此举旨在推动AI健康有序发展，妥善处理AI生成内容、AI模型参数等前沿法律问题，维护市场秩序。",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-04-20/doc-inaxppqf8349258.shtml",
-    "score": 8,
-    "angle": "AI时代，你的数字权益怎么保护？最高法出手了！快了解AI政策新风向，提前规避风险！",
+    "angle": "AI时代：我的工作会被取代吗？科技巨头大规模裁员，我们该如何应对职场新变局？",
     "source": "AI热点（LLM搜索）"
   },
   {
     "title_en": "‘Community Letter From Tim’",
     "title_cn": "蒂姆致社区的一封信",
-    "summary_cn": "苹果CEO蒂姆·库克向全球苹果社区发表了一封信。他在信中透露，过去15年里，他每天清晨都会阅读来自全球用户的邮件。用户们与他分享生活点滴，讲述苹果产品如何触及并改变他们的生活，例如Apple Watch在关键时刻挽救了母亲的生命，以及iPhone如何帮助他们拍下完美的自拍照。这封信强调了苹果与用户之间深厚的情感联结。",
+    "summary_cn": "蒂姆·库克在一封致“苹果社区”的信中，分享了他过去15年来每天阅读全球用户来信的习惯。这些来信中充满了用户分享的个人故事，讲述了苹果产品如何深刻地影响了他们的生活。例如，有用户提到Apple Watch如何在紧急时刻挽救了母亲的生命，也有人分享了使用iPhone在山顶拍下完美自拍的喜悦。库克借此表达了对苹果用户社区的深切感谢与连接。",
     "source": "daringfireball.net",
     "url": "https://www.apple.com/community-letter-from-tim/",
-    "score": 7,
-    "angle": "“震惊！苹果CEO库克每天坚持做这件事，原来我们写的信他都看了！”或“泪目！这些苹果用户的故事，连库克都感动了！” 内容可以鼓励用户分享自己与苹果产品的故事，引发情感共鸣。"
+    "score": 8,
+    "angle": "你的Apple Watch也曾救你一命吗？快来分享你与苹果的暖心瞬间！"
+  },
+  {
+    "title_en": "Pluralistic: Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (21 Apr 2026)",
+    "title_cn": "困惑者指南》 (2026年4月21日)",
+    "summary_cn": "困惑者指南》。内容还涵盖了各种引人深思或趣味性的话题链接，包括一枚火箭的爆炸画面、糖是否为毒药的探讨、用手表零件制作摩托车、推土机之战以及对透明度的反思。此外，文章还提到了作者即将进行的巡回演讲日程和近期活动回顾，是一份内容丰富、观点多元的阅读清单。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/21/torment-nexusism/",
+    "score": 8,
+    "angle": "**【健康生活/深度科普】震惊！日常饮食中的“甜蜜毒药”？揭秘糖对你身体的真实影响！**"
+  },
+  {
+    "title_en": "Spaced Repetition: Beginner Guide/FAQ",
+    "title_cn": "新手指南/常见问题解答",
+    "summary_cn": "本文深入介绍了间隔重复（Spaced Repetition）这一高效学习方法。文章旨在帮助初学者理解其核心原理，如何通过在不同时间间隔复习知识点来强化记忆，避免遗忘。内容涵盖间隔重复的入门指南、实际操作技巧以及常见问题解答，帮助读者轻松掌握并应用于日常学习，显著提升学习效率和记忆持久性。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq",
+    "score": 8,
+    "angle": "告别死记硬背！㊙️学霸都在用的【间隔重复学习法】新手攻略，轻松提升记忆力，考试考证不发愁！手把手教你如何用起来，附实用工具推荐！"
+  },
+  {
+    "title_en": "Moonshot AI Releases and Open-Sources Kimi K2.6 Model, Excelling in Code and Agent Capabilities",
+    "title_cn": "月之暗面发布并开源Kimi K2.6模型，编程与智能体能力实现新突破",
+    "summary_cn": "国内AI大模型公司月之暗面于4月20日晚发布并开源Kimi K2.6模型，重点提升代码能力、长程任务执行及Agent集群协同，旨在挑战GPT-5.4等闭源模型。",
+    "url": "https://companies.caixin.com/2026-04-21/102026815.html",
+    "score": 8,
+    "angle": "Kimi又出王炸！国产AI大模型K2.6开源，编程小白也能变大神？速看如何利用它提升工作效率！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's Supreme People's Court Drafting Opinions on AI-Related Disputes to Promote Healthy Development",
+    "title_cn": "最高法抓紧起草涉人工智能纠纷案件意见，推动AI健康有序发展",
+    "summary_cn": "中国最高人民法院于4月20日宣布，正抓紧起草关于依法妥善审理涉人工智能纠纷案件的意见，涵盖AI生成内容、模型参数等前沿问题，旨在促进AI安全公平发展。",
+    "url": "https://finance.sina.cn/tech/2026-04-20/detail-inhvcrnm6679505.d.html",
+    "score": 8,
+    "angle": "AI内容侵权怎么办？最高法出手了！我的AI作品未来能被法律保护吗？",
+    "source": "AI热点（LLM搜索）"
   },
   {
     "title_en": "Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’",
-    "title_cn": "蒂姆·库克将出任苹果执行董事长；约翰·特纳斯将成为苹果CEO",
-    "summary_cn": "蒂姆·库克将于2026年9月1日出任执行董事长，而硬件工程高级副总裁约翰·特纳斯将接任CEO。这一经董事会一致批准的过渡，是长期继任计划的成果。在此之前，库克将继续担任CEO。此举标志着这家科技巨头即将迎来新的领导时代。",
+    "title_cn": "蒂姆·库克将成为苹果执行董事长；约翰·特努斯将出任苹果CEO",
+    "summary_cn": "苹果公司宣布重大高层人事变动。自2026年9月1日起，现任CEO蒂姆·库克将升任苹果执行董事长，而硬件工程高级副总裁约翰·特努斯将接替其职位，出任苹果新任首席执行官。此项过渡计划已获得董事会一致批准，是公司经过深思熟虑的长期继任规划的成果。在此期间，库克将继续担任CEO以确保平稳过渡。",
     "source": "daringfireball.net",
     "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
     "score": 7,
-    "angle": "苹果重磅换帅！库克卸任CEO，硬件大佬接棒，未来iPhone会怎样？这对我们普通果粉有何影响？"
+    "angle": "库克卸任CEO，2026年苹果巨变！新掌门会带来哪些惊喜或“惊吓”？（探讨未来产品走向，对用户体验可能的影响等）"
   },
   {
     "title_en": "Pluralistic: Comrade Trump (20 Apr 2026)",
     "title_cn": "特朗普同志 (2026年4月20日)",
-    "summary_cn": "摧毁美国帝国以拯救它”为核心议题，汇集了涵盖政治、科技、经济及社会等多个领域的批判性思考。内容极其丰富多元，包括对MPAA威胁教育模式的审视、AT&T与互联网的冲突、英国避税港问题、新自由主义的定义，以及媒体所有权、儿童铅中毒等议题。文章旨在通过一系列发人深省的链接和评论，引发读者对当前复杂社会问题的深入思考。",
+    "summary_cn": "摧毁美利坚帝国以拯救它”的争议性标题引人关注。文章汇集了从政治经济（如新自由主义、避税天堂）、媒体监督、科技（AT&T与互联网）到公共健康（芝麻街谈铅中毒）等广泛而具批判性的多元化内容链接。文末附有作者的近期活动预告。",
     "source": "pluralistic.net",
     "url": "https://pluralistic.net/2026/04/20/praxis/",
     "score": 7,
-    "angle": "特朗普是“救世主”还是“破坏者”？🤔 从争议言论看懂世界运转的底层逻辑！"
+    "angle": "**“特朗普同志”震惊全网！他真是“烧毁”美国以拯救它？一文拆解川普争议性政治哲学！**"
   },
   {
-    "title_en": "Valeo Inaugurates AI Development Center in Cairo, Egypt, for Smart Mobility",
-    "title_cn": "法雷奥在埃及开罗设立AI开发中心，强化智能出行领域布局",
-    "summary_cn": "法国汽车零部件供应商法雷奥集团在埃及开罗正式启用其AI开发中心，初始团队超50名工程师，并计划扩展至100余人。此举旨在加速AI在全球智能出行解决方案中的整合与应用，进一步巩固法雷奥在智能出行领域的领先地位。",
-    "url": "https://www.marklines.com/en/news/298403",
+    "title_en": "Xiwang Completes Over 1 Billion RMB Financing, Becomes First Domestic Unicorn in AI Inference GPU with Over 10 Billion RMB Valuation",
+    "title_cn": "曦望完成超10亿元融资，累计融资约40亿元成国内首家估值超百亿纯推理GPU独角兽",
+    "summary_cn": "国内全栈自研AI推理GPU企业曦望于4月21日完成新一轮超10亿元融资，累计融资约40亿元，估值超百亿，成为国内首家纯推理GPU独角兽，用于新一代产品量产及研发。",
+    "url": "https://www.pedaily.cn/news/491563.html",
     "score": 7,
-    "angle": "AI全球化新趋势！智能出行巨头埃及建AI中心，中东IT人才要火了，你的职业规划考虑过AI吗？",
+    "angle": "国产GPU芯片再添猛将！曦望斩获超10亿融资，AI“芯”未来值得期待吗？",
     "source": "AI热点（LLM搜索）"
   },
   {
-    "title_en": "Hyperscale Data Partners with AGIBOT for AI Robotics Deployment and Commercialization",
-    "title_cn": "Hyperscale Data与AGIBOT建立战略合作，共推AI机器人部署与商业化",
-    "summary_cn": "Hyperscale Data通过其子公司Omnipresent Robotics与AGIBOT达成战略合作，共同部署和商业化智能机器人系统及AI数据采集项目。更多细节将于4月20-21日发布并通过网络直播讨论，预示着AI机器人市场的新动态。",
-    "url": "https://stocktitan.com/news/GPUS/hyperscale-data-announces-strategic-partnership-with-agibot-for-ai-d8p5d5t3e2h3.html",
+    "title_en": "Alibaba-Backed Video AI Startup PixVerse Reportedly Planning Hong Kong IPO with Over $1 Billion Valuation",
+    "title_cn": "传阿里支持的视频AI初创公司PixVerse拟赴港上市，估值超10亿美元",
+    "summary_cn": "阿里巴巴支持的视频AI初创公司PixVerse据传最快将于今年内赴港IPO，目前估值已超10亿美元，其AI视频生成平台全球用户已过亿。",
+    "url": "https://caifuhao.eastmoney.com/news/20260421205423824513810",
     "score": 7,
-    "angle": "AI机器人时代加速来临！科技巨头强强联手，未来你的生活工作会被哪些智能机器人改变？",
+    "angle": "视频生成AI火爆！阿里系PixVerse也要上市了？普通人如何抓住AI视频创作的风口？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI Large Language Models Outperform Doctors in Medical Knowledge Tests but Lack Clinical Reasoning",
+    "title_cn": "AI大模型医学知识测试胜过医生，但在临床推理方面仍有不足",
+    "summary_cn": "最新研究显示，AI大语言模型在标准化医学知识测试中平均得分高于医学专业人员，但在病例早期信息不足时，其临床推理和鉴别诊断能力仍显不足。",
+    "url": "https://www.xinhuanet.com/world/2026-04/21/c_1130666016.htm",
+    "score": 7,
+    "angle": "AI看病靠谱吗？测试结果惊人！但别急，医生暂时还不会被AI取代...",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Humanoid Robot \"Lightning\" Breaks Human Half-Marathon World Record in Beijing",
+    "title_cn": "人形机器人“闪电”在北京半马打破人类世界纪录",
+    "summary_cn": "在2026北京亦庄半程马拉松中，北京荣耀的自主导航机器人“闪电”以50分26秒的成绩夺冠，超人类半程马拉松世界纪录，展现了人形机器人在运动领域的巨大突破。",
+    "url": "http://k.sina.com.cn/article_5953466437_162dab0450670afmck.html",
+    "score": 6,
+    "angle": "跑得比人快！人形机器人打破半马世界纪录，你的健身教练会是AI吗？",
     "source": "AI热点（LLM搜索）"
   },
   {
     "title_en": "Apple’s Annual Environmental Progress Report",
     "title_cn": "苹果年度环境进展报告",
-    "summary_cn": "苹果发布年度环境进展报告，展示其在实现2030年碳中和目标上的显著进展。报告指出，尽管业务持续增长，2025年温室气体排放量相比2015年已下降超60%，并与2024年持平。",
+    "summary_cn": "苹果发布年度环境进展报告，展现其在实现“Apple 2030”碳中和目标上的进展。报告指出，尽管业务显著增长，2025年温室气体排放量较2015年下降超60%，并与2024年持平。",
     "source": "daringfireball.net",
     "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-    "score": 6,
+    "score": 4,
     "angle": ""
   },
   {
     "title_en": "Better TTS on Linux",
-    "title_cn": "Linux上更好的文字转语音",
-    "summary_cn": "eSpeak是Linux发行版中常见的文字转语音（TTS）程序，以其支持多种语言和口音而闻名。然而，其最大的问题在于发音过于机械和单调，听起来就像1980年代的电子玩具，音质低劣且令人难以忍受。这篇内容指出了eSpeak的缺陷，并暗示了Linux用户对更好、更自然TTS体验的迫切需求和期待。",
+    "title_cn": "Linux 上更好的文本转语音",
+    "summary_cn": "eSpeak是Linux发行版中广泛使用的文本转语音（TTS）程序，它支持多种语言和口音，能将文字朗读出来。然而，其主要缺点是声音非常机械化，听起来像1980年代的Speak 'n' Spell玩具，单调、生硬且难以入耳。这篇文章探讨了eSpeak的局限性，并暗示了对更自然、更悦耳的TTS体验的需求。",
     "source": "shkspr.mobi",
     "url": "https://shkspr.mobi/blog/2026/04/better-tts-on-linux/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Timex Sinclair 1000 computer: Revisiting its legacy",
+    "title_cn": "重温其传奇",
+    "summary_cn": "Timex Sinclair 1000 是 Sinclair ZX81 的美国版本，于1982年4月20日发布。在那个年代，它以99美元的低价提供了一台真正的电脑，并在1982年售出50万台。这篇文章旨在回顾这款具有里程碑意义的电脑的遗产，它在早期个人电脑的普及浪潮中扮演了重要角色。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/timex-sinclair-1000/?utm_source=rss&utm_medium=rss&utm_campaign=timex-sinclair-1000",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "★ Another Day Has Come",
+    "title_cn": "又一天到来",
+    "summary_cn": "这篇文章高度赞扬了苹果公司在处理事务或执行任务时的独特方式。作者认为，苹果的运作模式极致有序、令人信服，能带来激动人心的体验，却又在预料之中，毫不意外。这种方式让人感觉一切都恰到好处，很难想象还有哪种方式能比这更出色，更能让人感受到如此强烈的认同感和信心。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/another_day_has_come",
     "score": 2,
     "angle": ""
   },
   {
-    "title_en": "A backup MX will get accessed by various sorts of people",
-    "title_cn": "备用邮件服务器将被各类用户访问",
-    "summary_cn": "鉴于即将到来的长时间停电，作者正在着手搭建一个独立的备用邮件服务器（backup MX），以确保停电期间邮件服务能够持续运行。他构建了一个现有入站邮件网关的副本，并已为其添加了一个较低优先级的DNS MX记录。此举旨在确保一旦主服务器不可用，备用MX能无缝接管并处理来自各类用户的邮件访问请求，保障邮件通信不中断。",
-    "source": "utcc.utoronto.ca/~cks",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed",
-    "score": 2,
-    "angle": ""
-  },
-  {
-    "title_en": "More on Newton’s diameter theorem",
-    "title_cn": "牛顿直径定理续篇",
-    "summary_cn": "这篇文章是牛顿直径定理的进一步阐释。该定理涉及一个由n次多项式f(x,y)=0构成的曲线，并指出当多条平行线与该曲线相交于n个点时，这些交点之间存在特定的几何关系。内容在前一篇的基础上，对这一复杂的数学概念进行了更深入的探讨和分析，旨在帮助读者更全面地理解牛顿直径定理的原理及其内涵。",
-    "source": "johndcook.com",
-    "url": "https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/",
+    "title_en": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
+    "title_cn": "T恤和卫衣回归",
+    "summary_cn": "Daring Fireball的粉丝们注意了！备受期待的Daring Fireball品牌T恤和连帽卫衣现已重新上架，开放订购。文章呼吁读者立即下单。商品预计将于本周末开始印刷，并计划在下周启动发货。对于喜爱该品牌设计或希望支持Daring Fireball的读者来说，这是一个不容错过的机会，快来展现你的独特Geek品味吧！",
+    "source": "daringfireball.net",
+    "url": "https://store.daringfireball.net/",
     "score": 2,
     "angle": ""
   },
   {
     "title_en": "Writing an LLM from scratch, part 32l -- Interventions: updated instruction fine-tuning results",
     "title_cn": "更新的指令微调结果",
-    "summary_cn": "本文作者正基于Sebastian Raschka的著作《从零构建大型语言模型》，开发一个GPT-2-small风格的大型语言模型。作者尝试了多种不同的方法，旨在提升模型的性能，使其在保留测试数据集上的损失（loss）指标上，能够接近原始OpenAI GPT-2-small的质量水平。",
+    "summary_cn": "作者正基于Sebastian Raschka的《从零开始构建大型语言模型》一书，开发一个GPT-2-small风格的LLM。他通过尝试多种方法，旨在使其性能接近原版OpenAI GPT-2-small的质量，并以在保留测试数据集上的损失值作为衡量标准。本系列文章的这一部分将详细介绍更新后的指令微调实验结果，展示不同干预措施的效果。",
     "source": "gilesthomas.com",
     "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests",
     "score": 2,
@@ -136,46 +172,37 @@
   },
   {
     "title_en": "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits",
-    "title_cn": "微软将把GitHub Copilot用户转向基于Token的计费，并收紧速率限制",
-    "summary_cn": "微软内部文件显示，GitHub Copilot将暂停个人账户注册，以配合其从按请求计费转向基于Token的计费模式。此举旨在应对Copilot运营成本翻倍的挑战，未来用户可能面临更严格的使用限制和新的计费方式，预示着AI辅助编程服务的成本结构和可用性将发生重大变化。",
+    "title_cn": "微软将把GitHub Copilot用户转向基于令牌的计费，并收紧速率限制",
+    "summary_cn": "微软内部文件透露，GitHub Copilot将暂停个人账户注册，以过渡到基于令牌的计费模式。此举意味着未来用户将不再按交互次数付费，而是按消耗的“令牌”数量计费。内部文件还显示，自年初以来，GitHub Copilot的每周运营成本已翻倍。这一计费模式和速率限制的调整，可能对开发者社区的使用习惯和成本产生影响。",
     "source": "wheresyoured.at",
     "url": "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/",
     "score": 2,
     "angle": ""
   },
   {
-    "title_en": "Timex Sinclair 1000 computer: Revisiting its legacy",
-    "title_cn": "重温其传奇",
-    "summary_cn": "Timex Sinclair 1000 是 Sinclair ZX81 电脑的美国版本，于1982年4月20日宣布，并于同年7月发布。这款电脑以当时99美元的低价上市，在1982年销量达到50万台，被视为一款真正的电脑。它在个人电脑普及化进程中扮演了重要角色，代表了早期家用电脑市场的一个里程碑。本文旨在回顾这款经典电脑的历史及其深远影响。",
-    "source": "dfarq.homeip.net",
-    "url": "https://dfarq.homeip.net/timex-sinclair-1000/?utm_source=rss&utm_medium=rss&utm_campaign=timex-sinclair-1000",
-    "score": 2,
-    "angle": ""
-  },
-  {
-    "title_en": "★ Another Day Has Come",
-    "title_cn": "★ 新的一天又来了",
-    "summary_cn": "这段文字高度赞扬了苹果公司在处理某件事上的方式或方法，认为其过程展现出极致的秩序感，能够激发人们的信心。尽管充满了令人兴奋的元素，但一切又都在意料之中，给人一种恰到好处、水到渠成的感觉。作者认为，这种做事方式难以想象会有更优越或更令人满意的替代方案。",
-    "source": "daringfireball.net",
-    "url": "https://daringfireball.net/2026/04/another_day_has_come",
-    "score": 1,
-    "angle": ""
-  },
-  {
-    "title_en": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-    "title_cn": "T恤和连帽衫回归！",
-    "summary_cn": "知名科技博客 Daring Fireball 的官方周边商品——经典款T恤和连帽衫——现已重新上架！粉丝们现在即可下单购买。文章指出，T恤和卫衣的印制工作将于本周末开始，并计划在下周进行发货。想要支持Daring Fireball或喜爱其设计的读者们，请尽快行动，把握此次购买机会。",
-    "source": "daringfireball.net",
-    "url": "https://store.daringfireball.net/",
+    "title_en": "A backup MX will get accessed by various sorts of people",
+    "title_cn": "备用邮件服务器将被各类人访问",
+    "summary_cn": "作者为应对即将到来的长时间停电，正着手构建一个备用邮件服务器，以确保邮件服务不中断。他正在搭建一个独立的、与现有入站邮件网关功能重复的系统，并已为其添加了较低优先级的DNS MX记录。此举旨在当主服务器因停电等原因无法访问时，邮件能够自动路由到备用服务器，从而保障邮件服务的连续性和可靠性。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed",
     "score": 1,
     "angle": ""
   },
   {
     "title_en": "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
-    "title_cn": "代码在使用带bank-switched内存的显卡时如何处理24位每像素格式？",
-    "summary_cn": "本文探讨了在使用具有bank-switched内存的旧式显卡时，代码如何处理24位每像素（24-bpp）的图形格式。尽管像素数据本身可能并未严格对齐，但访问这些数据的操作仍然需要遵循内存对齐原则。这意味着开发者在处理此类特定硬件和高色深图像时，必须特别注意内存访问模式，以确保兼容性和性能，避免因不对齐访问导致的潜在问题。",
+    "title_cn": "代码在使用带有bank-switched内存的显卡时如何处理24位/像素的图像格式？",
+    "summary_cn": "这篇文章探讨了在早期使用带有bank-switched内存的显卡时，代码如何处理24位/像素的图像格式。即使像素本身可能不对齐，程序仍然需要强制使用对齐访问来操作这些数据。这展示了在旧式硬件限制下进行底层编程的特殊挑战与处理方式。",
     "source": "devblogs.microsoft.com/oldnewthing",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "More on Newton’s diameter theorem",
+    "title_cn": "更多关于牛顿直径定理",
+    "summary_cn": "这篇文章是对牛顿直径定理的进一步探讨。该定理描述了如何通过绘制由n次多项式方程f(x,y)=0解形成的曲线，并找到与这条曲线相交于n个点的多条平行线的相关特性。这是一篇关于几何与代数交叉的数学概念的延伸讨论。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/",
     "score": 1,
     "angle": ""
   }
