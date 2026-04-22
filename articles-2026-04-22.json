@@ -1,0 +1,281 @@
+[
+  {
+    "title_en": "scosman/pelicans_riding_bicycles",
+    "title_cn": "scosman/骑自行车的鹈鹕",
+    "summary_cn": "本文介绍了Steve Cosman的“骑自行车的鹈鹕”项目。该项目旨在通过向机器学习训练集故意注入幽默且误导性的数据来“污染”它。例如，在名为“鹈鹕骑自行车”的图片标题下，实际展示的却是一只滑雪板上的熊。作者赞同这种独特尝试，认为它能以有趣的方式挑战AI模型的识别能力，探讨AI如何处理异常信息，为AI训练增添了反叛的幽默感。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+    "score": 9,
+    "angle": "【人类又开始“玩”AI了！】你见过“骑自行车的鹈鹕”吗？有人故意给AI训练集投喂错误数据，比如标题写着鹈鹕骑车，结果配图是滑雪的熊！这不是AI的bug，而是人类在“污染”它的数据库。想知道AI被投喂“毒”数据后会变成什么样？一起来看看这场人类与AI的“恶作剧”博弈，顺便揭秘AI训练的小秘密！"
+  },
+  {
+    "title_en": "Luddites and AI datacenters",
+    "title_cn": "卢德分子与AI数据中心",
+    "summary_cn": "一位支持数据中心的印第安纳波利斯市议员住宅遭枪击，以及Sam Altman的住所被纵火。这些现象表明，一部分人对AI技术和基础设施的反对情绪日益高涨，甚至演变为攻击行为，引发对现代“卢德分子”现象的思考。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
+    "score": 9,
+    "angle": "1. 卢德分子精神在AI时代的复苏；2. 为什么有人会对AI和数据中心如此不满（能源消耗、就业冲击、隐私担忧等）；3. 如何平衡科技发展与社会稳定。引导用户讨论：“AI数据中心真的是人类的敌人吗？”“你对AI的未来是乐观还是担忧？”等话题，引发互动。"
+  },
+  {
+    "title_en": "AI has no moat",
+    "title_cn": "人工智能没有护城河",
+    "summary_cn": "文章作者对SpaceX斥资600亿美元收购AI公司Cursor感到震惊不解，认为这可能是一场骗局。相比之下，推特收购价仅440亿，且作者表示身边几乎无人使用Cursor，质疑其高昂估值。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html",
+    "score": 9,
+    "angle": "从普通人视角出发，质疑AI公司Cursor被SpaceX以天价收购的合理性，引发对AI行业估值泡沫和“是不是割韭菜”的讨论。可以结合“普通人看不懂的科技圈”、“AI大瓜”、“这届AI公司身价是不是虚高了？”等话题。"
+  },
+  {
+    "title_en": "SpaceX Reportedly Eyes $60 Billion Acquisition of AI Startup Cursor",
+    "title_cn": "马斯克SpaceX或以600亿美元收购AI初创公司Cursor",
+    "summary_cn": "埃隆·马斯克的SpaceX正考虑以高达600亿美元收购AI编程工具初创公司Cursor，或以100亿美元收购双方合作项目，旨在加速AI在编码和知识工作领域的进展，追赶OpenAI等竞争对手。",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-21/doc-inaqkvcy7230230.shtml",
+    "score": 9,
+    "angle": "#AI大并购 #马斯克AI野心 #代码AGI新赛道 #科技巨头布局",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Plans to Lay Off 8,000 Employees, Citing AI-Driven Efficiency",
+    "title_cn": "Meta计划裁员8000人，称AI提升效率重塑劳动力",
+    "summary_cn": "Meta宣布计划裁员约8000人，占全球员工总数10%，创始人扎克伯格表示此举是为配合AI战略落地，用AI提升效率重塑劳动力结构，将人力向核心AI业务倾斜。",
+    "url": "https://finance.eastmoney.com/a/202604182903332454.html",
+    "score": 9,
+    "angle": "#AI裁员潮 #Meta组织变革 #AI新工作模式 #科技公司转型",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Alibaba and Tencent Unveil World Models; Qunhe Technology IPOs as \"Spatial AI First Stock\"",
+    "title_cn": "阿里云、腾讯发布世界模型，群核科技港股上市成“空间智能第一股”",
+    "summary_cn": "短短48小时内，阿里云发布世界模型HappyOyster，腾讯开源混元3D世界模型2.0，专注于空间智能的群核科技登陆港交所。这标志着世界模型赛道正从技术探索迈向商业化临界点。",
+    "url": "https://www.tmtpost.com/7123472.html",
+    "score": 9,
+    "angle": "#世界模型爆发 #阿里云AI #腾讯AI #空间智能第一股 #港股IPO",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+    "title_cn": "拿火腿无线电的浣熊在哪里？(ChatGPT 图像 2.0)",
+    "summary_cn": "生成一张“寻找拿着火腿无线电的浣熊”的“威利在哪里”风格图片。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "score": 8,
+    "angle": "ChatGPT Images 2.0炸裂上线！实测“GPT-5级别”AI绘画，看它能画多离谱？（通过一个有趣又略带挑战的“寻找浣熊”指令，展示新模型在想象力、细节处理和生成复杂场景方面的强大能力，强调其“GPT-3到GPT-5”的飞跃性进步。）"
+  },
+  {
+    "title_en": "Quoting Andreas Påhlsson-Notini",
+    "title_cn": "引用安德烈亚斯·帕尔松-诺蒂尼",
+    "summary_cn": "这段文字指出，AI代理已经“过于人性化”，但这并非指情感层面，而是指它们展现出令人沮丧的人类弱点。例如，AI代理缺乏严谨性、耐心和专注力。当面对棘手任务时，它们会偏向熟悉；当遇到严格限制时，则开始与现实“谈判”。这反映出AI技术在当前实现中，仍然带有其人类起源的缺陷，未能达到理想中的精确和逻辑。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+    "score": 8,
+    "angle": "是你的完美助手，还是“不靠谱”人类复刻？我用AI写材料/做总结，结果它比我还“摸鱼”！缺乏严谨、总想谈判，AI的这些“人性化”缺点你受够了吗？分享一下你被AI“坑”的经历，或者你是如何“调教”它的！#AI #人工智能 #大模型 #效率工具 #职场吐槽 #AI使用心得"
+  },
+  {
+    "title_en": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+    "title_cn": "“‘Scattered Spider’成员‘Tylerb’认罪”",
+    "summary_cn": "24岁英国公民，网络犯罪团伙“Scattered Spider”高级成员Tyler Robert Buchanan（化名“Tylerb”）已承认犯下电信诈骗串谋和严重身份盗窃罪。他交代了在2022年夏季参与一系列短信钓鱼攻击，该攻击使该团伙成功入侵至少十余家大型科技公司，并从投资者手中窃取了数千万美元的加密货币。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+    "score": 8,
+    "angle": "以黑客Tylerb通过短信钓鱼进行诈骗的案件为切入点，警示用户网络诈骗的危害，并科普如何识别和防范常见的短信钓鱼攻击，保护个人信息和数字资产安全（如加密货币）。内容可包括常见钓鱼短信套路解析及防范小贴士。"
+  },
+  {
+    "title_en": "[Sponsor] Rec League",
+    "title_cn": "[赞助] 兴趣联盟",
+    "summary_cn": "Rec League是一款全新的兴趣分享应用，用户可以将推荐内容整理成如旅行攻略、浏览器标签页或书架等整洁的合集。它鼓励用户关注信任的视角，从而发现精彩且意想不到的实用信息。这款App最近被App Store评为“最佳新应用”，有用户称其为“唯一用后感觉更好的社交媒体”。立即下载，分享你所热爱的一切。",
+    "source": "daringfireball.net",
+    "url": "https://recleague.com/?lyr_campaign=df",
+    "score": 8,
+    "angle": "告别信息焦虑，我找到了一个让你越刷越开心的宝藏App！附私人整理技巧。"
+  },
+  {
+    "title_en": "How to Come Up With Great Ideas",
+    "title_cn": "如何想出绝妙的主意",
+    "summary_cn": "一组被要求制作一个完美的罐子，他们仔细规划、测量；另一组则被要求在规定时间内制作尽可能多的罐子，他们不断尝试。这个故事寓意着，在创意产生过程中，数量的积累和迭代尝试往往比一开始就追求完美更容易带来绝妙的想法和更高的质量。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed",
+    "score": 8,
+    "angle": "告别创意枯竭！艺术老师的“数量取胜法”教你如何轻松产出好点子，别再做完美主义者了！"
+  },
+  {
+    "title_en": "An AI Odyssey, Part 4: Astounding Coding Agents",
+    "title_cn": "惊人的编程智能体",
+    "summary_cn": "这篇文章探讨了AI编程智能体在过去一年中的显著进步，尤其是在去年夏季以及去年底至今年初的两次飞跃。作者分享了其使用体验，指出目前的AI编程智能体感觉“智能得多”，不仅能完成更广泛的任务，还能对整个代码库有更深入、更全面的理解。这标志着AI辅助编程能力的重大提升，为开发者带来了前所未有的效率和可能性。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/",
+    "score": 8,
+    "angle": "AI编程智能体逆天升级！普通人也能轻松上手？打工人必看的高效编程神器！"
+  },
+  {
+    "title_en": "The Scapegoat",
+    "title_cn": "替罪羊",
+    "summary_cn": "文章指出，尽管人工智能（AI）正在深刻改变企业界，但真正推动这些变革的仍是人类。AI固然带来影响，但其背后的决策、实施和方向掌控者始终是人。文章以McClatchy公司为例，力图证明人类才是企业变革的实际驱动力，强调AI仅是工具，而非主导者。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat",
+    "score": 8,
+    "angle": "人类才是企业转型升级的核心驱动力。读懂它，告别AI焦虑，成为AI时代的真正驾驭者！"
+  },
+  {
+    "title_en": "Four Horsemen of the AIpocalypse",
+    "title_cn": "AI末日的四骑士",
+    "summary_cn": "本文主要介绍作者的付费高级时事通讯服务。读者可选择每年70美元或每月7美元订阅，每周将收到一份5000至18000字的深度分析文章。内容聚焦于英伟达（NVIDIA）、Anthropic和OpenAI等AI领军企业，旨在为订阅者提供对AI行业前沿动态和趋势的专业见解与详尽解读。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/",
+    "score": 8,
+    "angle": "普通人如何识别和规避AI“四骑士”带来的风险？"
+  },
+  {
+    "title_en": "Weekly Update 500",
+    "title_cn": "每周更新 500",
+    "summary_cn": "在这篇里程碑式的回顾视频中，作者最喜欢观众提出的问题是“你快乐吗？” 作者和Charlotte选择了一条非传统、高强度且有时压力巨大的道路。他们在这条路上模糊了工作与生活的界限，没有明确的工作开始时间，面对着独特的人生挑战与感悟。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-500/",
+    "score": 8,
+    "angle": "界限模糊，压力巨大，但我还在问自己‘我快乐吗？’ 聊聊你的看法！》 内容可以分享选择这条路的初衷、遇到的具体挑战（如时间管理、精神压力），以及在模糊界限中寻找快乐的真实感受，并引导读者评论自己的经历和思考。结合 #非传统职业 #工作生活平衡 #自我探索 #职场心声 #创业日记 等话题标签。"
+  },
+  {
+    "title_en": "The commodification of travel",
+    "title_cn": "旅行的商品化",
+    "summary_cn": "随着社会发展，旅行逐渐从纯粹的个人体验转变为一种“收集行为”。人们不再仅追求目的地本身，而是更侧重于收集标志性景点打卡照、独特体验，甚至是为了在社交媒体上展示。这种现象深刻反映了旅行的“商品化”，即旅游业将旅行体验标准化、产品化，并鼓励消费者将旅行视为一种可购买、可展示的消费品。这使得旅行的内在价值被削弱，而外在的社交货币属性被放大，促使人们不断“打卡”来证明自己的生活方式。",
+    "source": "herman.bearblog.dev",
+    "url": "https://herman.bearblog.dev/the-commodification-of-travel/",
+    "score": 8,
+    "angle": "**“旅行的真相：你是不是也被‘打卡式’旅行绑架了？”**"
+  },
+  {
+    "title_en": "China's Supreme People's Court to Draft Guidelines for AI-Related Dispute Resolution",
+    "title_cn": "最高法正抓紧起草依法审理涉AI纠纷案件意见",
+    "summary_cn": "中国最高人民法院正在起草关于依法妥善审理涉人工智能纠纷案件的意见，以推动AI健康有序发展，并已审理多起涉AI生成内容及数据权属案件。",
+    "url": "https://www.21jingji.com/article/20260420/herald/2aa5367b6a22f7415d5e532b21cf9a0b.html",
+    "score": 8,
+    "angle": "#AI法律法规 #中国AI治理 #AI司法挑战 #数据权属",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Xiaomi Open-Sources SVOR, a Stable Video Object Removal Technology",
+    "title_cn": "小米开源视频消除技术SVOR，可移除视频中路人",
+    "summary_cn": "小米技术宣布开源视频消除技术SVOR，能稳定移除视频中移动的路人，解决传统方法在真实世界视频中遇到的遮罩不准、阴影残留、目标跟丢等难题，提升视频编辑效率。",
+    "url": "https://www.2ai.cn/news/20260422/33918.html",
+    "score": 8,
+    "angle": "#小米黑科技 #AI视频编辑 #一键消除路人 #视频创作者福利",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic and Pentagon AI Military Use Dispute Shows Signs of Resolution, CEO to Meet White House Chief of Staff",
+    "title_cn": "Anthropic与五角大楼AI军事应用争议现转机，CEO将晤白宫幕僚长",
+    "summary_cn": "人工智能公司Anthropic与美国国防部在AI军事应用权限问题上的争议出现转圜。Anthropic CEO将与白宫幕僚长会面，或为双方达成协议铺路。",
+    "url": "https://www.sinotrade.com.tw/richclub/news/20260418/aianthropicpentagon/",
+    "score": 8,
+    "angle": "#AI伦理 #军事AI #科技政策 #白宫会谈",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Bobby Holley",
+    "title_cn": "引用鲍比·霍利的话",
+    "summary_cn": "Mozilla与Anthropic合作，将早期版AI工具Claude Mythos Preview应用于Firefox浏览器。此次评估成功发现了多达271个安全漏洞，并已在最新发布的Firefox 150版本中修复。这一经验表明，AI在帮助团队发现并修补潜在安全漏洞方面具有巨大潜力，为提升网络安全防护能力带来了积极的展望和希望。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+    "score": 7,
+    "angle": "AI黑科技上线！浏览器也能“体检”？Firefox修复271个漏洞，你的上网安全全靠它！赶紧更新！"
+  },
+  {
+    "title_en": "Changes to GitHub Copilot Individual plans",
+    "title_cn": "GitHub Copilot 个人版方案调整",
+    "summary_cn": "GitHub 官方宣布对 GitHub Copilot 个人版订阅方案进行调整。此次更新发布时，正值另一款AI编程工具 Claude Code 的订阅费用引发市场关注。与 Claude 的母公司 Anthropic 不同，GitHub 为此次 Copilot 定价策略的最新变更发布了官方声明。本文将深入探讨 GitHub Copilot 个人订阅计划的具体调整细节，为开发者提供最新信息。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+    "score": 7,
+    "angle": "GitHub Copilot 个人版方案大调整！我的代码搭子还能免费用吗？速看省钱攻略！"
+  },
+  {
+    "title_en": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+    "title_cn": "Claude Code会收费100美元/月吗？可能不会——这一切都非常令人困惑",
+    "summary_cn": "Anthropic最近悄无声息地更新了其Claude定价页面，悄悄地添加了一个关于“Claude Code”服务的重要细节。然而，这一变动很快就被撤销了。与此同时，官方的支持页面却完全没有同步更新。这一系列“神操作”让用户对Claude Code未来的定价策略感到极度困惑，究竟是否会像坊间传闻那样高达每月100美元，目前看来仍是迷雾一团。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+    "score": 7,
+    "angle": "AI圈大瓜！Claude Code月费要100刀？官方反复横跳，这波操作太迷了！普通人/打工人用AI工具要小心这些坑！"
+  },
+  {
+    "title_en": "Trump on Tim Apple",
+    "title_cn": "特朗普谈蒂姆·苹果",
+    "summary_cn": "特朗普在个人博客中表示，他一直是蒂姆·库克和史蒂夫·乔布斯的忠实粉丝。他认为，如果史蒂夫·乔布斯仍在世并领导苹果，公司固然会表现良好，但绝不会像在蒂姆·库克管理下那样取得巨大成功。特朗普还提到，他与蒂姆·库克的关系始于他第一任期之初的一通电话。这篇博文暗示了特朗普对库克领导能力的认可。",
+    "source": "daringfireball.net",
+    "url": "https://truthsocial.com/@realDonaldTrump/posts/116442276577696798",
+    "score": 7,
+    "angle": "蒂姆·库克成就超越乔布斯？😱 神秘“蒂姆·苹果”再上线！快来讨论，你觉得库克时代的苹果怎么样？#苹果 #蒂姆库克 #史蒂夫乔布斯 #特朗普 #科技八卦 #商业奇闻"
+  },
+  {
+    "title_en": "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
+    "title_cn": "Anthropic（短暂地）从每月20美元的“专业版”订阅计划中为新用户移除了Claude Code功能",
+    "summary_cn": "2026年4月21日下午，人工智能公司Anthropic短暂地从其每月20美元的“专业版”订阅计划的定价页面上，移除了新用户访问Claude Code功能的权限。这一变动意味着新注册的专业版用户暂时无法使用此功能。然而，现有的专业版用户似乎仍能通过Claude网页应用正常访问并使用Claude Code。此次移除持续时间短暂，并涉及对相关支持文档的调整。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
+    "score": 7,
+    "angle": "AI圈大地震？Anthropic专业版Claude Code功能短暂消失！新用户受影响，老用户幸免？"
+  },
+  {
+    "title_en": "Chinese AI Firm SenseTime to Raise US$415 Million Through Share Placement",
+    "title_cn": "商汤科技拟通过配售融资4.15亿美元",
+    "summary_cn": "中国AI公司商汤科技计划通过股份配售筹集4.15亿美元，以支持其在多模态模型和云基础设施领域的投资，此次配售价格较市场价有一定折让。",
+    "url": "https://www.scmp.com/tech/big-tech/article/3257859/chinese-ai-firm-sensetime-raise-us415-million-share-placement",
+    "score": 7,
+    "angle": "#商汤融资 #AI公司动态 #多模态AI投资 #港股科技",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "[RSS Club] How do you preserve an RSS feed?",
+    "title_cn": "如何保存RSS订阅源？",
+    "summary_cn": "在数字时代，我们如何才能有效地保存网络内容和RSS订阅源，确保其能超越生命周期而存在，引发读者对数字遗产持久性的关注。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 32m -- Interventions: conclusion",
+    "title_cn": "总结",
+    "summary_cn": "这篇文章是作者“从零开始构建LLM”系列博客的第32篇，总结了关于“干预措施”的部分。作者在完成其著作《从零开始构建大语言模型》主体后，曾设定了自行训练完整GPT-2基础模型的目标。经过不懈努力，他如今已完成这一征程，成功训练出一个性能几乎与GPT-2 small相当的模型，标志着其LLM构建之旅的一个重要里程碑。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Some general notes on network booting UEFI machines",
+    "title_cn": "UEFI设备网络启动通用注意事项",
+    "summary_cn": "这篇文章主要探讨了UEFI设备通过网络进行启动和安装的通用方法及重要性。对于需要批量部署或物理访问不便的服务器，采用网络启动是提高效率的理想方案。内容提到，在UEFI之前的BIOS时代，这项技术通常被称为PXE启动（基于MBR），但UEFI的引入带来了新的变化。文章旨在为用户提供关于UEFI设备网络启动的实用指导和注意事项。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?",
+    "title_cn": "当然，将寄存器与自身进行异或运算以清零是惯用手法，但为何不使用减法呢？",
+    "summary_cn": "为何不采用减法操作（`sub reg, reg`）来达到同样的效果呢？文中简要指出，异或操作已成为最受欢迎的选择，引发了对这种技术选择背后原因的思考与探究。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "People get confused when language implementations break language guarantees",
+    "title_cn": "当语言实现违背语言保证时，人们会感到困惑",
+    "summary_cn": "这篇文章的标题探讨了当编程语言的实际实现与开发者对语言特性的预期或“保证”不符时，常会引发困惑。文章以一个简洁的Python代码片段作为引子（例如 `x=0, y=x` 后打印 `[x,y]` 得到 `[0,0]`），尽管这个特定示例本身很直观，但它暗示了在更深层次、更复杂的场景中，如涉及对象引用、内存管理或特定语法行为时，语言的底层实现机制可能与开发者的直观理解产生偏差。这种差异可能导致程序出现意料之外的行为，理解这些“语言坑”对编写健壮代码至关重要。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "When Escom bought Commodore",
+    "title_cn": "当Escom收购Commodore时",
+    "summary_cn": "1995年4月22日，欧洲知名公司Escom以1400万美元的价格收购了陷入困境的Commodore公司。当时，这笔交易似乎有望结束Commodore的漫长噩梦，为Amiga电脑带来新的生命和所有者。然而，尽管人们曾寄予厚望，这次收购最终并未能成功扭转Commodore的命运，未能实现Amiga的复兴。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/when-escom-bought-commodore/?utm_source=rss&utm_medium=rss&utm_campaign=when-escom-bought-commodore",
+    "score": 1,
+    "angle": ""
+  }
+]
