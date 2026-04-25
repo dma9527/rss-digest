@@ -1,0 +1,245 @@
+[
+  {
+    "title_en": "GPT-5.5 prompting guide",
+    "title_cn": "GPT-5.5 提示词指南",
+    "summary_cn": "文章介绍了OpenAI最新发布的GPT-5.5模型及其API接入。伴随模型发布，OpenAI官方同步推出了一份详尽的提示词指南，旨在帮助用户最大化新模型的能力。指南中包含诸多实用技巧，例如针对应用中可能存在的“思考时间过长”问题，官方也提供了优化建议，确保用户能够更高效、准确地使用GPT-5.5。这份指南对于希望掌握最新AI模型提示词策略的开发者和普通用户都具有重要的参考价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "score": 9,
+    "angle": "可以从“GPT-5.5来了！官方提示词秘籍大公开，小白也能上手，AI效率飙升！”入手，强调这是OpenAI官方最新发布的权威指南，内容实用且能显著提升与AI的交互效率。切入点可以聚焦于指南中的“提升效率小技巧”或“避免AI胡说八道的关键提示”，通过案例对比展现优化前后的效果，激发用户的学习兴趣和实践欲望。"
+  },
+  {
+    "title_en": "The people do not yearn for automation",
+    "title_cn": "人们不渴望自动化",
+    "summary_cn": "Nilay Patel的这篇文视频评论，深入探讨了人工智能为何在大众中并不受欢迎，尽管ChatGPT等AI工具使用量持续飙升。文章的核心思想是，人们可能正受到某种“软件大脑”的困扰（原文此处截断），使得他们并未真正“渴望”自动化。这是一篇发人深省的优质评论，提供了理解AI与普通人之间复杂关系的新视角。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "score": 9,
+    "angle": "AI爆火，你却开始厌烦了？🚨 揭秘为什么我们嘴上离不开ChatGPT，心里却不渴望自动化！是便利还是困扰？快看看你有没有被“软件大脑”控制住！#AI #人工智能 #自动化 #未来生活 #心理学"
+  },
+  {
+    "title_en": "DeepSeek's Valuation Doubles to Over $20 Billion with Potential Tencent and Alibaba Investment",
+    "title_cn": "深度求索估值翻倍超200亿美元，腾讯阿里巴巴或将投资",
+    "summary_cn": "中国AI公司DeepSeek（深度求索）估值飙升至200多亿美元，此前其估值曾达100亿美元。市场消息称，腾讯和阿里巴巴正洽谈投资，引发了AI大模型公司在资本市场的高估值热潮。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofByeeEpOE7feq4hCqXYEUVxTwjTQmEljxogXvQFINc5uwzN5MhULmMuh89LeJJKwvTajFVh5CxLFoug496xQSEaYo-hqMgv9-0vfmdJRU6g7JjCzFy4qq3ShS5564nDajra-o8s0cHLTt6AF5fkVLF-gUEyrppV7oXtOeDYpUisnU4CdKz4_pgo8BGwwEvR7m9vA3GrWSazXknuKtGNu6_0",
+    "score": 9,
+    "angle": "👀深度求索估值翻倍！Tencent和Alibaba要入局？中国AI大模型潜力股，速看投资新风向！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Releases GPT-5.5, Moving Closer to an AI 'Super App'",
+    "title_cn": "OpenAI发布GPT-5.5，旨在打造AI“超级应用”",
+    "summary_cn": "OpenAI发布了最新的GPT-5.5模型，显著增强了多领域能力。此举标志着OpenAI正加速构建一个能够整合多项AI功能的“超级应用”，预示着AI应用生态的新一轮变革。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPAK6k_E99OKdWvGTeTWMIbchQX1Aia7sj9mDCiC4leL2f0FoNCFi4DlyoBmojLiRThiCNdnCXD4g1YkKsKSuZToFceA_WHy0moa5obMCHOd0",
+    "score": 9,
+    "angle": "🚀GPT-5.5震撼来袭！OpenAI要搞AI“超级应用”？技术小白也能秒懂的AI进化论，快来围观！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Jeff Bezos' AI Lab 'Project Prometheus' Nears Completion of $10 Billion Financing Round",
+    "title_cn": "杰夫·贝佐斯旗下AI实验室“普罗米修斯项目”将完成百亿美元融资",
+    "summary_cn": "杰夫·贝佐斯支持的专注于实体世界AI应用的实验室“普罗米修斯项目”即将完成100亿美元融资，估值达380亿美元。投资者对AI公司热情持续高涨。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3lz8IFYOuHToAxy5AX43e4In_fmHc21PTAM_KGCbGbYSOyo4yO1EHtchVN56eRM25UCMWUKLH10f8tmuY6Yg4geGQJAWpfLkYtWJ6mWVqXIgTSN3KHCN-EEfrAcB1eL3Bw04bxAU8hnxuWx7VyclXbs1P5YTOvZxi8rdRcEbfH7xv4IrV5sXcG4dSeyinIuQh8RoDrco4UKpxmnv77CNxQ==",
+    "score": 9,
+    "angle": "💰贝佐斯也玩AI！百亿融资，380亿估值！AI淘金热还在继续，普通人如何抓住机遇？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+    "title_cn": "库克-特纳斯CEO交接传闻大反转，古尔曼被打脸！",
+    "summary_cn": "曾被马克·古尔曼斥为“子虚乌有”的2025年《金融时报》关于库克-特纳斯CEO交接的报道，现已证实其每个字都准确无误。这标志着对此前否认的有力“打脸”，揭示了苹果高层变动的真实走向。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition",
+    "score": 8,
+    "angle": "苹果重磅炸弹！CEO库克接班人传闻大反转，当初否认的内幕记者竟然被打脸了？！😱 科技圈顶流预言家也要翻车？这瓜我先吃为敬！#苹果CEO #库克 #约翰特纳斯 #科技内幕 #打脸时刻 #职场吃瓜"
+  },
+  {
+    "title_en": "★ Norwegian Boating Licenses and Generational Law",
+    "title_cn": "挪威船艇驾照与世代法",
+    "summary_cn": "本文提出了一项关于“世代法”的初步设想，旨在解决年轻人的吸烟问题。作者建议通过实施一种分级征税制度，逐步提高对烟草产品的税收，以此来有效劝退更多年轻人尝试或开始吸食烟草，从源头上预防尼古丁成瘾的发生，从而长期保障公共健康。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law",
+    "score": 8,
+    "angle": "用这招让年轻人彻底告别烟草瘾？”为标题，介绍“世代法”和“分级征税”如何通过经济手段保护青少年免受尼古丁侵害，引发大家对未来“无烟一代”是否可期的讨论。"
+  },
+  {
+    "title_en": "★ ‘We Don’t Serve Their Kind Here’",
+    "title_cn": "★ ‘本店不接待此类人’",
+    "summary_cn": "本文作者近期频繁回想起“本店不接待此类人”这一经典场景或言论。这并非简单回顾电影片段，而是引发了对现实社会中普遍存在的排斥、歧视与群体划分现象的深刻思考。作者通过提及该场景，意在探讨为何这种拒绝与区别对待的思维模式在当下似乎愈发常见，暗示了对社会分化和不宽容趋势的担忧，呼吁读者共同反思。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/04/we_dont_serve_their_kind_here",
+    "score": 8,
+    "angle": "最近越来越频繁地思考‘本店不接待此类人’这句话背后的深意。你有没有在日常生活中，感受到过隐形的排斥或区别对待？快来分享你的经历和看法，一起聊聊这种现象。"
+  },
+  {
+    "title_en": "New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect",
+    "title_cn": "新西兰在2022年通过了世代禁烟令，但在生效前将其废除",
+    "summary_cn": "2022年，新西兰通过了一项开创性的世代禁烟法案，旨在禁止未来世代吸烟。然而，在2023年，新西兰新政府为了资助减税，决定在禁令生效前将其废除。这一举动引来公共卫生官员的强烈批评，他们认为此举将导致数千人死亡，并对吸烟率较高的毛利社区造成“灾难性”影响，因为毛利人将承受更大的健康和经济负担。",
+    "source": "daringfireball.net",
+    "url": "https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts",
+    "score": 8,
+    "angle": "震惊！新西兰为“钱”废除全球领先禁烟令，公共健康竟成牺牲品？这波魔幻操作你看懂了吗？"
+  },
+  {
+    "title_en": "What Do You Charge For?",
+    "title_cn": "你究竟在为哪些东西收费？",
+    "summary_cn": "究竟该为“什么”收费？是仅仅收取产品（如搭建网站）的成本价，还是涵盖足以维持生计并体现自身价值的费用？文章指出，这种关于收费依据的根本性思考，并非仅限于网络开发领域，而是普遍适用于任何行业的专业服务者。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/what-do-you-charge-for?src=feed",
+    "score": 8,
+    "angle": "如何为“价值”和“生活”定价，摆脱“用爱发电”的窘境！"
+  },
+  {
+    "title_en": "Blog prize for the big questions about AI",
+    "title_cn": "人工智能大问题博客奖",
+    "summary_cn": "主办方希望通过这个竞赛来物色并最终雇佣一位研究人员。这个博客奖实际上是一个巧妙的、非传统的招聘平台，旨在高效地筛选和吸引有才华的候选人。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/blog-prize",
+    "score": 8,
+    "angle": "揭秘AI竞赛背后“不为人知”的招聘秘籍！分享如何通过参与有挑战性的项目（如博客竞赛）来展示个人能力，从而被潜在雇主（如本文中的研究员职位）主动发现并招募的非传统求职路径。可以强调这种方式对提升个人作品集、建立行业声誉以及获得独特职业机会的重要性。"
+  },
+  {
+    "title_en": "Premium: How OpenAI Kills Oracle",
+    "title_cn": "OpenAI 如何“杀死”甲骨文",
+    "summary_cn": "这篇文章探讨了OpenAI对传统科技巨头甲骨文（Oracle）构成的颠覆性威胁。文章以2025年1月甲骨文CEO拉里·埃里森面临巨大压力、需要完成OpenAI数据中心建设为引子，暗示了AI新势力如何重塑科技行业格局。内容聚焦于OpenAI快速发展对甲骨文核心业务的潜在冲击，分析了AI技术如何挑战甚至可能取代传统数据库和云计算服务的地位。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/how-openai-kills-oracle/",
+    "score": 8,
+    "angle": "标题党可以叫“AI太猛，连甲骨文都要被‘杀死’？普通人如何看懂这场科技巨头对决，抓住未来趋势！” 内容可以简化AI对数据和算力的需求，以及它如何挑战传统数据库和云计算模式。再延伸到AI时代对个人职业发展和学习方向的影响，强调适应性和学习新技能的重要性，引导读者思考AI如何改变行业和我们生活。"
+  },
+  {
+    "title_en": "A Mutating AI Powered Virus",
+    "title_cn": "变异的AI驱动病毒",
+    "summary_cn": "它们首先掌握了计算和棋类游戏等复杂任务，接着学会了写作和对话，现在才开始学习移动。这种独特的学习顺序，揭示了人工智能在认知发展上的特性，即对AI而言，抽象思维和逻辑运算比感知和运动控制更为容易实现。",
+    "source": "geohot.github.io",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html",
+    "score": 8,
+    "angle": "😱AI病毒要变异？别慌！它可能连“走路”都还没学会呢！"
+  },
+  {
+    "title_en": "Meta Plans Significant Layoffs as AI Costs Mount, Affecting 8,000 Employees",
+    "title_cn": "Meta因AI成本上升计划大规模裁员，或影响8000名员工",
+    "summary_cn": "据报道，Meta计划在全球范围内裁员约8000名员工，占其员工总数的10%，预计5月20日开始实施。此次裁员旨在削减成本，以应对日益增长的AI基础设施投入。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgPNsI8yXFGYP5P2N8bwyRuYXljvJXCMUF1VNJP0K-dQLSBQbFQCpjEm6aOnK0nUNZzlum99WfRW7nvfZ8ilxLaR1YhO_HXFmGZhs60FFGjDa0R_dbFzizYk2-du_xWPJs5x91FWwsrNn7TWw",
+    "score": 8,
+    "angle": "💔Meta也要裁员了？！AI时代下，大厂生存法则变了？打工人如何应对行业巨变？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Insurers Begin Excluding AI-Related Damages from Commercial Policies",
+    "title_cn": "美国保险公司开始将AI相关损害排除在商业保单之外",
+    "summary_cn": "美国州保险监管机构已批准八成以上主要保险公司（包括伯克希尔哈撒韦）的申请，将AI相关损害排除在商业保险政策之外。这反映了保险业对AI技术风险的担忧。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLurD3skpNOB-LcrvSIo1SfPHPvMjQsuTju_Yj5BeEQ9fPgrN-aRTecL0zBw9ozOzn7yLangveuY_pqhLlerou227n7xKGLjPm9yeGS5eumGBoAP_tGTKCqWJWU6H2hPKzPzSDTOF8NY8uHQt5bTNF7eVfqnwJESCLpbCUy9u4GYdS3aPeAerFVPsugLC9Qkbtflj2yz6Ov5K4y4edtZUnIktn",
+    "score": 8,
+    "angle": "🚨AI惹的祸，保险公司不赔了？！AI风险正在重塑行业规则，你的AI产品有“安全保障”吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's State Council to Deepen 'Artificial Intelligence+' Initiative, Support Large Model Procurement",
+    "title_cn": "国务院深化“人工智能+”行动，支持大模型和智能体服务采购",
+    "summary_cn": "中国国务院发布意见，将深入实施“人工智能+”行动，支持采购大模型和智能体服务，并加快智能编程工具的研发。此举旨在推动服务业的扩展和质量提升。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF-ikeZh7WuwZEUlLIjw1mbx63BU4h-pUfXxHY601g5Zdk1EWa6Au0nh7mn3fMQCsiQ8IS4K8BCii5wgFJadqKwrQWq99-eQwLPBL75N40SlJa4mcjpHNL7EOksfeQcc3_21cxR4EeO2tQnpE0sfh36Lg6XBjuEBVzKYkc7g3QE7TStnx4vwkHLEPHQhTS4tOAUhrNn3yHkC3dzWoUVed4jigJKDhrtg==",
+    "score": 8,
+    "angle": "🇨🇳国家队出手！“人工智能+”战略升级，大模型和智能体采购获支持！AI赛道要起飞了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Romain Huet",
+    "title_cn": "引用 Romain Huet",
+    "summary_cn": "OpenAI的Romain Huet透露，自GPT-5.4起，Codex已与主模型整合，不再有独立的编程线路。GPT-5.5在此基础上进一步提升，在智能体编程、计算机使用及各项电脑任务中均取得显著进展。这证实了OpenAI不会发布单独的GPT-5.5-Codex模型，预示未来AI模型将拥有更强大的通用能力和自动化执行力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+    "score": 7,
+    "angle": "未来AI不仅能写代码，还能像人一样操作电脑、完成复杂任务。探讨这对普通人的学习、工作和AI副业可能带来的变革和机遇。"
+  },
+  {
+    "title_en": "Surging AI Regulation Overwhelms Enterprise Legal Teams",
+    "title_cn": "AI监管激增，企业法务团队面临巨大合规压力",
+    "summary_cn": "2026年，AI监管法规激增，其数量和复杂性正让企业法务团队不堪重负。欧盟AI法案等新规带来高额罚款，凸显了AI政策情报在管理合规风险方面的重要性。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF_Uk2KKhS7LCm1aeiK6e0cB6uGnLLOLK3NYBamBlRuVW_8mCUp9Pp7U-MdkqNRJilNyyv4B39dh10CIQ574WAmRaUcEeyOlWIKryV3YTYMaB_9wq35p5pyiWY6arwUuXMYH6-AtJ9FnJDDGKC9XNLhTUvLO_ocAKIcifXKfwXlei6H6uw14M_KIsC5QlwA_V2aVuSZh2lEkRhod-Ce4OLIEKmPBMTl09B2n_4K7O1TscgCRIV89zHSZkUbI5xzTdgLaSA5L1M2g==",
+    "score": 7,
+    "angle": "⚖️AI监管风暴来袭！企业法务部要“爆肝”了？AI合规，你准备好了吗？避坑指南速递！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "title_cn": "散热更好、体积更小、价格更亲民",
+    "summary_cn": "长期以来，笔记本电脑实现10千兆网络需昂贵、笨重且发热的雷电适配器。现在，基于RTL8159芯片的新型10G USB 3.2适配器已上市。这些新产品不仅体积更小巧、散热更好，价格也更实惠，有望取代传统笨重的雷电适配器，为用户提供更便捷、高效的网络解决方案。文章对比了新旧适配器的尺寸差异。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "《本周复古收藏家》",
+    "summary_cn": "“吟游诗人”主题。这标志着节目终于要深入探讨与文学巨匠莎士比亚相关的经典内容。观众可以期待一场融合了怀旧情怀与深度知识的文化盛宴，或许会从古物、历史背景或传统研究方法的独特视角，重新解读这位不朽诗人的作品与生平，带来一场独具风格的文学探索之旅。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
+    "title_cn": "艾达·帕尔默的《发明文艺复兴》(2026年4月25日)",
+    "summary_cn": "这篇博客文章以艾达·帕尔默备受赞誉的著作《发明文艺复兴》为核心，称其为一部才华横溢、宏伟巨著。文章还涵盖了作者对“点网泡沫”、RIAA诉讼、约翰迪尔与信息安全、富士康等热门事件的评论。此外，作者分享了即将前往伦敦、柏林、纽约等地的活动行程，以及鼓励读者继续支持其作品。整体内容丰富，结合了深度评论与个人动态。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/25/machiavellian/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "You can parse an .env file as an .ini with PHP - but there's a catch",
+    "title_cn": "将.env文件作为.ini解析？可以，但有陷阱",
+    "summary_cn": ".env文件是存储环境变量的简便而低技术的方法，PHP脚本可以方便地使用它。除了使用专门的解析库，文章指出PHP内置的`parse_ini_file()`函数也能解析.env文件，这种方法看似简单有效。然而，作者提醒读者，.env和.ini文件在行为上存在细微差异，这意味着在使用这种“捷径”时，可能会遇到一些意想不到的问题或“陷阱”，需要开发者特别注意。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "How nonlinearity affects a pendulum",
+    "title_cn": "非线性如何影响摆锤",
+    "summary_cn": "这篇文章探讨了摆锤的运动方程，指出在入门物理课中，通常会通过小角度近似来简化复杂的微分方程。然而，当摆动角度较大时，这种简化不再适用，摆锤的运动将呈现非线性特征。文章旨在深入分析非线性因素如何影响摆锤的真实运动，揭示更复杂、更接近实际的物理现象，而不仅仅是理想化的模型。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "llm 0.31",
+    "title_cn": "llm 0.31",
+    "summary_cn": "首先，新增对 GPT-5.5 OpenAI 模型的支持，用户可通过 `llm -m gpt-5.5` 命令进行调用；其次，针对 GPT-5 及更高版本的 OpenAI 模型，新增了设置文本冗余度（verbosity level）的选项，例如使用 `llm -o verbosity low` 可将输出设置为低冗余度。这些更新提升了开发人员在使用 llm 工具时与最新 OpenAI 模型交互的灵活性和效率。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "XOXO Explore",
+    "title_cn": "XOXO 探索",
+    "summary_cn": "Andy McMillan和Andy Baio正式推出了“XOXO探索”网站。这个网站的上线距离XOXO节首次举办已逾十年，距其停办也近两年。令人意外的是，其名称“XOXO探索”最初只是一个用于GitHub仓库的随手命名。值得一提的是，这是XOXO相关网站首次拥有一个真正的“关于”页面。",
+    "source": "daringfireball.net",
+    "url": "https://xoxofest.com/blog/2026-launching-xoxo-explore/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Our backup MX server was easy to build, but yours might not be",
+    "title_cn": "我们的备用MX服务器搭建简单，但你的可能并非如此",
+    "summary_cn": "因担心计划停电问题，作者近期搭建了一个备用MX服务器。这一举措是出于对邮件系统在特殊情况下的可靠性考虑。文章标题指出，尽管作者团队搭建过程相对顺利，但对于其他用户或组织而言，搭建备用MX服务器可能面临更多挑战和复杂性。后续内容预计将深入探讨搭建细节和潜在难点。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Defending against exceptions in a scope_exit RAII type",
+    "title_cn": "在 `scope_exit` RAII 类型中防御异常",
+    "summary_cn": "这篇文章的标题是《在 `scope_exit` RAII 类型中防御异常》。它讨论了C++编程中，如何在 `scope_exit` RAII 类型中处理和防御异常的情况。然而，作者在文章末尾暗示，这种防御可能不值得投入精力或不划算，指出在特定场景下，为此付出的成本或复杂性可能超过其带来的益处。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266",
+    "score": 1,
+    "angle": ""
+  }
+]
