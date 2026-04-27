@@ -88,3 +88,11 @@ updates = fetch_recent_articles(feeds, hours=48)  # 改为 48 小时
 ## 博客来源
 
 使用 [HN Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) 的结果。
+
+## 💰 Bounty Contribution
+
+- **Task:** 📰 每日文章摘要 - 2026-04-27
+- **Reward:** $380
+- **Source:** GitHub-Paid
+- **Date:** 2026-04-27
+
