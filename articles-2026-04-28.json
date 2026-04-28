@@ -1,0 +1,182 @@
+[
+  {
+    "title_en": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+    "title_cn": "Vicky Osterweil 的《延伸宇宙》 (2026年4月28日)",
+    "summary_cn": "本文聚焦Vicky Osterweil的新书《延伸宇宙》，该书深刻探讨了迪士尼如何“杀死”电影并主导全球文化。文章还分享了多条趣味链接，内容涵盖音乐家Zappa与审查制度的对抗、缺乏化学品的化学实验套装、小型诈骗手法、三菱汽车的“排放门”事件等，并推荐了一些有趣的发现和行业洞察。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/04/27/mouseketeers/",
+    "score": 9,
+    "angle": "震惊！迪士尼竟然“杀死”了电影，还掌控了全世界？😱"
+  },
+  {
+    "title_en": "Introducing talkie: a 13B vintage language model from 1930",
+    "title_cn": "一个来自1930年的130亿参数复古语言模型",
+    "summary_cn": "知名AI研究员Nick Levine、David Duvenaud和GPT、Whisper的作者Alec Radford共同推出了一个名为“talkie”的新项目。他们发布了“talkie-1930-13b-base”，这是一个130亿参数的语言模型，文件大小53.1 GB。该模型被独特地描述为“来自1930年的复古语言模型”，尽管并非真正诞生于那个时代，但这一设定暗示它可能在处理信息或语言风格上带有1930年代的特点，提供了一种新颖的AI体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+    "score": 8,
+    "angle": "“AI也玩穿越？GPT团队新作：带你回到1930年的‘复古’AI！” 内容可以围绕这款独特的130亿参数语言模型展开，强调其如何模拟1930年代的语言风格和知识体系，例如它会如何回答关于当时时尚、文化、科技等问题。可以展示其“复古”输出的趣味性，并引导用户思考AI如何通过训练数据来塑造不同时代的“人格”，引发好奇和讨论。加入知名创造者的背景也能增加可信度。"
+  },
+  {
+    "title_en": "Speech translation in Google Meet is now rolling out to mobile devices",
+    "title_cn": "谷歌会议语音翻译功能现已登陆移动设备",
+    "summary_cn": "谷歌会议的语音翻译功能现已开始向移动设备推出，用户在Meet会议中可能已收到“立即体验”的提示。该功能旨在实现科幻电影中跨语言无障碍沟通的愿景。有用户体验后反馈其“基本可用”，标志着Google Meet在实时语音翻译方面迈出了重要一步，让不同语言的交流变得更加便捷。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+    "score": 8,
+    "angle": "以“Google Meet黑科技实测”为主题，强调该功能将“科幻电影中的实时翻译”变为现实，吸引用户关注。分享自己在Google Meet会议中首次体验该功能的真实感受（可以配上截图或小视频），并突出其对于跨国交流、国际会议或学习外语的实用价值，例如“再也不怕听不懂外国同事说什么了！”或“外语小白也能轻松参加国际研讨会”。最后，引导用户互动，询问他们对该功能的看法或使用体验。"
+  },
+  {
+    "title_en": "Rec League",
+    "title_cn": "推荐联盟",
+    "summary_cn": "Rec League是一款创新的社交应用，旨在帮助用户分享和发现感兴趣的内容。其巧妙的名称暗示了“推荐”之意。这款应用设计精美，拥有简洁的品牌美学和清晰的操作界面。用户可以轻松创建自己的收藏清单，分类整理美食、书籍、电影、小工具等各种推荐。同时，它也具备社交功能，方便用户互动交流，发现更多好物。",
+    "source": "daringfireball.net",
+    "url": "https://recleague.com/?lyr_campaign=df",
+    "score": 8,
+    "angle": "你的专属宝藏清单App！美食、电影、书单一站式收录，还能轻松发现同好推荐！再也不怕错过任何好物啦！"
+  },
+  {
+    "title_en": "Don't use localhost:3000, use your own custom domain",
+    "title_cn": "别再用 localhost:3000 了，试试自定义域名吧！",
+    "summary_cn": "文章作者在演示内部工具时，其本地运行的 demo 网址竟然显示为 `www.internaltool.com`，而非常见的 `localhost:3002`。这让观众误以为作者购买了域名或使用了预发布服务器。作者感到困惑，强调演示是在本地运行。本文将探讨如何将本地地址伪装成自定义域名的技术，解决了人们对 `localhost` 不熟悉的问题，提升演示的专业性和用户体验。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
+    "score": 8,
+    "angle": "【✨黑科技提升专业度】告别土味 `localhost`！一招让你的本地演示秒变高大上定制官网！产品经理、程序员必备，让你演示时老板直夸专业，再也不怕被问‘你买了域名吗？’"
+  },
+  {
+    "title_en": "The Loop: everything has happened before, and everything will happen again",
+    "title_cn": "一切都曾发生，一切都将重演",
+    "summary_cn": "本文探讨人类社会为何总是陷入“循环”，不断重演经济泡沫、强人政治、替罪羊和恐慌等历史性错误。作者认为，这是因为我们大脑深处的“操作系统”在过去一万年中几乎未曾升级，导致我们反复重蹈覆辙，无法摆脱固有的思维模式和行为惯性。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/",
+    "score": 8,
+    "angle": "你的大脑OS万年没更新？如何跳出思维循环，告别反复踩坑！"
+  },
+  {
+    "title_en": "Weekly Update 501",
+    "title_cn": "每周更新 501",
+    "summary_cn": "文章指出，为确保人工智能机器人受到与人类同等的尊重，制定“AI平等政策”已成为一种“2026年峰值”现象。作者承认这种做法带有一定的戏谑成分，但强调其存在的必要性。这反映出随着AI技术发展，如何定义并规范人类与AI的关系，以及赋予AI何种地位，正成为一个值得深思的问题，预示着未来社会人机交互的新趋势。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-501/",
+    "score": 8,
+    "angle": "为AI机器人制定“平等政策”？你的AI助手，未来真的要被“尊重”了！这背后的深层思考是什么？"
+  },
+  {
+    "title_en": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+    "title_cn": "追溯OpenAI与微软之间已终止的AGI条款的历史",
+    "summary_cn": "一旦实现通用人工智能（AGI），微软对OpenAI技术的商业知识产权将失效。该条款据称于今日终止。作者决定通过查看OpenAI官网，梳理该条款在不同时期的表述。该条款最早出现在2019年7月22日微软投资并与OpenAI合作的公告中。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Anthropic Mythos – We’ve Opened Pandora’s Box",
+    "title_cn": "人类纪神话 – 我们打开了潘多拉的盒子",
+    "summary_cn": "当量子计算机能够运行Shor算法并成功破解当前互联网广泛使用的公钥加密系统时。人们曾为此一触即发的冲击做好了应对准备。",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Matthew Yglesias",
+    "title_cn": "引用马修·伊格莱西亚斯",
+    "summary_cn": "马修·伊格莱西亚斯在推特上分享了他对AI编程辅助工具的看法。他表示，在尝试了五个月后，他决定自己不想进行“体验式编程”（vibecode）。相反，他更希望专业的软件公司能够利用AI编程辅助，开发出更多、更好、更便宜的软件产品，供消费者购买。这反映了他作为普通用户，对AI在专业软件开发中赋能，而非个人亲自编程的期待。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Yours Truly on The Vergecast",
+    "title_cn": "本人做客 The Vergecast",
+    "summary_cn": "在本期 The Vergecast 播客节目中，主持人 David Pierce 和 Nilay 邀请了 Daring Fireball 的 John Gruber 作为嘉宾。三人就近期新闻事件、苹果公司看似顺利的过渡（暗示领导层或重大事件的平稳交接）以及对蒂姆·库克（Tim Cook）未来角色和公司走向的看法展开了深入探讨。这是一场围绕科技界热点，特别是苹果动态的专业对谈。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Circular arc approximation",
+    "title_cn": "圆弧近似",
+    "summary_cn": "这篇文章介绍了一种通过已知参数近似计算圆弧长度的方法。当你拥有一段圆弧的弦长c，以及该圆弧一半的弦长b时（如下图所示，其中θ是圆弧的中心角），便可以利用这两个已知条件来估算圆弧的实际长度rθ。内容旨在探讨如何在不直接知道半径或中心角的情况下，通过弦长信息对圆弧进行精确的近似计算。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "QuickQWERTY 1.2.2",
+    "title_cn": "QuickQWERTY 1.2.2",
+    "summary_cn": "此前在练习面板中点击“重新开始”链接时，程序会错误地将用户导向第一单元第一课，而非重新开始当前的练习课程，新版本提升了用户体验。",
+    "source": "susam.net",
+    "url": "https://susam.net/code/news/quickqwerty/1.2.2.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Understanding systems",
+    "title_cn": "理解系统",
+    "summary_cn": "本文标题为“理解系统”，但未提供具体内容预览。通常，理解系统这一主题会探讨如何分析事物间的相互关联、运作机制及其对整体的影响。它旨在帮助读者培养系统性思维，从而更好地理解复杂现象，解决现实生活中的问题，并优化决策过程。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/understanding-systems",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+    "title_cn": "锁文件和依赖冷却期！",
+    "summary_cn": "Richard Si的文章介绍了Python默认包管理工具pip 26.1版本的重要升级。新版本引入了锁文件和依赖冷却期等功能，旨在优化Python项目的依赖管理。值得注意的是，pip 26.1已停止对Python 3.9的支持，因为它已在去年10月达到生命周期终点。文章还提及了macOS系统上默认Python版本的一些相关情况。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "microsoft/VibeVoice",
+    "title_cn": "微软/VibeVoice",
+    "summary_cn": "微软发布了VibeVoice，这是一款与Whisper风格类似的语音模型，专用于语音转文本。它采用MIT许可，并内置了说话人识别功能，对于处理多说话者场景非常有用。该模型于2026年1月21日发布（请注意原文日期），开发者可在Mac上通过uv和mlx-audio等工具运行，但需下载5.71GB的模型文件。VibeVoice为AI研究者和开发者提供了一个强大的开源语音处理解决方案。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Sponsor The Talk Show",
+    "title_cn": "赞助脱口秀",
+    "summary_cn": "Daring Fireball (DF) 的每周赞助广告位已售罄至8月24日，这表明其广告效果显著。然而，这也意味着有产品或服务想立即推广给DF受众（精明、追求高质量和设计的读者）的商家目前无法进行。好消息是，姊妹节目The Talk Show的赞助计划仍有空位，包括近期，为有广告需求的品牌提供了新的推广机会。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/feeds/sponsors/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The easy way to switch my libvirt-based virtual machines to UEFI",
+    "title_cn": "轻松将我的libvirt虚拟机切换到UEFI的简单方法",
+    "summary_cn": "作者分享了他将libvirt虚拟机切换到UEFI的经验。他发现，在虚拟机XML配置中存在重要细节，特别是对于使用virt-manager管理的用户，掌握这些能让转换过程更轻松。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "GitHub Actions is the weakest link",
+    "title_cn": "GitHub Actions 是最薄弱的环节",
+    "summary_cn": "这篇文章引用了知名节目主持人Anne Robinson的经典口头禅，暗示作者将对GitHub Actions，特别是其`.github/workflows`配置进行深入且可能带有批判性的审视。文章指出，尽管GitHub Actions是现代开发流程中强大的自动化工具，但其工作流设计和实现可能存在漏洞或不足，使其成为整个系统中最脆弱的环节。文章旨在探讨这些潜在的弱点，并呼吁开发者关注并优化其工作流的安全性、稳定性和效率，以避免由此引发的问题。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "TRS-80 Model 100",
+    "title_cn": "TRS-80 型号 100",
+    "summary_cn": "TRS-80 型号 100 是一款由日本京瓷公司制造、并由 Radio Shack 在北美市场销售的早期笔记本电脑。尽管京瓷自家版本 Kyotronic-85 市场表现平平，但 TRS-80 型号 100 及其系列产品却取得了成功。它标志着便携式计算设备发展史上的一个重要里程碑，对后来的个人电脑设计产生了深远影响，成为许多人记忆中的经典。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/trs-80-model-100/?utm_source=rss&utm_medium=rss&utm_campaign=trs-80-model-100",
+    "score": 2,
+    "angle": ""
+  }
+]
