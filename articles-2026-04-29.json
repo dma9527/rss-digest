@@ -1,0 +1,218 @@
+[
+  {
+    "title_en": "Anthropic Hits $1 Trillion Valuation, Overtakes OpenAI in AI Competition",
+    "title_cn": "Anthropic估值突破万亿美元，在AI竞争中超越OpenAI",
+    "summary_cn": "在私人二级市场交易中，Anthropic的隐含估值已突破1万亿美元，超越OpenAI。这一跃升标志着AI领域领导地位的戏剧性转变，主要得益于其企业级Claude模型的强劲需求和与亚马逊、Palantir的云伙伴关系，年化收入从2025年底的90亿美元飙升至2026年3月的近390亿美元。",
+    "url": "https://cryptorank.io/news/anthropic-hits-1-trillion-valuation-overtakes-openai-in-ai-competition",
+    "score": 10,
+    "angle": "AI圈炸锅！Anthropic悄悄逆袭，估值破万亿甩开OpenAI，它到底做了什么？下一个巨头已诞生！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+    "title_cn": "英伟达发布Nemotron 3 Nano Omni模型，统一视觉、音频和语言，将AI智能体效率提升至9倍",
+    "summary_cn": "英伟达推出开放式多模态模型Nemotron 3 Nano Omni，将视觉、语音和语言能力整合，使AI智能体能更快、更智能地响应，并在视频、音频、图像和文本之间进行高级推理。该模型在多项基准测试中表现出色，效率远超同类产品，降低成本并提升可扩展性。",
+    "url": "https://build.nvidia.com/news/nemotron-3-nano-omni-model",
+    "score": 9,
+    "angle": "英伟达重磅发布！AI智能体迎来'全能眼耳'，多模态交互新时代开启，效率飙升9倍，你的AI助手要上天了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta and Microsoft Announce Mass Layoffs, as AI Jobs Massacre Continues",
+    "title_cn": "Meta和微软宣布大规模裁员，AI引发的裁员潮持续",
+    "summary_cn": "Meta宣布裁员约8,000人，微软也向7%的美国员工提供买断，使2026年科技行业裁员总数超过92,000人。科技公司CEO们普遍将裁员归因于AI提高效率，这一现象表明AI正在深刻重塑科技就业市场，导致初级岗位减少，资深员工也面临不确定性。",
+    "url": "https://www.wsws.org/en/articles/2026/04/28/aijq-a28.html",
+    "score": 9,
+    "angle": "硅谷'AI裁员潮'愈演愈烈！Meta、微软大手笔裁人，AI抢了你的饭碗？打工人如何应对这场变革？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Playing With Fire",
+    "title_cn": "玩火",
+    "summary_cn": "PocketOS创始人Jer Crane表示，其公司为租车业务提供关键运营软件，客户对其高度依赖。然而，昨天一个AI编码代理在生产环境中引发了事件，导致系统中断。这警示了在核心业务中使用AI的潜在巨大风险，强调了技术部署需谨慎。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/lifeof_jer/status/2048103471019434248?s=12",
+    "score": 8,
+    "angle": "我的公司差点被AI搞垮！”或者“职场人必看！AI辅助工作，千万别踩这些坑！”内容可结合自身使用AI工具的经验，提醒大家务必保持警惕，并强调人工审核的重要性。"
+  },
+  {
+    "title_en": "Let's Get Digging!",
+    "title_cn": "开挖啦！",
+    "summary_cn": "作者为了尝试新事物，决定参与当地公园（Lesnes Abbey）的考古挖掘。在DigVentures的帮助下，普通民众也能协助考古项目。在一个阳光明媚的周四，作者来到被圈起并移开草皮的挖掘区，看到工具已准备就绪。在接受了详尽的健康安全培训后，这项独特的“挖宝”探险即将正式开始。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/04/lets-get-digging/",
+    "score": 8,
+    "angle": "寻宝探险 | 普通人也能当“考古家”！体验城市里的神秘挖掘项目，周末解锁新技能！"
+  },
+  {
+    "title_en": "10Gb/s Ethernet: what I actually did to get it working in my home",
+    "title_cn": "我是如何在家中成功搭建的",
+    "summary_cn": "作者分享了在家中搭建 10Gb/s 以太网的实际经验。在积累了足够知识并已实现 2.5Gb/s 网络的基础上，他决定升级。公寓拥有结构化布线，每个房间都有 RJ45 插座，并配有中央配线架。文章将详细介绍作者从向运营商订购服务到购置所需设备，直至最终成功搭建的每一步，为希望在家中体验极速网络的用户提供实用、可操作的指导。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+    "score": 8,
+    "angle": "为何升级、从2.5G到10G的实战步骤（含避坑）、设备清单推荐及最终测速效果，突出DIY的成就感和解决痛点的实用价值。"
+  },
+  {
+    "title_en": "On wintering.",
+    "title_cn": "论蛰伏",
+    "summary_cn": "他们置身事外，无需维护任何既定立场。由于没有来自外界的审查或压力，蛰伏者能够从事需要远超季度、甚至五年以上周期的长期项目。这种无人审计的自由，让他们可以专注于深远而持久的工作，而不受短期绩效评估的束缚，从而酝酿更大的成果。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/on-wintering/",
+    "score": 8,
+    "angle": "【告别内卷】学会‘蛰伏’工作法！不被考核困住，偷偷变优秀，实现真正有价值的长期目标！"
+  },
+  {
+    "title_en": "When The Bill Comes Due",
+    "title_cn": "费用终将到来",
+    "summary_cn": "警惕Anthropic和OpenAI等公司推出的酷炫AI工具，它们最终会让你面临高昂的账单。文章提醒用户，在沉迷于新工具的同时，应关注潜在成本，并指出市面上其实存在着更经济实惠的AI替代方案，值得探索与选择。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives",
+    "score": 8,
+    "angle": "警惕AI隐藏费用！别只顾着尝鲜，这份低成本AI工具清单帮你省大钱！"
+  },
+  {
+    "title_en": "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
+    "title_cn": "OpenAI预测ChatGPT Plus订阅用户将从2025年的4400万骤降80%至2026年的900万，将通过更便宜的订阅服务来弥补（尚不清楚如何实现）。",
+    "summary_cn": "根据The Information报道，OpenAI预计其每月20美元的ChatGPT Plus订阅用户数量将大幅下降。预测显示，订阅用户将从2025年的4400万骤降80%，到2026年仅剩900万。OpenAI计划通过增加更便宜的、广告支持的ChatGPT Go订阅服务（每月5至8美元）来弥补这一用户流失带来的收入差异。这一战略调整表明OpenAI可能正在寻求扩大用户基础，转向更普惠的服务模式。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/",
+    "score": 8,
+    "angle": "OpenAI惊天大变局！ChatGPT Plus订阅量暴跌80%，是AI泡沫破裂还是全民免费AI时代要来了？！👀 普通人终于有机会用上更便宜的ChatGPT了？快来看看对你的影响！#ChatGPT #OpenAI #AI #科技热点 #免费AI #AI大模型"
+  },
+  {
+    "title_en": "AI Healthcare Transformation Surges as Profluent–Lilly Strike $2.25B Gene Editing Deal",
+    "title_cn": "AI医疗转型加速，Profluent与礼来达成22.5亿美元基因编辑协议",
+    "summary_cn": "Profluent与Eli Lilly and Company达成一项高达22.5亿美元的里程碑式合作，利用AI推动下一代基因编辑技术，设计和优化治疗性蛋白质。这笔交易预示着生物技术与机器学习的深度融合，将重新定义未来药物的发现、开发和交付方式，有望为罕见遗传病、癌症和神经系统疾病带来新疗法。",
+    "url": "https://brusselsmorning.com/2026/04/28/ai-healthcare-transformation-surges-as-profluent-lilly-strike-2-25b-gene-editing-deal-brussels-2026/",
+    "score": 8,
+    "angle": "重磅！AI+基因编辑=22.5亿美元巨额合作！礼来联手Profluent，未来'定制化'药物要来了，颠覆你的想象！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "DeepSeek V4 Signals a New Phase in the U.S.-China AI Rivalry",
+    "title_cn": "DeepSeek V4标志着中美AI竞争进入新阶段",
+    "summary_cn": "中国AI初创公司DeepSeek发布了其备受期待的V4大型语言模型，这是其一年多来最重要的更新。作为开源模型，DeepSeek V4声称在主要基准测试上可与OpenAI、Anthropic、Google等美国领先闭源系统相媲美，甚至超越其他开源模型，进一步激化了中美AI竞争。",
+    "url": "https://www.cfr.org/deepseek-v4-signals-new-phase-us-china-ai-rivalry",
+    "score": 8,
+    "angle": "中国AI新王炸！DeepSeek V4硬刚GPT、Claude，开源大模型卷出新高度，中美AI '竞赛'谁能赢？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AFL-CIO President Calls AI 'Single Biggest Threat to Working People of Our Lifetime'",
+    "title_cn": "美国劳联-产联主席称AI是“我们一生中对劳动人民最大的威胁”",
+    "summary_cn": "美国劳联-产联主席Liz Shuler警告称，如果缺乏监管，人工智能将威胁工人的安全、隐私和就业保障。她呼吁立即制定立法保障措施，指出雇主在缺乏足够监督的情况下在各行业部署AI，导致数百万人面临失业风险。",
+    "url": "https://news.bloomberglaw.com/tech-and-telecom/afl-cio-president-calls-ai-single-biggest-threat-to-working-people-of-our-lifetime",
+    "score": 8,
+    "angle": "AI是'打工人'的终结者？美国工会大佬敲响警钟，呼吁立法监管！你的工作真的安全吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Parag Agrawal's AI Startup Raises $100M Series B at $2B Valuation",
+    "title_cn": "前Twitter CEO Parag Agrawal的AI初创公司以20亿美元估值完成1亿美元B轮融资",
+    "summary_cn": "前Twitter首席执行官Parag Agrawal创立的Parallel Web Systems完成了由红杉资本领投的1亿美元B轮融资，公司估值达到20亿美元。该平台提供专门的API和专有索引，使AI智能体能够执行准确的网络搜索，旨在解决现有AI网络访问的局限性。",
+    "url": "https://www.mlq.ai/parag-agrawals-ai-startup-raises-100m-series-b-at-2b-valuation/",
+    "score": 8,
+    "angle": "前Twitter CEO再次创业！AI公司估值20亿美元，大佬都在抢投的AI智能体到底有多牛？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Ahead of IPO Push, OpenAI Distances Itself from Microsoft Partnership",
+    "title_cn": "在IPO推进前，OpenAI与微软合作伙伴关系渐行渐远",
+    "summary_cn": "OpenAI与微软重组了合作伙伴关系，终止了Azure的独家协议，赋予OpenAI更大的灵活性和影响力，以推进潜在的IPO。新协议允许OpenAI通过任何云提供商销售其模型的API访问，不再局限于Azure，这表明OpenAI正在为上市做战略性调整，以追求新的机会。",
+    "url": "https://www.morningstar.com/articles/1230678/ahead-ipo-push-openai-distances-itself-microsoft-partnership",
+    "score": 8,
+    "angle": "OpenAI要单飞了？与微软'分手'背后，是IPO的巨大野心！AI巨头如何博弈，我们拭目以待！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting OpenAI Codex base_instructions",
+    "title_cn": "引用OpenAI Codex基础指令",
+    "summary_cn": "除非与用户查询绝对相关，否则AI模型不得提及地精、小妖精、浣熊、巨魔、食人魔、鸽子等动物或生物。这一指令旨在限制AI的自由联想，确保其输出的专注性和与任务的高度相关性，避免生成无关或分散注意力的内容，体现了开发者在模型行为控制上的考量。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+    "score": 7,
+    "angle": "切入角度可以围绕“AI的秘密禁忌词”或“AI也有自己的小怪癖”来展开。标题可设计为『😱AI的秘密禁忌词大公开！这些动物它竟绝口不提？！』，内容聚焦于这份指令的趣味性，引发读者思考为何AI会被限制提及特定生物，进而科普AI模型行为控制和避免“幻觉”的必要性。可配以神秘、略带夸张的视觉元素。"
+  },
+  {
+    "title_en": "10Gb/s Ethernet: what I had to (re)learn",
+    "title_cn": "我不得不（重）学的东西",
+    "summary_cn": "作者的宽带服务商推出了万兆（10Gb/s）选项，触发了他升级家庭有线网络的冲动。然而，这一升级过程并非易事，作者不得不系统地学习和重新掌握许多网络知识。文章指出，过去二十年来，家庭和小型办公室的有线网络技术进展缓慢，直到现在才迎来万兆时代的新挑战，作者的经历正是探索这一前沿的缩影。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned",
+    "score": 7,
+    "angle": "从小白到专家，手把手教你打造未来高速家庭网络，告别卡顿，实现NAS/游戏自由！避坑指南与好物分享。"
+  },
+  {
+    "title_en": "AI's Economics Don't Make Sense [Ad Free]",
+    "title_cn": "AI的经济学说不通",
+    "summary_cn": "本期独家通讯探讨了AI经济学领域令人不解的现象。文章指出，GitHub Copilot用户已确认，微软将把其计费模式调整为基于token的方式，并降低速率限制。这一变化是作者此前曾报道过的，暗示了AI工具在经济模型上的转变，以及可能引发的用户体验和成本问题，使得“AI的经济学说不通”这一标题尤为切题。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/",
+    "score": 7,
+    "angle": "AI工具要变天？GitHub Copilot计费模式大调整，普通用户/开发者该注意什么？揭秘AI背后的经济逻辑！"
+  },
+  {
+    "title_en": "Manifest Raises $60 Million in Record Legal AI Funding Round",
+    "title_cn": "Manifest在法律AI领域创纪录融资6000万美元",
+    "summary_cn": "Manifest OS为其AI驱动的律师计时收费终结计划筹集了6000万美元，成为法律科技公司有史以来最大的A轮融资，估值达到7.5亿美元。该公司旨在通过其端到端AI平台，使法律服务转向成果定价，并实现高质量法律服务的民主化。",
+    "url": "https://www.pymnts.com/ai/2026/manifest-raises-60-million-in-record-legal-ai-funding-round/",
+    "score": 7,
+    "angle": "律师要失业了？这家AI公司融资6000万美元，要用AI颠覆传统计时收费模式，法律界大地震！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI's Economics Don't Make Sense",
+    "title_cn": "AI经济学不合理",
+    "summary_cn": "这篇内容介绍了一份付费订阅的高级时事通讯。该通讯提供每周更新，文章篇幅通常在5,000至18,000字之间，包含对NVIDIA、Anthropic和OpenAI等科技巨头的详尽深度分析。订阅费用为每年70美元或每月7美元，适合寻求深入了解人工智能及相关公司经济动态的读者。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Turning a trick into a technique",
+    "title_cn": "将技巧升华为技术",
+    "summary_cn": "这篇文章探讨了如何将一个具体的“技巧”提升为一种通用的“技术”。作者受到“技术是重复两次的技巧”这一观点的启发，尝试将前一篇文章中通过从一个偶函数中减去另一个偶函数的倍数来创建高阶近似的方法，提炼成更普适的原理。其核心在于利用偶函数只包含偶数次项的特性，从而实现精确且高效的数学近似，旨在从特定案例中提取出可复用的通用方法。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "What happened to Palm Pilots?",
+    "title_cn": "Palm Pilots 怎么了？",
+    "summary_cn": "上世纪90年代末，Palm曾是一个风靡一时的高科技品牌，它开创性地推出了首款真正普及的个人数字助理（PDA）——Palm Pilots。然而，这个明星产品似乎来也匆匆、去也匆匆，很快便从公众视野中消失。这篇文章将深入探讨Palm Pilots及其背后的公司究竟遭遇了什么，揭示其迅速衰落的秘密。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/what-happened-to-palm-pilots/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-palm-pilots",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "If it's in JSON, it's not really a configuration file",
+    "title_cn": "如果配置是JSON格式，那它就不是真正的配置文件",
+    "summary_cn": "作者明确指出，如果程序的配置文件是JSON格式，那么它就不是一个“真正”的配置文件，并且他绝不会自愿运行此类程序。他认为JSON不适合作为守护进程的配置格式，甚至点名批评了ISC Kea服务器的JSON配置。这篇文章表达了作者对JSON作为配置文件格式的强烈不满和批判，认为其存在根本性缺陷，不应被用于此目的。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Illegal vs Unwanted States",
+    "title_cn": "非法状态与非期望状态",
+    "summary_cn": "本文区分了系统中的“非法状态”和“非期望状态”。非法状态指系统绝不应出现的错误状态，而非期望状态则是系统不希望长期停留但可能存在的情况。作者指出，许多我们视为“非法”的状态，在实践中其实只是“非期望”状态。例如，在日历软件中允许用户同时参加多个活动，虽非理想，但并非系统无法处理的“非法”错误。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
+    "title_cn": "第三届年度博客文章大赛、盛典与狂欢",
+    "summary_cn": "这篇文章的主题是第三届年度博客文章大赛、盛典与狂欢，但其内容却极为精简，仅以一句充满西部牛仔风格的感叹词“yeehaw”构成。这句词汇虽然传递出对即将到来的盛事无比的兴奋与期待，却并未提供任何关于比赛规则、参与方式、活动日程、地点或奖项等实质性信息。读者只能从中感受到一种狂野、奔放且略带神秘的活动氛围，引发好奇却无法获得具体指导。",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition",
+    "score": 1,
+    "angle": ""
+  }
+]
