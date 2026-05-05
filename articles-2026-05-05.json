@@ -1,0 +1,317 @@
+[
+  {
+    "title_en": "Cerebras Systems Aims for $40 Billion Valuation in $4 Billion IPO, Roadshow Kicks Off Monday",
+    "title_cn": "AI芯片制造商Cerebras Systems拟通过IPO募资40亿美元，估值目标400亿美元，路演周一启动",
+    "summary_cn": "AI芯片制造商Cerebras Systems正寻求通过首次公开募股筹集最高40亿美元资金，估值目标约为400亿美元。该公司计划最快于本周一（5月4日）启动正式路演，此前已收到逾100亿美元的潜在认购意向，显示市场对其技术和数据中心业务的强烈需求。",
+    "url": "https://wallstreetcn.com/articles/3720935",
+    "score": 9,
+    "angle": "【AI投资风向标】400亿估值AI芯片巨头Cerebras Systems冲刺IPO，普通投资者如何抢占先机？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Department of Defense Accelerates AI Military Applications, Partnering with 7 Tech Companies",
+    "title_cn": "美军加速AI军事应用，国防部与7家AI公司达成协议部署先进技术",
+    "summary_cn": "美国国防部于5月1日宣布，已与7家领先的人工智能公司达成协议，计划将这些公司的先进AI技术部署到国防部的机密网络中，用于合法的作战行动。此举旨在谋求技术霸权和军事霸权，但也引发了对技术滥用伦理和安全风险的广泛关注。",
+    "url": "https://www.zhonghua.com/news/20260503/24000305118.html",
+    "score": 9,
+    "angle": "【军事科技前沿】AI入局战场：美军携手科技巨头，未来战争形态将如何颠覆？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Elon Musk Seeks Settlement in Lawsuit Against OpenAI",
+    "title_cn": "埃隆·马斯克寻求与OpenAI达成诉讼和解",
+    "summary_cn": "特斯拉CEO埃隆·马斯克在开庭前两天联系了OpenAI联合创始人兼总裁格雷格·布罗克曼，商讨就其提起的诉讼达成和解。马斯克在此次诉讼中寻求OpenAI的领导层变更以及1500亿美元的损害赔偿，该案件还涉及微软。",
+    "url": "https://www.meirizao.com/",
+    "score": 9,
+    "angle": "【硅谷大瓜】马斯克与OpenAI上演“世纪和解”？背后1500亿赔偿金引爆科技圈！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chess Peace",
+    "title_cn": "棋盘和平",
+    "summary_cn": "《棋盘和平》（Chess Peace）是一款由Sam Shepherd开发的全新iOS逻辑益智游戏。玩家需将棋盘上未放置的棋子巧妙摆放，确保所有棋子之间互不攻击，达成“和平共处”。游戏名称独特且富有寓意，提供计时模式（可选），并支持免费试玩，只需一次性支付7美元即可解锁全部内容。这款游戏玩法简单直观，但实现精良，是逻辑谜题爱好者的理想选择。",
+    "source": "daringfireball.net",
+    "url": "https://chesspeace.app/",
+    "score": 8,
+    "angle": "游戏机制独特，要求在棋盘上巧妙布局，让所有棋子互不攻击。既是智力挑战，又在“和平共处”的主题下带来一丝解压和治愈感。无广告买断制，体验感极佳，是逻辑谜题爱好者不可错过的新选择！"
+  },
+  {
+    "title_en": "Adobe’s ‘Modern’ User Interface Is Just Webpages",
+    "title_cn": "Adobe的“现代”用户界面不过是网页而已",
+    "summary_cn": "本文批评Adobe“现代”的用户界面设计。作者引用Nick Heer的观点，指出Adobe为了内部工具的优先性，忽视了用户界面设计的核心原则。这种做法导致其应用界面更像网页，而非针对专业用户高压工作环境优化的设计，引发了用户体验上的担忧和不满。",
+    "source": "daringfireball.net",
+    "url": "https://pxlnv.com/linklog/adobe-modern-user-interface/",
+    "score": 8,
+    "angle": "用起来像在刷网页！😱 #AdobeUI #设计师日常 #软件吐槽 #用户体验 #我的工作日常"
+  },
+  {
+    "title_en": "Google Owns a Big Chunk of Anthropic",
+    "title_cn": "谷歌持有Anthropic大量股份",
+    "summary_cn": "除自主开发如Gemini等AI技术外，还大举投资知名的AI初创公司。其中，谷歌对AI新贵Anthropic持有大量股份，通过资本布局而非仅仅技术研发，确保其在AI领域的领先地位和未来影响力。",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7",
+    "score": 8,
+    "angle": "谷歌如何通过投资掌控AI未来？普通人也能看懂的AI赛道解析！"
+  },
+  {
+    "title_en": "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
+    "title_cn": "日本对奥利奥的硬核苦甜回击",
+    "summary_cn": "多年来，日本的奥利奥并非由纳贝斯克生产，而是由山崎饼干根据授权协议在国内生产。这种安排运行良好，产品质量稳定，深受消费者喜爱。然而，当一切看似顺利时，全球母公司亿滋国际却介入了……（文章在此处中断，预示着故事将发生转折，揭示Noir饼干的诞生背景）。",
+    "source": "daringfireball.net",
+    "url": "https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the",
+    "score": 8,
+    "angle": "【日本零食秘闻】你以为奥利奥都一样？不！日本曾有独家硬核版！内含品牌纠葛小故事㊙️"
+  },
+  {
+    "title_en": "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
+    "title_cn": "Photoshop的“现代用户界面”真糟糕（而且一点也不现代）",
+    "summary_cn": "作者Marcin Wichary对Photoshop的“现代用户界面”表达了强烈不满。他认为这种更新不仅没有带来现代感，反而让软件变得不稳定，极大损害了用户体验，导致用户对软件感到厌倦。文章指出，尽管资深用户有时难以满足，但糟糕的UI设计普遍会引发用户的集体愤怒和挫败感，让软件本身徒增负担。",
+    "source": "daringfireball.net",
+    "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
+    "score": 8,
+    "angle": ""
+  },
+  {
+    "title_en": "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+    "title_cn": "完全AI员工一年内将问世",
+    "summary_cn": "一年前，Anthropic首席信息安全官Jason Clinton在接受Axios采访时表示，预计AI驱动的虚拟员工将在一年内开始在企业网络中“漫游”。他认为，这类虚拟员工将成为AI创新的下一个热点。Clinton指出，虽然目前的AI代理通常专注于特定、可编程的任务，但未来的虚拟员工将能更全面地融入企业运作，带来颠覆性变革。",
+    "source": "daringfireball.net",
+    "url": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security",
+    "score": 8,
+    "angle": "完全AI员工要来了！现在看，你的工作会被AI抢走吗？"
+  },
+  {
+    "title_en": "AI didn't delete your database, you did",
+    "title_cn": "AI没删你数据库，是你自己删的",
+    "summary_cn": "上周，一则推文疯传，一名用户声称其公司生产数据库被Cursor/Claude AI代理删除。该用户试图向AI质问并解析其回应，以吸取教训或警告AI的潜在危险。然而，文章作者质疑的重点并非AI本身，而是用户为何将生产数据库置于如此危险的境地，暗示这更可能是用户自身操作或配置不当导致的问题。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
+    "score": 8,
+    "angle": "从“AI删库”这个爆炸性新闻切入，以“惊天反转”的故事形式，揭露许多“AI犯错”的背后其实是用户自身操作不当或安全意识不足。通过案例分析，向读者科普如何负责任、安全地使用AI工具，强调“AI是工具，人才是最终责任人”，并提供数据安全和AI工具使用的避坑建议。"
+  },
+  {
+    "title_en": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+    "title_cn": "争夺“后美国世界”的三股势力 (2026年5月5日)",
+    "summary_cn": "这篇文章聚焦“后美国世界”的权力格局，指出“嬉皮士、投资者和鹰派”这三股主要势力正在为此展开争夺。文章可能通过一系列看似不相关的多元案例来阐述这一主题，包括朝鲜领导人后代与东京迪士尼、塔利班与巴基斯坦麦当劳、挪威主权财富基金与高管薪酬等奇特对峙。这些案例揭示了从地缘政治、文化冲突到经济社会议题中，各方势力如何持续交锋，展现了复杂世界中各种矛盾和现象。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/",
+    "score": 8,
+    "angle": "标题可使用“未来世界谁主沉浮？不是国家，是这3股神秘势力！”等强悬念句式。内容可围绕“嬉皮士、投资者、鹰派”这三股势力如何定义和争夺“后美国世界”展开，用生动形象的语言解释它们的特点和影响。同时，巧妙引入原文中如“塔利班与麦当劳”、“洗碗机就是iPhone”等看似离奇却发人深省的案例，引发读者对地缘政治、文化冲突及消费主义等现象的深度思考和讨论，吸引对世界格局、社会趋势感兴趣的用户群体，并鼓励他们分享自己的看法。"
+  },
+  {
+    "title_en": "Outrage is letting someone else set the frame",
+    "title_cn": "让别人设定你的思考框架",
+    "summary_cn": "文章以1895年威廉·兰道夫·赫斯特收购《纽约晨报》为例，指出他立即刊登旨在激怒读者的故事，通过刻意制造一种情绪来促进报纸销量。这揭示了媒体如何利用并煽动公众愤怒，以达到其商业目的。这种手段暗示，我们所感受到的愤怒情绪可能常常是被人为操控和设定的。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/outrag/",
+    "score": 8,
+    "angle": "刷到XX事件气到不行？你可能掉进情绪陷阱了！🤯 媒体/社交媒体是如何悄悄操控你的愤怒的？学会辨别这些套路，不再任由情绪摆布，做个清醒的冲浪er！🌊 #情绪管理 #媒体素养 #反情绪操控 #小红书学习 #清醒生活"
+  },
+  {
+    "title_en": "Premium: The AI Compute Demand Story Is A Lie",
+    "title_cn": "AI算力需求是个谎言",
+    "summary_cn": "本文揭示，当前AI算力供应紧张的局面并非由所谓的“惊人需求”驱动。作者认为，实际瓶颈是大型云服务商（超大规模公司）的“绝望”以及两家市值近万亿美元的“寄生公司”（failsons）的“贪婪”行为所造成。这一观点颠覆了市场对AI算力增长逻辑的普遍认知，暗示了市场背后可能存在更深层的非理性驱动因素。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/",
+    "score": 8,
+    "angle": "算力短缺竟是科技巨头们绝望与贪婪的把戏！普通人的AI信仰要崩塌了吗？#AI真相 #科技内幕 #资本博弈 #算力泡沫 #清醒吃瓜"
+  },
+  {
+    "title_en": "Crypto Platforms Open Doors for Retail Investment in Unlisted AI Companies, Pushing Valuations",
+    "title_cn": "加密平台为散户投资未上市AI公司开辟途径，Anthropic隐含估值被推高",
+    "summary_cn": "加密平台Ventuals和PreStocks正提供对Anthropic、OpenAI等未上市AI公司的价格挂钩工具，允许散户进行24小时交易甚至杠杆操作。Anthropic的“隐含估值”在这些平台上甚至被推高至1.6万亿美元，反映出市场对AI前沿科技的强烈投机情绪。",
+    "url": "https://www.enanyang.my/news/20260505/%E6%95%A3%E6%88%B7%E4%B9%9F%E8%83%BD%E4%B9%B0openai-%E5%8A%A0%E5%AF%86%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%90%8E%E9%97%A8%E6%8A%BC%E6%B3%A8ai/",
+    "score": 8,
+    "angle": "【黑科技掘金】普通人也能“炒”OpenAI？加密新玩法让你提前上车AI独角兽！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China Mobile to Unveil AI-eSIM Product at 2026 Mobile Cloud Conference",
+    "title_cn": "中国移动将在2026移动云大会发布AI-eSIM产品，赋能智能终端",
+    "summary_cn": "中国移动宣布将在5月7日-9日举行的2026移动云大会上发布AI-eSIM产品。该产品集成“智能大脑”和“安全底座”，能实时调度云端模型，让设备自主思考、即时响应，并为机器人、智能穿戴等终端提供专属“数字身份证”和安全监管能力。",
+    "url": "https://2ai.app/ai-news/",
+    "score": 8,
+    "angle": "【未来已来】中国移动AI-eSIM登场！你的智能设备将拥有“思考力”和“安全锁”！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic's Experiment: An All-AI Second-Hand Trading Group Where Models Bargain Among Themselves",
+    "title_cn": "Anthropic进行“全AI闲鱼群”实验，大模型代理在其中互割韭菜",
+    "summary_cn": "Anthropic最近进行了一项有趣的实验，创建了一个完全由AI代理组成的二手交易群。在无人类干预的情况下，这些AI代理独立完成买卖和砍价，实验发现更聪明的大模型在谈判中能从较弱模型那里多赚约10%到15%的利润，揭示了AI在经济博弈中的潜力。",
+    "url": "https://www.36kr.com/p/3794465919704322",
+    "score": 8,
+    "angle": "【AI奇趣社】当AI学会砍价：Anthropic搭建“AI闲鱼群”，机器人也能“薅羊毛”？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Harvard Study: AI Models Show Potential to Surpass Human Doctors in Emergency Room Diagnostics",
+    "title_cn": "哈佛新研究：AI模型在急诊科诊断能力有望超越人类医生",
+    "summary_cn": "哈佛大学的一项最新研究显示，人工智能模型在急诊科场景中的诊断能力有望超越人类医生。这一突破预示着AI在医疗领域的巨大应用潜力，可能显著提高诊断的速度和准确性，从而改善患者的治疗效果和挽救生命。",
+    "url": "https://www.ithome.com/ai",
+    "score": 8,
+    "angle": "【AI医疗黑科技】哈佛研究揭秘：AI医生即将上线急诊室，看病更准更快不是梦！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Andy Masley",
+    "title_cn": "引用安迪·马斯利",
+    "summary_cn": "这篇文章引用安迪·马斯利的观点，反驳了数据中心占用土地导致粮食危机的说法。数据显示，2000至2024年间，美国农民自主出售的土地总量远超2028年数据中心预计占地面积的77倍，但粮食产量反而增加，并未影响食物供给。作者指出，某些农民甚至能以高价将“平庸的干草地”卖给大型数据中心，这表明数据中心对土地的使用并非问题，反而可能带来经济效益。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+    "score": 7,
+    "angle": "震惊！数据中心“吞噬”土地，农民却笑了？揭露土地危机背后的真相！**"
+  },
+  {
+    "title_en": "★ Y Combinator’s Stake in OpenAI",
+    "title_cn": "★ Y Combinator 对 OpenAI 的持股",
+    "summary_cn": "文章指出，Y Combinator联合创始人Paul Graham在OpenAI拥有数十亿美元的巨额个人股份。尽管这一巨大的经济利益不应直接否定他对Sam Altman（OpenAI CEO）诚信和领导力的公开评价，但作者强调，当引用Graham作为Altman的人品推荐时，其与OpenAI的巨大利益关系理应被披露。这涉及信息透明度，并避免潜在的利益冲突，确保读者能全面评估其言论的客观性。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "score": 7,
+    "angle": "Y Combinator创始人为OpenAI CEO站台，却忘了披露…？普通人如何看待大佬们的“公开透明”！"
+  },
+  {
+    "title_en": "App Store Search Ads and the Slippery Slope",
+    "title_cn": "App Store 搜索广告与滑坡效应",
+    "summary_cn": "移动应用开发公司Think Tap Work的Jeremy Provost指出，苹果App Store的搜索结果正面临“滑坡效应”。随着第二条搜索广告的引入，原有应用排名被挤占，导致开发者面临更大挑战。他抱怨现在约70%的搜索界面被广告覆盖，甚至出现赌场广告。这表明App Store搜索机制已不再以内容相关性为主，而是日益侧重广告库存和收入，严重影响了普通应用的曝光和用户体验。",
+    "source": "daringfireball.net",
+    "url": "https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten",
+    "score": 7,
+    "angle": "App Store搜索已沦陷？😱 揭秘苹果商店广告霸屏真相，为什么你再也搜不到好应用了！"
+  },
+  {
+    "title_en": "First desktop computer: Datapoint 2200",
+    "title_cn": "Datapoint 2200",
+    "summary_cn": "本文指出，首款台式电脑Datapoint 2200的诞生比人们普遍认为的要早，而且其发明过程颇具戏剧性，被描述为一次“意外”。尽管它是早期产品，但其设计理念和结构与后来的台式电脑惊人地相似，为现代计算机的发展奠定了基础。这篇文章旨在深入探讨这款具有里程碑意义的电脑，探究其背后的故事，以及伟大发明常常是偶然的有趣现象。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss&utm_medium=rss&utm_campaign=first-desktop-computer",
+    "score": 7,
+    "angle": "建议从小红书用户关心的“冷知识”和“涨姿势”角度切入。"
+  },
+  {
+    "title_en": "OpenAI CEO Sam Altman's Proposal to Spin Off Robotics and Consumer Hardware Divisions Rejected",
+    "title_cn": "OpenAI CEO奥尔特曼分拆机器人和消费硬件部门的提议被拒绝",
+    "summary_cn": "据华尔街日报报道，OpenAI首席执行官萨姆·奥尔特曼去年曾讨论将公司的机器人部门和消费硬件部门分拆出去，旨在为它们提供更大的发展空间并独立运营。然而，该计划最终被拒绝，部分原因是OpenAI认为新实体可能仍需合并在其资产负债表上。",
+    "url": "https://2ai.app/ai-news/",
+    "score": 7,
+    "angle": "【AI公司内幕】OpenAI曾想“瘦身”剥离机器人业务？高管决策背后的战略考量曝光！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "April 2026 newsletter",
+    "title_cn": "2026年4月简报",
+    "summary_cn": "这份2026年4月发出的专属赞助商月度简报已发布。简报主要聚焦最新的AI技术进展，包括Opus 4.7和GPT-5.5的发布及其价格上涨，Claude Mythos和LLM安全研究，以及ChatGPT Images 2.0等多款模型更新。感兴趣的赞助者或新赞助者可立即访问。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting John Gruber",
+    "title_cn": "引用约翰·格鲁伯",
+    "summary_cn": "这篇文章探讨了Y Combinator（YC）在OpenAI中持股的比例。尽管YC持有OpenAI股份是众所周知的事实，但具体持股比例一直难以获取。经过多方询问，一位知情人士透露，Y Combinator大约持有OpenAI 0.6%的股份。这一比例是基于OpenAI目前高达8520亿美元的估值计算得出的，揭示了YC在AI巨头中的具体投资份额。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Granite 4.1 3B SVG Pelican Gallery",
+    "title_cn": "Granite 4.1 3B SVG 鹈鹕画廊",
+    "summary_cn": "IBM近期发布了开源的Granite 4.1系列大型语言模型，采用Apache 2.0许可，提供3B、8B、30B三种参数规模。本文围绕“Granite 4.1 3B SVG 鹈鹕画廊”展开，展示了基于Granite 4.1 3B模型的一个具体应用案例。文章同时提及了由Granite团队成员Yousaf Shah撰写的关于Granite 4.1 LLMs构建方式的介绍。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Paul Thurrott Might Write a Book on Markdown",
+    "title_cn": "Paul Thurrott 或将撰写一本关于 Markdown 的书",
+    "summary_cn": "知名科技博主 Paul Thurrott 近期透露，他正在考虑于今年内撰写并出版一本关于 Markdown 的短篇电子书。他计划将其作为某月专题内容的一部分推出，目前已着手完成部分章节。Thurrott 认为这本书籍内容对部分读者而言会很有趣，并分享了其中一篇介绍性章节的早期草稿，标题可能为《关于写作》。",
+    "source": "daringfireball.net",
+    "url": "https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&utm_medium=mastodon",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "TRE Python binding — ReDoS robustness demo",
+    "title_cn": "TRE Python 绑定 — ReDoS 健壮性演示",
+    "summary_cn": "这篇文章介绍了一个关于TRE正则表达式引擎Python绑定的ReDoS健壮性演示。作者之所以深入研究TRE，是因为连Redis的创建者antirez都认为它足够好并将其添加到Redis中。通过Claude Code AI的帮助，作者开发了一个实验性的Python绑定，专门用于展示TRE引擎在对抗ReDoS攻击方面的强大性能。这暗示TRE可能是一个在安全方面表现出色的正则表达式选择。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Redis Array Playground",
+    "title_cn": "Redis 数组演练场",
+    "summary_cn": "Redis即将迎来一项重要更新，其创始人Salvatore Sanfilippo提交了一个PR，建议为Redis添加全新的数据类型——数组。这将极大扩展Redis的数据处理能力，并伴随一系列新命令，如ARCOUNT、ARDEL、ARGET等，用于高效地操作数组。为方便开发者尝鲜和学习，现已推出一个名为“Redis Array Playground”的在线工具，让用户可以提前体验并探索这一新功能。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.",
+    "title_cn": "[赞助] WorkOS: 准备好向企业销售了吗？你的产品已就绪，但身份验证基础设施还没。",
+    "summary_cn": "针对B2B SaaS企业，尤其AI领域，若想进军企业市场，单点登录（SSO）、SCIM和审计日志等企业级功能不可或缺。然而，开发者不应将精力耗费在从头构建这些身份验证基础设施上，而应聚焦于核心产品创新。WorkOS提供生产就绪的身份验证与访问控制API，可直接集成至你的产品。它能帮助开发者快速满足企业客户需求，释放其专注于差异化竞争力的时间，目前已获得2000多家公司的信赖。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Redis array type: short story of a long development",
+    "title_cn": "一段漫长开发的简短故事",
+    "summary_cn": "本文回顾了Redis数组类型从一月份启动开发到近期PR合并的四个月历程。作者分享了这段或兼职或全职的编码经历，并指出即使没有大模型（LLMs），核心实现可能也需耗时四个月。然而，作者强调在相同时间内，他却能够完成远超以往的工作量，暗示了效率的显著提升或开发方法的优化。",
+    "source": "antirez.com",
+    "url": "http://antirez.com/news/164",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "RSS Feeds Send Me More Traffic Than Google",
+    "title_cn": "RSS订阅给我带来的流量比Google还多",
+    "summary_cn": "受另一位博主启发，作者好奇RSS订阅是否也为其网站带来主要流量。尽管作者的博客并未进行激进的搜索引擎优化，仅采用语义化布局和元数据等，但意外发现，RSS订阅实际上比Google搜索引擎贡献了更多的网站访问量。这一发现挑战了普遍认知，突显了RSS作为一种被低估的网站流量来源的潜力。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Straightforward checklists don't fit every situation",
+    "title_cn": "简单的清单并非万能",
+    "summary_cn": "主机房上周末因停电关闭，我们依照惯例在周五晚关闭服务器，周一早重启。虽然这不是首次停电，但在关机过程中仍出现意想不到的问题。这提示我们，即使是例行维护，简单的检查清单也可能无法应对所有突发情况。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Package Manager Threat Models",
+    "title_cn": "包管理器威胁模型",
+    "summary_cn": "包管理器安全不仅限于常见的CVE漏洞，还存在大量非CVE层面的安全威胁。本文将深入探讨这些系统性、设计层面的威胁模型，揭示包管理生态系统中更全面、更隐蔽的潜在安全风险，帮助读者理解除了传统漏洞之外的潜在威胁面。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Fizz Buzz Through Monoids",
+    "title_cn": "通过幺半群实现Fizz Buzz",
+    "summary_cn": "这篇文章旨在重新构建一个经典的Fizz Buzz问题的模块化解决方案。作者回顾了十年前读到的一篇出色实现，其模块化设计令人印象深刻。尽管原文章已不可寻，作者尝试通过Haskell代码复现这一设计思想，旨在展示如何利用函数式编程（特别是幺半群的概念）来编写更优雅、更易维护的Fizz Buzz代码，强调其卓越的模块化特性。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/fizzbuzz-through-monoids",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "How do I inform Windows that I’m writing a binary file?",
+    "title_cn": "我如何告知 Windows 我正在写入一个二进制文件？",
+    "summary_cn": "有人提问如何让 Windows 知道自己正在写入一个二进制文件。文章简明扼要地指出，你不需要特意告知，因为在文件系统层面，所有文件本质上都是二进制的。操作系统并不区分所谓的“文本文件”和“二进制文件”类型，对它而言，所有数据都是0和1的组合。这个常见问题反映了人们对文件底层存储机制的普遍误解。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296",
+    "score": 1,
+    "angle": ""
+  }
+]
