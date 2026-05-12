@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Your AI Use Is Breaking My Brain",
+    "title_cn": "你的AI使用正在毁掉我的大脑",
+    "summary_cn": "这篇文章愤怒地探讨了AI内容在网络上的泛滥。作者杰森·科布勒指出，AI生成的内容已无处不在，令人难以避免，过滤这些信息不仅让人心力交瘁，甚至开始扭曲人类的正常写作风格。文章特别强调了“僵尸互联网”这一概念，认为它比“死亡互联网”（机器人自说自话）更具隐蔽性和破坏性，警示AI滥用对我们心智和信息环境造成的深远影响。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+    "score": 9,
+    "angle": "【AI毁我大脑！😱信息茧房里的普通人该如何自救？】通过个人化痛点切入，引发读者共鸣，探讨AI内容泛滥带来的心智疲劳和信息辨别挑战，并暗示提供一些应对策略或思考方向，吸引对AI负面影响感兴趣的用户。"
+  },
+  {
+    "title_en": "iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026",
+    "title_cn": "iPhone机型在Counterpoint 2026年第一季度全球十大畅销手机榜单中分别位列第一、二、三和第六",
+    "summary_cn": "根据Counterpoint报告，2026年第一季度全球十大畅销手机榜单出炉。苹果iPhone表现强势，包揽了前三名（iPhone 17、iPhone 17 Pro Max、iPhone 17 Pro），并占据第六位。三星手机也表现不俗，位列第4、5、7、8、9名。榜单中唯一非苹果或三星的手机是排名第十的小米Redmi A5。尽管这份数据带有预测性质，但清晰展示了未来智能手机市场的品牌格局。",
+    "source": "daringfireball.net",
+    "url": "https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/",
+    "score": 9,
+    "angle": "2026全球爆款手机提前看！iPhone霸榜，你的下一部手机是它吗？"
+  },
+  {
+    "title_en": "Shame them, shun them, ban them, beat them!",
+    "title_cn": "羞辱他们，排斥他们，禁止他们，打击他们！",
+    "summary_cn": "这篇文章以一个极具冲击力的标题开篇，实则指向日常的“慢炖锅”与强大的“闪电”。内容可能探讨人们对事物过度反应的现象，或通过对比生活中的寻常事物与自然界的壮丽景象，普及背后隐藏的科学原理。它旨在以独特视角，解读复杂情绪、社会现象或科学真知，引导读者从不同角度审视世界。",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+    "score": 9,
+    "angle": "【标题党警告⚠️】“羞辱、排斥、禁止、打击！”背后竟是慢炖锅和闪电⚡️的哲学？深度揭秘那些生活中被我们“放大”的情绪和真相！当极端语言遇上日常科学，你会发现世界不只黑白两面。"
+  },
+  {
+    "title_en": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+    "title_cn": "对 GitLab 裁员及结构性战略决策的思考",
+    "summary_cn": "GitLab 发布了“第二幕”公告，宣布将进行裁员以及结构性和战略性调整，以适应所谓的“代理时代”。其中一个重要决策是计划将其拥有小型团队的国家数量减少高达30%。这项调整尤其引人关注，因为GitLab以其员工遍布全球多个国家而闻名，此次变动可能预示着全球化远程办公模式的重大转变。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+    "score": 8,
+    "angle": "GitLab大裁员与战略调整，全球化远程办公模式何去何从？（可探讨裁员背后的深层原因、对远程工作者和全球团队的影响，以及科技公司未来战略的趋势。）"
+  },
+  {
+    "title_en": "Quoting James Shore",
+    "title_cn": "引用 James Shore",
+    "summary_cn": "这篇文章指出，AI编程助手的真正价值在于显著降低软件维护成本，而非仅仅提升编码速度。作者强调，如果AI能让你写代码快两倍，但维护成本未能减半，那么你只是用暂时的速度提升换取了长期的负担。文章警告说，忽视维护成本，过度追求初期开发速度，最终将导致得不偿失。AI的效用，关键在于其能否真正减少项目的长期维护支出。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+    "score": 8,
+    "angle": "如果AI不能显著降低“这个成本”，你只会陷入无尽的加班和维护泥潭！看完这篇，颠覆你对AI编程的认知，真正用AI提升你的核心竞争力！#AI编程 #程序员避坑 #维护成本 #软件开发 #AI效率 #技术前瞻"
+  },
+  {
+    "title_en": "Using LLM in the shebang line of a script",
+    "title_cn": "在脚本的shebang行中使用LLM",
+    "summary_cn": "在脚本的shebang行中直接使用大型语言模型（LLM）。作者受到Hacker News上“现在可以对英文文本文件使用shebang”评论的启发，开始探索如何利用`llm`工具实现这一模式。这意味着开发者理论上可以用自然语言（英文）作为脚本的执行指令，让AI在底层进行解析和操作，从而可能彻底改变编写和执行命令行脚本的方式，开启更直观、更智能的编程体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+    "score": 8,
+    "angle": ""
+  },
+  {
+    "title_en": "iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging",
+    "title_cn": "iOS 26.5 包含对端到端加密 RCS 消息的测试版支持",
+    "summary_cn": "苹果宣布，即日起 iOS 26.5 用户（需支持运营商）和最新版 Google Messages 的安卓用户将可体验端到端加密 RCS 消息的测试版。此功能确保消息在设备间传输时无法被读取，极大提升了用户隐私安全。当对话启用端到端加密时，用户将在 RCS 聊天界面看到新的锁定图标提示，预示着更安全的通信时代即将到来。",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/",
+    "score": 7,
+    "angle": "⚠️iPhone短信迎来巨变！iOS 26.5将支持端到端加密RCS，你的隐私彻底安全了！"
+  },
+  {
+    "title_en": "Learning Software Architecture",
+    "title_cn": "学习软件架构",
+    "summary_cn": "本文针对一位研究型物理学家询问如何学习软件设计技能的问题。内容旨在为非计算机科学背景的专业人士提供指导，探讨从零开始掌握软件架构知识的有效路径和方法。这对于希望进行职业转型或提升技术能力的理工科背景读者尤其具有参考价值，帮助他们更好地融入软件开发领域。",
+    "source": "matklad.github.io",
+    "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+    "score": 7,
+    "angle": "打破专业壁垒！物理学家手把手教你如何高效学习软件架构，非科班也能转型高薪Tech人！"
+  },
+  {
+    "title_en": "Position or Perish: The Narrative Blueprint",
+    "title_cn": "叙事蓝图",
+    "summary_cn": "安飞士（Avis）公司曾连续13年亏损，年亏320万美元。1962年，作为美国租车市场老二，其份额远落后于行业龙头赫兹，且无力追赶。新任总裁罗伯特·汤森德因此聘请了多伊尔·戴恩·伯恩巴赫广告公司，寻求破局之道。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/",
+    "score": 7,
+    "angle": "从Avis教科书级案例学个人品牌/小店如何找准定位，实现弯道超车！告别内卷，打造你的独特优势！"
+  },
+  {
+    "title_en": "Learning on the Shop floor",
+    "title_cn": "实战学习",
+    "summary_cn": "Shopify创始人Tobias Lütke介绍了公司内部的编程助手工具“River”。“River”的独特之处在于它完全在公开的Slack频道中运行，不接受私信。如果你想与它合作，它会礼貌地要求你创建一个公开频道。就连Tobias本人也在专属的公开频道与“River”协作。这种设计模式旨在鼓励团队将编程学习和问题解决过程透明化，促进知识共享与集体学习。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap",
+    "title_cn": "Tahoe的UI问题与显示技术无关，或许我们该停止假设古尔曼了解苹果的Vision硬件路线图了",
+    "summary_cn": "彭博社的马克·古尔曼在报道中指出，Mac系统引入的“Liquid Glass”界面（源自iOS 26）在更大尺寸的桌面和笔记本显示器上，结合不同输入方式时表现不佳。他认为，这是因为“Liquid Glass”设计之初是针对iPhone、部分iPad和Apple Watch等设备的OLED屏幕这类现代化硬件。然而，本文标题暗示其UI问题并非显示技术所致，并质疑古尔曼对苹果Vision硬件路线图的理解。",
+    "source": "daringfireball.net",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&leadSource=uverify%20wall",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Why the Wannacry outbreak was so bad",
+    "title_cn": "WannaCry 勒索病毒为何如此严重",
+    "summary_cn": "2017年5月12日，WannaCry勒索病毒全球爆发，通过利用微软已发布补丁MS17-010修复的漏洞CVE-2017-0144，感染并加密了大量Windows系统。尽管该补丁已提前两个月推出，但WannaCry依然迅速蔓延，成为有史以来最严重的Windows系统感染事件之一，造成了广泛影响。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-wannacry-outbreak-was-so-bad",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Bambu Lab is abusing the open source social contract",
+    "title_cn": "拓竹滥用开源社会契约",
+    "summary_cn": "这篇文章探讨了Bambu Lab（拓竹）可能滥用开源社会契约的问题。作者指出，尽管他仍在使用P1S打印机，但由于拓竹力推“始终在线”的云解决方案作为默认设置，他已对其产品推荐持保留态度。为对抗这一策略，作者采取了一系列措施，包括通过防火墙阻止打印机联网、停止固件更新、将设备锁定为开发者模式，并放弃使用Bambu Studio，转而使用其他软件，以维护其使用自主权。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Thinking Machines and interaction models",
+    "title_cn": "Thinking Machines 与交互模型",
+    "summary_cn": "思考机器公司经过一年努力和20亿美元投入，首次发布了其真正的AI模型“Interaction Models”（交互模型）。文章强调，这并非像OpenAI、Anthropic那样直指通用人工智能的前沿模型，该公司目前尚未直接与巨头竞争，而是选择了一条不同的AI产品发布路径，值得关注。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/interaction-models/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: A fascist paradigm (12 May 2026)",
+    "title_cn": "一个法西斯范式 (2026年5月12日)",
+    "summary_cn": "本文核心探讨法西斯主义范式如何带来深刻变革，并集结了多篇趣味链接，内容涵盖Openstreetmap、日常趣闻、城市治理等。此外，文章还公布了作者未来的全球巡讲行程（巴塞罗那、柏林、伦敦、纽约等地）及新书动态。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/12/donella-meadows/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Inverse shift",
+    "title_cn": "逆向移位",
+    "summary_cn": "文章探讨了序列右移操作的逆过程。直观上，人们可能认为向右移位的逆操作是向左移位。然而，作者指出，当一个八位序列右移后，其末位信息会丢失。如果再对这个新序列进行左移，原始的末位并不能被恢复。因此，简单的左移操作并非右移的真正逆操作，文章引出了一个关于在数据丢失情况下如何定义“逆向移位”的微妙问题。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/11/inverse-shift/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Regatta Starting Stations – Chi-squared Continued",
+    "title_cn": "赛艇发船位 – 卡方检验续篇",
+    "summary_cn": "本文探讨亨利皇家赛艇比赛中，队伍随机分配至伯克郡或白金汉郡两个发船位的情况。尽管从表面上看，这两条赛道似乎完全相同，但有读者对此提出疑问。文章将进一步利用统计学方法（如卡方检验），深入分析不同发船位是否对比赛结果存在潜在影响，揭示其背后可能存在的细微差异。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/regatta-starting-stations",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Welcoming the Bangladesh Government to Have I Been Pwned",
+    "title_cn": "欢迎孟加拉国政府加入 Have I Been Pwned",
+    "summary_cn": "Have I Been Pwned (HIBP) 宣布欢迎孟加拉国政府，这是其免费政府服务平台上的第43个成员。孟加拉国电子政务计算机应急响应小组（BGD e-GOV CIRT）现在可以完全通过API查询其所有政府域名，并监控未来可能发生的数据泄露事件。这项合作旨在帮助孟加拉国政府加强其网络安全防御，保护敏感数据，提升国家层面的网络安全能力。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Drata",
+    "title_cn": "Drata",
+    "summary_cn": "Drata 公司利用自主人工智能代理，帮助企业实现合规性自动化，有效管理内部及第三方风险，并持续证明其安全态势。通过这项服务，企业能够更高效、准确地应对日益复杂的安全与合规挑战，从而提升整体运营的稳定性和数据安全性，确保业务流程的顺畅。",
+    "source": "daringfireball.net",
+    "url": "https://drata.com/daring",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The New PowerMac",
+    "title_cn": "全新 PowerMac",
+    "summary_cn": "苹果公司于2006年停售了其Power Mac G5系列电脑。文章指出，食品巨头卡夫公司最近将“PowerMac”（无空格）注册为商标，用于其高蛋白通心粉和奶酪产品。作者对此表示疑惑，不确定苹果公司是否会关注这一商标冲突，毕竟其旧产品线已停产多年。文章还幽默地提到，鉴于Power Mac G5电脑曾因其外观被称为“奶酪刨”，这一巧合显得颇有趣味。",
+    "source": "daringfireball.net",
+    "url": "https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A code (reformatting) conundrum in Python, and heuristics",
+    "title_cn": "Python 代码格式化难题与启发式方法",
+    "summary_cn": "`if something: ... final-line` 之后紧接着 `some-statement`，格式化工具应不应该将 `some-statement` 重新缩进使其成为 `if` 块的一部分？文章提出，一个直接的答案是绝不应该这样做，这突出了代码格式化中处理缩进和逻辑结构时的复杂性和潜在的歧义。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Hacking the lehmer64 RNG",
+    "title_cn": "破解 lehmer64 随机数生成器",
+    "summary_cn": "这篇文章延续了作者之前关于破解 Mersenne Twister 随机数生成器的研究。本次将聚焦于 lehmer64 随机数生成器。作者会详细解释如何通过分析其一系列输出值来逆向推导出该生成器的内部状态，从而实现对其未来输出的预测。Lehmer64 因其实现简单和高效快速而备受关注。了解其内部机制对于理解随机数安全性至关重要。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Euler function",
+    "title_cn": "欧拉函数",
+    "summary_cn": "作者回顾了此前关于有限域上随机矩阵可逆概率的文章。该文指出，当矩阵维度n增加时，这个概率会非常迅速地收敛。本文标题为“欧拉函数”，暗示了此前的矩阵概率研究可能与欧拉函数存在某种数学上的联系或进一步的探讨。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/11/euler-function/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Not a Security Issue",
+    "title_cn": "并非安全问题",
+    "summary_cn": "本文揭示了知名工具curl如何凭借其信息披露政策，在早期阶段就有效过滤了AI安全扫描器报告的“问题”，成功识别并澄清这些发现并非真正的安全漏洞，避免了不必要的恐慌。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/12/not-a-security-issue.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Initialize and print 128-bit integers in C",
+    "title_cn": "在 C 语言中初始化和打印 128 位整数",
+    "summary_cn": "这篇文章深入探讨了在 C 语言中如何初始化和打印 128 位整数。作者指出，尽管在早期示例中曾为简化代码而使用 64 位值初始化 128 位整数（用于表示随机数生成器的内部状态），但正确处理完整的 128 位初始化和打印并非简单。文章将详细讲解 C 语言中处理这类大整数的细节和技巧，帮助开发者理解其底层机制和实现方法，这对于需要高精度计算或特定系统级编程的场景尤为重要。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/",
+    "score": 1,
+    "angle": ""
+  }
+]
