@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "Software Engineers are Obsolete",
+    "title_cn": "软件工程师已经过时了",
+    "summary_cn": "文章作者在首次面试开发职位时，展示了一个自建的编程学习网站。这个网站由作者从零开始构建，包括PHP应用开发、数据库设计以及整体美观设计。作者还将自己的开发过程写成网站上的第一个教程，并收集了网上其他教程，使该网站成为一个编程学习门户，旨在帮助人们学习编程。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/everyone-is-better-than-you?src=feed",
+    "score": 9,
+    "angle": "【AI时代，软件工程师真的要失业了吗？😮‍💨】我的第一个个人项目，从0到1搭建编程学习网站的血泪史！💻 不是贩卖焦虑，是分享如何用作品说话，提升自身竞争力，拥抱变化！💡 #程序员 #AI时代 #职业发展 #个人项目 #学习编程 #技术分享"
+  },
+  {
+    "title_en": "Anduril Doubles Valuation to $61B in New $5B Funding Round, Boosting Defense AI",
+    "title_cn": "安杜里尔完成50亿美元融资，估值翻倍至610亿美元，强化国防AI实力",
+    "summary_cn": "专注于国防人工智能技术的公司Anduril Industries在新一轮融资中筹集了50亿美元，使其估值达到610亿美元。此轮融资由Thrive Capital和Andreessen Horowitz共同领投，显示出投资者对国防AI领域的高度信心。Anduril不仅提供无人机、导弹发动机和雷达系统等硬件，还提供支持这些设备的软件。",
+    "url": "https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/",
+    "score": 9,
+    "angle": "AI军工巨头Anduril估值飙升！50亿美金融资背后，是未来战争的科技密码？🤔 探索AI如何重塑国防格局！#AI国防 #科技巨头 #未来战争",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Cerebras Systems to IPO, Raising $5.5B at $185 Share Price, Marking Biggest Tech IPO in Years",
+    "title_cn": "AI芯片巨头Cerebras Systems上市在即，募资55亿美元创近年科技IPO之最",
+    "summary_cn": "AI芯片制造商Cerebras Systems宣布将以每股185美元的价格进行首次公开募股（IPO），预计将筹集55亿美元，成为近年来科技行业最大规模的IPO之一。Cerebras以其大型WSE-3芯片闻名，专注于AI生产工作负载，此次上市标志着AI基础设施领域的重要里程碑。",
+    "url": "https://siliconangle.com/2026/05/13/cerebras-prices-shares-185-ahead-biggest-tech-ipo-years-raising-5-5b/",
+    "score": 9,
+    "angle": "AI芯片圈炸锅了！🤯Cerebras Systems巨额IPO，55亿美金刷新科技纪录！下一个AI时代的弄潮儿是谁？#AI芯片 #科技IPO #Cerebras",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Microsoft-OpenAI Partnership Becomes Non-Exclusive, OpenAI to Use Oracle and CoreWeave for Compute",
+    "title_cn": "微软与OpenAI合作关系转为非独占，OpenAI将从甲骨文和CoreWeave获取算力",
+    "summary_cn": "微软与OpenAI的合作关系已进行重组，转变为非独占模式。这意味着OpenAI现在可以从甲骨文和CoreWeave等其他提供商获取计算资源，而微软仍将是其主要的Azure合作伙伴。这一战略调整反映了AI巨头在算力部署上的灵活性需求，也预示着AI基础设施市场的竞争加剧。",
+    "url": "https://asanify.com/ai-news/ai-news-digest-may-14",
+    "score": 9,
+    "angle": "AI圈重磅消息！微软和OpenAI\"分手\"了？💔 竟然不是独家了！背后有哪些算力博弈和战略考量？#AI合作 #算力之战 #科技大厂",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Boris Mann",
+    "title_cn": "引述 Boris Mann",
+    "summary_cn": "科技界人士Boris Mann指出，“拥有11个AI代理”这种说法毫无意义。他将其比喻为“我有11个电子表格”或“开了11个浏览器标签来工作”，同样无法传达实际价值。Mann的观点强调，AI代理的数量本身并不重要，真正有意义的是它们的功能、作用以及如何协同工作，而非简单的堆砌数字。这提醒人们在讨论AI时，应聚焦于其应用和效果，而非空泛的数量。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+    "score": 8,
+    "angle": "** 揭秘AI代理的“数字陷阱”：不是越多越好，而是要看它帮你做了什么！"
+  },
+  {
+    "title_en": "Pluralistic: Kickstarting \"The Reverse Centaur's Guide to Life After AI\" (14 May 2026)",
+    "title_cn": "AI时代后的生活》（2026年5月14日）",
+    "summary_cn": "AI时代后的生活”项目的启动，该项目旨在探讨如何成为更出色的AI批评者。文章还包含了多个主题的链接，涵盖了科技政策（如EFF与W3C的争议）、流行文化、名人纪念，以及对当前社会现象的评论。此外，作者分享了即将前往柏林、伦敦等地参加的活动，回顾了近期行程，并提到了最新出版的书籍。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/14/who-it-does-it-for/",
+    "score": 8,
+    "angle": "以《反向人马指南：AI时代后的生活》为引子，探讨在AI时代我们如何保持独立思考、成为更明智的AI“批评者”，而不是被动接受者。可以从“AI对个人生活和职业的潜在影响”、“如何培养AI批判性思维”等角度切入，引发读者对未来的思考和讨论。"
+  },
+  {
+    "title_en": "British Inference Chip Startup Fractile Raises $220M to Accelerate AI Token Consumption",
+    "title_cn": "英国AI推理芯片初创公司Fractile获2.2亿美元融资，加速AI模型推理效率",
+    "summary_cn": "英国AI推理芯片初创公司Fractile Ltd.完成2.2亿美元的B轮融资。该公司成立于2022年，致力于开发专门的推理芯片，以解决先进AI模型在生成输出时的延迟问题。Fractile通过创新架构设计，将内存直接集成到处理器中，显著提高了AI模型的响应速度和效率。",
+    "url": "https://siliconangle.com/2026/05/14/british-inference-chip-startup-fractile-bags-220m-accelerate-token-consumption/",
+    "score": 8,
+    "angle": "英国AI黑马来袭！🚀 2.2亿美金新融资，誓要打破AI推理瓶颈！你的AI聊天等待时间即将缩短？#AI创业 #芯片技术 #推理加速",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI Drug Discovery Company Raises $2.1 Billion to Revolutionize Pharmaceutical Research",
+    "title_cn": "AI药物研发公司获21亿美元巨额融资，颠覆传统制药流程",
+    "summary_cn": "一家旨在通过AI设计分子来取代传统药物研发周期的公司获得了21亿美元的巨额融资。这项投资被认为是本周AI领域最具影响力的事件之一，凸显了AI在医疗健康领域应用的巨大潜力，有望加速新药的发现与开发，为患者带来更多希望。",
+    "url": "https://asanify.com/ai-news/ai-news-digest-may-14",
+    "score": 8,
+    "angle": "21亿美金砸向AI制药！💊 这不仅是钱，更是AI在医疗界的\"超级英雄登场\"！人类攻克疾病的速度要开挂了？#AI医疗 #药物研发 #未来科技",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "U.S. Government to Review New AI Models from Microsoft, Google, and xAI Before Public Release",
+    "title_cn": "美国政府将对微软、谷歌和xAI的新AI模型进行发布前审查，评估国家安全风险",
+    "summary_cn": "微软、谷歌和xAI已同意在向公众发布其新型人工智能模型之前，允许美国政府提前进行审查。此举旨在评估这些模型可能带来的国家安全风险，并测试其能力。这一协议表明特朗普政府正在对AI进行更积极的监管，以应对快速发展的AI技术带来的潜在威胁。",
+    "url": "https://alphaspread.com/news/us-government-will-review-new-ai-models-from-microsoft-google-and-xai-before-release",
+    "score": 8,
+    "angle": "AI安全拉响警报！🚨美国政府要求微软、谷歌、xAI新模型\"先审后发\"！这是在保护我们还是限制AI发展？#AI监管 #国家安全 #科技政策",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Biz Reaper",
+    "title_cn": "商业收割者",
+    "summary_cn": "媒体行业巨头拜伦·艾伦的出现，通常预示着一家媒体公司在商业运营上可能出了问题。而现在，内容平台BuzzFeed正面临着这位“商业收割者”的“拜访”，暗示其媒体业务或将遭遇重大挑战。文章还简短提及了作者本人完成了一个项目。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis",
+    "score": 7,
+    "angle": "你的内容创业正在犯哪些错，才会被巨头‘收割’？普通人也能看懂的商业洞察！"
+  },
+  {
+    "title_en": "MiniMax and Alibaba Cloud Release New LLM Models on May 14, 2026",
+    "title_cn": "MiniMax和阿里云于2026年5月14日发布多款全新大语言模型",
+    "summary_cn": "2026年5月14日，MiniMax和阿里云同步发布了多款大语言模型更新。MiniMax推出了M2.5高速版、M2.7高速版和M2.7模型，而阿里云则发布了Qwen3 Coder Next。这些新模型的推出，标志着国内外AI模型开发商在性能和功能上的持续迭代，为开发者和企业提供了更丰富的选择。",
+    "url": "https://llmgateway.com/models",
+    "score": 7,
+    "angle": "大模型狂潮再升级！✨ MiniMax和阿里云今日连发多款新模型！性能突破、功能升级，AI玩家们快来尝鲜！#大语言模型 #AI技术 #MiniMax #阿里云",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Companies Like Meta, Amazon, and Walmart Continue Layoffs, Citing AI-Driven Efficiencies",
+    "title_cn": "Meta、亚马逊、沃尔玛等公司持续裁员，人工智能效率提升成主要原因",
+    "summary_cn": "包括Meta、亚马逊和沃尔玛在内的多家大型公司在2026年持续进行裁员，并明确表示人工智能带来的效率提升是主要原因。尽管裁员涉及多个行业，但科技公司裁员尤为突出。这一趋势反映了AI正在重塑企业运营模式和劳动力结构，促使公司重新评估和优化其员工配置。",
+    "url": "https://www.businessinsider.com/companies-laying-off-staff-2026-meta-amazon-walmart-ai-2026-5",
+    "score": 7,
+    "angle": "AI抢饭碗？打工人危机！😱 Meta、亚马逊都在裁员，AI效率提升到底是\"福\"还是\"祸\"？#AI影响 #职场危机 #科技裁员",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The First Democratic Tech Alliance Assembly",
+    "title_cn": "首次民主科技联盟大会",
+    "summary_cn": "民主科技联盟（DTA）在欧洲议会举行了首次大会。该联盟汇聚了欧洲绿党/欧洲自由联盟、复兴欧洲、欧洲人民党以及社会主义者和民主人士进步联盟等多个主要欧洲政治团体，展现了广泛的跨党派合作，旨在讨论和应对民主社会与科技发展相关的议题。这次集会标志着一个重要的多方合作开端。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)",
+    "title_cn": "亿万富翁的唯我论、独裁者的唯我论、人工智能与法西斯范式（2026年5月13日）",
+    "summary_cn": "本文围绕亿万富翁与独裁者的唯我论、人工智能及法西斯范式进行探讨。作者分享了一系列多元链接，涉及AGI（通用人工智能）运作机制、科技动态（如Woz的遥控器、AR技术、Firefox）、政治事件（如寡头收购、政治献金、巴拿马文件）以及其他社会文化观察。这些内容旨在引发读者对权力、科技与社会复杂关系的深层思考。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/13/vibe-governance/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Centrality is not vitality",
+    "title_cn": "中心性并非活力",
+    "summary_cn": "在分析依赖关系图时，不要盲目应用PageRank算法。PageRank虽然能衡量节点中心性，但它不一定代表真实的活力或重要性。面对复杂系统，我们需要深入理解其结构与动态，谨慎选择合适的评估方法，避免简单化解读导致误判。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Points are a weird and inconsistent unit of measure",
+    "title_cn": "点，一种奇怪且不一致的度量单位",
+    "summary_cn": "作者在重制《程序员逻辑》的图表时，发现作为度量单位的“点”非常奇怪且不一致。他的书用LaTeX排版，有固定的网格尺寸，但“点”的特性给图表制作带来了困扰，凸显了排版中度量单位的复杂性。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Welcoming the Bahamian Government to Have I Been Pwned",
+    "title_cn": "欢迎巴哈马政府接入Have I Been Pwned（HIBP）服务",
+    "summary_cn": "Have I Been Pwned (HIBP) 宣布，巴哈马成为第44个加入其免费政府服务的国家。巴哈马国家计算机事件响应小组 (CIRT-BS) 现可利用 HIBP 的数据监控政府域名是否存在数据泄露风险。CIRT-BS 作为国家级机构，将负责协调网络安全应对工作，确保政府数据安全。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "It's funny because it's true",
+    "title_cn": "真实才好笑",
+    "summary_cn": "作者在网上发表了一个热门笑话，虽然不是原创，但因引用时机恰到好处而获得大量点赞。这个玩笑是对著名物理学家克里夫·斯托尔（以克莱因瓶著称）在Hacker News上发布的一篇题为“我去世的谣言略有夸大”帖子的回应。作者对斯托尔竟然活跃在Hacker News感到非常惊讶，并且发现自己对他了解不多。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/its-funny-because-its-true?src=feed",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Commenting Guidelines",
+    "title_cn": "评论指南",
+    "summary_cn": "本文阐述了某网站的评论指南，旨在维护一个活跃且由网站作者精心策划的评论区。用户在提交评论时，可以使用HTML或Markdown格式进行编辑，所有评论在发布到网站前都会被转换为HTML并进行净化处理。这些规则旨在确保评论内容的整洁、有序，并为用户提供一个良好的互动环境。",
+    "source": "susam.net",
+    "url": "https://susam.net/commenting.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Welcome to the Datasette blog",
+    "title_cn": "欢迎来到 Datasette 博客",
+    "summary_cn": "Datasette 项目宣布正式推出其官方博客，旨在发布一系列即将到来的重要更新和公告。该博客由开发者利用 OpenAI Codex desktop 工具搭建完成，并特别提及其内置的 Markdown 会话记录导出功能，展示了博客的创建过程。文章还附带了构建博客的详细会话记录链接，方便读者了解技术实现细节。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Going from a ZFS object ID to its path the easier way",
+    "title_cn": "从ZFS对象ID查找文件路径的更简便方法",
+    "summary_cn": "ZFS用户或系统本身常需要将内部对象ID（如ZFS对象ID）映射至文件路径，这在执行`zfs diff`或报告`zpool status`中的损坏文件时尤为重要。文章探讨了ZFS如何通过存储“可能的父对象”等机制，优化这一映射过程，实现从对象ID到其文件路径的更简便查找，从而提高文件系统管理与故障诊断的效率。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Texas Instruments 486SXL CPU",
+    "title_cn": "德州仪器 486SXL CPU",
+    "summary_cn": "1992年5月14日，德州仪器（TI）与Cyrix达成技术授权协议，获得了Cyrix的486SLC和486DLC处理器技术。根据协议，Cyrix可以使用德州仪器的制造设施，而德州仪器则能够基于Cyrix的技术开发衍生芯片。然而，德州仪器最终并未大量生产这些芯片。这份协议标志着当时两家公司在PC处理器市场的一次合作尝试，但结果不如预期。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/texas-instruments-486sxl-cpu/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-486sxl-cpu",
+    "score": 1,
+    "angle": ""
+  }
+]
