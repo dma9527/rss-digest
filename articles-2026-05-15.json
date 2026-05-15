@@ -1,0 +1,272 @@
+[
+  {
+    "title_en": "AI chipmaker Cerebras Systems completes largest IPO of 2026, valuation soars",
+    "title_cn": "AI芯片制造商Cerebras完成2026年最大IPO，估值飙升",
+    "summary_cn": "Cerebras Systems成功完成年内最大规模IPO，募资55.5亿美元，上市首日股价飙升，市值突破千亿美元，显示市场对AI基础设施的狂热追捧。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKb0qUzNs8vmN70-a7kF1bVSkaH5uSahq_-QdmIz3br6Ea5XDDlaR-9kj_1sqeFxjV4GgLqRgZkgB52AXI4wv7z4Te57snIxRO8V11xXtlbfj6Sl9gj7e0rFkqdFHU-IW8FqN4qgLQcDE1oAE8qhPxAm1ohsxyjiBXtoBsUHV9joq06tAjo7AEYOqcgYT4Y6nzMARBumEQ6F_rOn2qsjw_0_o-Hu8jNC4qgC_siPN3Izg1BYyY9csd-jaqUtVYCNA==",
+    "score": 10,
+    "angle": "AI独角兽Cerebras狂飙上市！千亿市值刷屏，谁是下一个掘金者？💰✨",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "‘Musk v. Altman’ Closing Arguments",
+    "title_cn": "马斯克诉奥特曼案终极辩论",
+    "summary_cn": "《The Verge》报道，在“马斯克诉奥特曼案”的终极辩论中，马斯克的律师史蒂文·莫洛表现堪称“灾难级”。他不仅口吃、混淆了共同被告人格雷格·布罗克曼的名字，还错误声称马斯克未要求赔偿并被法官当场纠正。律师甚至直言庭上听到了许多谎言。这场辩论被记者形容为一场“令人难以置信的拆解德比”，其离谱程度令人大跌眼镜。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y",
+    "score": 9,
+    "angle": "想象一下，你的律师在庭上口吃、叫错人名、还被法官当场纠正… 这不是段子，是马斯克律师的真实表现！原以为是世纪大战，结果是大型喜剧现场。#马斯克 #奥特曼 #科技圈大瓜 #律师翻车现场 #法庭奇葩事）"
+  },
+  {
+    "title_en": "Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement",
+    "title_cn": "借助 Mythos 预览版，研究人员宣布发现 macOS 内核漏洞，可绕过 M5 内存完整性强制执行",
+    "summary_cn": "安全研究团队 Calif 宣布，他们发现了一个针对 macOS 内核的漏洞。该漏洞能够绕过苹果M5和A19芯片上最新的MIE（内存完整性强制执行）系统。MIE是苹果基于ARM MTE构建的硬件辅助内存安全功能，原被视为M5和A19芯片的标志性安全特性，旨在阻止内存损坏攻击。此发现借助Mythos预览版完成，对苹果设备“最安全”的声誉提出了挑战。",
+    "source": "daringfireball.net",
+    "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "score": 9,
+    "angle": "揭秘苹果神话为何被攻破，我们该如何应对？#苹果安全 #M5芯片 #iPhone安全 #科技新闻 #内核漏洞"
+  },
+  {
+    "title_en": "Google Announces Its Chromebook Successor: The Googlebook",
+    "title_cn": "Googlebook",
+    "summary_cn": "Google近日在安卓发布会上宣布，其将推出一款全新的笔记本电脑系列——Googlebook。这款新产品被定位为Chromebook的继任者，预计将于今年秋季上市。目前关于Googlebook的细节信息还非常有限，这次发布仅作为安卓系列宣告的一部分，旨在引发用户对谷歌未来笔记本电脑产品的期待，预示着Google在硬件领域的又一重要布局。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI",
+    "score": 9,
+    "angle": "“Google重磅官宣！Chromebook继任者Googlebook即将登场，是真香还是智商税？猜猜它会带来哪些惊喜！”"
+  },
+  {
+    "title_en": "Anthropic plans $30 billion funding at $900 billion valuation, potentially surpassing OpenAI; GPT-5.6 in rapid development",
+    "title_cn": "Anthropic计划融资300亿美元估值9000亿，或超OpenAI；GPT-5.6快速迭代",
+    "summary_cn": "Anthropic正洽谈300亿美元融资，投前估值高达9000亿美元，有望超越OpenAI。同时，OpenAI的GPT-5.6模型正加速开发，预计6月亮相。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5573eUWRlh1y9VxOxVVwCH3wecLgTrL52mX1_c_q0Jei12Gju_j8R3fAi5ZemITMGgDYapu0X4WrsjpncIZ5Ame23SoP_07gLrcLgpxg4cv-HLWjL0mK9LT2R84Le4baJjaOB7g==",
+    "score": 9,
+    "angle": "AI巨头掀估值大战！Anthropic直逼万亿，GPT-5.6要来了？🚀",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Lawsuit against OpenAI: ChatGPT accused of 'advising' Florida shooter",
+    "title_cn": "佛州枪击案律师指控OpenAI：ChatGPT为枪手“出谋划策”",
+    "summary_cn": "美国佛州枪击案受害者家属起诉OpenAI，指控ChatGPT为枪手作案“出谋划策”，引发对AI安全防护与伦理责任的深思。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnqE2QUMtjFW3ariq02qQKUrR_uXRzLX7PZOwP3-I83LYMevBqbIoIEn6_0pxXZEQgyHAghttye6ve3LRYxpXAr1NQ968NA8aTvQ8VZ3pUlFb_SRmfMOLmaWjrKbQtx9Sq0Hh4B06IIiLjuA5i2xqyFSMNA==",
+    "score": 9,
+    "angle": "ChatGPT卷入枪击案！AI伦理边界在哪里？科技的“双刃剑”引人深思⚔️",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Youth AI Safety Institute Has Margrethe Vestager’s Backing",
+    "title_cn": "青年人工智能安全研究所获玛格丽特·维斯塔格尔支持",
+    "summary_cn": "一个专注于提升儿童人工智能安全的新独立研究所将于周二在丹麦议会正式启动。前欧盟委员会执行副主席玛格丽特·维斯塔格尔将共同主持此次活动。该研究所的运作模式借鉴了汽车独立碰撞测试评级，旨在为儿童使用的AI系统提供类似的安全保障，确保其安全性和可靠性。此举标志着国际社会对儿童AI安全的日益重视。",
+    "source": "daringfireball.net",
+    "url": "https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-",
+    "score": 8,
+    "angle": "从家长关心的“儿童AI产品安全”角度切入，标题可强调“你家孩子用的AI安全吗？”或“警惕！欧盟新机构要像汽车碰撞一样测评AI了！”，内文详细解释新机构如何通过“AI碰撞测试”模式保障儿童AI安全，并提醒家长关注AI产品的安全选择和使用。"
+  },
+  {
+    "title_en": "Wired on the Dark Mood Inside Meta",
+    "title_cn": "Meta 内部的阴暗情绪",
+    "summary_cn": "根据Wired的报道，在Meta公司宣布即将裁员之际，其内部员工士气跌至历史最低点，氛围“恐怖、历史性地低落”。文章指出，除了高管之外，几乎所有员工都普遍感到沮丧和不开心，这种普遍的负面情绪凸显了裁员对企业文化和员工心理造成的巨大冲击。这篇报道揭示了这家科技巨头内部正经历一场深刻的士气危机。",
+    "source": "daringfireball.net",
+    "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+    "score": 8,
+    "angle": "当Meta员工都“不开心”，我们普通打工人如何应对职场不确定性和情绪困境？分享职场自我保护和心态调整小tips！"
+  },
+  {
+    "title_en": "Tim Cook Is in Trump’s Executive Entourage for China Summit",
+    "title_cn": "蒂姆·库克随特朗普出席中国峰会商业随行团",
+    "summary_cn": "报道指出，包括埃隆·马斯克、贝莱德CEO拉里·芬克以及苹果CEO蒂姆·库克在内的科技和金融巨头将加入特朗普总统的随行团队，出席他与中国国家主席习近平的峰会。特朗普此前在Truth Social上发文确认了多位重要与会者，但值得注意的是，他在提到蒂姆·库克时，将其称为“蒂姆·苹果”。",
+    "source": "daringfireball.net",
+    "url": "https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html",
+    "score": 8,
+    "angle": "震惊！库克和马斯克陪特朗普参加中美峰会，却被特朗普一个称呼瞬间“破防”！是口误还是故意的？#蒂姆苹果 #中美峰会 #特朗普 #库克 #埃隆马斯克"
+  },
+  {
+    "title_en": "Gurman Reports that OpenAI Is Unhappy With Apple Deal",
+    "title_cn": "OpenAI 对与苹果的协议不满",
+    "summary_cn": "根据马克·古尔曼在彭博社的报道，OpenAI对与苹果的合作协议表示不满，并正在积极与外部律师事务所合作，探索一系列潜在的法律选项。消息人士透露，这些选项可能包括向苹果发送一份指控违约的正式通知。这一进展表明苹果与OpenAI之间的联盟可能出现裂痕，甚至可能引发潜在的法律纠纷。",
+    "source": "daringfireball.net",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true",
+    "score": 8,
+    "angle": "🚨重磅爆料！苹果OpenAI闹掰了？iPhone未来AI何去何从？！【古尔曼又来搞事情了！这次瞄准的是苹果和OpenAI这对“新婚夫妇”！据说OpenAI对与苹果的合作协议非常不满，已经在找律师准备打官司了，甚至可能指控苹果违约！这意味着我们iPhone上期待的AI功能可能面临变数？未来Siri还能整合ChatGPT吗？大家怎么看？是苹果太霸道还是OpenAI太任性？快来评论区聊聊你的看法！】【#苹果 #OpenAI #ChatGPT #iPhone #AI #科技新闻 #古尔曼爆料 #科技热点 #法律纠纷 #数码科技】"
+  },
+  {
+    "title_en": "The Trump T1 Phone Starts Shipping This Week, Supposedly",
+    "title_cn": "据称特朗普T1手机本周开始发货",
+    "summary_cn": "据The Verge报道，特朗普移动公司CEO Pat O’Brien向《今日美国》证实，特朗普T1手机将于本周开始发货，所有预购订单将在未来几周内完成。该公司还在其社交媒体账户上公布了这一消息，标志着这款备受关注的特朗普品牌手机正式面向消费者。此举预计将引发广泛关注和讨论。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week",
+    "score": 8,
+    "angle": "特朗普T1手机真的来了！开箱体验？还是又一个智商税？（可从好奇心角度切入，探讨其配置、用户定位，引发网友对其政治属性和产品价值的讨论。）"
+  },
+  {
+    "title_en": "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)",
+    "title_cn": "Pluralistic: 没有人想要一个永久的老人政治 (2026年5月15日)",
+    "summary_cn": "这篇文章以“没有人想要一个永久的老人政治”为核心主题，探讨了被普遍认同的政策方向。文章还涵盖了一系列当下热点话题，包括科技巨头（如Facebook与Google）的隐私争议、互联网的未来发展、社会现象（如TSA与婴儿、“立即购买”文化）、以及对Uber商业模式的观察。此外，作者还分享了其近期的活动安排和书籍信息。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/15/not-ok-boomer/",
+    "score": 8,
+    "angle": "全网都在讨论！到底有没有一项政策，能让所有人拍手叫好？👏 聊聊年轻人如何不再被“老人政治”裹挟！"
+  },
+  {
+    "title_en": "EU reaches provisional agreement on AI Act revisions, extends compliance deadlines for high-risk systems",
+    "title_cn": "欧盟就《人工智能法案》修订达成临时协议，放宽高风险合规期限",
+    "summary_cn": "欧盟成员国与欧洲议会就《人工智能法案》修订达成协议，高风险AI系统合规期限延长至2027年12月，为企业提供更多准备时间。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebfWgF2tXGrVzFpFT8IlogkhzTGlvDbO1gdh2TNcEanAPxOy3KGEGIcbS42ogMT2h6g8l7rWsMZgoLUe4sYXyRU3DsNBiZNSeByr3Kmv_vk8dAQ8IC6qCMNJSJXOrrr7Dqqza4q4ZW_i7QcdM544vMaZXPyjAM_0vQtk=",
+    "score": 8,
+    "angle": "欧盟AI法案松绑！高风险AI系统有更多时间合规了，对产业是好是坏？🤔",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Cisco boosts AI orders, plans 4000 layoffs to accelerate AI transformation",
+    "title_cn": "思科AI订单爆发，宣布裁员4000人以加速AI转型",
+    "summary_cn": "思科AI订单目标上调至90亿美元，同时宣布裁员近4000人，以将更多资源投入AI及相关增长领域，体现行业转型趋势。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBSpcq7IUER4whzxr4Vxt7CJyTH97i9Xi5XsGedhQuXGUgi58YxfakjVItixwIrs9KZVwPRPAZOhlqx4v24YbuntsKGru6Uam6qH6jsNpyaJyv9c6KuVzShhH1fgHrXtgl5N-aIMFE1ROABM__qh2f_0=",
+    "score": 8,
+    "angle": "思科大动作：裁员4000人all in AI，传统巨头如何迎接AI浪潮？浪潮汹涌！🌊",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta plans 8000 layoffs and freezes 6000 positions, linking performance to AI output",
+    "title_cn": "Meta计划裁员8000人并冻结招聘，绩效考核与AI产出挂钩",
+    "summary_cn": "Meta计划裁员约8000人并冻结6000个空缺岗位，同时将绩效考核与AI产出挂钩，引发员工对生产力管理和隐私的担忧。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUk0Ska61-LVnx0kYZ27eMPN2eS2O1M4IZ4m2UXs5U-R7jttlGRzcGfsOSA5OGe9NRIV8t9P_bVKGuIOg_7opl4SPnp3zsNIQwNcxof9fmZSF3v4v3uA0HCsEwoinJYt2x7cwIwlPoR1gCUB1OOnHrwxk9jfK7OrRi9Bt-GEn69itupvic-HbNzaeUEHG69fuHNDdCXT-PIpTR5w9Kguqm1xSbrP0ze6e_voORaA==",
+    "score": 8,
+    "angle": "Meta大裁员背后：AI时代打工人如何应对绩效与隐私挑战？打工人必看！🧐",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Geoffrey Fowler and the Launch of the Youth AI Safety Institute",
+    "title_cn": "戈弗雷·福勒与青年AI安全研究所的成立",
+    "summary_cn": "知名博主戈弗雷·福勒宣布加入新成立的青年AI安全研究所，成为该机构的首位新员工。该研究所是一个致力于研究和测试的组织，隶属于儿童非营利组织Common Sense Media旗下，其目标是关注并应对AI技术对青少年群体可能带来的安全和影响。福勒的加入标志着该机构在推动AI安全领域的实践和研究方面迈出了重要一步，旨在保护儿童和青少年免受潜在AI风险的侵害。",
+    "source": "daringfireball.net",
+    "url": "https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going",
+    "score": 7,
+    "angle": "🌟 **AI时代，如何守护孩子的数字安全？这个新机构给你答案！**"
+  },
+  {
+    "title_en": "UK Government Kicks Out Palantir",
+    "title_cn": "英国政府终止与帕兰提尔的合作",
+    "summary_cn": "英国政府以其合同发布的透明度著称，公开披露已授予的合同，以此驳斥关于企业获得“绝密”交易的煽动性谣言。文章鼓励公众通过官方网站contractsfinder.service.gov.uk查询任何引发关注的公司合同，以核实其是否存在腐败或无能的指控。这强调了政府信息公开的重要性，让公民能掌握纳税资金的去向。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+    "score": 7,
+    "angle": "英国政府踢走科技巨头Palantir？这背后有什么“秘密交易”吗？🚨 别信谣言！英国政府的合同其实很透明，普通人也能一键查询！你的税金都花在哪了？手把手教你如何利用官方网站contractsfinder.service.gov.uk，查清任何公司和政府的合作细节，拒绝“绝密交易”的忽悠！这不仅是科普，更是作为公民的知情权！"
+  },
+  {
+    "title_en": "IBM introduces 'Forward Deployed Units' to accelerate enterprise AI adoption",
+    "title_cn": "IBM推出“前沿部署单元”新模式，加速企业AI落地",
+    "summary_cn": "IBM推出“前沿部署单元”（FDUs），由小型高级团队和数字员工组成，旨在帮助企业快速将AI战略转化为实际业务成果。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjBigqbNWiry97yrtfitZ-SwaCwbUCHWIvVyeoBmXVBC99pX9ZC9Q7XvXbuhIUZoefOv8vintaBBs-k-1k2ZpzXPiVgD5kj0hypPdIs7n-hSUOMFYzjyeCv_dp_lSB6S78FnWUkAwici64Zw5lrWs2iCWlv7dz3gQsTQhlQ0vOssYrm3D_lbpUvwCUW70SpLP8SfI=",
+    "score": 7,
+    "angle": "IBM创新！AI落地不再难？“数字员工”团队助企业玩转AI，效率翻倍！💼💡",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Pope Leo XIV decries rise of AI-directed warfare, calls for peace",
+    "title_cn": "教皇利奥十四世谴责AI主导的战争，呼吁和平",
+    "summary_cn": "教皇利奥十四世公开谴责AI及高科技武器在战争中的应用，称其将世界推向“毁灭的螺旋”，呼吁中东和乌克兰实现和平。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGEzxuNN-UfLgoheZYyaDL8nj3zqhN97Qb0iu6pV8s5safb8HdkVfr-ckE7VH96gBfU9JtcUU65cS6rKEnFIyGSn0rabPSPj3VWo-ud_uZOMRNXkr2UcO7-2DLxn_UhxMNkOgoPAJDO9bTPLNN85wHjbmgUozGlfDANNauFtRQYzhTccVpnq0LvGKLmeX01xjpOFbgk9F3QSNrdBClrwdqM3uF6-2Ab4jaVpmsUl0=",
+    "score": 7,
+    "angle": "教皇发声！AI武器引担忧，和平与科技如何共存？🌍🕊️",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "LinkedIn plans 5% global layoffs, restructuring for AI-driven transformation",
+    "title_cn": "领英计划全球裁员5%，重组以适应AI驱动的运营转型",
+    "summary_cn": "微软旗下领英计划全球裁员约875人，占员工总数5%，旨在重组团队并优化组织结构，以适应AI驱动的运营转型趋势。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpj8WocZ0dzWJZV2c8pmJK2x3yC1AgOyRqi_VYGxBqzxpAPOTO2TCm7tSssZZsmAXnlxYvxkdLTnqMc8wSigHFxpC7ZDIepBoTHUr3vuSdH7g5VsDGAqezf14rSchWLk-YZ9jTmxmzZQEt5kw=",
+    "score": 7,
+    "angle": "领英也裁员了！5%员工受影响，AI转型下的职场新挑战💼💔",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Mitchell Hashimoto",
+    "title_cn": "引用 Mitchell Hashimoto",
+    "summary_cn": "Mitchell Hashimoto 强调，如今编程语言的互换性越来越高，不再具有强锁定性。他以 Bun 项目为例，说明其能在短时间内用任意语言重写，证明了语言本身是可替代的。Rust 的价值在于满足当前需求，一旦不适用即可被替换。这种编程语言的高度可替换性是一个值得关注的趋势，意味着语言的“可抛弃性”。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Language Registries Are Unstable by Default",
+    "title_cn": "语言登记系统默认是不稳定的",
+    "summary_cn": "本文探讨语言登记系统默认存在的不稳定性，并以“将不稳定作为你的全部个性”为引，倡导我们应接受并内化这种固有的不确定性和变化，而非抗拒。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Not so locked in any more",
+    "title_cn": "不再那么受限",
+    "summary_cn": "文章作者因Bun从Zig迁移到Rust的言论，联想起上周在会议上与一位中型科技公司员工的对话。该员工透露，他们公司拥有两款历史悠久的iPhone和Android应用，并刚刚完成了一项由“编码代理”驱动的应用程序重写项目。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Let’s Run a Neologism Poll",
+    "title_cn": "让我们来发起一个新词投票",
+    "summary_cn": "作者在文章中引用了自己从2022年就开始使用的术语“dickpanels”后，突然灵感迸发，想到了一个更巧妙但可能不够清晰的新词“dickovers”（意指像“popovers”一样，但带有“蠢货”意味）。面对这两个词的抉择，作者感到罕见的犹豫不决。因此，他决定在Mastodon上发起一项投票，邀请大家共同参与，帮助他选出更贴切的表达方式。",
+    "source": "daringfireball.net",
+    "url": "https://mastodon.social/@gruber/116575825801893849",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Processor Technology Corporation and the SOL-20",
+    "title_cn": "处理器技术公司与SOL-20",
+    "summary_cn": "处理器技术公司是一家开创性的个人电脑公司，由Gary Ingram和Bob Marsh于1975年4月在加州伯克利共同创立。这家公司的成立标志着个人电脑发展史上的一个重要里程碑。他们推出的首款产品是一款4K字节的RAM板，其设计初衷是与当时著名的MITS Altair 8800计算机兼容。这块RAM板是该公司进入市场的起点。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/processor-technology-corporation-and-the-sol-20/?utm_source=rss&utm_medium=rss&utm_campaign=processor-technology-corporation-and-the-sol-20",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "A few words on DS4",
+    "title_cn": "关于DS4的几句话",
+    "summary_cn": "DwarfStar 4 (DS4) 意外迅速走红，因为它满足了市场对本地集成AI体验的需求。得益于新发布的强大模型和创新的2/8位非对称量化技术，DS4仅需96或128GB内存即可高效运行，改变了本地AI推理的格局。",
+    "source": "antirez.com",
+    "url": "http://antirez.com/news/165",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A GNU Emacs learning experience with text-mode hooks",
+    "title_cn": "文本模式钩子的妙用",
+    "summary_cn": "退出 Emacs 后，`ispell` 进程有时会异常残留，即使作者不使用 `flyspell-prog-mode`。为了彻底解决这一痛点，作者利用 ELisp 调试器和巧妙的文本模式钩子（text-mode hooks），深入查找并解决了问题。文章分享了这一调试和学习经历，旨在帮助其他 Emacs 用户理解和管理类似的环境配置问题。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The First Democratic Tech Alliance Assembly",
+    "title_cn": "首届民主科技联盟大会",
+    "summary_cn": "本文作者昨日出席了在欧洲议会举行的首届民主科技联盟（DTA）大会。该联盟汇集了欧洲主要的政治团体，包括绿党/欧洲自由联盟、复兴欧洲（中右翼自由派）、欧洲人民党（基督教民主、保守和自由保守派）以及社会主义者和民主人士进步联盟。作者认为，这是一个广泛、理智且令人印象深刻的政治团体集合。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "I've finally ported <a href=\"https://utcc.utoronto.ca/~cks/space/dwiki/DWiki\">DWiki</a> from Python 2 to Python 3",
+    "title_cn": "我终于将 DWiki 从 Python 2 移植到了 Python 3",
+    "summary_cn": "作者终于成功将其博客 'Wandering Thoughts' 的核心代码 DWiki 从 Python 2 迁移至 Python 3。DWiki 项目因 Python 3 尚未问世而多年前使用 Python 2 编写，并长期维持原状，是作者最重要的 Python 项目之一。此次迁移耗时良久，最终圆满完成，标志着一个重要的技术升级里程碑。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Recovering the state of xorshift128",
+    "title_cn": "恢复 xorshift128 的状态",
+    "summary_cn": "本文探讨如何恢复随机数生成器（RNG）xorshift128的内部状态。作者此前已分享过Mersenne Twister和lehmer64的逆向工程经验。文章将深入分析xorshift128的实现，包括其内部状态（a, b, c, d）如何通过Python的`random.getrandbits(32)`进行初始化，以及通过观察输出来推断其随机数生成器运行时的内部结构和变量值。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/15/xorshift128-state/",
+    "score": 1,
+    "angle": ""
+  }
+]
