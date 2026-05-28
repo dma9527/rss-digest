@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
+    "title_cn": "研究人员公布通过分析SSD活动监视网页访客的方法",
+    "summary_cn": "一项最新研究揭示，攻击者可通过分析用户SSD（固态硬盘）活动来监视网页访客。该技术利用了侧信道攻击，通过测量SSD产生的物理现象，如电磁辐射或任务完成时间，从而推断并解密加密流量，推断出其他机密信息。这意味着即便在加密连接下，用户的浏览习惯和敏感数据也可能面临泄露风险，对网络隐私安全构成新的威胁。",
+    "source": "daringfireball.net",
+    "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+    "score": 9,
+    "angle": "【😱新型隐私危机？你的SSD硬盘可能在“偷窥”你的上网习惯！】 🌐最近研究发现，黑客竟能通过分析你的固态硬盘（SSD）活动，来监视你访问的网页，甚至解密加密流量！别以为有HTTPS就安全了，这种侧信道攻击防不胜防。小红书姐妹们，我们的上网隐私真的安全吗？想了解这是怎么回事，以及我们能做什么来保护自己？快戳进来了解真相！ #网络安全 #隐私保护 #SSD #科技新知 #黑客技术 #数据安全"
+  },
+  {
+    "title_en": "Every Enemy Wears Your Face",
+    "title_cn": "你所有的敌人，都长着你的模样",
+    "summary_cn": "我们内心所对抗的“敌人”，常常是我们自己内在问题的投射。人类习惯于将自身的阴影、不满或恐惧投射到外部世界，从而“发明”出各种反派角色。然而，我们往往意识不到自己才是局中人，未能看清自身在问题中所处的位置，就像坐在椅子上却无法看到椅子本身一样。",
+    "source": "simone.org",
+    "url": "https://simone.org/projection/",
+    "score": 9,
+    "angle": "🤯 惊！你所有的敌人，都长着你的模样？深度解析心理投射，告别内耗与人际冲突！"
+  },
+  {
+    "title_en": "DeepSeek Secures Record $10 Billion Funding, Pre-money Valuation Reaches $45 Billion Led by China National IC Fund",
+    "title_cn": "深度求索（DeepSeek）获国家大基金领投100亿美元融资，投前估值达450亿美元",
+    "summary_cn": "中国AI大模型公司深度求索（DeepSeek）首轮融资接近尾声，由国家集成电路产业投资基金领投，本轮融资规模升至100亿美元，投前估值已达450亿美元，创中国AI大模型史上首轮融资规模最大纪录。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9GlkoUOBj_C34rxA1rgVCMv-3kQASOrDy4P8pytuHjnxtfpTwSGcXvaNyM8CgZU55XdrfsGQw4aNzvb2zj0fxJX_RGJt4AuS9HEwJfcqcggHrsxckPgr_57D8DHqdUafUiPJ15At3jAB9X4bjNfnu",
+    "score": 9,
+    "angle": "国产AI巨头崛起！国家队重金加持，450亿估值创纪录，DeepSeek要引领AI新时代？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic's $30 Billion-Plus Funding Round Closes, Becomes World's Most Valuable Private AI Startup at $900 Billion",
+    "title_cn": "Anthropic超300亿美元融资尘埃落定，估值达9000亿美元成全球最具价值AI独角兽",
+    "summary_cn": "AI公司Anthropic宣布其超300亿美元的融资轮已正式关闭，使其估值达到9000亿美元，超越OpenAI成为全球市值最高的私人AI初创公司。本轮融资由多家知名机构共同领投，Anthropic的营收也实现快速增长。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqprdWvi3MJ8GpbRTY7NuM2fWHqkg80uJiwftqn5aCzxbXag34ymMG-8Hic1pCYpGSupwVMG7h2QPZkwPNg0zQuU7a3GOS6PvQIOqDOgayq8_0Igqrqa5IDyco3K3zoIoC_6_h1AYa5xEWlRiOj-XRwt57tENjJyEp_A==",
+    "score": 9,
+    "angle": "AI圈炸锅！Anthropic融资超300亿美金，9000亿估值登顶全球AI独角兽，Claude要逆袭？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Tuning in FM Radio on a 3D Printer Heatbed",
+    "title_cn": "用3D打印机加热床收听调频广播",
+    "summary_cn": "3D打印机的加热床能否充当无线电天线？文章由此展开探讨，指出许多天线已集成在电路板（PCB）中，而像Prusa Core One这种3D打印机加热床上的电路走线，从特定角度看，确实与天线有几分相似。这个提问激发了人们对利用日常科技设备进行创新性无线电接收实验的兴趣。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/",
+    "score": 8,
+    "angle": "它竟然能当FM天线收听广播！极客脑洞大开，DIY爱好者必看的神奇实验，挑战你的认知极限！#3D打印 #黑科技 #DIY #无线电 #科普知识"
+  },
+  {
+    "title_en": "Pluralistic: Hold on for dear life (28 May 2026)",
+    "title_cn": "艰难求生 (2026年5月28日)",
+    "summary_cn": "这篇Pluralistic文章汇集了2026年5月28日的系列链接，探讨数字时代挑战。内容涵盖加密货币安全（\"非你的密钥，非你的钱包，全是你的问题\"）、Web 2.0所有权、博主信息保护与审查，以及政府灾害应对、强迫式金币农场和甲骨文Java API案。更有\"美国队长是纳粹间谍\"等奇闻。这些多元议题共同揭示了数字世界中的安全、权利与伦理困境。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
+    "score": 8,
+    "angle": "你的数字资产是你的吗？Web2.0背后藏着什么？还有美国队长的惊天秘密！#数字安全 #互联网黑幕 #Web20 #美国队长 #涨知识"
+  },
+  {
+    "title_en": "The Costco theory of the internet",
+    "title_cn": "互联网的好市多理论",
+    "summary_cn": "索尔·普莱斯（FedMart创始人）提出“智能销售损失”理论。他通过只提供大瓶装WD-40，放弃小瓶市场，来简化经营。这个策略在当时提高了效率，文章将探讨其与互联网运营模式的关联。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/the-costco-theory-of-the-internet/",
+    "score": 8,
+    "angle": "如何在信息爆炸的互联网时代做精准选择，实现“事半功倍”！"
+  },
+  {
+    "title_en": "AI Coding Startup Cognition Raises Over $1 Billion, Valuation Soars to $26 Billion",
+    "title_cn": "AI编程初创公司Cognition获超10亿美元融资，估值飙升至260亿美元",
+    "summary_cn": "人工智能编程初创公司Cognition AI在新一轮融资中募资超10亿美元，最新估值达到260亿美元，较去年9月估值翻倍。其核心产品Devin是一款自动化编程代理，年化收入增长迅速，客户包括高盛和梅赛德斯-奔驰。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER9lOyn2lam6rcBywVNeB4EMLj7wujWpQZhsdLyuECvz4NeOKWNeiQS0awUmjgaqHMZXlsLxgLWi8EWjkZiuWezxxWzpJAjzmGAVq4yfxawIHnJseZeG1OkjaKT-l3xi7XqetgYwG863AaMhAdiXdyWRXiUhYPWUPSvrDKbumubo6c_8iV",
+    "score": 8,
+    "angle": "打工人警惕！AI编程神器Devin再获10亿融资，估值260亿，程序员饭碗要保不住了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Calian and Cohere Partner to Integrate Sovereign AI into Defence Sector",
+    "title_cn": "Calian与Cohere合作，将主权AI引入国防领域",
+    "summary_cn": "Calian集团与领先的主权AI公司Cohere宣布合作，旨在评估并整合主权人工智能到国防环境中。此举将应用Cohere的安全智能体AI平台North，以提升加拿大军队及其盟友的决策速度、训练效果和作战准备。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkX9HE9IbEHT4fLSjv5xNHoaa9wPFpB-XawffbWrUGYD-i97qYaWSl6f9Q438RBqSSfGetKK_4EqNIOSJ2P4JKDV9--fv0q274AOiB90lzsVB_pYVc-H9RcOegqPLaip8uIJTCA_21Z-UNsfpOHi2ViRWupkLisPiCP3X4W9xWFqLhN2fXw0veQvTOJ_gBmeQFWKDs4Zd6m_91gKYK1yQftYRhm4cwQ==",
+    "score": 8,
+    "angle": "国家安全新高地！加拿大国防引入主权AI，军事决策将迎来智能革命？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Announces New Round of Layoffs in Washington State as Part of AI-Driven Restructuring",
+    "title_cn": "Meta宣布在华盛顿州裁员近1400人，加速AI战略转型",
+    "summary_cn": "Meta新一轮大规模裁员计划正式落地，将在华盛顿州裁员近1400人，作为其“AI优先”战略重组的一部分。公司旨在通过精简人员、优化架构，将更多资源集中投入人工智能赛道。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp1SbkpoIcpLwhhGPtV8A2d-7ixEGqCr7aRAx2AljNb2LpgmrnYjN3kPEsfGlMB-vypL1vrN-qXo9Ko6HExkIDZ3qU3Qml-NQuH0zrYrrf0iz1AhS4jkubH__Ny5egbSZ6LEbIm7LEtCdeY-NJIBQIKzaSHQLg_Zpf63OQQlw=",
+    "score": 8,
+    "angle": "硅谷风暴！Meta再裁员近1400人，全力all in AI，你的岗位还安全吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Microsoft to Launch New Code-Specific AI Model Next Week to Boost GitHub Copilot",
+    "title_cn": "微软下周将推出全新代码专用AI模型，提升GitHub Copilot竞争力",
+    "summary_cn": "微软计划在其Build年度开发者大会上推出多款自研人工智能模型，其中一款专为代码设计，旨在增强GitHub Copilot的竞争力。此举意在巩固其在AI代码辅助领域的地位，并减少对外部模型供应商的依赖。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIzV7Ip-CTmzRaoTdWwEikPpuFGbBjx30ScgZs15P-92ys6jQb3jxnASIoq8DXmvZcmufvLoOTE1c5bp4erRVTmlwsyZgiejNF1GULMh_avxCMl2DUudyyWe26OALw5NAs8qY10sB8Pb1JMhtlWdA2IJpyAaey6EV-s6r7EDMK5rEi5KrdoIxIi5MW7mtLvtWhhNPCI5TA2ADtE8Dwl3NaF-I7FPHTpE0FVro6WSctiF6x4psaF2vDB1TZ8YPbKRVMQh20H2ffF0-FzCYV",
+    "score": 7,
+    "angle": "程序员福音or危机？微软Copilot即将升级，新AI代码模型要逆天了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Starburst Unveils Enterprise Intelligence Platform at AI & Datanova, AIDA Now Generally Available",
+    "title_cn": "Starburst在AI & Datanova大会推出企业智能平台，AIDA正式上线",
+    "summary_cn": "领先的企业智能平台Starburst宣布在AI & Datanova大会上推出其企业智能平台，并发布了核心AI数据助手AIDA的正式可用性。AIDA将AI驱动的智能直接融入企业用户工作流，助力企业更快地实现可信赖的AI应用。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2-7aQyWbxVeQvRTJEA69K-BEDmFDA30NmTOtj7EvAgrOaCDQ32vuY4CvWHw8wuUY-1hmxbT26_4DPbz-rJ9Iwg7CG2oIGAgevVSsSu45PnvsstloER2jZKhy2T1AQ9DgsYtB5uUShawt6dkeDAWj5slZeJHdj_469xU5Jyd4RikNQESpuvhT0Xe-qLiLqgyjEc2tTA93gmnIf67pDzHSP0WnNgdzlsjXqmPz9UomHq1kfPAnbST5Xltan7KxZDE_1BuBI9u5p2dbeym0GBrSrhCWWI0XGBl1UMB0qHcatAbWisJe_",
+    "score": 7,
+    "angle": "企业AI新突破！Starburst发布智能平台AIDA，数据驱动决策更可靠，赋能商业智能！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Protestware for coding agents",
+    "title_cn": "针对编程代理的抗议软件",
+    "summary_cn": "这篇文章探讨了专为AI编程代理设计的“抗议软件”（Protestware）概念。其核心是通过类似`printMessageForCodingAgents()`这样的功能，向自动化编程系统传递特定的信息或伦理考量。这种软件旨在干预AI代理的决策过程，反映出开发者和用户对AI自主性、潜在滥用及其社会影响的担忧，呼吁在AI发展中注入更多人类价值观和道德约束。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Where Are the Economies of Scale in Homebuilding?",
+    "title_cn": "房屋建造中的规模经济何在？",
+    "summary_cn": "这篇文章探讨了住宅建设行业长期存在的生产力问题。尽管许多其他行业已通过规模化生产显著提升效率并降低成本，住宅建造却似乎难以实现预期的规模经济效应。文章旨在分析造成这一现象的深层原因，例如传统建造方式、供应链碎片化等，以理解为何房屋建设在规模扩张后仍面临效率瓶颈，并可能探讨潜在的解决方案。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Nitpicking the shell history scene in ‘Tron: Legacy’",
+    "title_cn": "战纪》中的Shell历史记录场景",
+    "summary_cn": "战纪》中一个Shell历史记录的定格画面进行了细致分析。尽管这部电影已上映16年，作者发现，对该画面的深入审视不仅是一次有趣的“吹毛求疵”式教育练习，还能为观众提供有价值的科普内容。",
+    "source": "chiark.greenend.org.uk/~sgtatham",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "sqlite AGENTS.md",
+    "title_cn": "sqlite 代理指南",
+    "summary_cn": "SQLite项目近日新增了`AGENTS.md`文件。该文件并非用于SQLite内部开发，而是主要面向那些利用AI代理与SQLite代码库交互的用户。内容明确指出，SQLite不接受未经事先同意或未附带法律协议的拉取请求。这表明SQLite正积极规范AI代理对其开源项目的参与和贡献方式，以维护项目秩序和代码质量。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Package managers that package package managers",
+    "title_cn": "包管理器的包管理器",
+    "summary_cn": "本文探讨了计算机软件生态中“包管理器”的嵌套关系，通过“brew install pip install poetry add pdm add uv tool install conda”等指令，展示了一个包管理器如何用于安装和管理另一个包管理器，突显了多层次依赖管理的现象及其在开发环境中的普遍性。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "I think Anthropic and OpenAI have found product-market fit",
+    "title_cn": "我觉得 Anthropic 和 OpenAI 已经找到了产品与市场的契合点",
+    "summary_cn": "文章指出，Anthropic据传即将迎来首次盈利。同时，有报道称企业因员工大量使用大型语言模型（LLM）而面临高昂费用。作者认为，这些现象共同表明OpenAI和Anthropic已经成功找到了产品与市场的契合点，其技术正在被市场广泛接受并产生实际价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Turning K-L divergence into a metric",
+    "title_cn": "将KL散度变为度量",
+    "summary_cn": "KL散度是衡量两个随机变量分布差异的指标，它非负，且仅在分布相同时为零。然而，KL散度不符合度量所需具备的对称性等条件。本文解释了KL散度为何不是一个严格意义上的度量，并探讨了如何通过引入Jeffreys散度等方法来解决其对称性问题，从而将其转化为一个满足所有度量性质的数学工具。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/27/jensen-shannon/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Notes on Fourier series",
+    "title_cn": "傅里叶级数笔记",
+    "summary_cn": "这篇笔记探讨了傅里叶级数这一优美的数学理论，它揭示了如何将周期函数分解为无穷多个正弦波的和。内容涵盖了傅里叶级数的基本概念、具体示例，并阐述了它在希尔伯特空间中与线性代数的联系。文章深入讲解了傅里叶级数系数的计算方法，旨在为读者提供一份清晰的学习参考。",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-fourier-series/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
+    "title_cn": "SQLAlchemy 2 实战 - 练习题解答",
+    "summary_cn": "本文是作者“SQLAlchemy 2 实战”系列课程的收官之作，集中提供了该系列所有练习题的完整解答。读者可以通过本文核对答案、巩固所学，解决在SQLAlchemy 2学习和实践中遇到的具体问题。作者在此鼓励对内容感兴趣的读者，通过其官网或亚马逊购买相关书籍，以实际行动支持作者的创作工作，感谢读者的持续关注与支持。",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Using typing in Python leads to different sorts of code",
+    "title_cn": "在 Python 中使用类型注解会导致不同风格的代码",
+    "summary_cn": "作者最近将大量没有类型注解的 Python 2 代码迁移到 Python 3。为了尝试在 GNU Emacs 中利用高度依赖类型注解的 Python LSP 服务器，作者决定实验性地给现有代码添加类型提示。这篇文章将探讨在 Python 项目中引入类型注解后，代码组织、可读性以及整体开发体验可能发生的变化与影响，分享作者在此过程中的实践与思考。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode",
+    "score": 1,
+    "angle": ""
+  }
+]
