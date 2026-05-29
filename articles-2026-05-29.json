@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "Anthropic's Valuation Soars to $965 Billion, Surpassing OpenAI",
+    "title_cn": "Anthropic估值飙升至9650亿美元，超越OpenAI成为全球最高估值AI独角兽",
+    "summary_cn": "AI创企Anthropic完成H轮650亿美元融资，投后估值达9650亿美元，超越OpenAI成为全球最高估值AI独角兽，领跑AI资本竞赛。",
+    "url": "https://www.21jingji.com/article/20260529/d13d298715875240c06126b86561f737.html",
+    "score": 10,
+    "angle": "#AI独角兽新王登基！Anthropic估值近万亿美元，OpenAI也要颤抖？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
+    "title_cn": "苹果使用iPhone 17 Pro拍摄的洛杉矶-休斯顿MLS比赛片段",
+    "summary_cn": "苹果Apple TV的MLS Wrap-Up节目近日展示了一场特殊的美国职业足球大联盟（MLS）比赛精彩片段，对阵双方是洛杉矶银河队和休斯顿迪纳摩队。这场比赛的所有画面都独家使用尚未发布的iPhone 17 Pro手机摄像机拍摄完成。观众可以通过提供的链接，选择英语并观看“完整回放”，从大约40分15秒处开始体验这一创新拍摄的赛事画面。",
+    "source": "daringfireball.net",
+    "url": "https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv",
+    "score": 9,
+    "angle": "iPhone 17 Pro实拍MLS职业赛！🤯 手机拍片真的能取代专业摄像机吗？未来摄影趋势抢先看！#iPhone17Pro #手机摄影 #苹果黑科技 #MLS #足球赛 #科技改变生活"
+  },
+  {
+    "title_en": "Anthropic Launches New Flagship AI Model Claude Opus 4.8 with Enhanced Performance",
+    "title_cn": "Anthropic发布全新旗舰AI模型Claude Opus 4.8，性能全面提升",
+    "summary_cn": "伴随巨额融资，Anthropic同步发布旗舰AI模型Claude Opus 4.8，在编程、金融分析等领域基准性能全面提升，并强调模型“诚实性”。",
+    "url": "https://www.21jingji.com/article/20260529/d13d298715875240c06126b86561f737.html",
+    "score": 9,
+    "angle": "#Claude4.8重磅发布！AI界又出神作，你的工作要被它承包了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Meta Announces Major AI-Driven Restructuring and 8,000 Layoffs",
+    "title_cn": "Meta宣布大规模AI驱动重组并裁员8000人",
+    "summary_cn": "Meta启动约8000人裁员，同时将7000名员工调往AI新部门，全面围绕AI重塑组织架构，加速向AI公司转型。",
+    "url": "https://www.phoenixzjs.com/finance/news/ai/2026/0524/505307.shtml",
+    "score": 9,
+    "angle": "#Meta大裁员背后：不是“砍人”，是小扎要用AI重塑公司！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "llm-anthropic 0.25.1",
+    "title_cn": "llm-anthropic 0.25.1 版本发布",
+    "summary_cn": "llm-anthropic 0.25.1 版本已正式发布。此次更新引入了强大的 Claude Opus 4.8 全新模型，显著提升了AI的处理能力。此外，针对已启用该功能的组织账户，新版本还增加了 `-o fast 1` 选项，支持 Claude 模型的“快速模式”，旨在帮助用户更高效地完成任务。这次升级旨在为用户提供更先进、更快速的AI功能体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "score": 8,
+    "angle": "** \"AI界王炸！Claude Opus 4.8重磅发布，你的学习工作效率要坐火箭了！🚀\""
+  },
+  {
+    "title_en": "It's hard to justify buying a Framework 12",
+    "title_cn": "难以证明购买 Framework 12 的合理性",
+    "summary_cn": "这篇文章探讨了为高中毕业生选择笔记本电脑时，性价比是最重要的考量因素。作者指出，苹果的“MacBook Neo”出乎意料地在“性能好且价格实惠”的笔记本类别中脱颖而出，成为最具性价比的选择。在此背景下，文章认为购买 Framework 12 的理由变得难以站住脚，暗示 Framework 12 在价值竞争中可能无法与 MacBook Neo 抗衡。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "score": 8,
+    "angle": "苹果新机竟成性价比之王？！**"
+  },
+  {
+    "title_en": "Fireworks AI Valuation Reaches $15 Billion, Annual Revenue Hits $315M",
+    "title_cn": "华人团队Fireworks AI估值飙升至150亿美元，年收入达3.15亿美元",
+    "summary_cn": "华人团队创办的AI推理平台Fireworks AI正以150亿美元估值洽谈新一轮融资，不到两年估值暴涨27倍，年化收入达3.15亿美元。",
+    "url": "https://www.infosalons.com.cn/news/detail/504505",
+    "score": 8,
+    "angle": "#华人AI创业神话！Fireworks AI靠“卖水”冲上150亿美金估值！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's Supreme People's Court to Refine Judicial Rules for AI-Generated Content",
+    "title_cn": "最高法：“十五五”期间将完善AI生成物等方面裁判规则",
+    "summary_cn": "最高人民法院表示，“十五五”期间将完善数据权属、AI生成物等方面的裁判规则，依法妥善审理涉人工智能案件，助力完善数据要素基础制度体系。",
+    "url": "https://www.yicai.com/news/101804246.html",
+    "score": 8,
+    "angle": "#AI内容要立法了！最高法出手规范AI生成物，你的作品受保护吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google Launches Deep Research AI Agents Based on Gemini 3.1 Pro",
+    "title_cn": "谷歌推出基于Gemini 3.1 Pro的Deep Research AI智能体",
+    "summary_cn": "谷歌深夜宣布重大更新，推出两款基于Gemini 3.1 Pro模型构建的新一代自主研究智能体Deep Research，提升AI编程和研究能力。",
+    "url": "https://www.jiqizhixin.com/articles/2026-05-28-5",
+    "score": 8,
+    "angle": "#Google放大招！Gemini 3.1 Pro驱动AI研究员，解放你的双手！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Knowing about things is cheaper than knowing things",
+    "title_cn": "知道如何获取知识比拥有知识更划算",
+    "summary_cn": "本文作者因准备工作滞后而写作简短。起因是一位领英网红声称数学与编程无关，这激怒了作者。作者随即撰文反驳，强调数学对编程的必要性（例如算术知识），并发现“愤怒”是强大的写作动力。这次经历促使作者开始思考“所有程序员都能从中受益……”这背后深层次的知识获取与掌握的差异。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/",
+    "score": 7,
+    "angle": "**【职场真相】程序员不学数学也能高薪？大错特错！从“知其然”到“知其所以然”，看你的知识效率有多高！**"
+  },
+  {
+    "title_en": "Douyin's AI Fact-Checking Model Reduces Rumor Viewership by 62%",
+    "title_cn": "抖音AI求真大模型助力谣言治理，谣言平均浏览量下降62%",
+    "summary_cn": "抖音公布AI求真大模型治理谣言一年成果：谣言被处置时平均浏览量下降62%，准确率达95%，实现从“人找谣言”到“模型主动出击”。",
+    "url": "https://www.bjd.com.cn/5b165600a010550e66a01059f0000001/2026/05/29/1716946626500A4004071.shtml",
+    "score": 7,
+    "angle": "#抖音AI辟谣黑科技！谣言一看秒辨真伪，网络环境更清朗！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "What's going on with Gemini?",
+    "title_cn": "Gemini究竟怎么了？",
+    "summary_cn": "谷歌I/O大会的Gemini 3.5 Flash虽快但编码能力一般且成本高。文章分析其更适合谷歌内部模型定位，利用TPU优势弥补其在编码智能体方面的真实弱点。",
+    "source": "martinalderson.com",
+    "url": "https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Anthropic's run-rate revenue hits $47 billion",
+    "title_cn": "Anthropic 年化收入达 470 亿美元",
+    "summary_cn": "人工智能公司Anthropic在其最新的Series H融资公告中披露，其年化收入已于本月早些时候突破470亿美元。这一显著增长主要归因于自2月份Series G融资以来，全球企业客户对其产品的持续采用。Anthropic此前也有在发布公告时，分享其年化收入的惯例。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+    "title_cn": "“一项适度但显著的改进”",
+    "summary_cn": "Anthropic近日发布了其最新AI模型Claude Opus 4.8。引人注目的是，官方在发布公告中对其性能的描述是“一项适度但显著的改进”，并透露正在开发成本更低但能力相似的模型。作者对此表示赞赏，认为在AI领域，这种诚实且不夸大的描述令人耳目一新。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Why people say CRTs don’t have pixels",
+    "title_cn": "为什么人们说CRT没有像素",
+    "summary_cn": "许多人认为CRT显示器没有像素。作者指出，这种说法是不准确的，并强调早在1980年代CRT技术盛行时，像素的概念就已经被广泛讨论。文章将详细解释为何CRT显示器实际上拥有像素，并纠正这一技术上的认知偏差，帮助读者更好地理解显示技术的基础知识。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss&utm_medium=rss&utm_campaign=why-people-say-crts-dont-have-pixels",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette 1.0a31",
+    "title_cn": "Datasette 1.0a31",
+    "summary_cn": "Datasette 发布了其 1.0a31 版本，这是一个重要的 Alpha 版本更新，引入了两项主要功能。新版本允许具有相应权限的用户直接对数据库执行写入查询，从而增强了数据管理能力。此外，用户现在可以保存查询（以前称为“预设查询”），并且可以选择私密保存或共享给 Datasette 实例中的其他成员使用。这显著提升了用户与数据库交互的灵活性和协作性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "markdown-svg-renderer",
+    "title_cn": "Markdown-SVG渲染器",
+    "summary_cn": "这是一款名为markdown-svg-renderer的定制Markdown渲染工具。它最大的特点是对SVG代码块进行特殊处理，不仅能将代码渲染成可视化图像，还贴心地提供了代码视图切换功能。用户可以直接粘贴Markdown内容，或通过URL导入支持CORS的Markdown文件或Gist进行渲染，极大地提升了SVG代码在Markdown中的展示与阅读体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The UK Government's Low Value Purchase System is a Waste of Time",
+    "title_cn": "英国政府的低价值采购系统纯属浪费时间",
+    "summary_cn": "对于小企业而言，向英国政府等大型机构供货流程复杂且繁琐。为简化小额采购，英国政府推出了RM6237低价值采购系统，旨在允许部门在特定金额阈值下直接联系注册供应商。然而，文章标题明确指出，该系统实际上并未达到其简化目标，反而被认为纯属浪费时间，暗示其操作效率低下，未能有效减轻企业负担。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The Go language server can do some impressive code navigation",
+    "title_cn": "Go 语言服务器具备令人惊叹的代码导航能力",
+    "summary_cn": "作者近期深入研究 Go runtime 在 64 位 x86 Linux 上处理 Unix 信号的方式。为了更好地导航 Go runtime 的代码，作者选择使用了标准的 Go 语言服务器 gopls。在实际使用过程中，作者对 gopls 提供的代码导航功能之强大和出色感到非常惊喜和印象深刻，它极大地便利了对复杂底层代码的理解和追踪。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Online (one-pass) algorithms",
+    "title_cn": "在线（一遍式）算法",
+    "summary_cn": "通常，这需要先算出均值，再进行第二次遍历来计算每个点到均值的平方差。然而，在线（一遍式）算法允许在仅一次遍历数据的情况下，高效地完成这类计算。这意味着即使面对海量数据，也能实时、节省资源地得出统计结果，揭示了数据处理的巧妙优化。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "DR DOS: Revenge of CP/M",
+    "title_cn": "CP/M 复仇记",
+    "summary_cn": "DR DOS是1980年代末至1990年代初流行的MS DOS第三方克隆系统。它于1988年5月28日首次发布，但其1976年的版权日期暗示了其更深层的历史渊源，这使得它在当时获得了不错的小众市场追随者。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/dr-dos-revenge-of-cp-m/?utm_source=rss&utm_medium=rss&utm_campaign=dr-dos-revenge-of-cp-m",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Composer’s dependency policies",
+    "title_cn": "Composer的依赖管理策略",
+    "summary_cn": "这篇文章深入探讨了Composer的依赖管理策略，并提出了一个创新性的概念，即“像uBlock Origin一样管理Composer安装”。其核心思想是，在PHP项目安装或更新依赖时，如何有效过滤和屏蔽掉不必要的、臃肿的或潜在问题的包，从而实现更精简、更高效、更纯净的依赖管理。就像uBlock Origin清理网页内容一样，这个概念旨在赋予开发者更精细的控制权，避免项目依赖的“膨胀”和资源浪费。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/05/29/composer-dependency-policies.html",
+    "score": 1,
+    "angle": ""
+  }
+]
