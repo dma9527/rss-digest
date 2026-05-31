@@ -1,0 +1,209 @@
+[
+  {
+    "title_en": "OpenAI Releases GPT-4o, an Omnimodel for Natural Human-AI Interaction",
+    "title_cn": "OpenAI发布GPT-4o：实现更自然的通用人机交互",
+    "summary_cn": "OpenAI于5月13日发布了全新的多模态模型GPT-4o，该模型能够原生处理文本、音频和图像，实现更自然、实时的语音对话和情感理解，并免费提供给所有ChatGPT用户。",
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "score": 10,
+    "angle": "炸裂！OpenAI GPT-4o免费开放，能听会看，AI终于要和我们无缝交流了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "I Am Retiring from Tech to Live Offline",
+    "title_cn": "我将从科技界退休，过上离线生活",
+    "summary_cn": "本文讲述了Chad Whitacre主动选择从科技行业“退休”，并决定过上完全离线的生活。他强调，这并非出于对AI的恐惧，而是他深思熟虑后采取的具体行动，包括彻底退出开源社区。这封用打字机写就并扫描的信，标志着他告别数字世界，追求一种更远离喧嚣的线下生活方式。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "score": 9,
+    "angle": "数字时代，你敢这样‘断舍离’吗？是逃避还是觉醒？”** 这个角度可以引发用户对数字疲劳、信息过载的共鸣，并讨论“数字排毒”的必要性与可行性，引导大家思考科技与生活的边界。"
+  },
+  {
+    "title_en": "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
+    "title_cn": "Meta 将为 Instagram、Facebook 和 WhatsApp 推出订阅服务，提供“有趣功能”",
+    "summary_cn": "Meta 正面向全球用户推广其核心应用的付费订阅计划，包括 Instagram Plus 和 Facebook Plus，每月订阅费为 3.99 美元，旨在提供“有趣功能”。此举标志着Meta在消费者订阅领域进一步发力。此外，Meta还在测试针对商家、创作者和Meta AI用户的全新订阅服务，以探索多元化的盈利模式。",
+    "source": "daringfireball.net",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "score": 9,
+    "angle": "Instagram、Facebook要收月费了！每月$3.99，你愿意为这些“有趣功能”买单吗？快来讨论！"
+  },
+  {
+    "title_en": "Elon Musk's xAI Raises $6B, Valuing Company at $24B",
+    "title_cn": "埃隆·马斯克的xAI完成60亿美元融资，估值达240亿美元",
+    "summary_cn": "埃隆·马斯克旗下的人工智能公司xAI宣布完成60亿美元B轮融资，投后估值达到240亿美元。这笔资金将用于将xAI的首批产品推向市场，建设先进基础设施，并加速未来技术的研发。",
+    "url": "https://thetechoutlook.com/news/tech/ai/xai-raises-6b-in-series-b-funding-to-accelerate-development-of-truthful-and-beneficial-ai/",
+    "score": 9,
+    "angle": "科技巨头再获巨额融资，AI军备竞赛升级，你看好谁能脱颖而出？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Microsoft ushers in new era of Windows with 'Copilot+' PCs",
+    "title_cn": "微软推出“Copilot+ PC”，开启Windows AI电脑新时代",
+    "summary_cn": "微软于5月20日宣布推出全新类别的Windows AI电脑——“Copilot+ PC”。这些PC配备强大的NPU，可提供超过40 TOPS的性能，并支持创新的AI功能，标志着Windows平台数十年来最重大的变革。",
+    "url": "https://www.windowscentral.com/microsoft/microsoft-ushers-in-new-era-of-windows-with-copilot-pcs-the-true-next-gen-ai-laptops-are-here",
+    "score": 9,
+    "angle": "AI PC时代真的来了！微软Copilot+ PC能否颠覆你的工作学习方式？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google I/O 2024: News and announcements",
+    "title_cn": "谷歌I/O 2024大会：AI全面引领的最新发布",
+    "summary_cn": "谷歌在2024年I/O开发者大会上发布了多项AI产品和功能，包括Gemini模型更新、Project Astra、AI Agents、新版AI搜索（AI Overviews）以及视频和图像生成工具Veo和Imagen 3，全面展示了其AI优先战略。",
+    "url": "https://blog.google/technology/developers/google-io-2024-news-announcements/",
+    "score": 9,
+    "angle": "谷歌I/O大会重磅发布！Gemini、AI搜索大升级，你的数字生活要变天了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "How we contain Claude across products",
+    "title_cn": "我们如何在多产品中限制Claude",
+    "summary_cn": "这篇文章讨论了沙盒产品文档不足的问题。AI公司Anthropic发布了一份详细概述，介绍了他们如何在Claude.ai、Claude Code等多个产品中，运用各种沙盒技术隔离和限制AI模型Claude，以确保其安全性和可靠性。这为理解AI系统安全防护机制提供了深入见解。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "score": 8,
+    "angle": "你的AI安全吗？揭秘Anthropic如何打造AI“防护罩”，让Claude乖乖听话！"
+  },
+  {
+    "title_en": "Who are the actors in the UK's 2015 passport?",
+    "title_cn": "英国2015年护照中的人物是谁？",
+    "summary_cn": "2015年英国新护照设计因纪念人物性别比例失衡而引争议。政府被指控性别歧视，护照上仅提及两位女性，而男性多达七位，引发媒体负面报道。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/",
+    "score": 8,
+    "angle": "英国2015年护照设计引爆性别争议？！揭秘9位纪念人物背后的故事，这波操作你打几分？"
+  },
+  {
+    "title_en": "Anthropic launches a free Claude iOS app and Team, its first enterprise plan",
+    "title_cn": "Anthropic推出免费Claude iOS应用及首个企业级Team计划",
+    "summary_cn": "人工智能公司Anthropic于5月1日发布了免费的Claude iOS应用程序，并推出了首个面向企业客户的Team订阅计划。该计划旨在扩大Claude在企业市场的应用。",
+    "url": "https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/",
+    "score": 8,
+    "angle": "Claude AI手机应用上线！企业版Team计划助力工作效率飙升？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI helped a musician with Parkinson's finish his new album when he could no longer play guitar",
+    "title_cn": "AI助力帕金森症音乐家完成新专辑创作",
+    "summary_cn": "伦敦创作歌手Samuel Smith在帕金森症导致其无法弹吉他后，借助AI工具完成了他的新专辑。他通过AI音乐生成平台将哼唱的旋律转化为小样，展现了AI在医疗和艺术应用中的潜力。",
+    "url": "https://apnews.com/article/ai-parkinsons-music-songwriter-samuel-smith-5ee1f8d42d6342c8849b2ae14d48557b",
+    "score": 8,
+    "angle": "暖心科技！AI让帕金森音乐家重拾创作激情，用音乐打破疾病束缚！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Safari to get an AI boost in iOS 18, macOS 15 with smarter search, web page 'eraser'",
+    "title_cn": "苹果将在iOS 18和macOS 15中推出AI增强型Safari浏览器",
+    "summary_cn": "苹果计划在即将发布的iOS 18和macOS 15中推出AI增强型Safari浏览器。新版Safari 18将包含“智能搜索”功能，利用AI进行网页内容摘要和关键信息识别，以及“网页橡皮擦”等新工具。",
+    "url": "https://www.macworld.com/article/2290483/safari-ai-boost-ios-18-macos-15-smarter-search-web-page-eraser.html",
+    "score": 8,
+    "angle": "苹果也要全面AI化？iOS 18新Safari浏览器曝光，智能搜索和网页“橡皮擦”引期待！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Daniel Jalkut",
+    "title_cn": "引用丹尼尔·贾尔库特",
+    "summary_cn": "这段内容引用了丹尼尔·贾尔库特对人工智能（AI）的独特看法。他认为，当前社会对AI的态度普遍存在两极分化，无论是坚决反对AI的人，还是盲目支持AI的人，其立场都显得过于极端。贾尔库特隐含地呼吁人们采取一种更为中立和客观的态度来审视AI的发展及其广泛影响，避免陷入非此即彼的偏激观点。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "score": 7,
+    "angle": "支持者和反对者都太极端！你被哪种观点“冒犯”过？引发对AI时代中立态度的深思。"
+  },
+  {
+    "title_en": "Daniel Jalkut on AI",
+    "title_cn": "丹尼尔·贾尔库特谈AI",
+    "summary_cn": "本文引用了丹尼尔·贾尔库特在多个社交媒体平台对人工智能的看法。他指出，当前人们对AI的态度普遍存在两极分化，无论是支持者还是反对者，其立场都显得过于极端。文章作者完全赞同这一观点，认为这揭示了社会在面对AI发展时，普遍缺乏中立和客观视角的现象，呼吁大家能以更平衡的眼光看待AI的利弊。（87字）",
+    "source": "daringfireball.net",
+    "url": "https://mastodon.social/@danielpunkass/116639318125898071",
+    "score": 7,
+    "angle": "“🤔AI争议太魔幻？大佬一句话点醒梦中人！”或“关于AI，我们是不是都太极端了？这篇短文给你答案！”"
+  },
+  {
+    "title_en": "Google Lays Off Flutter and Dart Teams Following Python Team Cuts",
+    "title_cn": "谷歌在Python团队裁员后继续裁撤Flutter和Dart团队",
+    "summary_cn": "谷歌在4月裁撤其核心Python团队后，于5月初被曝也对Flutter和Dart团队进行了裁员。此次裁员是谷歌“结构简化”的一部分，旨在重新分配资源以专注于公司的AI优先战略。",
+    "url": "https://medium.com/@mengli3399/google-lays-off-flutter-and-dart-teams-following-python-team-cuts-14ff0e64c24a",
+    "score": 7,
+    "angle": "谷歌裁员风波蔓延至Flutter和Dart团队，是AI转型阵痛还是战略失误？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Build agents, not pipelines",
+    "title_cn": "构建智能体，而非流水线",
+    "summary_cn": "管道（pipeline）模式和智能体（agent）模式。管道模式下，程序的控制流由开发者通过代码明确定义；而智能体模式则赋予LLM工具，让其自主管理程序的执行流程。文章通过“总结信息并邮件发送”的例子，阐述了这两种模式的区别，强调了选择让LLM自主决策而非僵硬的预设流程的重要性。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/build-agents-not-pipelines/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "One &udm After Another",
+    "title_cn": "接连不断的 &udm",
+    "summary_cn": "谷歌近期再次引发用户不满，这导致越来越多人开始关注并了解到了 `&udm=14` 这个特定的搜索参数。作者指出，这种现象并非偶然，或许是某种需要我们深思并认真对待的暗示或警示。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "title_cn": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+    "summary_cn": "本文探讨了如何在浏览器中运行 Python ASGI 应用，核心技术是利用 Pyodide 和 Service Worker。作者以其开发的 Datasette Lite 项目为例，展示了如何通过 Pyodide 和 WebAssembly 将 Datasette 完全部署在浏览器端。这种方法使得 Python 后端应用能够直接在用户浏览器中执行，极大地扩展了应用场景，为开发者提供了无需服务器即可运行复杂Python应用的创新解决方案。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Karen Kwok for Reuters Breakingviews",
+    "title_cn": "引述郭凯伦",
+    "summary_cn": "人工智能公司Anthropic对其“年化收入”（run-rate revenue）有着独特的两部分定义。首先，将过去28天内按使用量付费的客户销售额乘以13。其次，将每月订阅收入乘以12。最终，将这两部分计算结果相加，即得到其所定义的年化收入。这种计算方式揭示了Anthropic在评估自身业绩时，如何综合考量不同收费模式下的收入表现。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Our unusual system of \"web home directories\" for people",
+    "title_cn": "我们不寻常的个人“网络主目录”系统",
+    "summary_cn": "多伦多大学计算机系为其研究部门运营着一个历史悠久的通用网络服务器。该服务器采用传统的“/~<登录名>/”格式，为每位用户提供独立的个人主页空间。这一系统已存在多年，其早期设计中，出于安全考量，管理人员决定该网络服务器不通过NFS（网络文件系统）挂载方式提供服务，以确保用户个人网络主目录的安全性与独立性，即便这种设置在今天看来已不常见。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+    "title_cn": "寄存器交换",
+    "summary_cn": "1980年，英特尔推出了8087浮点协处理器，它将浮点运算速度提升百倍，并奠定了现代处理器浮点标准的基石。该芯片通过复杂的微代码实现了平方根、正切等精确计算功能。文章深入探讨了8087芯片内部微代码的工作原理，特别是寄存器交换这一核心机制。",
+    "source": "righto.com",
+    "url": "http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "On first looking into JAX",
+    "title_cn": "初识 JAX",
+    "summary_cn": "这首诗描绘了诗人广泛游历文学“黄金领域”的体验。他曾到访众多美好的国度与岛屿，并听闻荷马所统治的广阔诗歌世界。然而，直到他通过查普曼的译作，才真正呼吸到那种纯粹的宁静。这种深刻的领悟，令他如同凝视星空的观测者，在天际发现一颗新行星般，充满震撼与惊喜。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/05/on-first-looking-into-jax",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Ahoy, DECmate II! the little PDP-8 that could",
+    "title_cn": "瞧，DECmate II！那台小巧却不凡的PDP-8",
+    "summary_cn": "这篇文章深入探讨了数字设备公司（DEC）在1982年左右，为保持其PDP系列小型机市场竞争力所做的策略。文章指出，继将PDP-11改造为桌面微型计算机DEC Professional后，DEC并非首次尝试这种“小型化”。实际上，更早之前，他们就已对PDP-8进行了类似的“缩小处理”，将其从功能强大的小型机转型为更便携的桌面设备。这展示了DEC在个人电脑时代初期，通过改造经典架构以适应市场变化的创新尝试。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Spot checking polynomial identities",
+    "title_cn": "抽查多项式恒等式",
+    "summary_cn": "这篇文章探讨了多项式恒等式的“抽样检查”方法。核心思想是，如果一个多项式恒等式在少数几个随机选择的点上成立，那么它很有可能在所有点上都成立。文章将进一步精确阐述这一论断，并介绍其在实际中的应用，例如验证两个多项式是否相等，或者与二项式系数等概念结合使用。这种方法为验证数学恒等式提供了一种高效且实用的途径。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/",
+    "score": 1,
+    "angle": ""
+  }
+]
