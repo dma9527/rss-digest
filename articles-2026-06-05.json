@@ -1,0 +1,290 @@
+[
+  {
+    "title_en": "Anthropic Confidentially Files for IPO and Scales Most Powerful AI Model",
+    "title_cn": "Anthropic秘密提交IPO申请并扩展其最强大的AI模型",
+    "summary_cn": "Claude AI开发商Anthropic于6月1日秘密提交了IPO申请，估值高达9650亿美元，并于随后一天在15个国家/地区扩展了其最强大的模型，进一步推动其上市进程。",
+    "url": "https://www.thestreet.com/investing/ai-startup-anthropic-scales-most-powerful-ai-a-day-after-filing-to-ipo",
+    "score": 9,
+    "angle": "AI巨头Anthropic加速上市，其AI技术实力再获认可，未来发展值得关注！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Google (Alphabet) Launches Record $80 Billion Equity Financing for AI Investment",
+    "title_cn": "谷歌(Alphabet)启动创纪录的800亿美元股权融资用于AI投资",
+    "summary_cn": "Alphabet于6月4日启动了其二十多年来最大规模的800亿美元股权融资，旨在为建设支撑人工智能基础设施的庞大资金需求提供支持，标志着AI投资狂潮的升级。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0ms13fqMfGopEPRoQh0fAih8pdbxi2ISdB73l2nLNFtWqYMAmT8pMSCmSeotcZSFiPms2vtWnFpi1ACSefq1-NLhyLbZrN8Vk2-69Dkr1uNPxeGGOteb6OnkUeoKF1Xma",
+    "score": 9,
+    "angle": "谷歌豪掷800亿美元ALL IN AI，未来科技格局或将重塑！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Emanuel Maiberg, 404 Media",
+    "title_cn": "引用伊曼纽尔·迈伯格，404 Media",
+    "summary_cn": "本文揭示了Google内部对AI产品表现的不满，员工们通过分享迷因吐槽AI的不足。更值得关注的是，在相关报道发布后，Google发言人请求修改声明，特意删除了“保持人工干预至关重要”这一表述。此举暗示Google可能正试图淡化其AI产品中人类监督的重要性，引发外界对其AI发展策略和可靠性的深思。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "score": 8,
+    "angle": "Google AI崩了？内部员工狂吐槽，官方急删“人工干预”声明，人类到底该不该管AI？🤖 快来聊聊你的Google AI使用体验！"
+  },
+  {
+    "title_en": "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
+    "title_cn": "微软与OpenAI决裂——如今它们准备开战",
+    "summary_cn": "在微软Build开发者大会上，气氛被形容为“刚离婚的单身人士发布诱惑照片”，暗示公司与OpenAI“分手”后正以全新姿态出发。微软CEO纳德拉强调“巨大变革”和“新机遇”，表明微软正摆脱过去的伙伴关系，准备在AI领域独立竞争。文章指出，尽管曾是紧密盟友，微软现在可能准备与OpenAI直接展开竞争，开启新的篇章。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ",
+    "score": 8,
+    "angle": "AI圈年度大戏！微软和OpenAI真的“分手”了？从亲密伙伴到“准备开战”，AI格局要变天了！速看这场科技巨头的“爱恨情仇”对我们有何影响？"
+  },
+  {
+    "title_en": "Remember When Chrome Went Bad on MacOS?",
+    "title_cn": "Chrome在macOS上出问题还记得吗？",
+    "summary_cn": "Google Chrome在macOS上安装的Keystone更新器，被发现与系统进程WindowServer的CPU异常高占用存在关联。这意味着即便Chrome浏览器没有运行，电脑也会变得异常缓慢。这个问题严重影响了用户体验，让许多Mac用户感到困扰，迫使他们寻找解决方案。",
+    "source": "daringfireball.net",
+    "url": "https://chromeisbad.com/",
+    "score": 8,
+    "angle": "Mac用户注意！你的电脑变慢，罪魁祸首竟是它？揭秘Chrome曾让macOS卡顿的幕后黑手！"
+  },
+  {
+    "title_en": "Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous",
+    "title_cn": "原生、独具谷歌特色，却又令人恼火地自以为是",
+    "summary_cn": "这篇文章评测了谷歌原生Gemini Mac应用，作者试用后认为它“还行”，比Claude的Electron应用好，但整体表现也“不算太好”。作者仍倾向于使用ChatGPT的Mac客户端，认为它是目前大模型应用中体验最好的，即便它本身也非完美。评论者特别指出，谷歌这款应用最令人反感的是其“自以为是”的态度。",
+    "source": "daringfireball.net",
+    "url": "https://gemini.google/mac/",
+    "score": 8,
+    "angle": "原生应用，却被批“自以为是”？对比ChatGPT，Mac用户该选谁！"
+  },
+  {
+    "title_en": "AI-indecision is a recursive trap. Don't get stuck.",
+    "title_cn": "AI犹豫不决是一个递归陷阱，别深陷其中。",
+    "summary_cn": "意志总是追随智力。布里丹认为，一旦向一个理性的生物展示何为更大的利益，它就一定会毫不犹豫地选择那个更大的利益，因为理性会引导其做出最优决策。",
+    "source": "joanwestenberg.com",
+    "url": "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/",
+    "score": 8,
+    "angle": "AI也会纠结？揭秘“布里丹驴子”如何让AI陷入死循环！我们普通人如何避开决策陷阱？（融合经典哲学与前沿AI，探讨AI的“选择困难症”，并引申到个人生活中的决策困境及应对策略。）"
+  },
+  {
+    "title_en": "Alex Imas and Phil Trammell – What remains scarce after AGI?",
+    "title_cn": "Alex Imas 和 Phil Trammell – AGI 之后什么依然稀缺？",
+    "summary_cn": "这篇文章探讨了在通用人工智能（AGI）时代，哪些资源和能力依然会保持稀缺性。当AGI能让机器人快速复制和扩展时，物质产品可能变得极其丰富。然而，诸如芭蕾舞演员这类需要独特人类技能、艺术天赋或稀缺自然资源的事物，其数量不会随AGI进步而增加。文章旨在引发思考，在高度自动化未来，真正的价值和稀缺性将体现在何处。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell",
+    "score": 8,
+    "angle": "AGI后，哪些能力才是你的「财富密码」？💎芭蕾舞者给我们的启示！普通人也能培养的稀缺价值！"
+  },
+  {
+    "title_en": "AI Becomes Leading Reason for US Tech Layoffs in May, Reaching Two-Year High",
+    "title_cn": "AI成为5月份美国科技裁员首要原因，裁员数量创两年新高",
+    "summary_cn": "据Challenger, Gray & Christmas于6月4日发布的报告，5月份美国雇主宣布裁员97006人，其中AI首次成为裁员的最主要原因，科技行业裁员38242人，为近两年单月最高。",
+    "url": "https://www.pymnts.com/ai/2026/tech-layoffs-hit-2-year-high-as-companies-embrace-ai/",
+    "score": 8,
+    "angle": "AI取代人力？美国科技行业裁员潮来袭，你的工作会被AI抢走吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Baiyao Technology Completes Multi-Million Yuan Funding for AI Virtual Cell Platform",
+    "title_cn": "百曜科技完成数千万元融资，加速AI虚拟细胞平台产业化",
+    "summary_cn": "AI虚拟细胞平台公司百曜科技于6月5日宣布完成数千万元新一轮融资，由国家级国有资本运营平台国新创投领投，将用于开发新一代虚拟细胞算法模型和加速产业落地，助力生命科学突破。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC5QAHQ0repNNyHxtN-L6FwiUEibaHT5qvPNLwXHFHS4erYvshwADHFvTYc-q-8XRNGOgO21PmzKM93GWFkAQJGr1PQsZDXJ7LCi3Hvw5rc5hFLOnonhWWCVMDZX9u8Lc8steLW3UBPAdQniyp7HhM",
+    "score": 8,
+    "angle": "中国AI医疗新突破！虚拟细胞平台获国家队投资，未来医学充满想象！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Lila Sciences Raises $2.0 Billion for AI-Driven Lab Automation",
+    "title_cn": "Lila Sciences获20亿美元融资，推动AI驱动的实验室自动化",
+    "summary_cn": "Lila Sciences在最近一轮融资中获得了20亿美元巨额资金，用于其AI驱动的生物研究和发现实验室自动化平台，显示了AI在生命科学领域的巨大潜力。",
+    "url": "https://startuphub.ai/ai-funding-rounds/",
+    "score": 8,
+    "angle": "20亿美金砸向AI实验室！生物科研将迎智能革命，加速新药研发！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "‘The Insider’",
+    "title_cn": "惊爆内幕",
+    "summary_cn": "这篇文章推荐重看迈克尔·曼1999年的电影《惊爆内幕》。该片讲述一位研究化学家因在“60分钟”节目中揭露烟草业丑闻而遭受职业和人身攻击。作者认为，这部电影在当前背景下仍具深远意义，并提供当年节目的原视频链接。",
+    "source": "daringfireball.net",
+    "url": "https://letterboxd.com/film/the-insider/",
+    "score": 7,
+    "angle": "揭秘商业巨头背后的惊天丑闻！这部老电影告诉你，真相远比你想象的更残酷。普通人如何对抗体制？媒体的力量究竟有多大？一场关于勇气、良知与媒体正义的深刻探讨，看完直呼过瘾又心惊！"
+  },
+  {
+    "title_en": "Lingon and Lingon Pro 10",
+    "title_cn": "Lingon 和 Lingon Pro 10",
+    "summary_cn": "Lingon 和 Lingon Pro 10 是一款macOS自动化调度工具，能让用户轻松安排应用、脚本、快捷方式和命令的运行。它提供直观友好的用户界面，无需使用终端，即可在特定时间、间隔或登录时运行任务，并支持可选通知。这款工具旨在帮助用户简单高效地管理和自动化日常操作，让Mac用户轻松提升工作效率。",
+    "source": "daringfireball.net",
+    "url": "https://www.peterborgapps.com/lingon/",
+    "score": 7,
+    "angle": "切入角度可以围绕“Mac效率提升”、“小白友好自动化”展开。例如，制作一个“Mac效率神器！无需代码，普通人也能玩转的自动化工具Lingon Pro 10”的教程。内容可演示如何利用它自动清理垃圾、定时启动应用、或执行特定脚本，强调其友好的UI和告别终端的便捷性，吸引想提升Mac使用效率但又怕复杂操作的用户。"
+  },
+  {
+    "title_en": "The Giant's Cup",
+    "title_cn": "巨人杯",
+    "summary_cn": "本文以“巨人杯”为名，聚焦于在跑步小径上展开的种种故事与体验。它可能探讨了跑者们在户外跑步时，所感受到的自然魅力、挑战极限的激情，以及沿途发现的独特风景和感悟。",
+    "source": "herman.bearblog.dev",
+    "url": "https://herman.bearblog.dev/the-giants-cup/",
+    "score": 7,
+    "angle": "我跑过最野的越野跑道！”为标题，分享在“巨人杯”这条跑步小径上的独特越野跑体验。内容可侧重展现沿途的壮丽风光、跑步挑战带来的成就感，以及户外运动的放松与乐趣，辅以高颜值图片和视频，吸引户外、运动和旅行爱好者。"
+  },
+  {
+    "title_en": "GitLab Announces Layoffs, Reallocates Resources Towards AI Strategy",
+    "title_cn": "GitLab宣布裁员，将资源重新分配至AI战略",
+    "summary_cn": "GitLab于6月5日确认，将削减其全球业务足迹并进行裁员，以将其资源重新分配到AI战略上，进一步体现了科技公司为适应AI时代而进行的重组。",
+    "url": "https://www.thestreet.com/technology/github-rival-shuts-offices-cuts-100s-of-workers",
+    "score": 7,
+    "angle": "AI转型引发企业重组！GitLab裁员求变，AI时代职场生存法则是什么？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quobly Secures $115 Million Series A for Advanced Silicon-Based Quantum Computing Hardware",
+    "title_cn": "Quobly完成1.15亿美元A轮融资，开发先进硅基量子计算硬件",
+    "summary_cn": "Quobly于6月4日宣布完成1.15亿美元A轮融资，用于开发可扩展、可制造的硅基量子计算硬件，为AI等前沿技术提供更强大的计算基础。",
+    "url": "https://startuphub.ai/ai-funding-rounds/",
+    "score": 7,
+    "angle": "量子计算再迎巨额融资！AI算力未来可期，科技探索永无止境！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+    "title_cn": "AI狂热者与时间赛跑，AI怀疑论者与熵赛跑",
+    "summary_cn": "这篇文章巧妙地描绘了AI狂热者与AI怀疑论者之间的复杂动态。尽管双方都致力于开发卓越的软件，且常在同一团队中协作，但他们的视角截然不同。AI狂热者深信AI正展现出真实且颠覆性的能力飞跃，与时间赛跑以抓住机遇；而AI怀疑论者则着眼于管理AI系统固有的复杂性、不确定性及潜在的衰退，仿佛在与熵赛跑，力求系统稳定与可持续。这种冲突与协作并存的局面，反映了AI发展中的内在张力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "How Long Does It Take to Plan a Bridge?",
+    "title_cn": "规划一座桥梁需要多久？",
+    "summary_cn": "许多人，包括作者本人，都注意到美国的基础设施建设（如桥梁规划）所需时间似乎比过去长得多，这一现象引发了广泛关注。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "The Latin of Linux",
+    "title_cn": "Linux的拉丁语",
+    "summary_cn": "这篇文章探讨了拉丁语的重要性及其在现代语言中的影响。虽然英语并非源自拉丁语，但其词汇量中约有60%直接或间接来源于拉丁语，通过法语的媒介。学习拉丁语能帮助人们理解许多事物。文章以“Linux的拉丁语”为题，暗示将进一步深入探讨拉丁语在Linux操作系统及相关技术领域中的具体体现和作用，揭示其在技术术语中的渊源。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Andreas Kling",
+    "title_cn": "引用安德烈亚斯·克林",
+    "summary_cn": "Ladybird项目宣布将不再接受公开的Pull Request。项目方指出，过去代码贡献量常被视为开发者善意的体现，但这一假设已不再成立。Ladybird正逐步发展成为面向真实用户的浏览器，因此，无论代码来源如何，其进入浏览器后的责任归属变得至关重要。此举旨在确保代码质量和项目稳定性，以更好地服务用户。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "First Commodore PET sold, June 5, 1977",
+    "title_cn": "首台Commodore PET电脑售出，1977年6月5日",
+    "summary_cn": "1977年6月5日，康懋达公司在夏季消费电子展（CES）上展示了其PET 2001个人电脑。这款电脑的原型机曾于同年1月亮相。据Chuck Peddle透露，康懋达正是在这天接到了PET 2001的首个经销商订单，标志着个人电脑商业化的开端，对个人计算历史具有重要意义。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/first-commodore-pet-sold-june-5-1977/?utm_source=rss&utm_medium=rss&utm_campaign=first-commodore-pet-sold-june-5-1977",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "I tested every IP KVM in my Homelab",
+    "title_cn": "我测评了所有家用IP KVM",
+    "summary_cn": "自2017年PiKVM问世以来，IP KVM市场迎来爆发式增长。作者详细测评了市面上几乎所有IP KVM设备，旨在探讨它们的核心用途及独特价值。文章将分析IP KVM如何超越传统的局域网远程桌面、屏幕共享或VNC等工具，特别是在需要从硬件层面进行远程控制的场景中，展现其不可替代的优势。本测评将帮助读者理解何时以及为何选择IP KVM。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The Talk Show Live From WWDC 2026: Tuesday in San Jose",
+    "title_cn": "圣何塞周二场",
+    "summary_cn": "《The Talk Show》宣布，其年度WWDC现场特别节目将于2026年6月9日（周二）晚7点（太平洋时间）在圣何塞的加州剧院举行，门票售价45美元。观众可提前一小时入场，与其他Daring Fireball读者和听众交流，享受独特的现场前奏。这是一个与WWDC同步的年度盛会，强烈建议对苹果和技术感兴趣的粉丝们把握机会，亲身体验这场专属的脱口秀互动。",
+    "source": "daringfireball.net",
+    "url": "https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Mr. Bessel’s eponymous functions",
+    "title_cn": "贝塞尔先生的命名函数",
+    "summary_cn": "本文探讨了在评估梯形法则等数值积分方法的效率时，如何确定积分的精确值以进行比较。作者指出，若使用Mathematica计算精确积分，结果会以贝塞尔函数J1的形式呈现，这对于读者而言可能是一个意想不到的“魔术”。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+    "title_cn": "什么该缓存，什么不该缓存，以及内容协商为何最终会背叛你",
+    "summary_cn": "本文探讨了为 Mastodon 反向代理实现积极缓存的策略。文章将分析哪些内容适合缓存以提升性能，哪些不应缓存以避免问题。同时，还将揭示内容协商机制在激进缓存中可能带来的局限性，解释其为何最终会“背叛”你的缓存策略。",
+    "source": "it-notes.dragas.net",
+    "url": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Some People Rooted for The Empire in ‘Star Wars’, Too",
+    "title_cn": "在《星球大战》中，也有人支持帝国",
+    "summary_cn": "本文引用Ed Morrissey的观点，认为斯科特·佩利因傲慢自大，忘记了“谁有钱谁定规则”的黄金法则而自毁前程。佩利本可以选择体面辞职，却采取了不明智且自负的方式。作者似乎还提及巴里·韦斯在管理CBS新闻方面表现出色。这段内容主要是对媒体界人事变动的评论，强调了职场权力与规则的重要性，与标题所指的《星球大战》内容完全不符。",
+    "source": "daringfireball.net",
+    "url": "https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "The Emacs packages that I use (as of June 2026)",
+    "title_cn": "我使用的 Emacs 软件包（截至2026年6月）",
+    "summary_cn": "作者表示其Emacs配置在经历一系列调整后已趋于稳定，因此是时候更新他目前使用的Emacs软件包列表了。这篇文章旨在记录作者个人Emacs配置的演变过程，方便未来回顾并观察其变化。尽管自上次更新以来，许多软件包保持不变，但作者仍希望通过定期更新来追踪和反思自己的使用习惯。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Giving your Go apps Tigris superpowers",
+    "title_cn": "赋予你的Go应用Tigris超能力",
+    "summary_cn": "Tigris是一个S3兼容的服务，现有AWS SDK可用于大部分操作。然而，Tigris的独有高级功能（如存储桶分叉、快照、对象重命名等）无法直接通过AWS SDK访问，需要复杂的变通。为解决此问题，我们开发了一款Go语言SDK。该SDK包含`storage`包，它不仅能直接替代标准的S3客户端，还首次提供对Tigris特有操作的一流方法支持，让Go应用能充分利用Tigris的超能力。",
+    "source": "xeiaso.net",
+    "url": "https://www.tigrisdata.com/blog/storage-sdk-go/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "IPv6 zones in URLs are a mistake",
+    "title_cn": "URL中的IPv6区域是错误的",
+    "summary_cn": "本文标题指出URL中包含IPv6区域是一个错误。作者通过强烈的警示语，劝告读者应尽快避免深入了解这一复杂概念，以免遭受“知识的诅咒”。文章暗示，一旦涉足并理解URL中IPv6区域的运作机制，人们就会发现其固有的问题和缺陷，并陷入难以摆脱的困扰。因此，作者呼吁人们趁早规避这一技术领域，以避免不必要的麻烦和复杂性。",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Integrating smooth periodic functions",
+    "title_cn": "光滑周期函数的积分",
+    "summary_cn": "近期多篇文章探讨了函数 f(x) = cos(sin(x) + x)。本文将从一个新颖的角度审视这个函数。作为一个光滑且周期为 2π 的函数，作者指出，基于其特性，梯形法则在计算其积分时具有极高的效率。文章深入阐述了这一点，并提及了梯形法则在一般情况下的误差表现。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Using Safetensors with Flax",
+    "title_cn": "在Flax中使用Safetensors",
+    "summary_cn": "作者正在将自己的PyTorch大型语言模型（LLM）代码移植到基于JAX的Flax框架。在这一过程中，作者希望利用Safetensors来存储模型检查点。经过一番摸索和尝试，作者最终找到了一个有效的技巧，成功解决了在Flax项目中集成Safetensors进行检查点存储的问题，并将在文中分享具体实现方法。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/06/flax-and-safetensors",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Install-script allowlists",
+    "title_cn": "安装脚本白名单",
+    "summary_cn": "本文深入探讨了各种包管理器和编程语言生态系统中安装脚本白名单（allowlist）机制的现状与实现。通过全面调研，旨在揭示不同平台如何管理和限制安装脚本的执行权限，以增强软件供应链的安全性。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/05/install-script-allowlists.html",
+    "score": 1,
+    "angle": ""
+  }
+]
