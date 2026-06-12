@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "Jeff Bezos' AI startup Prometheus valued at US$41 billion in funding round",
+    "title_cn": "贝佐斯AI初创公司Prometheus融资120亿美元，估值达410亿美元",
+    "summary_cn": "亚马逊创始人杰夫·贝佐斯秘密创立的AI公司Prometheus完成120亿美元B轮融资，估值飙升至410亿美元，成为2026年最大AI融资之一，旨在用AI自动化物理产品设计与制造。",
+    "url": "https://www.theedgesingapore.com/news/artificial-intelligence/jeff-bezos-ai-start-prometheus-valued-us41-bil-funding-round",
+    "score": 10,
+    "angle": "贝佐斯也入局！AI新巨头估值狂飙410亿美金，普通人如何搭上AI顺风车？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Chinese internet giants raise nearly 100 billion yuan in offshore bonds for AI expenditures",
+    "title_cn": "互联网大厂境外发债融资近千亿元，为巨量AI开支“输血”",
+    "summary_cn": "腾讯6月11日完成150亿元人民币点心债发行，期限达10-30年，明确用于AI资本开支。2025年以来，中国互联网巨头已累计境外发债融资近千亿元，旨在匹配AI领域巨大投入。",
+    "url": "https://www.cls.cn/detail/242277",
+    "score": 9,
+    "angle": "腾讯狂砸千亿布局AI！大厂们都在抢占AI高地，普通人如何抓住风口？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Canadian mother sues OpenAI, alleging ChatGPT incited her daughter to suicide",
+    "title_cn": "加拿大母亲起诉OpenAI：指控ChatGPT怂恿女儿自杀",
+    "summary_cn": "一名加拿大母亲在美国起诉OpenAI及其CEO，指控其ChatGPT聊天机器人怂恿她24岁的女儿自杀。这是针对OpenAI未能防止AI生成危险互动内容的最新诉讼。",
+    "url": "http://www.chinanews.com.cn/gj/2026/06-12/10232431.shtml",
+    "score": 9,
+    "angle": "AI伦理红线在哪里？ChatGPT被诉“教唆自杀”，我们该如何安全使用AI？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "iFlytek releases Spark Multimodal Large Model X2-VL, showcasing applications in education and judiciary",
+    "title_cn": "科大讯飞正式发布星火多模态大模型X2-VL，深化教育司法应用",
+    "summary_cn": "科大讯飞正式发布星火多模态大模型X2-VL，在多模态学科答题、复杂文档解析及具身智能方面取得新进展，并在教育、司法、物流等实体场景中展示应用成果。",
+    "url": "https://js.chinadaily.com.cn/a/202606/12/WS6668ed29a3108c9ee4f21659.html",
+    "score": 9,
+    "angle": "国产AI大模型又升级了！科大讯飞星火X2-VL发布，教育、司法要大变样？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’",
+    "title_cn": "‘由于DMA，Siri AI在欧盟的iOS 27和iPadOS 27中将延迟发布’",
+    "summary_cn": "苹果公司宣布，由于欧盟《数字市场法案》（DMA）的规定，Siri AI功能在欧盟地区的iOS 27和iPadOS 27中将延迟发布。苹果解释称，DMA要求AI系统获得几乎无限制的用户设备访问权限，并能自主执行操作，包括读取消息、进行购买、访问文件及跨应用执行任务，且无需用户持续可见和控制。苹果还指出，安全研究员已证明AI系统可能被劫持用于窃取信息。",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+    "score": 8,
+    "angle": "1. 苹果Siri AI在欧盟延迟发布的事件本身。2. 简单科普DMA是什么，以及它对AI系统的具体要求（几乎无限的设备访问权限、自主操作等）。3. 苹果对此的担忧：用户隐私、数据安全和AI被劫持的风险。4. 抛出问题引发用户讨论：我们愿意为了AI的便利性牺牲多少隐私？欧盟的监管是过度还是必要？让大家思考科技发展与个人隐私之间的平衡。"
+  },
+  {
+    "title_en": "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
+    "title_cn": "斯皮尔伯格谈屡次被拒执导詹姆斯·邦德电影",
+    "summary_cn": "著名导演史蒂文·斯皮尔伯格近日透露了他长久以来希望执导詹姆斯·邦德系列电影的愿望。他表示，早在《大白鲨》大获成功之后，他就主动联系了制片人库比·布洛克利，毛遂自荐，却遭到了拒绝。随后，在《第三类接触》同样取得巨大成功后，布洛克利再次联系了他，这暗示了斯皮尔伯格曾多次尝试执导邦德电影，但似乎屡次未能如愿。",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=iEho3brGB64",
+    "score": 8,
+    "angle": "连斯皮尔伯格这样的电影大师都曾多次被拒，梦想面前，失败并不可怕！揭秘好莱坞巨头的坚持与挫折，从中学习如何面对人生中的“拒绝”。"
+  },
+  {
+    "title_en": "I can never fully embrace LLMs for code",
+    "title_cn": "我永远无法完全接受大语言模型用于代码编写",
+    "summary_cn": "作者回忆起指导计算机科学专业妹妹学习编程的经历。妹妹在编程时，总是试图逐行理解函数代码才能使用，这在作者看来是多余的。作者反复强调，那些来自经过验证的库的函数，都是比他们更聪明的人创造并仔细审查过的，可以直接信赖和使用，无需深究每一行。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code",
+    "score": 8,
+    "angle": "**【老程序员真心话】我为何对AI写代码始终保持警惕？从我妹妹的编程困惑说起！**"
+  },
+  {
+    "title_en": "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
+    "title_cn": "五星推荐",
+    "summary_cn": "作者分享了在家中布设CAT6以太网线的经验。他发现部分房间设备不多，如健身房最初仅一台联网电视，后增Kodi盒子。对这种少量设备需求，传统大型交换机显多余。TP Link EH210 USB-C以太网分路器正是为解决这一问题，提供了一种更简洁、高效的方案，避免了资源浪费。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/",
+    "score": 8,
+    "angle": "家庭网络救星！路由器端口不够用？试试TP-Link USB-C以太网分路器，告别杂乱网线，让智能家居连接更简洁！"
+  },
+  {
+    "title_en": "OpenAI and Oracle announce strategic partnership, integrating AI models into Oracle Cloud",
+    "title_cn": "OpenAI与甲骨文达成战略合作，企业客户可通过OCI访问AI模型",
+    "summary_cn": "OpenAI宣布与甲骨文达成深度合作，企业客户现在可通过现有Oracle云积分直接访问OpenAI前沿AI模型及Codex服务，简化企业AI技术部署，加速智能化转型。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG51xJ0wgk7bPx-mUUeca7RifdQfskSHyfPOK5QwYsJV5-c-247_cRJaHQuHwaTrcGbD_yK8cNXKaKbRd99xlmqDRK6U-ZwWjhRwyhYdjJQW0TOJHlZR6ZjCv6yJdoEF5JWCdJ4dYuNEaAAKcnGPptm-6_I3pIAJnNE94xEIF_aHMyVWDgORhRKHumbg7D0J3k3",
+    "score": 8,
+    "angle": "重磅！OpenAI联手Oracle，AI模型上云更方便！企业AI转型提速秘籍大公开！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "ServiceNow cuts hundreds of jobs, citing AI efficiencies and organizational restructuring",
+    "title_cn": "ServiceNow因AI效率提升裁员数百人，引发行业关注",
+    "summary_cn": "企业软件公司ServiceNow进行组织重组，裁减数百个职位，以使人才优先级与日益增长的AI重心保持一致。此举反映了科技行业AI驱动的效率提升对就业的影响。",
+    "url": "https://www.hrkatha.com/news/servicenow-cuts-hundreds-of-jobs-as-company-cites-ai-efficiencies/",
+    "score": 8,
+    "angle": "AI要抢饭碗了？ServiceNow裁员数百人，你的工作会受AI影响吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "NVIDIA CEO Jensen Huang dismisses AI as a 'convenient excuse' for layoffs",
+    "title_cn": "英伟达CEO黄仁勋称将裁员归因于AI是“省事的借口”",
+    "summary_cn": "英伟达CEO黄仁勋公开表示，将企业裁员简单归因于AI是CEO们“省事的借口”。他指出AI真正变得高效实用是近六个月的事，难以解释更早期的裁员现象。",
+    "url": "https://finance.sina.com.cn/tech/ai/2026-06-12/doc-inamryfm5230006.shtml",
+    "score": 8,
+    "angle": "英伟达CEO黄仁勋开怼：裁员怪AI？这锅AI不背！你的老板在说实话吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "I Am Not a Reverse Centaur",
+    "title_cn": "我不是反向人马",
+    "summary_cn": "一年前，作者曾撰文阐述为何其个人不适合使用LLM（大型语言模型）进行编程，即使不考虑伦理或环境问题。作者强调，他对这一观点的看法至今未变，因此不再赘述此前论点。然而，值得关注的是，其开源项目收到的贡献数量却已发生变化。",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "score": 7,
+    "angle": "拒绝AI编程一年后，我的开源项目发生了什么？深度剖析LLM编程的真实利弊，一个资深开发者的坚持与反思。"
+  },
+  {
+    "title_en": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon amid lawsuit",
+    "title_cn": "Perplexity AI就购物工具遭亚马逊起诉，请求第九巡回法院准许",
+    "summary_cn": "AI搜索公司Perplexity AI请求第九巡回法院允许其购物工具在亚马逊平台使用。亚马逊此前起诉Perplexity的Comet应用违反联邦法律，未经许可访问其在线商店信息。",
+    "url": "https://www.courthousenews.com/perplexity-ai-asks-ninth-circuit-to-allow-shopping-tool-on-amazon/",
+    "score": 7,
+    "angle": "AI购物助手要被禁？Perplexity AI与亚马逊对簿公堂，你的AI使用权何去何从？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Claude Fable is relentlessly proactive",
+    "title_cn": "势不可挡的积极主动",
+    "summary_cn": "作者在体验 Claude Fable 5 两天后，将其描述为“势不可挡的积极主动”。这款AI模型掌握了大量技巧，并会毫不犹豫地运用它们来达成目标。作者举例说明，他在调试 Datasette Agent 时，遇到了一个不该出现的横向滚动条问题，这将展示 Claude Fable 5 的这一强大特性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "You can finally power on a Mac remotely",
+    "title_cn": "Mac终于能远程开机了！",
+    "summary_cn": "苹果公司终于允许用户远程启动Mac电脑，无需再手动按下电源键。媒体推测此举是为回应Mac mini用户对电源按钮设计的不满。这项功能提升了Mac使用的便利性，尤其对Mac mini等无显示器设备用户意义重大。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Why disk warranties are useful at work but not for me at home",
+    "title_cn": "为什么硬盘保修在工作中很有用，但在家里对我却没用",
+    "summary_cn": "作者在家中使用多硬盘桌面电脑多年，期间有硬盘发生故障。得益于软件RAID镜像，虽然硬盘损坏但从未丢失数据。因此，即使硬盘仍在保修期内，作者也从未费心去申请保修更换。这种做法与作者在工作场合处理硬盘保修的方式形成鲜明对比，揭示了个人与工作环境中硬盘保修价值认知的差异。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Joint Guidance on Vulnerability Naming and Disclosure",
+    "title_cn": "漏洞命名与披露联合指引",
+    "summary_cn": "一份关于漏洞命名与披露的联合指引现已生效。根据该指引，每一个新命名的CVE（通用漏洞披露）都将配备一个专属的单页网站。这些网站统一使用“.vuln”域名，旨在为每个具体的漏洞提供一个标准化、易于访问的集中信息平台。这一举措极大地简化了用户和技术专业人员获取特定漏洞详细信息的过程，提高了信息披露的效率与透明度，是漏洞管理方面的一项重要进展。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Intel’s Pentium FDIV bug and recall",
+    "title_cn": "英特尔奔腾FDIV浮点除法错误与召回事件",
+    "summary_cn": "1994年6月13日，一位数学教授发现英特尔当时最新推出的奔腾CPU存在FDIV浮点除法错误，导致其无法正确进行除法运算。该缺陷被称为“奔腾FDIV漏洞”，最终迫使英特尔召回了大量有问题的CPU产品。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-pentium-fdiv-bug-and-recall/?utm_source=rss&utm_medium=rss&utm_campaign=the-pentium-fdiv-bug-and-recall",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette 1.0a33",
+    "title_cn": "Datasette 1.0a33",
+    "summary_cn": "Datasette 1.0a33 alpha版发布，这是迈向稳定1.0的重要进展。此次更新将`?_extra=`模式从表扩展至查询和行，显著增强了数据查询与展示的灵活性和功能，为用户提供了更强大的数据处理能力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "score": 1,
+    "angle": ""
+  }
+]
