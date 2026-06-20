@@ -1,0 +1,245 @@
+[
+  {
+    "title_en": "US Government Restricts Anthropic's Fable 5 and Mythos 5, Models Restored with New Controls",
+    "title_cn": "美国政府限制Anthropic Fable 5与Mythos 5模型，恢复后新增严格管控",
+    "summary_cn": "美国商务部因国家安全担忧，史无前例地强制Anthropic暂停对Fable 5和Mythos 5模型的访问。经过谈判，Fable 5已恢复，但加入了国籍验证、加强合规筛选和更严格的安全分类器等新限制。Mythos 5仍仅限于政府监管下的Project Glasswing。此事件揭示了AI模型出口管制的地缘政治复杂性，以及模型开发者与监管机构之间的紧张关系。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn5H7ZygheRKvUU_qZ2OeODysUbSla4XSrJ7D5LeWWfZmeil7fJiWYe_3P9WFIHrKDZ4TKY-k845ucaaSdZDz6ergM2ZSB90FAp9OAq5eN4XQBFYJIvqyBm3XRrxPWkdsKas_MFw2o23kOfnrBKc8TPC7-Usrh0RSW8OM8pnCxOLX6he43G_fWHWhp2EsjERKChGBNisOuxRVllmA=",
+    "score": 10,
+    "angle": "AI巨头也遭“封杀”？Anthropic模型恢复却“变了味”，AI合规到底有多难？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "DeepSeek Secures 51 Billion CNY in Series A Funding, Valuation Nears 400 Billion CNY",
+    "title_cn": "DeepSeek完成510亿人民币A轮融资，估值逼近4000亿人民币",
+    "summary_cn": "中国AI大模型公司DeepSeek（深度求索）近日完成A轮融资，金额高达510亿元人民币，估值接近4000亿元人民币。本轮投资方包括创始人梁文锋、腾讯、宁德时代、网易、京东等。此次融资彰显了资本市场对中国顶尖AI技术和开源大模型的强劲信心，也预示着AI算力与产业联动的巨大潜力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW2nNlKLww_C52oEOw4S8u0XpgdbQZL8bLUww9vcqbSdhNqsrqhh5YFc667T6QmKHTAVhfF7MMD793lZAx5Lnfi4CqbxavQDoS-X6bX1hdHLTbi5c2ISV5H5YPhkIS280LSZxZTdUv1g==",
+    "score": 9,
+    "angle": "4000亿估值！中国AI独角兽DeepSeek豪取510亿融资，腾讯宁德时代争相入股！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "SpaceX Completes $60 Billion Acquisition of AI Coding Startup Cursor",
+    "title_cn": "SpaceX以600亿美元完成对AI编程初创公司Cursor的收购",
+    "summary_cn": "SpaceX在成功IPO后，以600亿美元的全股票交易完成了对AI编程初创公司Cursor的收购。Cursor年收入约40亿美元，服务于财富500强企业。此次收购将为Cursor提供几乎无限的算力，并预计将推出基于xAI Colossus基础设施训练的联合AI模型Grok Build，进一步巩固SpaceX在AI领域的战略布局。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn5H7ZygheRKvUU_qZ2OeODysUbSla4XSrJ7D5LeWWfZmeil7fJiWYe_3P9WFIHrKDZ4TKY-k845ucaaSdZDz6ergM2ZSB90FAp9OAq5eN4XQBFYJIvqyBm3XRrxPWkdsKas_MFw2o23kOfnrBKc8TPC7-Usrh0RSW8OM8pnCxOLX6he43G_fWHWhp2EsjERKChGBNisOuxRVllmA=",
+    "score": 9,
+    "angle": "马斯克又出手！SpaceX豪掷600亿收购AI编程独角兽，AI宇宙要变天？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "HKUST Unveils World's First AI-Powered Slice-Free Pathology Imaging System for Faster Cancer Diagnosis",
+    "title_cn": "港科大全球首创AI无切片病理成像系统，加速癌症诊断减少重复手术风险",
+    "summary_cn": "香港科技大学研究团队与遨天医疗科技有限公司合作，成功研发出全球首创的AI赋能无切片病理成像系统Glanzir®。该系统无需传统繁琐的病理切片和染色步骤，能在三分钟内生成高质量组织学影像，体积小巧适用于手术室，辅助医生实时判断癌细胞残留，有望显著减少癌症患者的重复手术风险。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjz_kfShkMseWB9qkS780WTJJpaql6cvqYjM4O_wilVv71_R1OzMb71-GcQcFiJdFLAyeHku8NvGbeM0Jqzh1X1REcqOFyOyTO21MdsQ4XNd9ZK2Yd1Gt_L3NixHv185waRkVsfrr2DE1Pdd5ZDT2Q4UtbEoH03dGrYjFhXKRkLUDgZnAXeN_o489Qcw9jcwEk=",
+    "score": 9,
+    "angle": "癌症诊断“秒出结果”！港科大AI黑科技让手术更精准，医生患者都叫好！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer",
+    "title_cn": "“抱歉，我们过去确实不怎么样”——嘉士伯啤酒",
+    "summary_cn": "2019年，嘉士伯啤酒在宣传其“可能是世界上最好的啤酒”口号长达40年后，首次承认这一宣传可能并非事实。面对销量下滑和消费者对其口味的严厉批评，嘉士伯推出了全新配方，并采取了更诚实的营销策略。其新广告语直言“可能不是世界上最好的啤酒”，旨在直面问题，通过自嘲和真诚来重塑品牌形象，赢回消费者信任。",
+    "source": "daringfireball.net",
+    "url": "https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html",
+    "score": 8,
+    "angle": "深度解析嘉士伯“自曝其短”的营销策略，探讨品牌如何通过真诚的自嘲，在消费者信任危机中逆风翻盘。同时，引发大家对日常消费品广告真实性的思考。"
+  },
+  {
+    "title_en": "‘What’s the Deal With Old Guys and Giant Glasses?’",
+    "title_cn": "老男人和巨型眼镜是怎么回事？",
+    "summary_cn": "这篇文章探讨了老年人早期采纳新技术的可能性。传统观念认为年轻人是科技尝鲜者，但文章提出，诸如“Snap Specs”这类新产品或许能颠覆这一认知。如果未来科技产品能直接面向养老院销售，老年人也可能成为新技术的积极采纳者。这挑战了关于科技采纳者年龄的固有观念，暗示了未来科技产品推广的新方向，尤其是在老龄化社会背景下。",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=8DYGxn6Xvt0",
+    "score": 8,
+    "angle": "为什么老爷爷们都爱戴巨型眼镜？背后竟然藏着老年科技新趋势！"
+  },
+  {
+    "title_en": "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
+    "title_cn": "特朗普T1手机竟是镀金的两年旧款HTC U24 Pro",
+    "summary_cn": "NBC News报道，特朗普T1手机曾宣传“美国制造”，但iFixit与NBC News的技术分析显示，该手机几乎与两年前的HTC U24 Pro完全相同。HTC是一家台湾公司，其手机使用中国零件。这意味着特朗普T1手机并非如宣传般纯粹的“美国制造”，而是一款贴牌的旧款产品，引发了对其真实来源和宣传语的质疑。",
+    "source": "daringfireball.net",
+    "url": "https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293",
+    "score": 8,
+    "angle": ""
+  },
+  {
+    "title_en": "Snap Launches Ad Campaign for Specs Starring Michael Caine",
+    "title_cn": "Snap 推出由迈克尔·凯恩主演的智能眼镜广告活动",
+    "summary_cn": "Snap 近期为其智能眼镜（Specs）推出了一项新的广告活动，并邀请了著名演员迈克尔·凯恩担任主角。广告台词可能围绕“权力”和佩戴者的身份展开。然而，文章也指出，尽管有明星加持，这些智能眼镜的设计和舒适度可能存在争议，甚至暗示它们可能会“夹耳朵”，影响美观和佩戴体验，引发了关于其时尚性的讨论。",
+    "source": "daringfireball.net",
+    "url": "https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/",
+    "score": 8,
+    "angle": "科技潮酷还是时尚灾难？迈克尔·凯恩代言Snap AR眼镜，看完真实槽点你还敢戴吗？（聚焦智能眼镜的时尚争议和佩戴舒适度问题，结合明星效应和犀利提问，引发小红书用户讨论。）"
+  },
+  {
+    "title_en": "Domino’s Admitted Their Pizza Tasted Like Cardboard",
+    "title_cn": "达美乐承认他们的披萨尝起来像纸板",
+    "summary_cn": "本文揭示，知名披萨品牌达美乐曾大胆承认其披萨味道如同纸板，这一坦诚举动与某些公司承认自身不足类似。文章引用了杰夫·海登在2021年为Inc.杂志撰写的一篇报道，该报道详细阐述了达美乐是如何通过这种直面缺陷的方式，成功实现品牌口碑和业务的巨大逆转。这展现了企业勇于自省并积极改进的强大力量。",
+    "source": "daringfireball.net",
+    "url": "https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html",
+    "score": 8,
+    "angle": "🔥揭秘！达美乐曾亲口承认披萨像纸板？这波「自黑式营销」如何让它起死回生！"
+  },
+  {
+    "title_en": "Reading List 06/20/26",
+    "title_cn": "阅读清单 2026年6月20日",
+    "summary_cn": "这篇阅读清单聚焦多项前沿议题。内容涵盖新的住房法案，可能对房地产市场产生影响；通用汽车进军电网级电池领域，预示能源转型方向；对数据中心延迟的质疑，揭示行业挑战；以及颠覆性的固态空调技术等。文章涉及政策、科技、能源和未来生活等多个维度，为读者提供了全面的洞察。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-062026",
+    "score": 8,
+    "angle": "住房新政+固态空调！你家的居住成本和舒适度将如何改变？"
+  },
+  {
+    "title_en": "The data black hole at the center of AI",
+    "title_cn": "人工智能核心的数据黑洞",
+    "summary_cn": "人工智能展现出如星系般璀璨的能力，但其核心深处，却隐藏着一个肉眼不可见、由海量数据构成的“黑洞”。正是这个庞大无比的数据黑洞，支撑并维系着AI的各项功能。它暗示着AI的强大背后，是对难以想象的数据的吞噬与整合，揭示了AI运作的深层本质。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+    "score": 8,
+    "angle": "它竟是个吞噬一切的“数据黑洞”？普通人也能看懂的AI底层逻辑！"
+  },
+  {
+    "title_en": "Full Page Paralysis",
+    "title_cn": "满页焦虑",
+    "summary_cn": "这篇文章探讨了与“空白页焦虑”相对的“满页焦虑”。作者认为，虽然人们常感叹开始之难，但真正的挑战在于完成。如同软件开发中的“最后90%”或物流中的“最后一英里”，收尾阶段往往异常艰难。因为完成意味着作品变得真实、有限，并要承受他人的评判，这种压力和对结果的预判，导致人们在接近终点时反而容易陷入停滞和困境。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/full-page-paralysis/",
+    "score": 8,
+    "angle": "将大目标拆解成小阶段、设置激励机制、允许不完美等。"
+  },
+  {
+    "title_en": "Google Updates Gemini 2.5 Pro, Makes Flash Default, Gemini 3.5 Pro Expected Soon",
+    "title_cn": "谷歌更新Gemini 2.5 Pro并默认启用Flash，Gemini 3.5 Pro即将发布",
+    "summary_cn": "谷歌本周对AI产品策略进行了重大调整，更新了Gemini 2.5 Pro模型，提升了推理深度、代码生成精度和指令遵循能力。同时，Gemini 2.5 Flash已成为所有Gemini消费者产品的默认模型，以其快速、经济的特点服务大众。此外，Gemini 3.5 Pro有望在本月底前发布，预计将成为谷歌迄今为止最强大的模型。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn5H7ZygheRKvUU_qZ2OeODysUbSla4XSrJ7D5LeWWfZmeil7fJiWYe_3P9WFIHrKDZ4TKY-k845ucaaSdZDz6ergM2ZSB90FAp9OAq5eN4XQBFYJIvqyBm3XRrxPWkdsKas_MFw2o23kOfnrBKc8TPC7-Usrh0RSW8OM8pnCxOLX6he43G_fWHWhp2EsjERKChGBNisOuxRVllmA=",
+    "score": 8,
+    "angle": "谷歌AI大爆发！Gemini Flash普及，2.5 Pro升级，3.5 Pro蓄势待发，你的AI助手要更聪明了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Sovereign AI Firm Dream Raises $260 Million, Valued at $3 Billion, to Accelerate National Cyber Defense",
+    "title_cn": "主权AI公司Dream融资2.6亿美元，估值达30亿美元，加速国家网络防御建设",
+    "summary_cn": "主权AI和国家网络防御公司Dream在新一轮融资中筹集了2.6亿美元，估值达到30亿美元。这笔资金将用于加速其主权AI和国家网络防御平台在欧洲、中东、亚洲和美洲的部署。Dream强调AI是国家力量的下一层基础，旨在解决各国政府对外国AI系统的依赖性，保护关键基础设施免受网络威胁。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz3UUpAFqwP8DLQmWJkQ8kRELGsTzXUu_F2hiERTHi80eSS8WMhWfWNnP93oXk_lyHApkxUzAzQXZ4mILhiwkwvCftx8Wn1Bnb00FUGmL-QX9keByKwGlAaBRUD2n5754YuqYK7gG-h6-jjXm7yKp7j9kH-jqtMlye9Bytk3rtrvbX-1cXqc07U0XZmug=",
+    "score": 8,
+    "angle": "国家安全新赛道！主权AI公司Dream获2.6亿美元融资，AI防御战打响！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Trump Signs Executive Order on AI Innovation and Security, Proposes Voluntary Review Framework",
+    "title_cn": "特朗普签署AI创新与安全行政令，提出自愿审查框架",
+    "summary_cn": "美国总统特朗普签署了一项题为《促进高级人工智能创新与安全》的行政令。该命令建立了自愿框架，允许先进AI模型的开发者在公开发布前，自愿向联邦政府提供模型访问权限进行网络安全和国家安全评估。此举标志着美国政府对AI治理的战略转变，强调公私合作而非强制许可，旨在平衡创新与国家安全。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0GbH3EJEKx7YzzTVMKa3oai7RqXV5ca4YPf3RGbr7xDBRnhpHenowd3QeGpHKSfCCmdP-G78Vw0m69IqfV9AFZBS0jkyFDp77dHJlSZI6zFtGmLWJoTltpmKay8AyuMjjw187N7QrJwOlA8ociY3pw2nOrL_Ci2d68tZOy2BFdX7ctO-EVyMUhKqN2QH_1r80vkzucGNBvT9cp9jNRVBqTqVFHvjZi--caTKV3y4qavX",
+    "score": 8,
+    "angle": "特朗普AI新政来了！自愿审查取代强制许可？AI巨头要放飞自我？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Jerry Seinfeld Tries Out Snap’s Specs",
+    "title_cn": "杰里·宋飞试用Snap的眼镜",
+    "summary_cn": "著名喜剧演员杰里·宋飞和他的父亲最近尝试了Snap公司的智能眼镜（Spectacles）。这款产品旨在将增强现实技术融入日常佩戴，为用户提供新颖的视觉体验。宋飞父子的试用不仅引发了公众对AR科技产品发展的好奇，也可能促使更多人关注和讨论智能眼镜在未来生活中的应用潜力。作为有影响力的公众人物，他们的体验无疑为Snap眼镜带来了更多曝光和关注。",
+    "source": "daringfireball.net",
+    "url": "https://youtu.be/siM8NW24QPs?t=217",
+    "score": 7,
+    "angle": "【星探黑科技】喜剧大师宋飞父子都戴上的AR眼镜！👀 未来科技离我们有多近？#智能眼镜 #AR眼镜 #宋飞 #Snapchat #未来科技 #数码潮玩"
+  },
+  {
+    "title_en": "I know Kung-fu",
+    "title_cn": "我会功夫",
+    "summary_cn": "文章以电影《黑客帝国》中尼奥瞬间学会功夫的场景为例，探讨了当海量信息唾手可得时，知识是否真的能像电影中那样“上传”到大脑。作者指出，虽然电影展现了获取信息的便捷，但也暗示了在暂停怀疑后，需要进一步思考知识的本质和学习的深度。这引发了对信息时代快速获取与真正掌握知识之间差异的思考。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/i-know-kung-fu",
+    "score": 7,
+    "angle": "结合《黑客帝国》中“一键学会功夫”的场景，引发读者对信息时代“快速获取”与“真正掌握”知识之间差异的思考。探讨为什么我们在刷了无数教程后，依然感觉没有真正学会某项技能，并提出深度学习和实践的重要性，打破知识“上传”的假象，引导读者回归扎实学习的方法。"
+  },
+  {
+    "title_en": "Pluralistic: The Big Con (19 Jun 2026)",
+    "title_cn": "大骗局 (2026年6月19日)",
+    "summary_cn": "\"Pluralistic\"文章以“大骗局”为题，尖锐指出在某些系统下，表面上的堆积无法带来实质性改善。内容涵盖广泛，从技术巨头与隐私、安全研究的冲突，到电影审查、国会应对枪击案的模拟，再到世袭财富、零工经济中的虚假宣传，以及Meta公布AI提示等一系列社会热点。文章汇集了多领域的问题，暗示这些都是当前社会和经济运作中存在的“大骗局”的缩影，呼吁关注深层矛盾而非表面现象。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/06/19/too-big-to-fact-check/",
+    "score": 7,
+    "angle": "【深度揭秘】别再被忽悠了！从AI隐私到零工经济，这些社会“大骗局”你必须知道！"
+  },
+  {
+    "title_en": "The Goldilocks Principle in Fantasy Strategy",
+    "title_cn": "奇幻策略游戏中的金发姑娘原则",
+    "summary_cn": "这篇文章深入探讨了作者在多年游戏生涯中，投入时间最多的游戏——《魔法门之英雄无敌2》。尽管作者玩过无数游戏，积累了大量经验，但《英雄无敌2》的魅力以及部分偶然的外部环境，使其成为作者游戏时间最长的作品。文章可能将以此为例，阐述“金发姑娘原则”如何在奇幻策略游戏中体现，解释其平衡性和吸引力的来源。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/",
+    "score": 7,
+    "angle": "**“玩了20年《英雄无敌2》，我才懂了什么叫‘金发姑娘原则’！🎮这才是经典策略游戏让人上瘾的秘密！”**"
+  },
+  {
+    "title_en": "Baseten Nears $1.5 Billion Funding Round at Up to $13 Billion Valuation for AI Inference Platform",
+    "title_cn": "AI推理平台Baseten接近完成15亿美元融资，估值高达130亿美元",
+    "summary_cn": "AI推理平台初创公司Baseten正接近完成一轮15亿美元的融资，公司估值将高达130亿美元。本轮融资由Spark Capital、Sands Capital等共同领投。Baseten专注于优化AI模型的推理速度和成本控制，其 annualized revenue run rate 已从约2亿美元增长至6亿美元，显示出市场对AI基础设施持续强劲的需求。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-rdv4GIDWPJQ-JKnKdfpLzuUMeXXDdgpF92G5F7s6W-faR0q-yiov1HOuv-4llBGE24hCgEZhDRlHDzpAdk5M-giFxB69la8gXJJ7QyESVIZAUL9fno9RBc1cP6zko5hGn6kSDH2xAVq0pzeuZev-AKUue0cZPTVsHSI06MMxTuUk8r32uKi33Hf0R_452Qw=",
+    "score": 7,
+    "angle": "又一个AI独角兽诞生！Baseten豪取15亿刀，AI基础设施才是真香？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Fox to Buy Roku Streaming Service in $25 Billion Deal",
+    "title_cn": "福克斯将以250亿美元收购Roku流媒体服务",
+    "summary_cn": "福克斯公司宣布将以约250亿美元收购流媒体服务提供商Roku，这是其迄今最大的一笔交易。此举标志着福克斯对广告支持流媒体未来增长的重大押注。该交易将把以直播新闻和体育闻名的福克斯与Roku（最大的联网电视流媒体平台提供商）结合起来，旨在显著扩大福克斯现有的流媒体业务规模，包括其免费、广告支持的流媒体服务Tubi。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebshare_permalink",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: The Silicon Valley Bubble (Part 2)",
+    "title_cn": "硅谷泡沫（第二部分）",
+    "summary_cn": "本文作者独家披露了OpenAI 2024年和2025年的审计财务数据，引发了广泛讨论。数据显示OpenAI在巨额投入下（例如，投入340亿美元）获得相对较低的收入（130.7亿美元），这一发现震惊了许多人。文章围绕OpenAI的财务表现及其对“硅谷泡沫”的潜在影响展开，揭示了人工智能领域高投入与回报之间的复杂关系，并引发了对科技公司估值和盈利模式的深入思考。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Which Copyleft Licence is Suitable for an SVG?",
+    "title_cn": "哪种Copyleft许可证适用于SVG？",
+    "summary_cn": "SVG（可缩放矢量图形）是一种出色的图像格式，能精确定义图像外观。它以XML编写，通过各种数学运算确保图像在任何尺寸下都清晰锐利。文中给出了一个简单的SVG代码示例，展示了其基于XML的结构和通过坐标与填充色绘制图形的原理。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Limiting web server bandwidth the brute force way",
+    "title_cn": "简单粗暴地限制Web服务器带宽",
+    "summary_cn": "作者在文章开头提到，他注意到部门Web服务器上存在极慢的文件下载现象，甚至有请求从前一天晚上23:27一直持续到凌晨03:58才结束，导致日志文件延迟滚动。作者指出，这是因为他们的服务器已成为机器学习图像训练数据（如CIFAR数据集）的重要来源，大量的长时间数据传输占据了服务器带宽，造成了管理上的不便。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week in Package Management: 20 June 2026",
+    "title_cn": "2026年6月20日",
+    "summary_cn": "本篇文章汇总了2026年6月20日这一周在包管理领域内的最新进展。内容涵盖了各类软件包的新版本发布、重要的安全 advisories (建议/警示)，以及行业内有深度或广泛关注的技术文章。它为软件开发者、系统管理员以及关注技术生态的用户，提供了一个快速了解包管理世界动态的窗口。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/20/this-week-in-package-management.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Bobby Prince has died",
+    "title_cn": "Bobby Prince 去世",
+    "summary_cn": "90年代著名FPS游戏音乐家Bobby Prince于81岁高龄去世。他以其在经典FPS游戏中的音乐创作而闻名，其中为《德军总部3D》创作的标志性配乐如“The Ultimate Challenge”等，奠定了其独特的音乐风格。此外，他还参与了《毁灭公爵3D》和《魔域帝国》的音乐制作，尽管这些作品有时被认为不如Lee Jackson的某些作品突出，但他的贡献是那个时代游戏音乐的重要组成部分。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Sean Lynch",
+    "title_cn": "引用肖恩·林奇",
+    "summary_cn": "肖恩·林奇指出，MCP（一种能力）的核心价值在于能将认证流程从代理的上下文窗口中隔离出来，甚至完全脱离系统束缚。他进一步设想，MCP最理想的形式可能仅仅是作为一个API的认证网关，别无其他。他强调，即便仅实现这一点，也已经是一个重要的进步和成功。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "score": 1,
+    "angle": ""
+  }
+]
