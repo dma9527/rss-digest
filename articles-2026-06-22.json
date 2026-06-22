@@ -1,0 +1,128 @@
+[
+  {
+    "title_en": "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
+    "title_cn": "macOS 27 金门测试版 1 的应用图标",
+    "summary_cn": "在WWDC期间，Basic Apple Guy注意到macOS金门测试版带来了全新的图标设计。新图标的色彩更加鲜明，部分图标经过了调整，并且液体玻璃效果中的折射也发生了显著变化，尤其是在“日记”等应用图标上。此外，新图标还展现出更高的锐利度和扁平化趋势，预示着macOS未来设计的方向。",
+    "source": "daringfireball.net",
+    "url": "https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison",
+    "score": 8,
+    "angle": "MacBook用户必看！💻 苹果macOS 27金门测试版图标抢先曝光！🎨 新旧对比图来了，你更喜欢哪种风格？据说细节超多，液态玻璃效果、色彩饱和度都有大提升，更有扁平化趋势！快来一起讨论苹果新设计美学！"
+  },
+  {
+    "title_en": "Cybersecurity for the paranoid business traveller",
+    "title_cn": "偏执型商务旅行者的网络安全",
+    "summary_cn": "本文探讨了商务旅行者面临的网络安全风险，指出个人常成为间谍、勒索或国家级攻击的目标。作者结合自身经验，强调了组织对威胁认知程度的差异，并将分享一系列针对多疑商务人士的网络安全建议，帮助他们在差旅中保护个人信息和企业资产。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/",
+    "score": 8,
+    "angle": "出国差旅手机安全保卫战！当心间谍勒索，别让个人信息在海外‘裸奔’！商务旅行者必看，防身级网络安全指南大公开！"
+  },
+  {
+    "title_en": "In memory of the man who put red and green squiggles under words",
+    "title_cn": "缅怀文字下红绿波浪线的缔造者",
+    "summary_cn": "这篇文章是为了纪念一位重要人物，他创造了文字处理软件中标志性的红绿波浪线。这项功能最初在Microsoft Word中推出，旨在帮助用户检查拼写和语法错误。它随后迅速普及，扩展到几乎所有文字处理器，甚至超越了文字处理范畴，成为现代数字写作不可或缺的一部分，极大提升了文本质量和用户体验。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "score": 8,
+    "angle": "💻你每天都用的Word红绿波浪线，背后的“英雄”是谁？揭秘这位改变我们打字习惯的“幕后功臣”！从Word到全平台，小小的波浪线背后，是大大的智慧和影响。一起来致敬这位“隐藏大佬”吧！#Word #科普 #技术故事 #幕后英雄 #你不知道的冷知识 #软件 #效率工具"
+  },
+  {
+    "title_en": "Everything you say CAN and WILL be used against you",
+    "title_cn": "你所说的一切都将成为呈堂证供",
+    "summary_cn": "人们往往忽视保持沉默的建议，无意中提供了对自己不利的证据，突显了法律程序的悖论和实际挑战。它提醒我们，面对司法程序应警惕言语的潜在风险。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/the-right-to-remain-silent",
+    "score": 7,
+    "angle": "强调“自保”和“避免踩坑”。可以从“普通人必知的保命级法律常识”或“被警察问话？第一句话决定你的命运！别再傻傻自证其罪了！”切入。结合YouTube上人们因多说而被捕的案例，科普米兰达警告的核心（保持沉默权、要求律师），并强调在法律程序中“少说多问”的重要性。内容可配上醒目的标题、emoji和图文并茂的排版，吸引对生活技巧和自我保护感兴趣的读者。"
+  },
+  {
+    "title_en": "Happy Father's Day.",
+    "title_cn": "父亲节快乐",
+    "summary_cn": "这位双胞胎父亲在父亲节之际，陷入了中年危机式的思考。他困惑于自己何时真正承担起家庭重担，成为一个负责任的男人。他常常将自己与父亲比较——一个在社区中备受尊敬、天生就具备领导力的强大男人。他质疑自己何时才能像父亲一样，或者是否已经做到了。这些深沉的思考促使他在十年前写下了一篇关于他父亲的短故事。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
+    "score": 7,
+    "angle": "#父亲节特辑 | 一个双胞胎爸爸的内心拷问：我何时才能成为像我爸那样顶天立地的男人？ 内容可围绕中年男性在承担家庭责任时的迷茫与自我怀疑，引发其他父亲或子女的共鸣，讨论“真正的男人”或“父亲”的定义，以及如何与理想中的父亲形象和解。"
+  },
+  {
+    "title_en": "Mux — Video for Developers",
+    "title_cn": "Mux — 面向开发者的视频",
+    "summary_cn": "Mux为开发者提供视频基础设施，旨在解决视频文件包含大量音频、对象、场景等复杂数据，传统技术栈难以有效利用的问题。其Mux Robots技术能将这些原始视频数据转化为智能洞察。开发者只需一次配置，即可自动化处理新上传视频，实现提问、智能摘要、关键时刻查找等功能，大大简化视频工作流，无需复杂集成。",
+    "source": "daringfireball.net",
+    "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Expert-aware quantisation: near-Q4 quality at near-Q2 size?",
+    "title_cn": "接近Q4质量，接近Q2大小？",
+    "summary_cn": "该研究提出一种专家感知型量化技术，首先对MoE模型进行性能分析，识别出对特定任务至关重要的“热”专家。随后，对那些不重要的“冷”专家进行更激进的量化处理。这种方法使得本地模型能够在文件大小上接近Q2级别，同时依然能保持接近Q4的质量，实现了模型性能与尺寸的有效平衡。",
+    "source": "martinalderson.com",
+    "url": "https://martinalderson.com/posts/expert-aware-quantisation/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Consistency, But in Excellence Not Appearance",
+    "title_cn": "一致性，重在卓越而非表象",
+    "summary_cn": "本文探讨了视觉设计中“一致性”的滥用。作者认为，一致性本应是服务于设计的工具，却常被误用为唯一目标。文章以macOS图标的演变为例，暗示过分追求表象上的一致性可能牺牲设计的深度和独特性。核心观点是，真正的一致性应体现在设计卓越的品质和用户体验上，而非仅仅停留在视觉的统一表象。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Temporary Cloudflare Accounts for AI agents",
+    "title_cn": "Cloudflare为AI智能体提供的临时账户",
+    "summary_cn": "Cloudflare近期宣布为AI智能体推出“临时账户”功能。尽管名义上是面向AI，但实际上对所有用户都极具价值。这意味着现在开发者无需完整注册Cloudflare账户，仅需通过一行简单的命令行指令`npx wrangler deploy --temporary`，即可快速部署和运行Cloudflare Workers项目，大大降低了试用门槛和开发流程的复杂性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Configuration is a liability, just like code",
+    "title_cn": "配置也是一种负债，就像代码一样",
+    "summary_cn": "文章指出，系统管理员普遍认为自行开发的定制代码是种负担，因为它需要持续维护和更新。作者进一步论证，就像代码一样，复杂的系统配置也同样是一种负债。无论是定制程序、脚本还是配置，都需要专人维护和升级，否则不仅会增加管理成本，引入潜在风险，还会阻碍系统的灵活性和发展。这种观点强调了简化和标准化在系统管理中的重要性，以减轻长期负担。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Queens on a prime order board",
+    "title_cn": "素数阶棋盘上的皇后",
+    "summary_cn": "只需将皇后放置在斜率为2、3、4等特定直线上即可。这简化了寻找解的过程，为特定情况下的N皇后问题提供了高效的放置策略。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/21/queens-prime/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "AMD Athlon: AMD’s game changing CPU from 1999",
+    "title_cn": "AMD 1999年的划时代CPU",
+    "summary_cn": "1999年6月23日，AMD发布了其备受期待的Athlon CPU，作为成功K6的继任者。该CPU于同年8月9日正式上市。Athlon的问世被证明是AMD的“游戏规则改变者”，它不仅帮助AMD成功脱颖而出，更在当时竞争激烈的CPU市场中奠定了其关键地位，对AMD未来的发展产生了深远影响。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/amd-athlon-amds-game-changing-cpu-from-1999/?utm_source=rss&utm_medium=rss&utm_campaign=amd-athlon-amds-game-changing-cpu-from-1999",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "title_cn": "新增迁移和嵌套事务功能",
+    "summary_cn": "`sqlite-utils` 是一个结合 Python 库与 CLI 工具，旨在简化 SQLite 数据库操作。它在 Python 自带 `sqlite3` 模块基础上，提供了如复杂表转换和自动建表等高级功能。最新 4.0rc1 版本的一大亮点是引入了数据库迁移（migrations）和嵌套事务（nested transactions）两大核心特性，这显著增强了工具的功能性和灵活性，旨在进一步提升开发者管理和操作 SQLite 数据库的效率。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "sqlite-utils 4.0rc1",
+    "title_cn": "sqlite-utils 4.0rc1 发布候选版",
+    "summary_cn": "数据库迁移（migrations）和嵌套事务（nested transactions）。这些更新显著增强了 sqlite-utils 在管理和操作 SQLite 数据库时的灵活性和控制力。对于开发者而言，它使得处理数据库结构变更和复杂数据操作更为便捷高效。更多技术细节和发布信息可在 GitHub 和 Simon Willison 的相关博客文章中找到。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "score": 1,
+    "angle": ""
+  }
+]
