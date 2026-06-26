@@ -1,0 +1,191 @@
+[
+  {
+    "title_en": "AI and Liability",
+    "title_cn": "AI与责任",
+    "summary_cn": "这篇文章围绕人工智能的责任归属展开讨论，并引用了德国近期的一项里程碑式判决。该判决裁定，谷歌需对其AI概览服务中出现的错误信息承担法律责任。作者布鲁斯·施奈尔强调，AI代理是部署其的个人或组织的代理人，其行为和后果应由部署方负责。这标志着法律界对AI生成内容责任认定迈出了重要一步，对未来AI应用具有深远影响。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+    "score": 9,
+    "angle": "你的AI服务商不再能甩锅！”。内容可聚焦：1. 简单解读德国判决，指出平台对AI生成错误信息需负责。2. 提醒普通用户，在使用AI（如问答、生成内容）时，如果遇到错误导致问题，平台可能需承担责任。3. 强调AI并非完全可信，重要信息仍需核实，提升用户审慎使用AI的意识。配图可设计为AI机器人+法槌或问号，视觉冲击力强。"
+  },
+  {
+    "title_en": "Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods",
+    "title_cn": "苹果上调大部分产品价格15-25%，但iPhone、手表和AirPods除外",
+    "summary_cn": "苹果公司今天早些时候维护其在线商店后，Mac电脑和iPad系列产品价格普遍上涨。其中，Mac电脑价格上涨约15%至20%，iPad价格上涨15%至25%。例如，基础款MacBook Air和MacBook Pro分别上涨了200美元和300美元。值得注意的是，iPhone、Apple Watch和AirPods的价格并未受到此次调整影响，保持不变。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R",
+    "score": 9,
+    "angle": "🚨苹果大涨价！Mac和iPad全线贵15-25%，但iPhone没涨！想买苹果的赶紧看这篇！"
+  },
+  {
+    "title_en": "DeepSeek Secures Record $7 Billion Funding, Plans to Double Workforce Amid AI Boom",
+    "title_cn": "深度求索（DeepSeek）获70亿美元巨额融资，计划将所有部门规模扩大一倍",
+    "summary_cn": "中国AI初创企业DeepSeek完成一轮超500亿元人民币（约70亿美元）的大规模融资，估值超过500亿美元，并宣布将所有部门规模扩大至少一倍，加速AI模型研发与全球拓展步伐。",
+    "url": "https://www.caixin.com/2026-06-26/101912444.html",
+    "score": 9,
+    "angle": "🚨AI巨头又出手！DeepSeek获70亿美元融资，招人招到手软，你的机会来了吗？🚀",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Trump Administration Reportedly Demands Phased Release of OpenAI's GPT-5.6 for Security Reasons",
+    "title_cn": "传特朗普政府出于安全考量，要求OpenAI分阶段发布GPT-5.6",
+    "summary_cn": "据The Information消息，特朗普政府以安全为由，要求OpenAI分阶段推出其前沿模型GPT-5.6，此举标志着美国政府首次直接介入前沿AI产品发布节奏。",
+    "url": "https://finance.sina.com.cn/tech/ai/2026-06-26/doc-inacprtk4542289.shtml",
+    "score": 9,
+    "angle": "重磅！GPT-5.6发布受阻？AI安全上升到国家层面，未来大模型要“层层审批”？😮",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI inference is obviously profitable",
+    "title_cn": "AI推理显然有利可图",
+    "summary_cn": "很多人认为AI推理服务无利可图，必须依赖投资者“傻钱”的大量补贴才能维持，一旦资金枯竭，AI产品也将消亡。他们普遍认为，大型语言模型（LLMs）在资金、电力和水资源方面成本过高，无法用于消费者产品。本文旨在驳斥这一普遍观点。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/ai-inference-is-obviously-profitable/",
+    "score": 8,
+    "angle": "你以为AI产品在“烧钱”？错！打破“AI推理无利可图”的迷思，普通人也能看懂的AI投资与商业逻辑，让你不再被忽悠！"
+  },
+  {
+    "title_en": "★ Spensive Thoughts",
+    "title_cn": "★ 价格碎碎念",
+    "summary_cn": "本文对苹果公司今日发布的硬件产品价格调整进行了快速分析，探讨了哪些设备价格上涨，哪些保持不变，为读者揭示了苹果在定价策略上的最新动向和潜在影响。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/06/spensive_thoughts",
+    "score": 8,
+    "angle": "苹果硬件大涨价，这几款竟然价格不变！是等等党胜利还是冲就完事了？"
+  },
+  {
+    "title_en": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+    "title_cn": "Gamrombo PS5手柄——包含Linux设置 ★★★★☆",
+    "summary_cn": "作者因不愿支付高昂的70英镑购买官方PS5手柄，转而选择了一款价格不到40英镑的Gamrombo仿制手柄。这款手柄不仅价格亲民，还配备了许多“不必要”的闪烁灯光。Gamrombo是“惠州荣辉科技有限公司”旗下的消费品牌，但线上关于该制造商的信息极少，主要集中在付费广告。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
+    "score": 8,
+    "angle": "40英镑搞定，还带闪！”，主打高性价比和避免原装手柄高价的痛点。内容可以着重对比这款山寨手柄与官方手柄的使用感受（例如手感、按键、震动等），突出其“不必要”的闪光灯特点，并结合“Linux设置”为小众玩家提供实用价值。通过“避坑指南”的形式，分享如何选择和测试平替手柄，避免踩雷。"
+  },
+  {
+    "title_en": "Qualcomm Unveils Snapdragon Data Center Roadmap for Agent AI Era, Targets $15 Billion Revenue by 2029",
+    "title_cn": "高通发布面向智能体AI时代的数据中心技术路线图，推出全新骁龙飞龙产品组合",
+    "summary_cn": "高通技术公司在投资者日宣布全新数据中心解决方案，包括骁龙飞龙C1000 CPU、AI300推理加速器等，旨在强化AI数据中心基础设施，目标到2029年数据中心收入达150亿美元。",
+    "url": "https://www.qualcomm.cn/news/releases/2026/06/26/qualcomm-unveils-data-center-technology-roadmap-for-the-age-of-agent",
+    "score": 8,
+    "angle": "高通也要抢滩AI数据中心！发布超强芯片组合，这是要和英伟达正面刚？💻🔥",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Lawmaker Introduces Bill Mandating AI Companies Report Critical Incidents",
+    "title_cn": "美国议员提出新法案，要求AI公司报告关键安全事件",
+    "summary_cn": "一位共和党议员提出立法，要求AI模型开发者在发现危险能力、安全漏洞或安全事件后七天内向美国商务部报告，以加强AI安全监管。",
+    "url": "https://today.westlaw.com/NewsAndInsight/Articles/View/1601007823",
+    "score": 8,
+    "angle": "AI公司要“乖乖报备”了！美国新法案来袭，AI安全问题人人关注，你怎么看？💬",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China Releases Series of National Standards for AI Intelligent Agent Interconnection",
+    "title_cn": "中国发布《人工智能智能体互联》系列国家标准，推动AI产业规范发展",
+    "summary_cn": "市场监管总局发布《人工智能智能体互联》系列国家标准，旨在解决智能体生态壁垒、信任危机和创新成本等问题，推动人工智能产业高质量发展。",
+    "url": "https://www.chinanews.com.cn/cj/2026/06-26/10239634.shtml",
+    "score": 7,
+    "angle": "国家队出手！中国AI智能体有了“标准答案”，未来AI应用更安全高效！🛡️",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Far EasTone Showcases AI-Powered Smart Healthcare Solutions at Medical Taiwan 2026",
+    "title_cn": "远传AI赋能智慧医疗，亮相2026台湾国际医疗暨健康照护展",
+    "summary_cn": "远传电信在“2026台湾国际医疗暨健康照护展”展示其AI技术在智慧医疗领域的应用，包括居家远距照护和跨院专科会诊，推动台湾智慧医疗升级。",
+    "url": "https://udn.com/news/story/7240/8054999",
+    "score": 7,
+    "angle": "科技改变医疗！远传AI让看病更方便，智慧医疗真的来了，期待普及！🩺💖",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
+    "title_cn": "苹果日记应用糟糕的撤销Bug已修复（SwiftUI本身并非罪魁祸首）",
+    "summary_cn": "在MacOS 26 Tahoe系统上，用户在新建日记条目中输入文本，双击删除一个单词后进行撤销操作时，预期行为未能正常实现。好消息是，此Bug现已得到修复，并且文章澄清SwiftUI本身并非导致该问题的根源。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quickly apply LUTs (color grading) with ffmpeg",
+    "title_cn": "使用ffmpeg快速应用LUT（色彩校正）",
+    "summary_cn": "本文是作者的快速参考。作者过去因额外的工作流而避免使用LUT和Log视频素材。Log素材类似于RAW照片，能够保留视频传感器完整的动态范围，便于后期提取更丰富的色彩和亮度信息。本文旨在介绍一种使用ffmpeg快速应用LUT进行色彩校正的方法，从而简化视频后期制作流程，帮助用户高效提升视频画面质感。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Incircles and Excircles of Pythagorean triangles",
+    "title_cn": "勾股三角形的内切圆和旁切圆",
+    "summary_cn": "本文旨在揭示星际迷航引理和勾股数两篇文章的内在联系。作者在撰写勾股数主题时，偶然发现维基百科中一个引人入胜的段落。该段落指出，在所有勾股三角形中，内切圆半径与旁切圆半径之间存在着奇特的关联。这篇文章将深入探讨这一几何特性。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/25/incircle-excircle/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "My Om Malik Story",
+    "title_cn": "我的奥姆·马利克故事",
+    "summary_cn": "近期，知名科技博客Om Malik不幸去世，许多人纷纷分享与他之间的温情故事和交流经历。本文作者也追忆了自己与Om Malik的交集。故事始于2021年初，当时作者为自己设定了撰写72篇博客文章的目标，并在写作过程中，与Om Malik产生了联系或受到了其影响，从而构成了这篇深具个人情感的回忆文章。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/tribute-to-om/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Om Malik, 1966-2026",
+    "title_cn": "奥姆·马利克，1966-2026",
+    "summary_cn": "奥姆·马利克（Om Malik）的家人宣布，他已于2026年6月24日在斯坦福医院去世。他长期与心脏疾病抗争，在家人和朋友的陪伴下离开了人世。家人邀请大家在文章评论区或通过X/Twitter、Instagram、Threads等社交媒体平台分享对奥姆的怀念和纪念。",
+    "source": "daringfireball.net",
+    "url": "https://om.co/2026/06/24/1966-2026/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Hart’s theorem",
+    "title_cn": "哈特定理",
+    "summary_cn": "哈特定理指出，如果一个“三角形”是由三个圆弧构成，那么它的内切圆和三个旁切圆都将与一个新的圆或直线相切。“三角形”在这里特指边是圆弧段的三边形。内切圆是能完全容纳在图形内部的最大圆，而旁切圆则位于图形外部并与其中一条边及其延长线相切。这个几何定理揭示了这些特殊图形中圆与圆之间奇妙而精准的相切关系。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/25/harts-theorem/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Incident Report: CVE-2026-LGTM",
+    "title_cn": "CVE-2026-LGTM",
+    "summary_cn": "本文概述并记录了一系列不幸的“代理”所经历的事件。这些“代理”在某个系统或操作中扮演着关键角色，但由于未知原因，它们遭遇了意想不到的障碍、故障或负面影响。报告旨在呈现这些不顺利的状况，并暗示其背后可能存在需要进一步调查的问题或脆弱点。这表明在相关环境中存在潜在的风险，值得深入分析。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Spyglass: A web browsing pioneer’s IPO",
+    "title_cn": "网络浏览器先驱的首次公开募股",
+    "summary_cn": "许多人误以为网景（Netscape）是首家进行IPO的浏览器制造商，但实际上是其竞争对手Spyglass。Spyglass在1995年6月27日成功上市，发行了两百万股，并且表现良好，成为网络浏览领域的真正先驱之一。它比网景更早踏入资本市场，颠覆了人们对早期互联网历史的普遍认知。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=spyglass-a-web-browsing-pioneers-ipo",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-export-database 0.3a2",
+    "title_cn": "Datasette 数据库导出插件 0.3a2",
+    "summary_cn": "datasette-export-database 0.3a2 发布了一个微小更新。此版本修复了插件的兼容性问题，将 Datasette 的依赖版本由 `==1.0a27` 调整为 `>=1.0a27`，使其能与更多 Datasette 版本正常配合使用。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "You can't always trust a BMC's inventory of the server's hardware",
+    "title_cn": "服务器硬件信息，BMC报告的并不总是可信的",
+    "summary_cn": "BMC（基板管理控制器）能够报告服务器的硬件清单，这项功能非常实用且有价值。然而，文章提醒用户不应完全信任BMC提供的信息，因为它们并不总是准确无误的。作者提到最近就有一个生动的例子，直观地展示了BMC报告的硬件数据可能与实际不符，因此建议在依赖BMC数据时保持警惕。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory",
+    "score": 1,
+    "angle": ""
+  }
+]
