@@ -1,0 +1,263 @@
+[
+  {
+    "title_en": "OpenAI and Broadcom Unveil Jalapeño, OpenAI's First Custom AI Inference Chip",
+    "title_cn": "OpenAI与博通联合发布首款自研AI推理芯片Jalapeño",
+    "summary_cn": "OpenAI与博通于6月24日发布首款定制AI推理芯片Jalapeño，旨在降低LLM推理成本50%，性能与英伟达 Blackwell及谷歌TPU相当。该芯片设计历时九个月，并由AI模型辅助完成。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqn8FwBhfvbisJ5VtKDC1Se5ljYVzFQXbsNRTnEDwQ8IMhGooQIdbZ1a68D-aJs9DIKEUOrwNUHtg38ueZcG1loH6N0BRmtG0E4TvPl04QD5IlXoADtQJicbSB73rIr7V9sVG6faaCH6dGU1Q5ELX4j6W5CKr62Cz-CE=",
+    "score": 10,
+    "angle": "AI芯片大战升级！OpenAI首款自研芯片Jalapeño登场，成本减半性能比肩Nvidia？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting OpenAI",
+    "title_cn": "OpenAI公告",
+    "summary_cn": "OpenAI正限量预览其全新的GPT-5.6系列模型，包含旗舰版Sol、平衡版Terra及经济版Luna。其中，Terra性能媲美GPT-5.5但价格减半，Luna则以最低成本提供强大能力。OpenAI致力于广泛普及，并计划在未来几周内全面发布这些模型，预示着AI技术将更具性价比和可及性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+    "score": 9,
+    "angle": "OpenAI王炸发布GPT-5.6！普通人也能低成本用上顶尖AI？你的AI生产力要翻倍了！"
+  },
+  {
+    "title_en": "Anthropic Accuses Alibaba of 28.8 Million Fraudulent Claude Exchanges to Train Qwen Model",
+    "title_cn": "Anthropic指控阿里巴巴通过2880万次欺诈性交互窃取Claude模型数据",
+    "summary_cn": "Anthropic指控阿里巴巴在2026年4月至6月期间，通过2.5万个虚假账户对Claude进行2880万次欺诈性交互，以训练其Qwen模型，涉及经济和地缘政治考量。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqn8FwBhfvbisJ5VtKDC1Se5ljYVzFQXbsNRTnEDwQ8IMhGooQIdbZ1a68D-aJs9DIKEUOrwNUHtg38ueZcG1loH6N0BRmtG0E4TvPl04QD5IlXoADtQJicbSB73rIr7V9sVG6faaCH6dGU1Q5ELX4j6W5CKr62Cz-CE=",
+    "score": 9,
+    "angle": "AI道德边界遭挑战！Anthropic怒指阿里大规模窃取模型数据，大厂竞争火药味十足！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US Government Imposes De Facto AI Licensing Requirements, Delays OpenAI GPT-5.6 Release",
+    "title_cn": "美国政府在无正式法规下实施AI许可要求，并要求OpenAI延迟发布GPT-5.6",
+    "summary_cn": "美国政府自6月13日起开始对AI模型实施许可要求，要求Anthropic暂停外国公民访问其最新模型，并要求OpenAI延迟GPT-5.6发布，理由是国家安全，但缺乏正式法规。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdUNdGgOoeqrey7sTCkKiLo8bzy3LP3tj3waSzeODiWARGtDA9aWzXU5cX8IgAh1NqwCv3ft5R9cQq2kyLiZYzbQaTJxtB97qaOH5HCDO94yDmbVO55wTE8z3De_wf4nfzIcOMrewj_avKpOlARGv2q_YRlagKq-8paLlKlod__2uXOy6HASG6WZRy6ix2TqjQx5Vv",
+    "score": 9,
+    "angle": "美国AI新政突袭：政府秘密实施AI模型出口管制，未来AI人才流动或受限？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Previews GPT-5.6 as a Three-Tiered Model Family: Sol, Terra, and Luna",
+    "title_cn": "OpenAI限量预览GPT-5.6，推出Sol、Terra、Luna三层模型系列",
+    "summary_cn": "OpenAI于6月26日开始限量预览GPT-5.6，首次以三层模型家族形式发布：Sol（旗舰级）、Terra（平衡型）和Luna（经济型），采用新命名旨在实现模型能力的独立迭代。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08UjzQpIs7XML5KCCmI7cpieN-cpm3I7vMTAa6ijA7OCLHEb0YkXzS4vskWnH5mRVlqfYt3uqC-G-jXoTj7Vgr57b1xDPA3qCUMzMoImmBtYOtlZFNf4wKQ9WUCiH-r_IOJK6jV2XO0_XeeZgmuZDz1kzjyJcTbW5zGKAvKMtlhaFgWevLXAO",
+    "score": 9,
+    "angle": "GPT-5.6重磅来袭！OpenAI推出三层模型，智能体能力更上一层楼，你的工作要被AI抢走了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Timothy B. Lee",
+    "title_cn": "引用 Timothy B. Lee",
+    "summary_cn": "蒂莫西·B·李通过一条推文反驳了“大型语言模型（LLM）无需技巧，也没有学习曲线”的观点。他将此比作“声称当经理没有学习曲线，因为你的员工会听从你的一切指令”。这个生动的比喻强调，与LLM互动并非简单的命令，同样需要掌握技能和投入学习过程，以有效驾驭AI工具，揭示了在使用和管理AI时的实际复杂性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+    "score": 8,
+    "angle": "为什么你的AI助手“不听话”？**"
+  },
+  {
+    "title_en": "What happened after 2,000 people tried to hack my AI assistant",
+    "title_cn": "2000人试图破解我的AI助手后发生了什么",
+    "summary_cn": "费尔南多·伊拉拉萨瓦尔发起一项挑战，邀请人们通过电子邮件尝试破解其OpenClaw AI助手，以窃取其中的秘密。尽管有近2000人进行了6000多次尝试，并导致了500美元的代币花费和一个谷歌账户被暂停，但最终没有人成功泄露任何秘密。这验证了该AI助手的出色安全性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+    "score": 8,
+    "angle": "【AI安全大挑战】2000人、6000次尝试、烧掉$500，我的AI助手竟然毫发无损！你的AI数据还安全吗？揭秘AI助手背后的安全防线！"
+  },
+  {
+    "title_en": "Saying the obvious thing",
+    "title_cn": "说出显而易见的事",
+    "summary_cn": "这篇文章探讨了“说出显而易见的事”的意外价值。作者指出，我们大部分知识潜藏于意识之下，因此，看似简单的表述反而能帮助我们唤醒并确认已知信息。它能有效帮助人们理清思路，例如当你知道自己不喜欢某事却说不出原因时，一个显而易见的陈述便能提供关键的洞察与理解。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/saying-the-obvious-thing/",
+    "score": 8,
+    "angle": "结合当下流行的“废话文学”现象，以反常规的视角切入。标题可以采用“那些你以为的‘废话’，其实是隐藏的智慧！”或者“别再小看‘说废话’了！它竟然有这些神奇功效”。内容围绕“为什么说出显而易见的事很有用”展开，解释它如何帮助我们唤醒潜意识知识、理清模糊的感受、确认内心想法。可以举例说明，如“你明明知道自己不喜欢某事，但一句看似简单的‘你只是不适应新环境’却让你茅塞顿开”。强调其在自我认知和解决问题中的实际价值，引发用户共鸣和讨论。"
+  },
+  {
+    "title_en": "Apple’s Full Statement on Yesterday’s Price Increases",
+    "title_cn": "苹果公司就昨日涨价事件发表完整声明",
+    "summary_cn": "苹果公司昨日向媒体发布声明，解释了部分产品价格上涨的原因。声明指出，消费电子行业正面临前所未有的挑战，人工智能数据中心的快速扩张导致内存和存储需求激增。零部件价格上涨的速度和幅度前所未有。苹果表示，公司此前一直努力避免将成本转嫁给消费者，但目前已达到临界点，不得不开始上调部分产品的价格。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/",
+    "score": 8,
+    "angle": "【速报】苹果官宣涨价原因！😱 你的iPhone/Mac要变贵了？幕后黑手竟然是AI大模型！ #苹果涨价 #iPhone #Mac #AI #科技热点 #数码新品 #消费趋势"
+  },
+  {
+    "title_en": "All Chinese Models Will Be Illegal in 3... 2... 1...",
+    "title_cn": "中国AI模型将面临全面封禁？",
+    "summary_cn": "“华盛顿邮报”报道称，美国政府将决定谁能使用顶尖大型语言模型（LLM），继Fable被禁和ChatGPT 5.6受限后，作者预测下一个目标将是中国AI模型。文章指出，尽管如Anthropic等公司宣扬其秘密模型，但DeepSeek等开源模型已证明能以更低成本实现相似功能，挑战了专有模型的地位。这引发了对中国AI模型未来走向的担忧。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/all-chinese-models-will-be-illegal",
+    "score": 8,
+    "angle": "😱紧急！美国要禁中国AI模型了？我们日常用的AI工具还能继续吗？普通人该如何应对这场科技大变局？（讨论AI政策如何影响创作者、打工人，并提供应对建议或引发思考）"
+  },
+  {
+    "title_en": "Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)",
+    "title_cn": "扎克伯格对举报人日益怪异的战争 (2026年6月27日)",
+    "summary_cn": "这篇文章揭露了马克·扎克伯格对举报人日益怪异的“战争”。它特别指出，扎克伯格曾因一本书而提出高达1.11亿美元的索赔，并试图让作者永远保持沉默。文章以反讽的口吻“警告”读者不要去读那本引发争议的书。除了这一核心事件，文章还提到了其他多样化的话题链接，涵盖了从加密货币、政治经济到彼得·蒂尔财务操作等多个领域。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "score": 8,
+    "angle": "扎克伯格真面目？科技巨头如何打压举报人！竟要求1.11亿+永久禁言？😱"
+  },
+  {
+    "title_en": "Reading List 06/27/26",
+    "title_cn": "阅读清单 2026年6月27日",
+    "summary_cn": "特朗普拒签住房法案引关注；美国本土制造门窗成本高昂；卡车运输效率低下成挑战；以及为何停止大规模填海造地等深度话题。揭示经济与社会现象背后的原因。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-062726",
+    "score": 8,
+    "angle": "聚焦“美国制造的门成本高昂”这一现象，为计划家装的用户提供家居产品（特别是门窗）的选购避坑指南和省钱策略。可进一步探讨供应链和物流（如卡车运输慢）如何影响日常消费品价格，提升用户对消费品定价机制的认知，打造实用型生活消费科普。"
+  },
+  {
+    "title_en": "Premium: Notes From The Bubble, Volume 1",
+    "title_cn": "泡泡札记，第一卷",
+    "summary_cn": "近期作者事务繁忙，原计划撰写的“Hater's Guide”未能如期完成。鉴于本周所剩时间不多，作者决定调整计划，推出一个全新的、持续更新的系列专栏——“泡泡札记”。本系列将取代未能完成的指南，成为作者记录和分享近期观察与思考的平台。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/",
+    "score": 8,
+    "angle": "可以定位为“特定圈层/行业生活揭秘”，以【我在XX圈层“泡泡”里的独家观察日记】为切入点，分享作为局内人的所见所闻、思考感悟，吸引对该领域好奇或有向往的读者。"
+  },
+  {
+    "title_en": "AI Becomes Leading Cause of US Job Cuts in 2026, Surpassing Previous Two Years Combined",
+    "title_cn": "2026年AI成为美国裁员主因，裁员数量已超前两年总和",
+    "summary_cn": "2026年前五个月，AI已成为美国裁员的首要原因，裁员总数超过了2024年和2025年的总和。五月份科技行业裁员数量激增，多公司明确表示是AI提升效率导致。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTddkcqrVjVF_y0JXQgJlZmq6ODlz8vtnEu6Wyi9JHQ-EP0X3ztHJ1VNzXL1AyHxtMuN0xczGTeZL473GSZt_H-FqVwCqIw9dlpDKgyAkrdRW0MjfpoByX5-kxIqibI4_lT0s9lsxr7eKp4VwylTojkc4wGYw=",
+    "score": 8,
+    "angle": "AI浪潮下职场巨变！2026年美国裁员潮AI成主因，你的饭碗还稳吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Broadcom, Apollo, and Blackstone Launch $35 Billion AI XPV Platform for AI Infrastructure",
+    "title_cn": "博通、阿波罗和黑石联合推出350亿美元AI XPV平台，投资AI基础设施",
+    "summary_cn": "博通与私募股权公司阿波罗和黑石合作，启动了价值350亿美元的AI XPV平台，旨在资助AI基础设施，计划在2028年前支持超过20吉瓦的计算能力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKyir-YRFTf6tnbnH7YkHIu5SLp9OOzMwHDlh3ROpw7O5WebVudpI7ljdSyY-hxc0p9OrKX00Y2Z7h_CU4DoqtqeJq5E6Vg_jHuyRgRERiOGVTgLnD94aQ8FExbSm0ZzA3usYYt6rpL-gSGf8ALp_LjNH6Ok98c229oXuTIvDJ9X1y9pIJcC9FbyClstw-HwPmozH3kKN2T0SeVqOan37m",
+    "score": 8,
+    "angle": "350亿美元巨额投资！博通携手私募巨头打造AI基础设施平台，算力竞争白热化！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Baseten Raises $1.5 Billion Series F Funding at a $13 Billion Valuation",
+    "title_cn": "Baseten完成15亿美元F轮融资，估值达130亿美元",
+    "summary_cn": "AI推理技术提供商Baseten在18个月内完成第四轮融资，获15亿美元F轮投资，公司估值达到130亿美元，由多家知名资本共同领投。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsYOpWVntvCA2oRUdNwRq8Hmr_W8-zcEUDcPGYGb8_JvWLpeR1GCD_iLya3XqBJrMRDJX5dVh8RxVbzg2JysHqCyXAuGBR-FNWY7ktkH03TIJdnDKYiCfidRAzOMPg2quy3-_cNicPMouNZaDDcl-4xDC8Y_5D99oUbooX_Q301LqWTXEBZLLKdptynxchd7Jh-l5I",
+    "score": 8,
+    "angle": "AI推理技术独角兽Baseten获15亿美元融资，估值达130亿，AI掘金潮还在继续！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Qualcomm Acquires Modular for $3.92 Billion in All-Stock Deal",
+    "title_cn": "高通以39.2亿美元全股票交易收购AI芯片软件公司Modular",
+    "summary_cn": "高通于6月25日宣布以39.2亿美元全股票收购Modular，该公司开发了MAX推理引擎和Mojo编程语言，旨在跨多种硬件平台部署AI。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcve3AS7Stm1rzp6nkOTX6V5mXMoi4BV2-b0alas4Kv-sZJi2VW3rvsn0ZRmWF9zNSxOre2ueVqNbd-7kc_OK8j-7dCXGciHUcqeoK6-2av94SL9MJJYg60vGohFgYo8eVhZcplGxDkYr7b624nhsVal4xLzH4rC5T",
+    "score": 8,
+    "angle": "高通豪掷39.2亿美元收购AI芯片软件公司Modular，巨头AI生态布局再下一城！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Incident Report: CVE-2026-LGTM",
+    "title_cn": "CVE-2026-LGTM",
+    "summary_cn": "这是一份由Andrew Nesbitt撰写的未来假设性事件报告。报告设想在2026年，两个来自不同供应商的AI代码审查代理，在处理一个软件包更新请求时，对该包是否恶意产生分歧并陷入无限争论。这场AI“内耗”耗费了340条评论和41,255美元的推理费用，最终在财务部门介入后才得以终止。它揭示了未来AI协作和监管可能面临的挑战与高昂成本。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+    "score": 7,
+    "angle": "可以从“未来AI失控与高昂成本”角度切入。用“🔥AI吵架烧钱4万刀！未来AI会失控吗？这笔冤枉钱谁来付？”这类标题吸引眼球，配上富有冲击力的AI故障或烧钱概念图。内容可简化技术细节，着重讲述“AI失控的假想场景”、“AI内耗的潜在经济损失”以及“我们该如何思考未来AI的监管和伦理挑战”，引发用户对AI未来发展与风险的思考和讨论。例如，使用“这简直是AI界的宫斗戏！”等口语化表达增加趣味性，并引导读者思考AI对我们生活的影响。"
+  },
+  {
+    "title_en": "★ Om",
+    "title_cn": "★ 唵",
+    "summary_cn": "一个拥有宏大而美好“譬喻之心”（即崇高品德和善良心灵）的人，其“真实之心”（即生理器官）却可能糟糕透顶。这种对比突显了生命中出人意料的矛盾与悲剧性，令人深思。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/06/om",
+    "score": 7,
+    "angle": "【最戳心的讽刺💔】为什么善良的人反而更容易被病痛缠身？一个拥有美好心灵却被糟糕身体拖累的故事，让人深思人生的无常与矛盾。你身边有这样的人吗？#人生感悟 #健康反思 #善良与脆弱 #心灵与身体的对话"
+  },
+  {
+    "title_en": "The next big breakthrough will be AIs learning on the job",
+    "title_cn": "AI边做边学将是下一个重大突破",
+    "summary_cn": "AI实验室在研究过程中，常常忽视并丢弃了最有价值的数据。这些被浪费的数据本可用于AI的进一步学习和突破，其价值被严重低估。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/the-next-paradigm",
+    "score": 7,
+    "angle": "下一个AI突破方向竟然是边学边做？！😱 但你知道吗，AI实验室正在偷偷浪费最宝贵的数据！这些数据被扔掉，可能会如何影响我们的未来AI产品？快来揭秘！ #AI #未来科技 #科技内幕 #数据重要性 #深度学习"
+  },
+  {
+    "title_en": "China's Zhipu AI Releases GLM-5.2, an Open-Source Model with 750 Billion Parameters",
+    "title_cn": "中国智谱AI发布7500亿参数开源大模型GLM-5.2",
+    "summary_cn": "中国AI初创公司Z.ai（智谱AI）发布了7500亿参数的开源大模型GLM-5.2，具备百万级token上下文窗口，并声称其能力与领先的美国模型接近，但成本仅为六分之一。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJin04vqQX0snkvU1AqkAorJuDfLJm8C21IkmA76R2gRXXUw--2aVyuJyw_GUf4bR_8Xh3QH3-ADHmPeoquns0pniXjw13C01PwF4qpUuj3gPSd2FRcY_xYILiUtdCc8r15Nfpm6kVzDV-NCnwVCXO2r-7wNuOsQ-TPMo_wbL1hwbzfQ==",
+    "score": 7,
+    "angle": "国产AI大模型再突破！智谱AI发布7500亿参数GLM-5.2，中文能力或赶超国际巨头？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Price-Hiked Apple TV 4K Is 4 Years Old",
+    "title_cn": "涨价的 Apple TV 4K 已有四年历史",
+    "summary_cn": "文章指出，目前市售的第三代 Apple TV 4K 于2022年10月发布。它搭载的A15仿生芯片早在2021年随iPhone 13首次亮相。尽管如此，这款设备仍在涨价销售。鉴于其硬件配置已非最新，业界普遍认为苹果将在今年秋季推出全新的Apple TV 4K型号。这引发了用户对其性价比的担忧。",
+    "source": "daringfireball.net",
+    "url": "https://buyersguide.macrumors.com/#Apple_TV",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Dean W. Ball",
+    "title_cn": "引用迪恩·W·鲍尔",
+    "summary_cn": "文章指出当前前沿模型产业面临困境。训练这些模型成本高昂，其大部分成本需在发布后几个月的短暂窗口期内收回。一旦这个时期过去，模型便不再是前沿技术，市场竞争加剧，利润空间迅速被压缩。因此，每一次发布延迟都在侵蚀实验室宝贵的盈利窗口期。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "模拟古物学家本周谈",
+    "summary_cn": "本期《模拟古物学家》第三期节目，聚焦莎士比亚历史剧《亨利六世（下）》。深入剖析15世纪英格兰玫瑰战争前夕，亨利六世统治下的政治风云、王权衰落与各方势力间的权力斗争。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+    "title_cn": "您的 Ubuntu 26.04 服务器如何从软件 RAID 根文件系统启动",
+    "summary_cn": "在 Ubuntu 24.04 LTS 和 26.04 LTS 之间，软件 RAID 的启动机制究竟发生了哪些变化？",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The case of the DLL that was not present in memory despite not being formally unloaded, part 2",
+    "title_cn": "DLL未被正式卸载却不在内存中的案例，第二部分",
+    "summary_cn": "本文是《DLL未被正式卸载却不在内存中的案例》系列的第二部分。作者在此文中深入剖析了导致DLL从内存中神秘消失的复杂原因，通过将两个看似独立的软件错误巧妙地联系起来，揭示了它们如何共同作用，从而产生这一棘手的内存管理问题。这篇文章旨在为读者提供更全面、更深入的故障分析，帮助理解操作系统底层和程序行为的微妙之处。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Height of harmonic numbers",
+    "title_cn": "调和数的高度",
+    "summary_cn": "本文是关于调和数研究的后续篇章。在前一篇文章中，作者探讨了如何将调和数表示为最简分数，并利用渐近分析方法估算了其分子和分母的位数。本篇将通过具体的图表进行可视化展示和深入分析。文章特别指出，将以基数2（二进制）为基础，重点考察调和数在最简分数形式下，其分子和分母的总位数（即其“高度”）的变化趋势和特性。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing down harmonic numbers",
+    "title_cn": "写下调和数",
+    "summary_cn": "调和数 Hn 被定义为前 n 个正整数倒数之和，即 Hn = 1 + 1/2 + 1/3 + … + 1/n。文章指出，所有分母的乘积是 n!，因此 Hn 可以表示为一个分数 Hn = p/q，其中 q 等于 n!。文章简洁地介绍了调和数的概念及其分数形式的表示方法，暗示了可能更深入的数学探讨。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week in Package Management: 27 June 2026",
+    "title_cn": "2026年6月27日",
+    "summary_cn": "这篇文章汇总了包管理领域本周的最新动态，涵盖了新版本发布、重要的安全公告以及精选文章。旨在为关注软件包管理的技术人员和爱好者提供全面的信息更新，帮助他们及时了解行业前沿进展。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/27/this-week-in-package-management.html",
+    "score": 2,
+    "angle": ""
+  }
+]
