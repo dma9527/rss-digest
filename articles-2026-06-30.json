@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos",
+    "title_cn": "印度供应商塔塔电子数据泄露，iPhone 18 Pro 细节与照片曝光",
+    "summary_cn": "路透社报道称，勒索软件团伙窃取了苹果印度供应商塔塔电子的数据，并将这些文件发布在暗网。泄露内容包括苹果即将推出的iPhone 18 Pro型号的敏感组件和供应商列表，以及相关照片。此次数据泄露提前揭示了未来iPhone产品的部分细节，凸显了电子产品供应链面临的网络安全威胁。",
+    "source": "daringfireball.net",
+    "url": "https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/",
+    "score": 9,
+    "angle": "OMG！iPhone 18 Pro真机图/细节惊天大泄露，提前一年感受未来科技冲击波！"
+  },
+  {
+    "title_en": "OpenAI Previews GPT-5.6 Series (Sol, Terra, Luna) with Restricted Access",
+    "title_cn": "OpenAI发布GPT-5.6系列新模型，性能领先但受政府限制",
+    "summary_cn": "OpenAI预览其新一代旗舰大模型GPT-5.6系列，包括Sol、Terra和Luna，在多项基准测试中表现优异，但根据美国政府要求，目前仅限约20家经审查的合作组织通过API访问。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPP5JPQdpdlPdFYTAMvFOX17d_Eolf7rUGcomq-63G3Uvc0M-eGziNeYtjune1nVTd_bx5Ch60JqH5h4XsMQvH1oZKf0RLc2Z-eZl6L1zmIO5PR77-yAQn1KThN7bjujRduLZPjbJE9hjLaJNOAVTFcQkGQNcbKqJ1Tw==",
+    "score": 9,
+    "angle": "OpenAI新王牌GPT-5.6驾到，性能炸裂却“一码难求”？AI未来走向何方引人深思！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Baidu's Kunlunxin Reportedly Targets $50 Billion IPO, Tencent Becomes Customer",
+    "title_cn": "百度昆仑芯被曝目标估值500亿美元，腾讯成为新客户",
+    "summary_cn": "据消息人士透露，百度旗下AI芯片公司昆仑芯计划赴港IPO，目标估值高达500亿美元，并已将腾讯纳入客户名单，进一步巩固其独立AI芯片供应商地位。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCCzn5wvjqvNW-wp3em1kZwhqHToP-CrIB_QtBzQ3HZ1KeiD02HuQRDLAX6pDRTUtNLwNvrbJw5a5E19HliXJC55Nm5MWMpS-m8lHoBowLNNywCv67TdUZs659p_bVpJpJHrp-",
+    "score": 9,
+    "angle": "500亿美元！百度昆仑芯IPO冲刺，国产AI芯片巨头加速崛起，腾讯都抢着合作！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "South Korea Launches Largest-Ever Industrial Investment Plan, Focusing on Semiconductors and Physical AI",
+    "title_cn": "韩国启动史上最大规模产业投资计划，聚焦半导体与物理AI",
+    "summary_cn": "韩国政府宣布将启动规模超5760亿美元的半导体与人工智能产业投资计划，旨在五年内将DRAM产能翻倍，并将半导体、物理AI和AI数据中心定为产业升级核心支柱。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGufs7lL-O59yUK3IKcp2Y1HxnWMLQ3wtdO6IAvGq4bVIhePngJy3H6cc0OQDO5tsLBlzzNivsEMqebEIxpXcOeXUAWMbDXmzUKjRO9nejwTRXCv0BZjgCM_OGlq3mxPCPQ2Oii22f4B3xZ8Fzr8ug4CiGGwN0VXy4F8NlB1a4pGiazOs9gaFz7kia8n5QK",
+    "score": 9,
+    "angle": "5760亿美元大手笔！韩国豪赌半导体与物理AI，DRAM产能要翻倍？科技巨头们要颤抖了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Count the number of Safari tabs",
+    "title_cn": "统计 Safari 标签页数量",
+    "summary_cn": "如何通过一行AppleScript命令快速统计Safari浏览器中所有打开的标签页数量。作者展示了具体的命令代码`osascript -e 'tell application \"Safari\" to count tabs of every window'`，并附上了一张截图，显示其Safari浏览器中竟有370个标签页，令人震惊。这是一个简单而有趣的\"今日学到\"小知识，适用于Safari用户。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+    "score": 8,
+    "angle": "**挑战你的“标签页囤积症”！**"
+  },
+  {
+    "title_en": "[Sponsor] Day One Journal",
+    "title_cn": "[赞助] Day One 日记",
+    "summary_cn": "Day One 发现许多人难以坚持写日记，并非不善写作，而是不知如何开始或写出“好”日记。为此，他们推出了“Daily Chat”功能，这是一种引导式反思体验，帮助用户梳理一天，组织思绪，并将其转化为一篇完整的日记。早期测试者称其为“游戏规则改变者”，AI 驱动的聊天让记录想法变得前所未有的轻松便捷，从而帮助用户轻松养成日记习惯。",
+    "source": "daringfireball.net",
+    "url": "https://dayoneapp.com/blog/introducing-daily-chat/",
+    "score": 8,
+    "angle": "可以从“日记小白/拖延症患者福音”、“AI帮你轻松写日记”、“告别写日记的纠结，每天坚持记录”等角度切入。突出 Day One 的 Daily Chat 功能如何通过 AI 引导，解决用户不知如何开始、不知写什么、写不好等痛点，让写日记变得像聊天一样简单自然，轻松养成记录习惯，整理思绪，提升自我。"
+  },
+  {
+    "title_en": "The Dating App Plot Device",
+    "title_cn": "约会应用的套路",
+    "summary_cn": "要么帮助用户快速找到伴侣并离开平台，要么通过付费机制尽可能长时间地留住用户。作者暗示，许多应用为追求盈利更倾向于后者，而非真正促成爱情，并简要提到了爱情定义的复杂性。这种策略使得约会应用更像是一种商业“套路”，而非纯粹的缘分撮合者。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/dating-plot-device",
+    "score": 8,
+    "angle": "它不让你脱单，只让你氪金？👀 避开‘爱情陷阱’，聪明玩转交友软件！"
+  },
+  {
+    "title_en": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+    "title_cn": "Gemini 比搜索更好，因为 Google 导致搜索『劣化』 (2026年6月29日)",
+    "summary_cn": "由于 Google 持续『劣化』了其搜索服务，导致像 Gemini 这样的新工具在某些方面表现得比传统搜索更好。此外，文中还链接了一系列包罗万象的最新短讯，涵盖了科技（如微软反垄断案、CCTV 僵尸网络、数据外泄）、政治（国会议员言论、国会工作日程、反垄断政治化）和社会议题（奥运盈利谎言、信息安全中的人为因素）等多个领域，展现了作者对当前事件的广泛关注和批判性视角。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/06/29/arsonist-firefighters/",
+    "score": 8,
+    "angle": "【实用指南】Google搜索已『劣化』？别再忍了！揭秘你每天都在经历的『平台衰败』现象，为什么大家都说Gemini正在成为更好的信息入口？普通人如何高效获取信息，摆脱广告和垃圾内容轰炸！"
+  },
+  {
+    "title_en": "Embodied AI Startup Kuawei Intelligent Completes RMB 1 Billion Series B, Valued Over RMB 10 Billion, Nears IPO",
+    "title_cn": "具身智能企业跨维智能完成10亿元B轮融资，估值超百亿将迎IPO",
+    "summary_cn": "物理AI与具身智能企业跨维智能宣布完成10亿元人民币B轮融资，投后估值超百亿，正式跻身具身智能独角兽行列，并即将启动IPO进程。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqu0c7N5hXLQtMOATRtqCtwkRCUl1off-ABiCWjtOt5SdwoS9fjsGexighQix93v8-_vFd1fIkp8Seg_j53-VFJJz77B0J81j_L-8_JzNMPuaYWJQtY4LRUKf3dE3CwQWMvO0wzOSgHK5r",
+    "score": 8,
+    "angle": "又一具身智能独角兽诞生！跨维智能10亿融资破百亿估值，IPO在即，机器人未来可期！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Embodied AI Company Zhipingfang Raises RMB 5 Billion, Valuation Exceeds RMB 20 Billion",
+    "title_cn": "具身智能公司智平方获近50亿元新融资，估值超200亿",
+    "summary_cn": "具身智能企业智平方完成近50亿元人民币新融资，估值飙升至200亿元以上，成为粤港澳大湾区首个高估值具身智能企业，并已实现量产交付。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB56JbpQkS4ZvvtWea_dOmEMcVsjAQL7JxsEuT-QHFQ6auOKEiZ46Nk6sTqoNmg8Uyno0n0BUltsMLAnIab9c8pT7wz--61XqJaSzDe0N1KOGG0AgCkiG-EbyxSKhIo70u1CnXuw==",
+    "score": 8,
+    "angle": "湾区新晋200亿估值独角兽！智平方50亿融资打造通用机器人，科幻照进现实！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "MiniMax Releases New Flagship M3 Model with Top-tier Coding and Agent Capabilities",
+    "title_cn": "MiniMax发布新旗舰M3模型，强化编程与Agent能力",
+    "summary_cn": "MiniMax推出新一代旗舰M3模型，首次实现顶尖编程能力、百万级超长上下文和原生多模态，尤其强化了在长任务、长上下文和Agentic工作流上的能力。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa0gB1F3_WCoHkv-sdLuYJHGv33g0POmywusQm5_5oZWNhghUuPTQ8mkspC9B-neuI8kWRdZK_GGIJNRFTybq9dOdqT1b21PAeXG5P-xHtkHbTqEejee7_q4YN4X3l1xjWSMM=",
+    "score": 8,
+    "angle": "国产AI大模型卷出新高度！MiniMax M3横空出世，编程Agent能力逆天，打工人要失业？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Nvidia's AI Chip Sales Stall in China as Huawei Ascend Takes Lead",
+    "title_cn": "英伟达AI芯片在中国销量受阻，华为昇腾系列领跑",
+    "summary_cn": "Nvidia在中国的AI芯片销售面临挑战，因当地芯片制造商如华为的昇腾950系列表现强劲，与Nvidia的H200系列相媲美，中国正走向AI芯片自给自足。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3zhDhLtq6-JXGWZRisT_lmuiobSy3Ay8MXHEjfOyHj6zWU4avoVwnVte9jnN3BiC-RH9NemNxuGz_2kTpPuB36RMt_1Zur3T4UokawkPsBzPg-sTZfx90ppheWzL1CFvWjuCQ85xeAROn7jy2X9JI2U57RarsWzAnfbg2xT1leygrQqzZymFY1Z50GRacu4jwTPFPz_5Lb4vb4ciFB9ehS3B958M9xB4BFoOuO4lZgKh5yKPq86i6DaK",
+    "score": 8,
+    "angle": "国产AI芯片逆袭！华为昇腾硬刚英伟达，中国芯片自主化进程再加速！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "title_cn": "用于自主编程的自脚手架大型语言模型",
+    "summary_cn": "Ornith-1.0是DeepReinforce公司发布的首个开源模型，采用MIT许可。它是一款专为自主编程设计的自脚手架大型语言模型，拥有9B至397B MoE等多个版本。该模型基于Gemma 4和Qwen 3.5构建，在同等规模的开源模型中，于编程基准测试上取得了领先的性能表现。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+    "score": 7,
+    "angle": "AI开始“自主编程”了？！它会自己“搭脚手架”写代码，这是要解放双手还是抢饭碗？深度解析这款SOTA开源模型，预测未来编程工作流和对个人技能的要求！"
+  },
+  {
+    "title_en": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+    "title_cn": "乔·沃顿的《每个人都完美》(2026年6月30日)",
+    "summary_cn": "本文介绍了乔·沃顿的新作《每个人都完美》，称其为一部能颠覆日常认知、让人反思平庸生活的奇幻巨著。文章还包含作者对AI公司盈利的看法、腐败议题、以及作者的近期活动安排和书籍出版计划等多元内容。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/06/30/serenissima/",
+    "score": 7,
+    "angle": "一本让你怀疑过往生活，重燃对世界好奇心的神作。从书中探讨如何打破平庸，发现日常中的“不完美之美”与生活哲学。"
+  },
+  {
+    "title_en": "EU Council Gives Final Green Light to Simplify AI Rules, Minimizing Compliance Burden",
+    "title_cn": "欧盟理事会最终批准简化AI法规，旨在降低高风险AI系统合规负担",
+    "summary_cn": "欧盟理事会最终批准简化人工智能法规，旨在最大程度地降低高风险AI系统经济运营商的合规负担，相关立法将很快在欧盟官方公报上发布并生效。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVTivHohKODC16VceOXPXOh8z0Hf67t-zT6vSfWVcreHUVSKui_R2bCiZHCpUb5ot04xnD0yyCjooGU4_0UUDLjiYd0mxY857wud2oYrQ5Hc6c2oBxggx0Q2juZeOxBWBucM4FQ9xaQQwROU1CZrsGhK-cKFq0A58o4R00kl4Gd9c2s3epTEnvUSI2ae3cFwvoNz8_bvnG2HzF_E_wbskpdWnyfTUj60DQhPo09Bp2q66nGWl439vJhDwQM7V6_CTAIA9mtyNUVLGBs2GQu2PMU0SqZJZb5Q==",
+    "score": 7,
+    "angle": "欧盟AI法案迎来大调整！简化规则减轻企业负担，AI发展按下加速键？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "New York State Implements AI Ad Disclosure Law",
+    "title_cn": "纽约州正式实施AI广告披露法案",
+    "summary_cn": "纽约州一项新法律已于本月生效，规定任何包含AI生成人物的广告都必须清楚标注“合成表演者”的披露信息，违者将面临罚款。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzRltSFcn1AsNL7oUHpG6NDa7HUn-IMwUYvBhnqdhff0-yJ4-1BfqgCSFkq2x3poftKpoBb9IauUuF-BtFfDsn0OjvsYqdPX5CxbamCA0Hr6F2m0BDXcLujq53rqezo5uBlAbthWdkhK9mgdC8rEwAEhz1OaNE88NY9nNKf6pNOkbNkFYrBq3A-IsvKmx0DKGbZy-3k4hkeDHnmKVtlL6sOyOyFK9jKQ9EQ1FxdhM=",
+    "score": 7,
+    "angle": "AI虚拟人代言广告要注意！纽约州新规：不披露就要罚款，你的朋友圈安全吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "US GSA Proposes Sweeping AI Data Safeguarding Rules for LLM Contractors",
+    "title_cn": "美国总务管理局提议大语言模型承包商实施全面AI数据保护规则",
+    "summary_cn": "美国总务管理局（GSA）发布拟议规则，针对处理政府数据的大语言模型（LLM）承包商提出严格的数据保护要求，并需将这些要求延伸至整个LLM供应链。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaPcaMocCNnXKy6ygzUaWXSRl7zWV3mNRZy58UP-gDk_Fuvuf6oLkGKrnbFBJPt5-Tk8ixVhNx32o2Kn8WqH3_m9tyKy_0SUDGHY2HlqAYG2KxzDZjoDkOfY395a_JZfa0KkLWkWsvyE5Iwcw6Y8zpF9XaUidIY0I8tOlRoXl1fA34vgRBFhQjA-Jj1iCVUzO6TwynxQzqzPOr1OM5FBcfpRfZnIUQeMM2SAbd5AfrK2o5DPCh",
+    "score": 7,
+    "angle": "重磅！美国政府对AI数据安全出手，大模型承包商将面临史上最严监管！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Derivative equals inverse",
+    "title_cn": "导数等于反函数",
+    "summary_cn": "寻找一个函数f，使得其导数f'(x)在所有正数x上都等于它的反函数f⁻¹(x)。作者强调，这是一个非常规的微分方程，其解法异于大学微分方程课程中教授的任何标准技巧。它被描述为一个奇怪但最终解法引人入胜的难题，挑战了传统的数学解决思路。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Taking Roads and Bridges literally",
+    "title_cn": "字面理解道路与桥梁",
+    "summary_cn": "本文是对2026年联合国开源周的思考。它探讨了如何将“道路与桥梁”这一概念从传统的比喻意义中抽离，转而从字面、具象的层面进行理解。文章可能围绕开源技术在实际基础设施建设、连接性或具体项目中的应用展开，反思开源如何影响我们对物理世界连接方式的认知与实践。",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "HTML table extractor",
+    "title_cn": "HTML 表格提取器",
+    "summary_cn": "这款HTML表格提取工具是作者系列粘贴转换工具的新成员。它能识别并处理从浏览器粘贴的富文本中包含的HTML表格。用户只需粘贴富文本内容，该工具便能自动将检测到的表格转换成HTML、Markdown、CSV、TSV或JSON等多种常用数据格式。这对于需要从网页上快速抓取和整理表格数据，并将其应用到不同场景的用户来说，是一个非常实用且高效的工具。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "As expected, using kexec to switch to a new Ubuntu kernel works",
+    "title_cn": "正如预期，使用 kexec 切换到新的 Ubuntu 内核成功了",
+    "summary_cn": "作者长期以来对 `kexec` 功能置若罔闻，无论是个人机器还是工作场合都未曾尝试使用。然而最近，他意识到 `kexec` 的巨大潜力，特别是可以利用它来启动一个网络（重）安装环境，从而无需服务器即可为 Ubuntu 系统进行操作。这一发现让作者成功地验证了 `kexec` 的实用性，并达到了预期的效果。",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Notes from June 2026",
+    "title_cn": "2026年6月札记",
+    "summary_cn": "2026年6月，芝加哥天气宜人，但作者大部分时间仍旧宅在电脑前。本月，作者在Ghost成功推出了其首个大型项目——自动化功能（目前仍处于测试阶段），并将其视为个人职业生涯中的重要里程碑。",
+    "source": "evanhahn.com",
+    "url": "https://evanhahn.com/notes-from-june-2026/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Data-directed programming in Haskell (SICP 2.4.3)",
+    "title_cn": "Haskell中的数据导向编程 (SICP 2.4.3)",
+    "summary_cn": "这篇文章的作者正在探索经典计算机科学教材SICP（即《巫师之书》）中感兴趣的部分。作者指出，之前讨论了Haskell中的标签化数据，但SICP的作者们认为这并非最佳方案。因此，本文将深入探讨SICP中提出的数据导向编程概念，作为对前一主题的延续和替代方法。文章旨在将SICP的理论思想应用于Haskell实践，探讨不同编程范式下处理数据的方法。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Apricot Computers: An underrated British brand",
+    "title_cn": "一个被低估的英国品牌",
+    "summary_cn": "英国电脑品牌Apricot不像Sinclair、Amstrad和Acorn那样广为人知，常常被讨论者忽视。这篇文章指出，Apricot电脑是一个被低估的英国品牌。虽然内容仅简短提及了1990年初播出的一档电视节目可能与该品牌有关，但并未展开阐述具体细节，核心是强调Apricot在英国电脑品牌史中未获得应有的关注。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/?utm_source=rss&utm_medium=rss&utm_campaign=apricot-computers-an-underrated-british-brand",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A compatibility note on the abuse of Windows window class extra bytes",
+    "title_cn": "滥用 Windows 窗口类额外字节的兼容性说明",
+    "summary_cn": "这篇文章探讨了滥用 Windows 窗口类额外字节来隐藏数据的问题，并提供了一个关于这种滥用可能导致兼容性问题的说明。它提醒开发者注意这种不规范的数据存储方式可能带来的潜在风险和系统兼容性挑战。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488",
+    "score": 1,
+    "angle": ""
+  }
+]
