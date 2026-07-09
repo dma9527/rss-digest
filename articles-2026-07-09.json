@@ -1,0 +1,182 @@
+[
+  {
+    "title_en": "Rewriting Bun in Rust",
+    "title_cn": "Rewriting Bun in Rust",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Introducing GPT‑Live",
+    "title_cn": "Introducing GPT‑Live",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Kenton Varda",
+    "title_cn": "Quoting Kenton Varda",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
+    "title_cn": "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander",
+    "title_cn": "★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973",
+    "title_cn": "‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.rfc-editor.org/info/rfc439/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store",
+    "title_cn": "Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://tyler.io/2026/07/05/escape-from-squircle-jail/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "‘Searching for SmarterChild’ Kickstarter",
+    "title_cn": "‘Searching for SmarterChild’ Kickstarter",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "My Conversation With ELIZA",
+    "title_cn": "My Conversation With ELIZA",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The ELIZA Archaeology Project",
+    "title_cn": "The ELIZA Archaeology Project",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://findingeliza.org/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Post-political (09 Jul 2026)",
+    "title_cn": "Pluralistic: Post-political (09 Jul 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/07/08/wilhoitian/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "BMCs and a surprising USB network device on your server",
+    "title_cn": "BMCs and a surprising USB network device on your server",
+    "summary_cn": "处理失败",
+    "source": "utcc.utoronto.ca/~cks",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The console wars have been lost",
+    "title_cn": "The console wars have been lost",
+    "summary_cn": "处理失败",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/notes/2026/console-wars-lost/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
+    "title_cn": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)",
+    "title_cn": "Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)",
+    "summary_cn": "处理失败",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "poppy the training box, part 1: the beginnings",
+    "title_cn": "poppy the training box, part 1: the beginnings",
+    "summary_cn": "处理失败",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Unboxed: Zig",
+    "title_cn": "Unboxed: Zig",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/07/09/unboxed-zig.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Family Feud: Mac-assed Mac App Edition",
+    "title_cn": "Family Feud: Mac-assed Mac App Edition",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/mac-assed-family-feud/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Monorail: Pioneering $999 PCs from 1996",
+    "title_cn": "Monorail: Pioneering $999 PCs from 1996",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/monorail-the-pioneering-999-pc-from-1996/?utm_source=rss&utm_medium=rss&utm_campaign=monorail-the-pioneering-999-pc-from-1996",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Decline of Deviance 2",
+    "title_cn": "The Decline of Deviance 2",
+    "summary_cn": "处理失败",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
+    "score": 0,
+    "angle": ""
+  }
+]
