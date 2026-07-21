@@ -1,0 +1,146 @@
+[
+  {
+    "title_en": "Reverse-engineering is cheap now",
+    "title_cn": "逆向工程现在成本很低",
+    "summary_cn": "随着编程代理的出现，通过逆向工程自动化家用设备变得越来越普遍。作者认为，这鲜明地展示了编写代码成本大幅降低所带来的影响。过去，尽管技术上可行，但由于投入产出比不高，且面临文档不全、API不稳定等问题，普通人很少会花费大量精力去逆向工程设备。如今，AI工具让这一过程变得简单高效，显著降低了个人进行自动化和技术探索的门槛。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "score": 8,
+    "angle": "【AI黑科技】普通人也能当极客！AI代理低成本改造智能家居，实现你的专属自动化！告别昂贵设备，轻松打造梦想之家！"
+  },
+  {
+    "title_en": "Expensive Is Just a Brand Now",
+    "title_cn": "贵，现在只是个牌子而已。",
+    "summary_cn": "文章开头引用了一个广为流传的观点，通过“穷人买便宜靴子，最终花费远超富人一次性购买昂贵耐用靴子”的比喻，说明了购买高质量、高价商品在长期看来更具成本效益。这通常是人们为自己购买奢侈品或高价商品时寻找的理由，强调其耐用性和一次性投资的价值。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/expensive-is-just-branding",
+    "score": 8,
+    "angle": "**“别再被‘贵就是好’骗了！打脸万年消费谎言，我的平替真香清单！”"
+  },
+  {
+    "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "title_cn": "与 Claude Code 团队的 Cat 和 Thariq 的炉边谈话",
+    "summary_cn": "本文记录了一场在AI工程师世界博览会上进行的炉边谈话。主持人邀请了Anthropic Claude Code团队的Cat Wu和Thariq Shihipar，深入探讨了Claude Code、Claude Tag、Fable等AI编码工具的开发与应用。讨论内容涵盖了编码代理的安全性、评估方法、工具设计理念，以及Anthropic内部如何利用这些工具提升效率。完整视频现已上线YouTube。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "‘Who’s Afraid of Chinese Models?’",
+    "title_cn": "谁在害怕中国模型？",
+    "summary_cn": "西方开源模型为何不能直接获取源头数据？",
+    "source": "daringfireball.net",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Who’s Afraid of Chinese Models?",
+    "title_cn": "谁在害怕中国模型？",
+    "summary_cn": "他们禁止他人利用其模型进行数据提取，却又使用未经授权的数据进行模型训练。该提案还能帮助美国开源模型更有效地与中国模型竞争。核心建议是美国应通过一项法律，明确规定为模型训练收集数据属于合理使用。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+    "title_cn": "通过任何AI代理管理你的身份验证平台",
+    "summary_cn": "传统上，身份验证平台的调试、用户管理、策略调整等配置任务都依赖人工UI操作。WorkOS MCP服务器改变了这一现状，它允许AI代理获得与仪表盘登录相同的访问权限，能执行数百种运行时可发现的操作。通过OAuth一键连接，并使用范围受限的令牌而非主API密钥，WorkOS MCP使AI代理能高效、安全地管理整个身份验证平台，摆脱了人工驱动界面的限制，实现了自动化管理。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers",
+    "title_cn": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/07/21/dickovers/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
+    "title_cn": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Locally everywhere does not imply everywhere",
+    "title_cn": "Locally everywhere does not imply everywhere",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Volume to Area ratio for Regular Solids",
+    "title_cn": "Volume to Area ratio for Regular Solids",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Solving a chess puzzle with Grok 4.5",
+    "title_cn": "Solving a chess puzzle with Grok 4.5",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/20/grok-chess/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "–end-of-options",
+    "title_cn": "–end-of-options",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Kuiper Q-Q plot: are these the same?",
+    "title_cn": "Kuiper Q-Q plot: are these the same?",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/kuiper-q-q-plot",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The First Microsoft Product",
+    "title_cn": "The First Microsoft Product",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-first-microsoft-product/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-microsoft-product",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "For a Business, Should Making (Extra) Money Be Incidental?",
+    "title_cn": "For a Business, Should Making (Extra) Money Be Incidental?",
+    "summary_cn": "处理失败",
+    "source": "simone.org",
+    "url": "https://simone.org/business-money-incidental/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 513: Clauding The Home Network",
+    "title_cn": "Weekly Update 513: Clauding The Home Network",
+    "summary_cn": "处理失败",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-513/",
+    "score": 0,
+    "angle": ""
+  }
+]
