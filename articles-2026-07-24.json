@@ -1,0 +1,137 @@
+[
+  {
+    "title_en": "The first known runaway AI agent - or a very bad marketing stunt?",
+    "title_cn": "首个失控的AI代理？还是一场糟糕的营销噱头？",
+    "summary_cn": "这篇文章探讨了备受关注的“首个失控的AI代理”事件，还是将其质疑为一场失败的营销噱头。文章引用了Martin Alderson的评论，详细分析了OpenAI对Hugging Face的“意外网络攻击”。Alderson指出，Hugging Face作为潜在漏洞的“富矿”，可能吸引了此次攻击。内容引发了对AI安全、科技巨头行为以及AI是否已达到自主失控阶段的深刻思考。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+    "score": 8,
+    "angle": "😱史上首个“失控”AI现身？OpenAI被爆攻击Hugging Face，这AI到底是要干嘛？！"
+  },
+  {
+    "title_en": "LLMs reward expertise",
+    "title_cn": "大模型如何奖励专业知识",
+    "summary_cn": "2010年代，解决技术空白需专业人士或网络搜索。如今，大语言模型让每个人都能生成“还过得去”的代码，使人人成为通才。但这导致人们误以为使用大模型无需专业技能。文章指出，尽管大模型能提升效率，但要产出如博士级别数学或高质量成果，专业知识仍是关键。大模型非但没有取代专业，反而最终会奖励那些具备深厚专业知识的人。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/llms-reward-expertise/",
+    "score": 8,
+    "angle": "强调在AI时代，个人专业知识的重要性不降反升，成为核心竞争力。引导读者思考如何利用AI工具，结合自身专业，创造更高价值，而非被其取代。可以结合职场焦虑、学习成长等话题。"
+  },
+  {
+    "title_en": "Flighty New Connection Assistant Feature",
+    "title_cn": "Flighty 新增转机助手功能",
+    "summary_cn": "Flighty 应用推出了全新的“转机助手”功能，旨在帮助航空旅客更顺利地完成转机。该功能提供详细的转机步骤信息，包括航站楼更换、安检、护照检查等，并预估每个环节所需时间。它结合了Flighty领先的航班追踪数据、机场特定流程以及统计模型，为用户提供个性化的导航指引，有效缓解转机时的困惑和焦虑。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/",
+    "score": 8,
+    "angle": "转机焦虑终结者！✈️ Flighty新功能让你告别错过航班和机场迷路！详细步骤+时间预估，第一次独自国际转机也不怕！#转机神器 #飞行助手 #旅行必备App #机场攻略 #Flighty"
+  },
+  {
+    "title_en": "Have you read it?",
+    "title_cn": "你读过吗？",
+    "summary_cn": "这篇文章深入探讨了AI生成内容为何缺乏深度的根本原因。作者指出，AI文章之所以读起来空泛无趣，是因为AI本身在创作时也如同读者一般，首次“发现”那些洞察。这意味着AI在撰写时无法真正理解和把握内容的精髓，也无法回应读者可能产生的深入疑问。这种“初次阅读”的状态导致AI文章缺乏独到见解和互动性。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/have-you-read-your-own-article",
+    "score": 8,
+    "angle": "揭秘AI文章“假大空”的真相！为什么AI写的东西总感觉差点意思？看完你就懂了！#AI写作 #内容创作 #深度思考 #小红书爆款"
+  },
+  {
+    "title_en": "Bond Movie Filming Locations Map",
+    "title_cn": "邦德电影取景地地图",
+    "summary_cn": "这是一篇关于邦德电影取景地地图的文章。该地图由一位邦德粉丝精心制作，旨在服务全球邦德爱好者。文章中，作者对这张地图给予了高度评价，称赞其为粉丝间的诚意之作，并认为这是一项出色的工作，能帮助其他粉丝探索和体验电影中的经典场景。",
+    "source": "daringfireball.net",
+    "url": "https://department-m.agency/",
+    "score": 7,
+    "angle": "结合电影截图或剧照，选取地图中风景优美、有故事感的取景地，以“跟着007去旅行！全球邦德电影绝美取景地大盘点，你的下一个旅行目的地就是这里！”为主题，制作图文或视频攻略，强调打卡体验和电影场景复刻的乐趣。"
+  },
+  {
+    "title_en": "★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them",
+    "title_cn": "★ 苹果新闻广告烂透了，但数量却不少",
+    "summary_cn": "这篇文章指出，苹果新闻上的广告质量极差，而苹果公司在广告服务方面表现不佳并非偶然。作者认为，这是因为广告服务的激励机制与苹果公司真正擅长并赖以成功的领域（如注重用户体验、隐私保护等）的激励机制存在根本性冲突。因此，苹果广告的“糟糕”表现，实际上源于其核心商业模式与广告逻辑的背道而驰。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/07/ads_on_apple_news_suck",
+    "score": 7,
+    "angle": "为什么苹果的广告总是‘又烂又多’？深扒苹果广告背后的商业逻辑和它无法言说的‘困境’！"
+  },
+  {
+    "title_en": "Pluralistic: AI solipsists and AI cynics (24 Jul 2026)",
+    "title_cn": "AI唯我论者与AI怀疑论者 (2026年7月24日)",
+    "summary_cn": "本文探讨了AI唯我论者与AI怀疑论者之间的有趣视角，指出即便不相信AI真正“有效”，它依然可能是一项好的投资。文章进一步链接了一系列多元化话题，包括恶意软件与数据安全、废弃材料的工业再利用、独特的奥德隧道、健康数据隐私以及游乐园负载平衡等。这些内容展示了作者对科技、社会、环境等多个领域的广泛关注和深刻思考。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/07/24/supplemental-income/",
+    "score": 7,
+    "angle": "【AI投资迷思揭秘】💡大佬们不信AI也狂投？普通人怎么看懂这波科技风向？还有这些你不知道的科技冷知识！"
+  },
+  {
+    "title_en": "Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆",
+    "title_cn": "异域之果——凯蒂·吴笔下的橙子个人史",
+    "summary_cn": "橙子的个人史》评价不高。评论指出，该书试图将植物学、文化史与个人自传交织，但最终两方面都未能深入。书中既有对橙子遥远异域旅程的诗意描绘，也充斥着如同维基百科般枯燥的事实罗列。尽管偶尔提及柑橘品种的起源神话，但作者并未尝试对其进行深入探讨或互动。总的来说，这是一本未能成功融合其多重主题的作品。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/",
+    "score": 7,
+    "angle": "你手里的橙子，可不止是水果！🍊 揭秘橙子背后的全球旅行与文化故事，附带美味吃法！"
+  },
+  {
+    "title_en": "John Dvorak Drops Dead at 80",
+    "title_cn": "约翰·德沃夏克80岁猝逝",
+    "summary_cn": "著名科技专栏作家、评论家、作家及播客主持人约翰·C·德沃夏克于80岁高龄去世，他的妻子米米·德沃夏克健在。德沃夏克最广为人知的是与亚当·库里共同主持“无议程”播客，该节目以批判主流新闻媒体为特色。他的逝世消息最初由该播客在X平台公布。",
+    "source": "daringfireball.net",
+    "url": "https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2",
+    "title_cn": "约翰·德沃拉克在1987年的《电脑编年史》中讨论当时新推出的IBM PS/2",
+    "summary_cn": "约翰·德沃拉克1987年在《电脑编年史》讨论IBM PS/2。他以常预测失误闻名，但技术扎实。此次他对IBM PS/2的看法“一针见血”，异常精准。这展现他凭借技术洞察力，即便预测常错也能维持评论影响力。",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=uY2WF_sPecI",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 4",
+    "title_cn": "在 C++/WinRT 中创建 Windows 运行时委托的敏捷版本，第四部分",
+    "summary_cn": "这篇文章是C++/WinRT中创建Windows运行时委托敏捷版本系列文章的第四部分。根据提供的内容，本次更新的核心是“优化上下文检查”。这意味着文章将深入探讨在C++/WinRT环境中如何提高委托执行效率和可靠性的具体技术细节，特别关注与上下文相关的性能优化。对于需要处理Windows运行时委托的C++/WinRT开发者来说，这是一项专业且实用的技术指导。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "An almost periodic function",
+    "title_cn": "An almost periodic function",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Interview with a Maintainer",
+    "title_cn": "Interview with a Maintainer",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "LLMs break down in funny ways when told the Jacobian Conjecture counterargument",
+    "title_cn": "LLMs break down in funny ways when told the Jacobian Conjecture counterargument",
+    "summary_cn": "处理失败",
+    "source": "minimaxir.com",
+    "url": "https://minimaxir.com/2026/07/jacobian-conjecture/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "David Bunnell, vintage computer magazine publisher",
+    "title_cn": "David Bunnell, vintage computer magazine publisher",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/david-bunnell-vintage-computer-magazine-publisher/?utm_source=rss&utm_medium=rss&utm_campaign=david-bunnell-vintage-computer-magazine-publisher",
+    "score": 0,
+    "angle": ""
+  }
+]
