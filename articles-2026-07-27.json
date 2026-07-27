@@ -1,0 +1,65 @@
+[
+  {
+    "title_en": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+    "title_cn": "揭秘驱动LLM令牌转售和欺诈的中继市场",
+    "summary_cn": "Matt Lenhard的调查深入揭示了一个围绕低价转售LLM令牌的市场，该市场主要在中国活跃。转售商通过汇集多种API密钥（通常滥用免费试用），大幅降低LLM服务的成本，并通过LLM代理向用户提供折扣服务。这种模式不仅涉及令牌的非法转售，还驱动了潜在的欺诈行为，为用户提供了看似优惠的AI访问途径，但其背后隐藏着不法手段和风险。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+    "score": 8,
+    "angle": "揭秘！你用的便宜AI服务，可能是这样“生产”出来的！当心LLM令牌转售市场的陷阱与欺诈风险。"
+  },
+  {
+    "title_en": "Why $550 Million Medical Debt only Cost $5.5 Million",
+    "title_cn": "5.5亿美元医疗债务为何仅需550万美元？",
+    "summary_cn": "文章以美国Snap公司CEO夫妇的捐款新闻为引，指出媒体报道中强调的“5.5亿美元”实为他们帮助偿还的医疗债务总额，而实际捐款仅为该金额的百分之一，即550万美元。作者对此现象感到困惑，并深入探讨为何巨额医疗债务只需相对较少的资金便能被解决，旨在揭示其背后的运作机制。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/550-million-only-cost-5-million",
+    "score": 8,
+    "angle": "普通人不知道的债务购买冷知识，帮你搞懂巨额医疗债的隐藏折扣！"
+  },
+  {
+    "title_en": "Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)",
+    "title_cn": "欧盟如何在（尽管有特朗普阻挠的）情况下惩罚谷歌",
+    "summary_cn": "本文主要探讨欧盟如何在面临美国政治阻力（尤其指特朗普时期）的情况下，对谷歌实施惩罚和监管。内容节选自当日链接集，除了核心主题，还涵盖了广泛的其他新闻，包括网络审查的“寒蝉效应”、音乐人与社交媒体平台纠纷、媒体版权诉讼、企业高管薪酬与绩效的反差、物联网安全隐患，以及其他社会与文化议题。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/07/27/eucd-6/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Permutation roots",
+    "title_cn": "置换的根",
+    "summary_cn": "本文介绍了置换的平方根概念。如果存在一个置换τ，使得将其应用两次（τ²）的效果与应用另一个置换σ一次的效果相同，那么τ就被称为σ的平方根。文章将n个元素定义为整数0 [...]，以此为基础深入探讨了这一抽象的数学概念。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/26/permutation-roots/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Digital circuit simulator in Haskell (SICP 3.3)",
+    "title_cn": "Haskell 数字电路模拟器 (SICP 3.3)",
+    "summary_cn": "本文是作者系列文章的最新一篇，作者分享了其研读经典计算机科学著作《SICP》（俗称“巫师之书”）中部分章节的心得。由于时间限制，作者选择性地跳读书中感兴趣的章节。本篇聚焦于《SICP》第3.3章，探讨如何使用Haskell语言实现一个数字电路模拟器。作者此前已通过两篇介绍了通过标签值和操作调度实现泛型函数的方法，为理解本篇内容奠定了基础。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "exp_q",
+    "title_cn": "exp_q",
+    "summary_cn": "函数 expq(x) 的定义是对指数函数 exp(x) 的幂级数进行修改，仅保留那些指数为 q 倍数的项。例如，当 q=2 时，exp2(x) 只保留偶数项，其结果等同于双曲余弦函数 cosh(x)。文章还提及了Iverson括号表示法。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/26/exp-q/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Advantages and disadvantages of Windows NT 3.1",
+    "title_cn": "Advantages and disadvantages of Windows NT 3.1",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/?utm_source=rss&utm_medium=rss&utm_campaign=advantages-and-disadvantages-of-windows-nt-3-1",
+    "score": 0,
+    "angle": ""
+  }
+]
