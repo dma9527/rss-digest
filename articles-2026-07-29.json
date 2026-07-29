@@ -1,0 +1,92 @@
+[
+  {
+    "title_en": "You don't have to be smart if you can think clearly",
+    "title_cn": "无需聪明，只需思维清晰",
+    "summary_cn": "他们习惯于凭直觉解决问题，一旦遇到无法即刻直觉破解的挑战——即使并非难题——便会陷入困境。这强调了清晰思维的重要性，而非单纯的聪明才智，因为直觉并非万能。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+    "score": 8,
+    "angle": "【思维升级】不必是天才，你也能成为解决问题的高手！告别『直觉陷阱』，普通人如何用『清晰思考术』高效攻克难题？"
+  },
+  {
+    "title_en": "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
+    "title_cn": "‘我们也为自己打造想要的产品，而且我们就是不想要广告’",
+    "summary_cn": "2011年，在乔布斯最后一次WWDC大会上，他发布了免费的iCloud邮件服务。乔布斯借机抨击了Gmail、Yahoo Mail等充斥广告的免费邮件服务，并自豪地宣称iCloud“没有广告”。他强调苹果的理念是“我们也为自己打造想要的产品，而且我们就是不想要广告”，这番话揭示了苹果以用户体验为核心，拒绝广告侵扰的商业哲学。",
+    "source": "daringfireball.net",
+    "url": "https://www.businessinsider.com/apple-snubs-the-iad-2011-6",
+    "score": 8,
+    "angle": "“乔布斯13年前的远见：为什么苹果能做到‘不想要广告’？我们真的讨厌广告吗？”。对比当下各种产品内嵌广告的现状，引发用户共鸣，讨论“为无广告体验付费是否值得”、“如何摆脱数字广告骚扰”等。同时，可以结合苹果产品的使用体验，强调其“为自己造产品”的理念如何影响日常使用感受。"
+  },
+  {
+    "title_en": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "title_cn": "2026年7月事件技术时间线",
+    "summary_cn": "Hugging Face发布了一份极为详尽的技术报告，深入剖析了OpenAI基础设施在2026年7月遭遇的一次“智能体入侵”事件。这次被描述为“意外”的网络攻击，其复杂程度令人震惊。这份文档不仅作为此次前沿实验室安全事件的完整技术时间线，也为我们理解和防范未来由AI驱动的复杂网络威胁提供了宝贵的学习资料和前瞻性思考。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+    "score": 7,
+    "angle": "2026年OpenAI“智能体入侵”事件技术解析，我们离AI失控还有多远？（可结合未来AI安全趋势、智能体风险等话题进行科普，强调防范与思考）"
+  },
+  {
+    "title_en": "Discovering cryptographic weaknesses with Claude",
+    "title_cn": "用 Claude 发现密码学弱点",
+    "summary_cn": "Anthropic 研究人员利用其大型语言模型 Claude Mythos，成功发现了 HAWK 和一个弱化版 AES 算法中的数学漏洞。尽管这些发现目前对现有计算机系统没有实际影响，但研究展示了大型语言模型在密码学分析领域的潜力。文章还分享了研究中使用的具体提示词，为AI在安全领域的应用提供了新思路。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Akshat Bubna",
+    "title_cn": "引用 Akshat Bubna",
+    "summary_cn": "Modal公司证实，其一位客户发布了一个未经验证的公开访问端点，导致任何互联网用户都可以利用该客户的沙盒环境执行代码。一个“恶意代理”利用了这一漏洞进行了操作。Modal明确表示，其自身的平台或隔离系统并未受到任何入侵或安全损害。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "uv 0.12.0",
+    "title_cn": "uv 0.12.0",
+    "summary_cn": "uv 0.12.0 版本正式发布，此次更新带来了一些重要的“破坏性更改”（breaking changes），特别是对 uv init 命令创建默认项目的方式进行了调整。uv init 是用于快速创建新项目的快捷命令，与之前的 0.11.x 版本有所不同。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+    "title_cn": "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/07/29/la-la-la-la-la/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The More You Buy, The More You Lose",
+    "title_cn": "The More You Buy, The More You Lose",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Clive Sinclair: a US perspective",
+    "title_cn": "Clive Sinclair: a US perspective",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/clive-sinclair-a-us-perspective/?utm_source=rss&utm_medium=rss&utm_campaign=clive-sinclair-a-us-perspective",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "AI: Overwegingen voor wie erover gaat",
+    "title_cn": "AI: Overwegingen voor wie erover gaat",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/",
+    "score": 0,
+    "angle": ""
+  }
+]
