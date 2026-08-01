@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+    "title_cn": "与 Simon Willison 共探开放权重革命",
+    "summary_cn": "Simon Willison受邀做客Oxide and Friends播客，深度探讨了最近AI领域一个“疯狂”的一周。节目重点关注Kimi K3等开放权重模型如何强势崛起，证明其性能已能与顶尖的专有模型匹敌。这预示着AI领域的开放模型正迎来一场颠覆性的革命，挑战传统格局，让AI技术更加触手可及。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+    "score": 8,
+    "angle": "AI圈新革命！Kimi K3爆火背后的“开放权重”模型，如何让AI不再是巨头专属，普通人也能免费玩转AI？"
+  },
+  {
+    "title_en": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "title_cn": "深度求索V4闪电版-0731",
+    "summary_cn": "深度求索V4闪电版-0731是DeepSeek V4系列的最新力作，该模型参数量达3040亿，在Hugging Face上占用167GB。尽管体积相对较小，但其表现却远超同类大模型，尤其在代理能力方面显著增强。根据Artificial Analysis的排名，它的性能甚至超越了参数量更大的MiniMax M3，展现出卓越的性价比和高效性能，是当前AI领域的一项重要进展。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+    "title_cn": "无状态MCP再次引起我的兴趣（并启发了mcp-explorer和datasette-mcp）",
+    "summary_cn": "文章宣布，周二迎来了“无状态MCP日”，即MCP 2.0的正式发布。此版本亦称“2026-07-28模型上下文协议规范”，是该协议自首次推出以来最重大的变革。这次更新不仅标志着MCP的关键演进，也成功地再次激发了作者对这一模型上下文协议的浓厚兴趣，预示着该领域的新发展。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-mcp-client 0.1a0",
+    "title_cn": "LLM模型上下文协议客户端 0.1a0",
+    "summary_cn": "Simon Willison 发布了 llm-mcp-client 0.1a0 版本，这是一个专为大型语言模型（LLM）设计的客户端工具。该客户端实现了模型上下文协议（Model Context Protocol），旨在帮助开发者更高效地管理与LLM交互时的上下文信息，特别是在处理无状态请求的场景下。它提供了一个便捷的方式与兼容该协议的LLM服务进行通信，从而提高AI应用的开发效率。更多技术细节可在其相关博客文章中查阅。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+    "title_cn": "模型、提示词与框架小型评估套件",
+    "summary_cn": "本文介绍了smevals，一个由作者与Prime Radiant应用AI研究实验室共同开发的全新评估工具。smevals是一个小型评估套件，主要用于评估各类AI模型、提示词及其应用框架的性能和能力。它的目标是为人工智能领域提供一个有效、便捷的评估框架，以更好地理解和比较不同模型的表现，从而辅助AI系统的优化与开发。这款工具旨在解答AI能力相关疑问。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-agent 0.4a0",
+    "title_cn": "Datasette Agent 0.4a0",
+    "summary_cn": "Datasette Agent 发布了 0.4a0 版本，此次更新引入了突破性的 `await context.browser_task()` 机制。这一激动人心的新功能允许代理工具直接在用户的浏览器中执行代码，极大地简化了 Datasette Agent 插件开发自定义执行工具的过程。它为开发者提供了更大的灵活性和扩展性，进一步增强了 Datasette Agent 的功能。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio",
+    "title_cn": "Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio",
+    "summary_cn": "处理失败",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Talk Show: ‘What’s in Louie’s Wallet’",
+    "title_cn": "The Talk Show: ‘What’s in Louie’s Wallet’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/thetalkshow/2026/07/31/ep-453",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ Temu Is a Comically Bad App",
+    "title_cn": "★ Temu Is a Comically Bad App",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/07/temu_is_a_comically_bad_app",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Why businesses lie about AI (01 Aug 2026)",
+    "title_cn": "Pluralistic: Why businesses lie about AI (01 Aug 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/01/dare-snot/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★",
+    "title_cn": "Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
+    "title_cn": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+    "title_cn": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+    "summary_cn": "处理失败",
+    "source": "righto.com",
+    "url": "http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Solving the RK4 design equations",
+    "title_cn": "Solving the RK4 design equations",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How I use AI on this blog",
+    "title_cn": "How I use AI on this blog",
+    "summary_cn": "处理失败",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/07/ai-use",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week in Package Management: 1 August 2026",
+    "title_cn": "This Week in Package Management: 1 August 2026",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/08/01/this-week-in-package-management.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Reading List 08/01/26",
+    "title_cn": "Reading List 08/01/26",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-080126",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: AI Is Getting Way Too Expensive",
+    "title_cn": "Premium: AI Is Getting Way Too Expensive",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Y2K Will Be Quite Okay",
+    "title_cn": "Y2K Will Be Quite Okay",
+    "summary_cn": "处理失败",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/07/y2k-will-be-quite-okay/",
+    "score": 0,
+    "angle": ""
+  }
+]
