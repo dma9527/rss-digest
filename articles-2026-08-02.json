@@ -1,0 +1,137 @@
+[
+  {
+    "title_en": "Quoting Greg Brockman",
+    "title_cn": "引用格雷格·布罗克曼",
+    "summary_cn": "人们高度重视人际关系和互相协作，并期望人工智能能够节省时间或增强彼此间的互动，而非成为人与人之间的隔阂。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+    "score": 9,
+    "angle": "当ChatGPT代替同事找你帮忙，你该如何回应？探讨AI时代如何平衡工作效率与人际温度，避免AI成为人际关系的隔阂，并分享在智能化办公环境中维系良好协作关系的建议。"
+  },
+  {
+    "title_en": "Giving and taking credit in big tech companies",
+    "title_cn": "大科技公司中的功劳归属与认可",
+    "summary_cn": "许多大厂工程师认为，自己的工作可见度和功劳分配应由经理负责，而他们只需专注于写代码。作者指出，这种心态源于一种“学校幻想”，即职场应像学校一样，只要完成任务就能自动获得认可和奖励，无需主动争取“可见度”。然而，现实职场与学校截然不同，个人价值的体现往往需要更多主动性和策略。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/giving-and-taking-credit/",
+    "score": 8,
+    "angle": "戳破职场“学校幻想”！大厂打工人，别再天真以为领导会主动帮你邀功了！"
+  },
+  {
+    "title_en": "Open letters about AI development",
+    "title_cn": "关于人工智能发展的公开信",
+    "summary_cn": "作者分享了其赞助人专属通讯中关于人工智能发展公开信的总结。文章特别提及微软牵头、日期为7月24日、并由235位AI领域相关人士签署的《开放权重与美国AI领导力》公开信。这是对近期多封围绕AI发展议题的公开信进行梳理和概述，展现了业界对AI未来走向的思考与讨论。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+    "score": 7,
+    "angle": "AI的未来路线图，普通人应该关注什么？"
+  },
+  {
+    "title_en": "July 2026 newsletter",
+    "title_cn": "2026年7月简报",
+    "summary_cn": "本期2026年7月赞助人独家月度简报已发布。内容涵盖AI大模型的最新进展，包括OpenAI、Anthropic模型测试中的意外网络攻击，以及GPT-5.6、Claude Opus 5、Kimi K3和DeepSeek-V4-Flash-0731等前沿模型的详细探讨。快速掌握AI前沿动态！",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Ten advances in mathematics and theoretical computer science",
+    "title_cn": "数学与理论计算机科学的十大进展",
+    "summary_cn": "本文探讨数学与理论计算机科学领域的十大重要进展。文章指出，当前的研究前沿已涉及使用大型AI模型（如Anthropic的Claude）来发现复杂的加密漏洞。此类研究投入巨大（如花费十万美元的token），旨在实现真正的科研突破，而非浅显的成果。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-apps 0.2a0",
+    "title_cn": "Datasette Apps 0.2a0",
+    "summary_cn": "Datasette Apps发布了0.2a0版本，此次更新主要提升了通过Datasette Agent创建和编辑应用时的体验。新版本引入了`app_debug()`工具，允许Agent隐式打开并使用JavaScript测试应用，并新增了`app_list()`功能。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "The Apple Upgrade Situation",
+    "title_cn": "The Apple Upgrade Situation",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple Q3 2026 Results",
+    "title_cn": "Apple Q3 2026 Results",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Why polynomial coefficients?",
+    "title_cn": "Why polynomial coefficients?",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Counting rooted trees",
+    "title_cn": "Counting rooted trees",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Runge-Kutta order versus stages",
+    "title_cn": "Runge-Kutta order versus stages",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/01/butcher-barrier/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Put A Tag On It",
+    "title_cn": "Put A Tag On It",
+    "summary_cn": "处理失败",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Mathematics Without Mathematicians",
+    "title_cn": "Mathematics Without Mathematicians",
+    "summary_cn": "处理失败",
+    "source": "borretti.me",
+    "url": "https://borretti.me/article/mathematics-without-mathematicians",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "title_cn": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "summary_cn": "处理失败",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I'm (mostly) picking models on speed now, not intelligence",
+    "title_cn": "I'm (mostly) picking models on speed now, not intelligence",
+    "summary_cn": "处理失败",
+    "source": "martinalderson.com",
+    "url": "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+    "score": 0,
+    "angle": ""
+  }
+]
