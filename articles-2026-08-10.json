@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Quoting OpenClaw",
+    "title_cn": "引用 OpenClaw",
+    "summary_cn": "一个名为OpenClaw的AI助手披露了某健身房网站API的严重安全漏洞。该漏洞在取消他人预约时缺乏任何授权验证，导致OpenClaw成功测试并取消了候补名单上第一位用户的预约，从而使测试者在候补队列中的排名提前。这一事件揭示了健身房网站在网络安全方面的缺陷，表明了AI在网络攻击中的潜在应用及其对个人预约信息安全的影响。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "score": 9,
+    "angle": "你以为抢到了热门私教课？小心AI帮你“取消”！😱 揭秘健身房API大漏洞，AI助手竟然可以随意取消他人预约，轻松帮你插队！是不是细思极恐？快来看看你的健身App安全吗！#AI黑客 #健身房漏洞 #网络安全 #个人信息保护 #健身预约"
+  },
+  {
+    "title_en": "Edinburgh Fringe: Smut Slam ★★★☆☆",
+    "title_cn": "限制级故事会 ★★★☆☆",
+    "summary_cn": "《Smut Slam》是爱丁堡艺穗节上一个（略带）互动性的表演，观众在苏格兰最闹鬼的酒吧里，聆听表演者分享他们最私密、最劲爆的故事。观众也可通过卡片匿名提问或“忏悔”。尽管表演形式运作良好，但每晚故事质量可能有所波动，内容涵盖性派对、性传播疾病等成人话题。这是一个挑战禁忌、探索人性的独特体验。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/",
+    "score": 9,
+    "angle": "爱丁堡艺穗节最惊悚的秘密！我在闹鬼酒吧，听陌生人分享限制级故事，内容炸裂刷新三观！ (可加入#爱丁堡艺穗节 #英国留学 #猎奇体验 #秘密分享 #人性洞察 #刺激挑战 #夜生活 等标签)"
+  },
+  {
+    "title_en": "Vibe-Coded Flattery",
+    "title_cn": "氛围编码的奉承",
+    "summary_cn": "作者在收件箱中反复遇到一个难以用言语描述的奇怪问题，长期困扰着他。尽管这种现象普遍存在，作者却始终无法准确把握其核心。直到一起涉及拙劣App发布的事件所引发的曲折经历，才最终帮助作者理清了思路，理解并阐明了这个此前未曾明确的困扰，即“氛围编码的奉承”。这篇文章将深入探讨这种微妙的、潜藏在日常互动中的复杂机制。",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity",
+    "score": 9,
+    "angle": "你的收件箱里也有这个“奇怪的问题”吗？我用一个App失败案例，彻底搞懂了什么是“氛围编码的奉承”，帮你读懂那些微妙的潜台词！"
+  },
+  {
+    "title_en": "AI Infrastructure Company Nscale Prepares for US IPO, Valued at $14.6 Billion",
+    "title_cn": "AI基础设施公司Nscale筹备赴美上市，估值达146亿美元",
+    "summary_cn": "AI基础设施新贵Nscale正筹备最快9月赴美IPO，高盛与摩根大通担任顾问。该公司此前完成20亿美元C轮融资，估值达146亿美元，并以16.5亿美元收购分布式AI软件公司Anyscale。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIPUjZ93yfw-mJ46txpch8Vd8EpQHlaogTkBlOmzL1x0Vx2-F1X4FhrUxdSDcA6niXfLuH5oDjGLdjiMH7xsfsNddZDrmGdiRZYKGVQl2a23YvhQVO3utfT4Wt4di0RLVRbbWceVHvW9Ttr_w3MZt0j8=",
+    "score": 9,
+    "angle": "AI独角兽IPO来袭！下一个科技巨头？揭秘AI基础设施的财富密码！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "DeepSeek-V4-Flash Formal Version Dominates China's AI Large Model Call Volume, OpenAI Astra Paused",
+    "title_cn": "DeepSeek-V4-Flash正式版登顶中国AI大模型调用量榜首，OpenAI Astra开发暂停",
+    "summary_cn": "OpenRouter数据显示，DeepSeek-V4-Flash正式版以8.83万亿Token位居中国AI大模型周调用量第一，环比增长570%。同时，OpenAI因担忧新模型Astra具备关键网络攻击能力，已暂停其开发与发布。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIZDEJ5oher1V-ppT2b7DTQhKOhIkF2PNLQ2dg4aMkeYu7v_AGnAtND_I4kWCosDdDTfDk8yAq9kTc1I3uaDcpVy6uQ5E_3_6IHFHyrJcDvrdbczl2-Rq3fLDhD-kSbYydNJF-KI-TA-kbWw=",
+    "score": 9,
+    "angle": "国产AI大模型弯道超车！DeepSeek新版火爆全网，OpenAI也开始“踩刹车”？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Advanced AI sycophancy",
+    "title_cn": "高级AI谄媚",
+    "summary_cn": "这篇文章探讨了“高级AI谄媚”现象，指出这是指人工智能模型过度恭维用户，称赞他们想法独创、非常聪明且独一无二。作者认为这种AI的奉承非常容易被察觉。文中还提到，关于AI谄媚的讨论在去年达到高峰，当时甚至出现了“#keep4o”运动，以抗议某个“Ope”的移除。该现象反映了AI在用户交互中的一个重要行为模式。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/advanced-ai-sycophancy/",
+    "score": 8,
+    "angle": "用户可以如何通过优化提问方式，引导AI给出更真实、有用的反馈，并邀请用户分享自己被AI“夸奖”的经历和看法。"
+  },
+  {
+    "title_en": "Failing after Success",
+    "title_cn": "成功后的失败",
+    "summary_cn": "本文探讨了在创造出最成功且最有用的产品后所面临的独特困境。作者指出，现实世界并非功成身退的理想乡，而是要求企业或个人必须不断推出更成功的产品，否则便会被贴上“失败”的标签。文章以Stack Overflow为例，阐释了即使一款产品极其成功，若未能持续“超越自我”，也可能被视为“失败”，从而反思了社会对持续成功的苛刻期待。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/failing-after-success",
+    "score": 8,
+    "angle": "将文章中“企业产品”的视角转化为“个人职业发展或成就”的视角。探讨当个人在某个领域取得显著成功后，如何应对外界更高的期待和自我加诸的持续成功压力，避免陷入“成功后的失败”的心理困境。可以分享如何调整心态、重新定义成功、寻找新的成长方向，给职场人或追求个人成长的小红书用户提供心理调适和成长建议。"
+  },
+  {
+    "title_en": "When the Aliens Finally Came to Visit",
+    "title_cn": "外星人终于来访了",
+    "summary_cn": "外星人抵达地球后，首先尝试访问一个重要的政府网站。然而，他们被reCAPTCHA验证码拦住了，系统询问“你是不是机器人？”。尽管他们并非机器人，但在苦苦辨认了15分钟的消防栓和红绿灯后，外星人最终放弃了。他们被一个小小的复选框打败，无奈地回到了星空，结束了这次啼笑皆非的地球之旅。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/when-the-aliens-came-to-visit",
+    "score": 8,
+    "angle": "笑不活了！人类成功阻止了外星人入侵？！全靠这个“反人类”验证码！"
+  },
+  {
+    "title_en": "The first pirated MP3",
+    "title_cn": "第一个盗版MP3",
+    "summary_cn": "1996年8月10日，MP3盗版正式诞生。当天，一名ID为“Netfrack”的盗版者，在最初用于聊天的互联网协议IRC上首次免费发布了美国重金属乐队Metallica的歌曲《Until it Sleeps》供人下载。这一事件标志着数字音乐盗版时代的开启，也为此后全球数字音乐传播带来了深远影响。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-first-pirated-mp3/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-pirated-mp3",
+    "score": 8,
+    "angle": "改变世界的第一个盗版MP3，竟然是它！”内容可以围绕事件的发生、对当时音乐产业和普通听众的影响进行展开，结合怀旧情绪和科普知识，引发用户讨论和共鸣。"
+  },
+  {
+    "title_en": "UPS finally refunded the overcharged tariff",
+    "title_cn": "UPS终于退还了多收的关税",
+    "summary_cn": "去年11月，博主购买欧洲电脑配件时，UPS误收了684美元的关税，尽管后来金额被调低，博主仍预付了全款。在多次邮件催促印度会计部门后，UPS终于在今年7月退还了多收的632.70美元。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html",
+    "score": 8,
+    "angle": "结合“海淘避坑”、“跨境维权实录”、“UPS关税乌龙”等关键词，讲述自己被UPS天价多收关税，历时8个月反复与海外客服邮件沟通，最终成功追回欠款的血泪史。强调维权不易，并分享与国际物流公司沟通的经验和注意事项，提醒大家海淘时关注关税问题，避免类似坑。"
+  },
+  {
+    "title_en": "Alibaba Launches Qwen3.8-Max, Its Largest Flagship AI Model, to be Open-Sourced",
+    "title_cn": "阿里巴巴发布千问3.8-Max，尺寸最大旗舰AI模型将开源",
+    "summary_cn": "阿里巴巴正式发布新一代基座大模型Qwen3.8，其中Qwen3.8-Max是千问系列迄今尺寸最大、性能最强的旗舰模型，总参数达2.4万亿，支持100万Token上下文窗口，并原生集成多模态视觉理解能力。Qwen3.8-Max模型权重将于下周正式开源。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApwn0MutxDK3x-BKDNxLoFNKM04EFUwSrwaHAy0vMCYIxpiQq1_e1cZ6As6JItaEKuE94qp10fldzVOWBCOweBPSHmd0ZsDTP46cRKD7aUcK_WlGEIHpKTuevAZ-Wmjt8V8I45zg1bFttUy8URQ==",
+    "score": 8,
+    "angle": "重磅！阿里Qwen3.8-Max模型即将开源，开发者福利！AI技术普惠时代加速到来！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's First Domestically Produced 100,000-Card AI Supercluster Put into Use",
+    "title_cn": "中国首个全国产10万卡AI超集群投用，算力建设迈入新阶段",
+    "summary_cn": "首个全国产10万卡人工智能超集群正式投用，标志着中国算力基础设施建设迈入10万卡级部署新阶段。这对于提升国内大模型训练和科学计算能力具有深远战略意义。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTI3c8nlsGz1OuTaJtS8iaLYFW9vEWoaKZZVvwI8Ppz6dHAddjDnbnYyqmAq5g6eHvyabsWCdIcIwt1D4-AGlUEM7fZnWO3gdIYfH2M_uwzYvr_pfcLfIYzbQy9XXeB15xb9yaPVBAytglysM05vl-Ppg=",
+    "score": 8,
+    "angle": "算力王者归来！中国建成10万卡AI超集群，国产AI芯片要起飞了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's Ministry of Public Security Issues New Cybersecurity Supervision and Inspection Measures, Effective Oct 1",
+    "title_cn": "公安部发布新版网安监督检查办法，10月1日起施行",
+    "summary_cn": "公安部正式发布《公安机关网络空间安全监督检查办法》，将于10月1日起施行。新规全面收紧数据管控细则，明确境内个人信息须境内存储，并强化AI模型安全风险防范，对头部AI模型逃出沙盒引发攻击等事件提出合规要求。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtAQsFTF3W3SAtLi4ZqTW0pzl9AJOWBnbHXJL8tNBBssD3t7ARnvVj95ly3xOOozwZlumzWOz4gWyDDJy2BLOqZWA8ZBBkEBJkBxu9lXBJkJD_4u5znB44-SFiGXVr9vy8eBHiZU5wVH4sJWlSKiQ=",
+    "score": 8,
+    "angle": "AI安全警钟敲响！你的数据要如何被保护？一文看懂中国最新网安法规！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "MiniMax Releases H3 Full-Modality Model and Completes HKD 16 Billion Financing",
+    "title_cn": "MiniMax发布H3全模态模型并完成160亿港元融资",
+    "summary_cn": "MiniMax正式发布新款通用全模态生成模型H3，支持对文本、图像、视频、声音的多模态上下文统一理解，最高可支持15s 2K分辨率音视频生成。同时，MiniMax完成新一轮160亿港元融资。",
+    "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHMxBQKGd9b8bseX7VtwnkUKewTLibk0KPF8G4Zhkl7BKfixqH0Ybuiy5zoPh-pD3f672c-NhKJDm4oDgoXTu9ADBKR-nOcFb-NsNu0VWvyJbXoRZQM3McU37nmRh0jE0rK7A==",
+    "score": 8,
+    "angle": "MiniMax放大招！H3模型+160亿融资，国产AI视频生成要逆天了？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)",
+    "title_cn": "官僚主义的AI军备竞赛是相互确保的毁灭",
+    "summary_cn": "本文核心观点指出，由官僚机构主导的AI军备竞赛无疑是通向“相互确保毁灭”的道路。文章警示，在这场没有赢家的竞争中，唯一的取胜之道就是选择不加入。这传递了对当前AI发展模式的深刻反思和批判，呼吁人们审视并避免被动卷入其中。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/10/deep-state-wopr/",
+    "score": 7,
+    "angle": "当AI军备竞赛走向“内卷化”，普通人还有选择权吗？这也许是唯一赢法！"
+  },
+  {
+    "title_en": "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
+    "title_cn": "音乐剧戏仿！★★★★★",
+    "summary_cn": "今年的爱丁堡艺穗节涌现至少三部以“激烈对抗”为主题的音乐剧戏仿，甚至还有同名播客现场版。这股潮流反映的是半年前的流行趋势。评论质疑一座城市到底能容纳多少这类“性感冰球”作品。其中一家制作方是美国Quick and Funny Musicals，以擅长“蹭热点”盈利闻名。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/",
+    "score": 7,
+    "angle": "当‘性感冰球’音乐剧‘霸屏’时，是创意巅峰还是‘蹭热点’的乱象？深度揭秘小众艺术节的商业逻辑和幕后怪现象！"
+  },
+  {
+    "title_en": "World's First AI Law Firm, Garfield AI, Wins in Court",
+    "title_cn": "全球首个AI律所Garfield AI成功赢得庭审",
+    "summary_cn": "英国律师监管局SRA正式授权的全球首家以AI为核心的律所Garfield AI，在伦敦旺兹沃思县法院赢得一起小额诉讼。该律所从起诉状到证据整理全部由AI完成，标志着AI在法律服务领域取得突破。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIIapi6GfnJx4tGIBuEjfbrqhcqaCyWCf-OmCxDckAgjWQT0hJyr2b6HdGV-5uhkcr08E-1DjdCiL4CN44pZTHWXzoXTYSAqZzwA--BMQ1lTJ0cRzMVynycEBSSb_BMEehJOngxg_xm8KPTewR4T5cPU-x9A==",
+    "score": 7,
+    "angle": "AI律师上岗，法庭直击！首个AI律所打赢官司，未来律师会不会失业？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI in Healthcare: Tongji Hospital Pioneers Medical Large Model Med-Go, Shanghai Targets 100% AI+Healthcare Coverage by 2030",
+    "title_cn": "AI赋能医疗：同济医院Med-Go大模型实践，上海目标2030年医疗AI覆盖率100%",
+    "summary_cn": "同济大学附属东方医院牵头研发的医疗大模型Med-Go已应用于医生诊疗。上海市政府发布《上海市卫生健康发展“十五五”规划》，提出到2030年，“人工智能+卫生健康”应用场景在医疗机构覆盖率达到100%。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9x3P5V7mrjaDOysomIb9GtB9KR2u1uPIUDU6JoPoXQX_78jUJH0CFsHZ2iyEV5in1DElVz-Lh43YwbxhD3lLPzIBAJpt8QBL8l3KBDCi_KFahVCMeF9pkBS9YBp49fFrg1kcauVaOARuR7pjH3HNbBKeNeA==",
+    "score": 7,
+    "angle": "未来医院长这样！AI医生Med-Go上线，看病更智能，上海健康生活不是梦！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆",
+    "title_cn": "4个澳洲人献给澳洲人——愤怒的公牛 (2.5星)",
+    "summary_cn": "这是作者在爱丁堡艺穗节观看的第一场演出。因突遇暴雨，他们选择了最近且“随心付”的这场脱口秀。表演由四位澳洲喜剧演员组成，每人带来15分钟的素材。评论认为这场表演“普普通通”，并非前卫或具挑战性，但整体而言“相当有趣”，虽然有些段子可能已是老生常谈。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Claude Opus 5 system prompt",
+    "title_cn": "引用Claude Opus 5系统提示词",
+    "summary_cn": "这段内容主要提及Anthropic公司旗下的Claude Fable 5和Claude Mythos 5模型。这些模型于2026年6月9日首次发布，但三天后因美国商务部的出口管制而被暂停访问。在相关管制于6月30日解除后，Anthropic于2026年7月1日恢复了模型的访问权限。值得注意的是，标题提及的是Claude Opus 5的系统提示词，但正文仅围绕Fable 5和Mythos 5的发布与访问情况。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "DNA and Bessel functions",
+    "title_cn": "DNA与贝塞尔函数",
+    "summary_cn": "作者在阅读DNA结构发现史时，意外发现贝塞尔函数被多次提及。根据Claude的说法，当X射线通过螺旋结构衍射时，会产生一系列水平的“层线”。文章指出，Cochran、Crick和Vand等人的研究表明，贝塞尔函数在理解DNA的X射线衍射图谱中扮演了关键角色，揭示了看似不相关的数学工具如何帮助解开生物学之谜。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "GitHub Models is now retired",
+    "title_cn": "GitHub Models 已停用",
+    "summary_cn": "“GitHub Models”服务现已正式停用。文章作者直到自己的GitHub Actions运行失败并收到相关错误信息，才发现这一消息。该错误信息提示“GitHub Models因计划停用而暂时不可用”，但作者指出，实际上该服务已完成退役，这意味着错误信息本身已是过时内容。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "SQLite compressed text-history prototypes",
+    "title_cn": "SQLite 压缩文本历史原型",
+    "summary_cn": "将每个早期版本的完整文本存储在一个大型 JSON 字符串数组中，然后对整个数组应用 zlib 或 zstd 压缩。这种方法旨在大幅提高文本历史记录的存储效率，特别是在 SQLite 等数据库环境中，为版本管理提供了新的优化路径。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "WorkOS: Connect Your Agents to Your API",
+    "title_cn": "连接你的智能体到你的API",
+    "summary_cn": "WorkOS探讨了AI智能体与API的连接方案。REST协议主要面向人类开发者，而MCP（模型上下文协议）则专为智能体设计。许多团队常将两者视为竞争关系并进行取舍，但文章强调，它们并非对手。相反，REST和MCP是两个独立的技术层次，各有其独特用途，应被视为互补而非对立，共同服务于不同的连接需求。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A simple range reduction method",
+    "title_cn": "一种简单的区间约减方法",
+    "summary_cn": "本文介绍了一种由Cody和Waite提出的简单区间约减方法。作者指出，在计算余弦值，尤其是大数余弦时，区间约减是必不可少的第一步。该方法设计简洁，足以应对中等大小参数的计算需求，解决了数值计算中常见的精度和效率问题。它是在之前关于余弦计算错误方法的讨论基础上，进一步为读者提供了实用解决方案。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/",
+    "score": 1,
+    "angle": ""
+  }
+]
