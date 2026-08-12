@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "title_cn": "从专有大模型API窃取推理痕迹",
+    "summary_cn": "这篇研究揭示了Anthropic、OpenAI和Google等公司的大模型API会向客户返回加密的思维链（chain-of-thought）块。这些加密块可以在不同会话、用户和模型之间重复使用。研究人员发现，可以从先进模型中获取这些推理痕迹，并将其重新注入到能力较弱的同系列模型中，从而实现对较弱模型的“越狱”（jailbreak）。这项发现引发了对专有大模型API安全性和潜在滥用风险的关注。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+    "score": 8,
+    "angle": "🚨 重磅揭秘！大模型也有“思维痕迹”？研究者发现竟能“窃取”并“越狱”高级AI！你用的AI安全吗？震惊！大模型背后竟藏着这些“小秘密”，普通人也能懂的AI安全知识。"
+  },
+  {
+    "title_en": "The Economist: ‘How to Spot AI Writing’",
+    "title_cn": "如何识别AI写作",
+    "summary_cn": "这篇文章探讨了如何识别AI生成的内容。经济学人提出，通过对比人类与机器的写作风格，可以发现AI作品的独特特征。为此，文章将构建一个明确且熟悉的“人类写作”基准线，以作为辨别的基础。这篇文章旨在帮助读者掌握辨别AI写作的技巧，从而更好地理解并评估文本来源。",
+    "source": "daringfireball.net",
+    "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw",
+    "score": 8,
+    "angle": "“AI内容泛滥？《经济学人》教你3招秒识破！做个清醒的互联网冲浪者！”内容可以包含AI写作的常见模式、词汇偏好等，帮助小红书用户提升信息辨别能力，避免被AI误导。"
+  },
+  {
+    "title_en": "Microsoft Plugs Nearly 400 Security Holes",
+    "title_cn": "微软修补近400个安全漏洞",
+    "summary_cn": "微软今日发布更新，修复了其Windows操作系统和支持软件中的至少398个安全漏洞。这些漏洞包括一个已被积极利用的弱点，以及另外两个在今天之前已被公开披露的漏洞。此举旨在增强系统安全性，用户应及时安装补丁，以保护其设备免受潜在威胁。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "score": 7,
+    "angle": "🚨紧急提醒！微软一口气修复近400个安全漏洞，其中一个已被黑客利用！你的电脑还裸奔吗？😱 别等出事再后悔，3步教你快速检查并更新系统，保护你的数据和隐私！手慢无！#电脑安全 #系统更新 #微软漏洞 #防黑客 #小白教程"
+  },
+  {
+    "title_en": "Alex Micek on BMW’s iDrive ‘Special Surprises’",
+    "title_cn": "亚历克斯·米塞克谈宝马iDrive的“特殊惊喜”",
+    "summary_cn": "作者亚历克斯·米塞克阐述了他对汽车故障和现代车载系统广告的不同感受。他表示，传统故障如抛锚或漏水会让人愤怒。然而，当汽车系统（如宝马iDrive）利用“未来主义承诺”却显示广告时，他感受到的不是愤怒，而是对未来技术未能实现其真正潜力的一种深刻失望、沮丧甚至绝望。这反映了他对技术进步走向商业化而非用户体验的担忧。",
+    "source": "daringfireball.net",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "score": 7,
+    "angle": "豪华车变广告屏？宝马iDrive的‘未来惊喜’让我心碎！💔 不是愤怒，而是对科技承诺落空的深切失望！你觉得呢？"
+  },
+  {
+    "title_en": "There are no lossless transformations of natural-language text",
+    "title_cn": "自然语言文本无损转换是不存在的",
+    "summary_cn": "你必须...",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-upload-dbs 0.5a0",
+    "title_cn": "Datasette 上传数据库插件 0.5a0",
+    "summary_cn": "Datasette 上传数据库插件允许用户将全新的 SQLite 数据库上传至托管的 Datasette 实例，并立即通过该实例提供服务。该插件还能实现数据库的原子性替换，方便地用新版本更新现有数据，确保数据更新的流畅与可靠。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around",
+    "title_cn": "BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Mark Zuckerberg Posts 6,500-Word AI Essay",
+    "title_cn": "Mark Zuckerberg Posts 6,500-Word AI Essay",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.meta.com/thefutureisforeveryone/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Talk Show: ‘Getting the Snack Right’",
+    "title_cn": "The Talk Show: ‘Getting the Snack Right’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/thetalkshow/2026/08/10/ep-454",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Netflix Has Peaked",
+    "title_cn": "Netflix Has Peaked",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://sharptext.net/2026/is-netflix-washed-now/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content",
+    "title_cn": "Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Where Did the Productivity Gains Go?",
+    "title_cn": "Where Did the Productivity Gains Go?",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/where-did-the-productivity-gains-go",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Model collapse (12 Aug 2026)",
+    "title_cn": "Pluralistic: Model collapse (12 Aug 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The little-known winstart.bat batch file",
+    "title_cn": "The little-known winstart.bat batch file",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Dogs and fat tails",
+    "title_cn": "Dogs and fat tails",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Ryan Greenblatt – What happens once AI can automate AI research?",
+    "title_cn": "Ryan Greenblatt – What happens once AI can automate AI research?",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Books I Enjoyed In 2026H1",
+    "title_cn": "Books I Enjoyed In 2026H1",
+    "summary_cn": "处理失败",
+    "source": "borretti.me",
+    "url": "https://borretti.me/article/books-i-enjoyed-in-2026-h1",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Don't Look Up",
+    "title_cn": "Don't Look Up",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/dont-look-up/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Fruits of AI",
+    "title_cn": "The Fruits of AI",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/fruit-of-ai/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM PC introduced, August 12, 1981",
+    "title_cn": "IBM PC introduced, August 12, 1981",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-pc-introduced-august-12-1981/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-introduced-august-12-1981",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+    "title_cn": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+    "summary_cn": "处理失败",
+    "source": "matduggan.com",
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 516: Live From Vietnam",
+    "title_cn": "Weekly Update 516: Live From Vietnam",
+    "summary_cn": "处理失败",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-516/",
+    "score": 0,
+    "angle": ""
+  }
+]
