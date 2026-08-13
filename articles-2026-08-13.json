@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "TechCrunch on Google’s Pixel 11 Lineup",
+    "title_cn": "TechCrunch 报道谷歌 Pixel 11 系列",
+    "summary_cn": "谷歌发布Pixel 11系列，此次重点在于“智能体AI”以完成用户任务。通过Gemini，美国用户将能体验到AI代劳订购杂货、预订出行或咖啡等服务。Gemini甚至能代表用户致电商家预约或订位。谷歌强调，用户可随时接管或停止AI任务，并能查看AI通话记录。这标志着谷歌在AI个人助理功能上的重大推进。",
+    "source": "daringfireball.net",
+    "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+    "score": 9,
+    "angle": "解放双手神器！AI替你订餐、叫车、约会，懒人福音还是未来生活新范式？"
+  },
+  {
+    "title_en": "App Store Scam of the Week: ‘TabControl Extension’ for Safari",
+    "title_cn": "Safari浏览器“TabControl Extension”扩展",
+    "summary_cn": "文章揭露App Store上名为“TabControl Extension”的Safari扩展存在骗局嫌疑。作者发现，尽管该应用拥有大量五星英文评论，却在美国、澳大利亚和加拿大等英语国家App Store中无法找到，暗示评论可能造假。此外，所有评论者名称均以“名字+i”的格式出现，更加深了其可疑性。这提醒用户警惕App Store中通过虚假评论推广的潜在诈骗应用，保护个人信息和设备安全。",
+    "source": "daringfireball.net",
+    "url": "https://lapcatsoftware.com/articles/2026/8/4.html",
+    "score": 9,
+    "angle": "🚨紧急提醒！苹果App Store也有‘李鬼’！警惕Safari扩展骗局，教你3秒识别假评论，守护你的iPhone安全！"
+  },
+  {
+    "title_en": "Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆",
+    "title_cn": "我们按你的方式试了 ★☆☆☆☆",
+    "summary_cn": "本文评论指出，加勒特·米勒里克在爱丁堡艺穗节的演出是该节最差劲的表演。他尝试让AI模仿其脱口秀，结果AI乏味，他本人则令人厌恶。评论称其在舞台上粗鲁侮辱小孩，对宗教政治的咆哮也极其无趣和过时。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/",
+    "score": 9,
+    "angle": "AI没取代他，但他把自己作没了！"
+  },
+  {
+    "title_en": "alchemy-utils 0.1a0",
+    "title_cn": "alchemy-utils 0.1a0",
+    "summary_cn": "开发者发布了 `alchemy-utils 0.1a0`，一个数据库无关的Python工具库原型。该项目源于作者对通用库的长期思考，并在一早借助AI（Codex和GPT-5.6 Sol Ultra）快速实现。它展示了AI在原型开发中的高效应用。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+    "score": 8,
+    "angle": "“OMG！洗个澡的功夫，AI给我写了个库？！🤖️ GPT-X超神代码生成，程序员们速看未来！” 内容可分享作者如何利用最新AI（Codex/GPT-5.6 Sol Ultra）在极短时间内从构思到实现一个数据库工具原型的过程，强调AI在提升开发效率、加速项目验证方面的巨大潜力，并鼓励读者尝试用AI解决日常编程问题。"
+  },
+  {
+    "title_en": "Quoting Florian Herrengt",
+    "title_cn": "引用 Florian Herrengt",
+    "summary_cn": "文章描述了一个软件开发团队在修复一个AI也束手无策的怪异bug时，发现负责该功能的工程师对数据来源一无所知，甚至需要询问另一个AI来获取信息。这一场景揭示了在AI时代，过度依赖工具可能导致开发者失去对核心业务逻辑的深刻理解，从而引发更深层次的问题，暗示了AI对中层软件工程师工作模式的潜在冲击。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+    "score": 8,
+    "angle": "AI时代，你以为AI帮你省力，其实可能在‘废掉’你的核心竞争力！以软件工程师为例，深入探讨过度依赖AI的潜在风险，以及打工人如何保持不可替代性。"
+  },
+  {
+    "title_en": "Google Design Pisses Its Pants on Twitter/X",
+    "title_cn": "谷歌设计在Twitter/X上翻车了",
+    "summary_cn": "文章作者对谷歌设计在Twitter/X上展示的一个应用设计表达了强烈不满。作者形容该设计糟糕透顶，甚至觉得像是八年级学生的作品，或AI生成的“垃圾”。他指出该设计缺乏美感和恰当的比例，难以置信这是谷歌设计团队的成果，对其品质表示了深深的失望和批判。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/googledesign/status/2087195277094695096",
+    "score": 8,
+    "angle": "这审美，是AI还是实习生干的？"
+  },
+  {
+    "title_en": "Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light",
+    "title_cn": "乔安娜·斯特恩谈 Pixel 11 的“HiLight”通知灯",
+    "summary_cn": "用户可以为重要联系人设置不同的通知灯颜色。这样，即使手机屏幕朝下放置，用户也能通过灯光颜色轻松辨别是谁在尝试联系自己，大大提升了通知的便捷性和个性化。",
+    "source": "daringfireball.net",
+    "url": "https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263",
+    "score": 8,
+    "angle": "Pixel 11这个功能，把黑莓老用户的DNA都唤醒了！📱 不用看屏幕，一眼就知道是谁的消息！告别信息焦虑，专属VIP通知灯太懂我了！🌈 #Pixel11 #HiLight #手机黑科技 #通知灯 #个性化设置 #数码好物 #生活小确幸"
+  },
+  {
+    "title_en": "Google Introduces ‘Camera Looks’ With Pixel 11 Phones",
+    "title_cn": "谷歌Pixel 11手机引入“相机风格”",
+    "summary_cn": "当前，人们喜爱的照片并非总是完美无瑕的，这给智能手机摄像头制造商带来了挑战。谷歌Pixel相机团队指出，用户对照片的需求差异正日益扩大。一些人追求完美优化，但越来越多的人更倾向于真实感或个人风格。为弥合这一分歧，谷歌在Pixel 11手机中引入了‘相机风格’功能，旨在满足用户对多样化影像效果的个性化需求。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+    "score": 8,
+    "angle": "告别修图焦虑！谷歌Pixel 11‘相机风格’让你直出照片也自带高级滤镜，一秒解锁小红书爆款同款氛围感！"
+  },
+  {
+    "title_en": "Google’s Pixel Watch 5",
+    "title_cn": "谷歌 Pixel Watch 5",
+    "summary_cn": "谷歌新发布的Pixel Watch 5售价399美元，但其核心卖点并非硬件创新。新款手表仅在外观上增加了缎面黄铁矿表壳、新表带颜色，并推出了斯蒂芬·库里特别版。内部硬件仅有略微提升的骁龙处理器和电池容量。由于零部件成本上涨，售价反而增加了50美元。文章暗示，除了表面变化和微小的性能提升外，Pixel Watch 5与前代产品差异不大，缺乏显著升级，让人对其创新诚意存疑。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "score": 8,
+    "angle": "以普通消费者视角，聚焦Pixel Watch 5“加价不加量”的槽点，结合其微小的硬件升级（如新配色、处理器微升、电池微增）和涨价50美元的事实，强调其性价比不高，甚至有“智商税”的嫌疑。可以标题党形式质疑“等等党又赢了？”或“加价50刀，你就买这？”引发讨论，引导用户分享对新品智能手表的期待与看法，从而形成高互动和传播。"
+  },
+  {
+    "title_en": "Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails",
+    "title_cn": "亚马逊订单确认邮件敷衍了事，惹恼顾客",
+    "summary_cn": "亚马逊顾客发现，其订单确认邮件内容变得过于简洁，不再显示具体商品名称，而只列出商品类别。例如，购买牙套清洁片会收到“您的美容商品已确认！”。这种模糊的邮件内容引发了顾客不满，许多人都在社交媒体上分享了类似的“精简”邮件截图，认为亚马逊的这一改变降低了购物体验，带来了诸多不便和困惑。",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "score": 8,
+    "angle": "以个人吐槽经历为切入点，配上新旧邮件截图对比。强调这种模糊邮件带来的不便和困惑（如难以核对订单、隐私担忧），并引发用户共鸣，询问大家是否也遇到类似情况，呼吁一起吐槽亚马逊的“迷惑行为”。可加入#亚马逊购物 #网购吐槽 #生活小烦恼 #订单确认 等话题。"
+  },
+  {
+    "title_en": "Reed Jobs Tells a Neuroscience Story",
+    "title_cn": "里德·乔布斯讲述一个神经科学故事",
+    "summary_cn": "这篇内容围绕史蒂夫·乔布斯之子里德·乔布斯讲述的一个神经科学故事展开。文章虽然没有直接描述故事细节，但强调了基因的强大力量及其表现方式令人直观感受。它暗示了某些通过观看即可理解、无需言语解释的现象，这些现象深刻展示了基因在神经科学领域的作用和影响，引发人们对基因奥秘的思考。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/sabrinahalper/status/2086964813788258588?s=46",
+    "score": 8,
+    "angle": "基因的魔力👁️‍🗨️ 苹果乔布斯之子Reed Jobs揭秘！一个无需言语，人人都能感同身受的神经科学故事，你看懂了吗？#基因 #神经科学 #人类奥秘 #ReedJobs #科普知识"
+  },
+  {
+    "title_en": "Edinburgh Fringe: When Vincent Met John ★★★★★",
+    "title_cn": "当文森特遇见约翰",
+    "summary_cn": "爱丁堡艺穗节上，一部名为《当文森特遇见约翰》的戏剧引人注目。与艺穗节常见的披头士主题音乐剧或商业改编不同，这是一部90分钟的普通话剧，突破了标准时长。该剧构思奇特，大胆设想了画家文森特·梵高与音乐家约翰·列侬相遇并展开对话的情景。它以独特的视角和形式，提供了一次跨越时空和艺术领域的思想碰撞。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/",
+    "score": 8,
+    "angle": "建议切入角度为“跨界脑洞大开”和“艺术哲学碰撞”。标题可强调“万万没想到，梵高和列侬竟然能对话？！”吸引眼球。内容可引导用户猜想他们会聊什么，比如艺术与孤独、梦想与现实、生命意义等，激发讨论。同时突出该剧作为非音乐剧的独特之处和超长时长，强调其深度与新颖性，吸引对艺术、哲学或跨界对话感兴趣的文艺青年和思考者。"
+  },
+  {
+    "title_en": "Hands-On With Google Pixel 11 Pro Fold",
+    "title_cn": "谷歌 Pixel 11 Pro Fold 上手体验",
+    "summary_cn": "谷歌 Pixel 11 Pro Fold 在设计上并未如评论员所愿，减轻了上一代的重量和厚度。尽管它保持了优于三星 Z Fold 8 的 IP68 防尘防水等级，并采用了新型玻璃纤维材料以增强坚固性，但谷歌似乎更倾向于耐用而非轻薄。评论指出，虽然手机依然“抗造”，但在追求极致便携的当下，其“分量感”仍可能成为用户考量的重要因素。",
+    "source": "daringfireball.net",
+    "url": "https://www.engadget.com/2235294/google-pixel-11-pro-fold-hands-on/",
+    "score": 7,
+    "angle": "折叠屏的轻薄梦想破灭了？"
+  },
+  {
+    "title_en": "Nature Is Healing",
+    "title_cn": "万物复苏 / 审美回归 (或可意译为“终于好看起来了！”)",
+    "summary_cn": "苹果在macOS 27 Beta 5中对国际象棋应用图标进行了重大更新。博主Basic Apple Guy称之为“史上最强图标升级”。此前的测试版图标是一个扁平的棕色骑士，而最新的Beta 5版本则换成了精美且富有立体感的银色3D骑士。这一显著的视觉提升，让许多用户感到惊喜，直呼“设计审美终于在线”，标志着苹果在系统细节上的回归与提升，使界面更具吸引力。",
+    "source": "daringfireball.net",
+    "url": "https://mastodon.social/@BasicAppleGuy/117073366339407186",
+    "score": 7,
+    "angle": "侧重“苹果设计细节的回归与提升”，通过“前后对比图”强烈展示新旧图标的巨大反差，吸引对Apple产品美学和桌面个性化有追求的用户。标题可强调“细节控狂喜”、“审美复苏”等情绪点，并加入#苹果 #macOS #图标设计 #桌面美学 等热门标签。"
+  },
+  {
+    "title_en": "Book Review: Coding Literacy by Annette Vee ★★⯪☆☆",
+    "title_cn": "安妮特·维著《编程素养》★★⯪☆☆",
+    "summary_cn": "这篇书评指出，安妮特·维的《编程素养》一书令人失望且沮丧。尽管副标题宣称将探讨“计算机编程如何改变写作”，但作者认为该书未能深入讨论这一核心议题。相反，全书主要聚焦于“素养”和“文盲”这两个概念的历史演变及定义。评论认为，该书未能达到预期，错失了探讨编程对写作影响的良机。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/",
+    "score": 7,
+    "angle": "从“避雷”和“真实书评”的角度切入。强调书名《编程素养》与实际内容（聚焦“素养”的历史而非编程对写作的影响）严重不符的反差。可拟定“书名党避雷！这本《编程素养》让我大失所望！”或“以为是编程干货？结果看了本历史书？”等标题，吸引对读书、避坑或科技人文话题感兴趣的读者。"
+  },
+  {
+    "title_en": "Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆",
+    "title_cn": "未经授权的音乐剧戏仿 ★★★★☆",
+    "summary_cn": "今年的爱丁堡艺穗节上，至少有四部以“激烈竞争”为主题的演出。评论员在看完一部音乐剧模仿秀后，又特意去观看了另一部在更大场地Udderbelly上演的“未经授权的音乐剧戏仿”。文章幽默地指出，就像有些观众热衷于比较不同版本的经典剧目，作者也乐于体验并对比多部围绕同一主题的“激烈竞争”作品，享受这种独特的观剧乐趣和其中的差异。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/",
+    "score": 7,
+    "angle": "当“正版”遇上“盗版”！我连看两场“激烈竞争”音乐剧，亲测哪部更精彩？（可突出“未经授权”带来的独特体验和戏剧冲突，吸引对艺术节、小众文化或戏剧八卦感兴趣的用户）"
+  },
+  {
+    "title_en": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+    "title_cn": "DeepSeek V4 Pro 0813 (已上线 OpenRouter)",
+    "summary_cn": "DeepSeek最新专业模型“DeepSeek V4 Pro 0813”现已通过API形式在OpenRouter平台上线。该模型仅支持API调用，且DeepSeek官方尚未发布相关公告，相关信息由作者直接在OpenRouter上发现。目前尚不确定DeepSeek是否计划发布该模型的开源权重，与之前版本不同，这限制了其公开获取途径。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆",
+    "title_cn": "维京战队 ★★⯪☆☆",
+    "summary_cn": "维京战队》是一场技术精准、情感复杂且由才华横溢的表演者充满活力地呈现的演出。尽管表演者叙事天赋异禀，喜剧风格黑暗中不乏亮点，但评论者认为其叙事略显单调，故事节奏可预测且重复，未能被打动。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "The comments that go into code versus those that go into the pull request description",
+    "title_cn": "代码注释与拉取请求描述注释的区别",
+    "summary_cn": "本文探讨了代码注释与拉取请求（PR）描述注释的差异及各自的“时间相关性”。代码注释主要解释代码意图、复杂逻辑，服务于未来代码维护者，其生命周期与代码同步。PR描述则面向代码评审者，介绍更改目的、背景、实现细节，主要作用于评审阶段。理解两者区别，能帮助开发者选择恰当的沟通方式，提升代码质量和协作效率。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Cryptic but consistent",
+    "title_cn": "晦涩但一致",
+    "summary_cn": "本文探讨了Bash shell中类似`!$`的命令行快捷方式为何令初学者难以记住。作者指出，用户常因未能立即理解其必要性而遗忘这些晦涩的指令。尽管表面神秘，但这些命令在底层逻辑上保持一致性。文章强调，掌握此类命令虽需时间，但能最终提高效率。它提示学习晦涩但一致的命令行工具需要理解其潜在价值。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM 5170 PC/AT",
+    "title_cn": "IBM 5170 PC/AT",
+    "summary_cn": "IBM 5170 PC/AT 是一款于1984年8月14日发布的复古个人电脑，因其多重特性而广受欢迎。它是IBM个人电脑中最后一款采用开放式架构的产品，并在1984年中期至1987年期间，曾是市场上速度最快、价格最昂贵的高端机型。这款具有里程碑意义的PC，至今仍是复古电脑爱好者追捧的经典。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-5170-pc-at/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-5170-pc-at",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Card Sharks",
+    "title_cn": "Card Sharks",
+    "summary_cn": "处理失败",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history",
+    "score": 0,
+    "angle": ""
+  }
+]
