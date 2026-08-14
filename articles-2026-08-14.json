@@ -1,0 +1,191 @@
+[
+  {
+    "title_en": "Pluralistic: Capital formation (14 Aug 2026)",
+    "title_cn": "资本形成 (2026年8月14日)",
+    "summary_cn": "这篇“多元主义”文章（2026年8月14日）探讨了资本形成如何通过“走向合法化即走向主流化”来实现。文章还深入关注了“客体永恒性”下的多项社会议题，包括伦敦版权斗士、TSA与口红冲突、长滩摄影师权利、中国与英国互联网审查、对大豪宅的批评、万智牌牌组版权，并强烈反对“保护隐私的年龄验证”机制。此外，文章也分享了作者的最新行程和书籍推荐。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/14/one-chokable-throat/",
+    "score": 8,
+    "angle": "【💡硬核反思】口红被没收？拍照被阻？你习以为常的“常识”，可能只是“资本”的套路！揭秘那些被我们忽略的权利与真相。"
+  },
+  {
+    "title_en": "sqlite-utils 4.2",
+    "title_cn": "sqlite-utils 4.2",
+    "summary_cn": "sqlite-utils 发布了 4.2 版本，此次更新重点改进了 `table.transform()` 功能。该功能现在能够支持更复杂的表结构修改操作，其工作原理是创建一张新表、高效复制现有数据，随后替换旧表。这一改进为用户在进行数据表转换和管理时，提供了更大的灵活性和安全性，尤其适用于处理复杂的数据集。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "sqlite-utils 4.2.1",
+    "title_cn": "sqlite-utils 4.2.1",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-gemini 0.33",
+    "title_cn": "llm-gemini 0.33",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Who’s Tracking You? Use This New Service to Find Out",
+    "title_cn": "Who’s Tracking You? Use This New Service to Find Out",
+    "summary_cn": "处理失败",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Ceramic Shield 2 Is the Real Deal",
+    "title_cn": "Ceramic Shield 2 Is the Real Deal",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe: Waiting for Wonka ★★★⯪☆",
+    "title_cn": "Edinburgh Fringe: Waiting for Wonka ★★★⯪☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
+    "title_cn": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
+    "title_cn": "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
+    "title_cn": "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆",
+    "title_cn": "Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆",
+    "title_cn": "Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs",
+    "title_cn": "A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Hadamard Codes and Sphere Packing",
+    "title_cn": "Hadamard Codes and Sphere Packing",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How NASA’s Mariner 9 probe encoded images",
+    "title_cn": "How NASA’s Mariner 9 probe encoded images",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Constructing Hadamard matrices",
+    "title_cn": "Constructing Hadamard matrices",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Printing Lists",
+    "title_cn": "Printing Lists",
+    "summary_cn": "处理失败",
+    "source": "matklad.github.io",
+    "url": "https://matklad.github.io/2026/08/14/printing-lists.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How This Blog Is Built",
+    "title_cn": "How This Blog Is Built",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/08/14/how-this-blog-is-built.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Supplier Security Questionnaire",
+    "title_cn": "Supplier Security Questionnaire",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+    "title_cn": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Commodore’s purchase of Amiga, August 14, 1984",
+    "title_cn": "Commodore’s purchase of Amiga, August 14, 1984",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/commodores-purchase-of-amiga-august-14-1984/?utm_source=rss&utm_medium=rss&utm_campaign=commodores-purchase-of-amiga-august-14-1984",
+    "score": 0,
+    "angle": ""
+  }
+]
