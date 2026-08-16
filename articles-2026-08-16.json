@@ -1,0 +1,74 @@
+[
+  {
+    "title_en": "AI text watermarking is not a big deal",
+    "title_cn": "AI文本水印没什么大不了的",
+    "summary_cn": "Anthropic宣布将在其Claude模型输出中加入隐藏水印，引发了公众的不满和担忧。一些人担心这是否会导致用户大量流失或对用户体验产生重大影响。然而，本文作者认为，AI文本水印并非什么大事，不会造成实质性改变，也无需过度恐慌。这不会导致用户大规模离开Anthropic平台。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+    "score": 7,
+    "angle": "AI写作加水印就不能用了？别慌！普通用户真正需要知道的真相都在这！"
+  },
+  {
+    "title_en": "Thoughts on visiting the Edinburgh Fringe as a newbie",
+    "title_cn": "新手初访爱丁堡艺穗节的感受",
+    "summary_cn": "作者首次体验爱丁堡艺穗节，分享了作为新手的真实所见所感。他共观看了20多场演出，涵盖了这个艺术盛宴的精彩、不足和令人烦恼的方面。尽管好剧多于烂剧，但在众多选择中，浪费时间在糟糕的演出上仍令人颇感沮丧。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/",
+    "score": 7,
+    "angle": "爱丁堡艺穗节新手必看！狂刷23场演出后的真实感受与避坑指南"
+  },
+  {
+    "title_en": "Probability of correcting errors",
+    "title_cn": "纠错概率",
+    "summary_cn": "它能将6比特像素数据编码为32比特码字，即使传输过程中多达7比特出错，原始像素信息仍可被成功恢复。这突显了纠错码在确保信息可靠性方面的关键作用，特别是在太空探索等对数据准确性要求极高的场景中。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "CORS Chat",
+    "title_cn": "CORS 对话",
+    "summary_cn": "CORS Chat 是 Simon Willison 开发的网页工具，用于测试与 OpenAI 兼容的聊天端点。它可帮助用户在 LM Studio 等环境下，方便地测试如 Qwen 3.8 等大模型的 API 响应及 CORS 配置，简化了模型部署和调试过程。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Drata",
+    "title_cn": "德拉塔",
+    "summary_cn": "文章感谢Drata赞助了上周的Daring Fireball活动。Drata的核心业务是通过自主AI代理，帮助企业实现合规自动化。其服务能够高效管理内部及第三方风险，并持续验证企业的安全态势，确保其符合各项行业标准与法规要求。Drata致力于为企业提供智能化的风险与安全管理解决方案，从而简化复杂的合规流程，提升整体运营效率和安全性。",
+    "source": "daringfireball.net",
+    "url": "https://drata.com/daring",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Compressing a Hadamard matrix",
+    "title_cn": "压缩哈达玛矩阵",
+    "summary_cn": "近期一项新发现的哈达玛矩阵引发关注，作者此前已发表三篇文章，介绍哈达玛矩阵及其在水手9号探测器纠错码和球体堆积构建等领域的应用。本文将深入探讨哈达玛矩阵的压缩方法，哈达玛矩阵是一种重要的正交矩阵，在数学和工程领域有广泛应用，理解其压缩技术有助于优化存储和处理效率。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM PC Compact Printer model 5181",
+    "title_cn": "IBM PC Compact Printer model 5181",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-pc-compact-printer-model-5181/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-compact-printer-model-5181",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Concurrent Servers: Part 7 - Rust",
+    "title_cn": "Concurrent Servers: Part 7 - Rust",
+    "summary_cn": "处理失败",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/",
+    "score": 0,
+    "angle": ""
+  }
+]
