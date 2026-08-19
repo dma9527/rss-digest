@@ -1,0 +1,155 @@
+[
+  {
+    "title_en": "‘Dickover’ Makes It Into The Guardian",
+    "title_cn": "“‘Dickover’ 登上《卫报》”",
+    "summary_cn": "这篇文章介绍了科技作家John Gruber创造的新词“dickover”，它在《卫报》的一篇文章中被收录，该文章探讨了描述科技“地狱景观”的新词。“dickover”被定义为网站或应用程序中，那些有意遮挡内容以阻碍用户体验的模态面板、弹窗或遮罩。这些恼人的弹出窗口已成为现代数字生活中的普遍痛点，让用户不得不反复点击才能访问真正的内容。",
+    "source": "daringfireball.net",
+    "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+    "score": 9,
+    "angle": ""
+  },
+  {
+    "title_en": "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
+    "title_cn": "有组织窃贼暴力劫持高速公路货车，目标直指AI服务器芯片",
+    "summary_cn": "据报道，有组织犯罪团伙近期在美国高速公路上实施了多起暴力劫持事件，目标是运载高价值AI服务器芯片的货车。这些事件发生在从硅谷到南加州的运输途中。尽管每辆货车都配备了由私人安保人员驾驶的无标记护送车辆，犯罪分子仍能成功作案，显示出其组织性和暴力性，引发了对高科技货物运输安全的严重担忧。",
+    "source": "daringfireball.net",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "score": 8,
+    "angle": "【AI芯片成“新黄金”？🚨】硅谷高速惊现暴力劫车大案！有组织犯罪团伙盯上AI服务器芯片，这背后的暴利和高科技供应链危机值得关注。普通人也能从这个“科技瓜”中一窥AI产业的疯狂与风险！"
+  },
+  {
+    "title_en": "Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win",
+    "title_cn": "苹果强硬驳回司法部挑战，巩固七月证据开示胜果",
+    "summary_cn": "9to5Mac报道称，美国司法部针对苹果的反垄断案取得新进展。此案由拜登政府发起，司法部指控苹果部分平台功能具有反竞争性，而苹果则坚称这些功能是为了保护用户隐私和安全。此前，苹果已在七月的证据开示阶段获得胜利，现在苹果正强硬驳回司法部对其七月胜诉提出的挑战，进一步巩固了其法律地位。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Mojo🔥 is now open source",
+    "title_cn": "Mojo🔥 现已开源",
+    "summary_cn": "Mojo编程语言自2023年5月起就承诺将开源。继上周发布1.0版本后，Mojo于今日正式兑现承诺，将其编译器和工具链对外开源。这一里程碑事件标志着Mojo生态系统向更广泛的开发者社区开放，为高性能AI开发提供了新的工具和可能性，吸引了业界的广泛关注。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Hands-on with Raspberry Pi's CM5 Programming Jig",
+    "title_cn": "树莓派CM5编程夹具实测",
+    "summary_cn": "本文作者分享了过去搭建树莓派CM5集群时，为大量CM5烧录系统而面临的繁琐挑战。在CM5价格亲民的时期，他曾构建多个Pi集群，深知手动烧录的耗时与不便。为了解决这一痛点，作者设计并制作了一款树莓派CM5编程夹具，旨在极大简化和加速CM5的系统烧录过程，为需要批量操作的用户提供高效便捷的解决方案。这是一款针对树莓派CM5集群用户设计的实用工具，有效提升了烧录效率。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
+    "title_cn": "迪士尼旗下ABC起诉特朗普政府的FCC，挑战其广播执照",
+    "summary_cn": "迪士尼ABC起诉美国联邦通信委员会（FCC），指控其挑战ABC广播执照并试图监管脱口秀“The View”的行为违法，意在压制特朗普政府不喜的言论。ABC称，特朗普政府屡次攻击其言论。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "OpenAI Pot Complains That Google Kettle Is Black",
+    "title_cn": "OpenAI Pot Complains That Google Kettle Is Black",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://x.com/thsottiaux/status/2083373529081291076?s=12",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: The ordinariness of evil (19 Aug 2026)",
+    "title_cn": "Pluralistic: The ordinariness of evil (19 Aug 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/19/banaility/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: IP can't save you from AI (18 Aug 2026)",
+    "title_cn": "Pluralistic: IP can't save you from AI (18 Aug 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Asymmetric Agents",
+    "title_cn": "Asymmetric Agents",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/asymmetric-agents/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Big little hexagon",
+    "title_cn": "Big little hexagon",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The imbalance theorem",
+    "title_cn": "The imbalance theorem",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Mean distance to the sun",
+    "title_cn": "Mean distance to the sun",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Vim wants you to control, VSCode wants you to consume",
+    "title_cn": "Vim wants you to control, VSCode wants you to consume",
+    "summary_cn": "处理失败",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What Happens If OpenAI Dies?",
+    "title_cn": "What Happens If OpenAI Dies?",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "MOS Technology founded August 19, 1974",
+    "title_cn": "MOS Technology founded August 19, 1974",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss&utm_medium=rss&utm_campaign=mos-technology-founded-august-19-1974",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I like 'em thick",
+    "title_cn": "I like 'em thick",
+    "summary_cn": "处理失败",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "score": 0,
+    "angle": ""
+  }
+]
