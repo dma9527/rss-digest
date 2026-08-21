@@ -1,0 +1,164 @@
+[
+  {
+    "title_en": "A Sloppy Interface Is a Security Liability ￼",
+    "title_cn": "糟糕界面是安全漏洞",
+    "summary_cn": "费罗斯·阿布哈迪耶在其演讲中指出，AI正在颠覆我们所知的软件安全，而糟糕或具有欺骗性的界面本身就是一大安全隐患。他以Axios npm维护者遭遇网络钓鱼的事件为例，说明攻击者如何利用伪造的Microsoft Teams界面成功欺骗受害者。这强调了用户界面设计不严谨或外观具有欺骗性时，极易被利用进行诈骗，使普通用户在日益复杂的网络威胁环境中面临更高的安全风险。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/",
+    "score": 9,
+    "angle": "你每天都在用的界面可能暗藏杀机！”"
+  },
+  {
+    "title_en": "AI Infrastructure Funding Soars to $8.7 Billion in August, Physical AI Attracts Billions",
+    "title_cn": "AI基础设施8月融资超87亿美元，物理AI获数十亿投资",
+    "summary_cn": "Databricks、Firmus等AI基础设施公司8月融资已超87亿美元，估值飙升。同时，Greyparrot等物理AI公司在回收、医疗等领域获数十亿美元投资，表明AI投资正从软件扩展至实体世界。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6wQqoKeb3csmsk8s6aiTqaexRyFodmI24lkTcjFC4WRmLj9IheJFgrFlLn5rdNE9gPht5a03Mlw9VwA7k9S2sejddcp3QAdE422eb9562mrtEExknz-_lXmtCc6wiH1a6rePIDQL_JybuxAws2MxEQno0R0ZQPBrR3IhtWYrFgDSmNTS8Fw8i3VyuTn4oXf9r",
+    "score": 9,
+    "angle": "AI淘金热！基础设施与物理世界AI成新风口，你敢投吗？💸",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Over 125,000 Tech Jobs Cut in 2026 Due to AI-Driven Restructuring",
+    "title_cn": "2026年超12.5万科技岗位因AI驱动重组而被裁",
+    "summary_cn": "截至2026年8月，全球科技行业裁员超过12.5万人，其中54%的裁员事件直接归因于AI、自动化或机器学习。Meta、微软、Oracle等巨头在加大AI投资的同时，正积极重组团队。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv6D76d6JLVXQZ8ZMPUIAKeLTyCLvVIRr86MM18haAFADWHP8pPEkyVFZzh7xt8IchZLTcp-O33KvzmCyAb5kZzitzmORy0jKchJIWLWJPpXDrpdhkW3X7O3DUoAzy3OQWCTt_sNA",
+    "score": 9,
+    "angle": "AI大潮下，工作饭碗如何保？科技巨头裁员潮预警，是危机也是转机！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "ChatGPT search now uses the site:operator at scale",
+    "title_cn": "ChatGPT搜索现已大规模支持site:操作符",
+    "summary_cn": "ChatGPT搜索功能现已大规模支持site:操作符。文章指出，Promptwatch作为新兴的“生成式引擎优化”（GEO）领域公司，致力于帮助网站内容在ChatGPT等AI工具回复中提升曝光度，其产品可自动化追踪提示响应。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+    "score": 8,
+    "angle": "【ChatGPT深度解析】搜索又升级！解锁site:操作符的N种玩法，内容创作者和营销人必看！揭秘AI时代的“生成式引擎优化”（GEO）新概念，助你内容抢占AI高地！"
+  },
+  {
+    "title_en": "Readers can't identify watermarked AI text",
+    "title_cn": "读者难以识别带水印的AI文本",
+    "summary_cn": "作者认为，大家对AI文本水印的看法有误，它既非反消费者，也不会降低输出质量。相关论文也支持此观点。文章进一步指出，即使文本带有AI水印，读者仍然难以识别其AI生成性质，这表明水印技术对读者判断AI内容的能力影响甚微。作者计划通过实践验证这一发现。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+    "score": 8,
+    "angle": "突出“反直觉”和“真相揭露”。小红书标题可以取《别指望了！AI加了水印你也认不出？深度揭秘普通人如何辨别AI文本！》。内容从读者对AI内容识别的普遍焦虑和误解入手，解释为何AI水印技术对于普通用户而言难以察觉其作用，并引导用户关注信息源本身而非技术标识，同时提供一些实际可行的辨别策略（如关注内容逻辑、语态一致性、信息来源等）。配图可使用AI文本与真人文本的对比图，或带有疑惑表情的meme图。"
+  },
+  {
+    "title_en": "Pluralistic: The actual epistemic crisis (20 Aug 2026)",
+    "title_cn": "真正的认知危机 (2026年8月20日)",
+    "summary_cn": "这篇博文或通讯探讨了“真正的认知危机”，指出人工智能对现实的冲击是一种机会主义感染。作者还分享了多样的有趣内容，包括对迪士尼哥特风、会议派对、Equation Group源代码以及“Bubble”和“The Weight”等主题的看法。此外，文章还包含了作者近期和未来的活动安排、书籍发布信息等，内容丰富多元。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/08/20/epistemic-void/",
+    "score": 8,
+    "angle": "AI正在颠覆你的现实？揭秘真正的“认知危机”，教你如何在信息洪流中保持清醒！"
+  },
+  {
+    "title_en": "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆",
+    "title_cn": "《浩瀚的世界：动物感官如何揭示我们周围的隐秘领域》埃德·永著",
+    "summary_cn": "埃德·永的《浩瀚的世界》深入探讨动物多样的感官能力，从我们熟悉的视听觉，到奇特的地磁感应、电感应等。本书并非简单比较感官强弱，而是旨在揭示动物如何通过这些独特视角，体验并构建各自的隐秘世界，展现超越人类认知的广阔维度。它带领读者以全新方式理解生命，感受自然之奇妙。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/",
+    "score": 8,
+    "angle": "突出动物感官的“超能力”和“刷新认知”效果，用对比和举例的方式，揭示动物眼中的奇妙“隐秘世界”，吸引对自然科普和新奇知识感兴趣的用户。"
+  },
+  {
+    "title_en": "In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive",
+    "title_cn": "我在希腊全包式度假村的时光",
+    "summary_cn": "这篇文章以幽默而略带讽刺的笔调，记录了作者在希腊一家全包式度假村的独特体验。标题“在炼狱里人人都爱可丽饼”暗示了度假村生活可能出乎意料的单调或奇特，但某些简单而普遍的乐趣（如可丽饼）却能深入人心。作者在炎炎烈日下，置身于一个国际化的水上乐园，思考着对热的记忆，预示了对这种“炼狱”般度假模式的深入观察与描绘。",
+    "source": "matduggan.com",
+    "url": "https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/",
+    "score": 8,
+    "angle": "希腊全包式度假村是天堂还是炼狱？我每天靠吃可丽饼续命！真实体验大揭秘！"
+  },
+  {
+    "title_en": "EU AI Act and California AI Transparency Act Now Enforceable",
+    "title_cn": "欧盟AI法案和加州AI透明法案正式生效",
+    "summary_cn": "自2026年8月2日起，欧盟AI法案的透明度义务和加州AI透明法案正式生效。交互式AI需明确告知用户，生成式AI内容须进行数字标记，违规将面临巨额罚款。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw9QvG-LD1ugo8HWozwfOUKI0_tth_4mNFIUYgqR4Ia4z_EudU3YP0KIf0yfVAX0Kg9zYRhm79FTTNFnV-mJD4L2nKgJoQ2wErf3urDFB5RnCMhsiouo_gSLA_OaBb0hRjIfKVBvBOeCT4jisnizSlW3fTzp3_BJY",
+    "score": 8,
+    "angle": "AI世界的新规则！欧盟、加州AI法案重磅落地，生成式AI未来怎么玩？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Rebuilds Siri with Google's Gemini Foundation Models, Google Enhances AI Study Tools",
+    "title_cn": "苹果Siri重构接入谷歌Gemini模型，谷歌强化AI学习工具",
+    "summary_cn": "苹果Siri在iOS 27等系统中全面重构，采用与谷歌Gemini合作构建的基础模型。同时，谷歌在Gemini和搜索中集成新的AI学习工具，以吸引学生用户。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOngM8LJ3mzfOXFLYvD7VaxVGKpcAfxtHHA2tGpOIVCaaECqRuuv3Pb2uniTjmcjUvgVes3seLfDr1toWKQMFJSskSGFlFPnpHon9Shpv71QI_dFnid808BaswzsuiQT1jhQjn_aw",
+    "score": 8,
+    "angle": "苹果谷歌联手放大招！Siri变聪明，学习更轻松，AI让生活更智能！📱📚",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "ACE Robotics Chairman Predicts 'ChatGPT Moment' for Embodied AI by End of 2027, Eyes IPO",
+    "title_cn": "ACE Robotics主席预言具身智能2027年底迎来“ChatGPT时刻”，并计划IPO",
+    "summary_cn": "中国具身智能初创公司ACE Robotics主席预测，到2027年底，机器人大脑将迎来类似ChatGPT的突破，驱动力来自世界模型和环境数据捕捉。公司已融资超1亿美元并计划尽快IPO。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFguAVqTYA4L03kLRkJVV-SDJcD-rcpSudQTL7NuxwY0ebe4I3cIRT9sri_B1IXyOqqDCWATEpmcj0bhuElXn-tVHMBGlrU6kDjGpAMIwTI0NfdmaBfl8IUN7aYAl5xxwxeg3XRpWR-v86q0UGnKWC95dugud0OOipid2udyFZegJST5O1cW8DjL4HIMX966pWX-D-8KcdgLMpoEFyPnGqF0xJwENcM3MXSU5CrB-8Lb54ZeuGaa_RSB4SzSb2RPHOyKMRmHvA_FgE=",
+    "score": 8,
+    "angle": "具身智能要爆了？中国ACE Robotics预言机器人“ChatGPT时刻”来临，未来已近！🤖",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Introduces Private Safety Processing and Zero Data Retention for Enterprises",
+    "title_cn": "OpenAI推出私有安全处理功能，承诺企业数据零保留",
+    "summary_cn": "OpenAI为企业用户推出“私有安全处理”功能，可在不访问底层内容的情况下检测AI滥用模式，并重申API用户数据零保留承诺，以增强企业数据隐私和安全性。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTR5g5Bmtf8lCBA8CwIs1u1Brygb4Kx8d8vV7oxU5hPGTjnXV32yQHN5JZVq2FCacutMuXfgNrKu1hoTTtcrMd1rL0i1gmRsg7zhrw5L1vOpDWkJw6WxCdJxeyqPgHUXIIfpDPG46_FHCYtnJYUNbUmgjh5eXLI0SrVsojCfUVhjgaT5jVKc2zdApFX9hGc2QmMnI75io9rRb6k790zPwtfRImZKTDESprHXL1YPrs6tlvOhdgIrqW2dM9MV7OrjcS_A==",
+    "score": 7,
+    "angle": "企业AI福音！OpenAI数据隐私大升级，妈妈再也不怕数据泄露啦！🔒",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "FY2026 NDAA Integrates Strict AI Governance for U.S. National Security",
+    "title_cn": "FY2026国防授权法案嵌入严格AI治理规则，禁制敌对国AI系统",
+    "summary_cn": "2026财年《国防授权法案》将网络安全和AI治理规则纳入军事运营，禁止使用中国等敌对国家的AI系统，并建立新的AI开发和部署监督结构，强化国家安全。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6sA5PiF5T_KYiJMwKwZvPAkK5gAzLG8CLMSMYaRI9lS-EbxW20M-PBhN15vWeeVmPw0l2aYSJ9MBwPG3GTR9lM7yysgw5h4u4xIBpwaM9GAHYZQ3kBNru0M_WVKquyfeaNxwZeejNgSmCYWrozLQ8NjioViw1juVIwvQu4TWCem945w==",
+    "score": 7,
+    "angle": "AI国防新时代！美国防法案限制敌对国AI，军事科技竞争白热化！⚔️",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI-generated ASCII diagrams",
+    "title_cn": "AI 生成的 ASCII 图示",
+    "summary_cn": "作者对AI生成的ASCII图示情有独钟，认为其魅力在于“不协调”——用参数庞大的神经网络生成1970年代风格的复古艺术，这种反差萌本身就极具吸引力。除了这种独特的概念，ASCII图示还具有实用价值，例如文件体积远小于普通图片。它巧妙结合了尖端技术与复古美学，展现了AI在非传统领域的独特应用和潜力。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Getting the Steam Deck LCD working on a Raspberry Pi",
+    "title_cn": "在树莓派上点亮 Steam Deck LCD 屏幕",
+    "summary_cn": "本文探讨如何在树莓派上成功驱动并使用 Steam Deck 原装的 BOE TV070WXM-TV0 LCD 屏幕。这款7英寸触摸屏价格约30美元，具有1280x800分辨率、400尼特亮度和216 ppi像素密度，显示效果清晰锐利。它为DIY项目提供了一个性价比极高的显示方案。文章将深入探讨连接和配置细节，帮助技术爱好者将这款高素质屏幕应用到自己的树莓派设备上，从而扩展其功能性。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Microsoft QuickBasic remembered",
+    "title_cn": "缅怀微软 QuickBasic",
+    "summary_cn": "微软QuickBasic是一款针对MS-DOS的商业编程语言，于1985年8月18日首次发布。而MS-DOS 5和6版本中包含的Qbasic，则是QuickBasic的精简版解释器，其最显著的特点是缺少了部分功能。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/microsoft-quickbasic-remembered/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-quickbasic-remembered",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+    "title_cn": "基于 Bun 1.4 新增的 Bun.WebView 的 shot-scraper 风格 JSON API",
+    "summary_cn": "本文探讨了在最新发布的 Bun 1.4 版本中，如何利用其新增的 Bun.WebView 功能来构建一个 shot-scraper 风格的 JSON API。Bun 1.4 作为自几个月前著名的 Rust 重写以来的首个稳定版本，其发布备受关注。尽管Rust重写在官方宣传中被淡化，但它标志着Bun项目发展的一个重要阶段，并为开发者带来了新的可能性，例如文中提及的API实现。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+    "title_cn": "通过提取函数中类型相关部分，减少 C++ 模板的膨胀",
+    "summary_cn": "将函数中依赖特定类型的部分进行提取和分解，以此来寻找代码中的整合点。这种方法有助于降低 C++ 程序中模板代码的冗余度，从而提升程序的效率和可维护性。对于 C++ 开发者而言，这是一种重要的性能优化技巧。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629",
+    "score": 1,
+    "angle": ""
+  }
+]
