@@ -1,0 +1,110 @@
+[
+  {
+    "title_en": "Quoting Linus Torvalds",
+    "title_cn": "引用林纳斯·托瓦兹",
+    "summary_cn": "林纳斯·托瓦兹分享了一次“地狱般”的调试经历。他表示，人工智能在此过程中提供了巨大帮助，称之为“不知疲倦的助手”。然而，AI也曾多次明确表示该问题“不可能且无法解决”，并建议放弃。托瓦兹推测，AI可能由不如他固执的人训练而成，暗示了人类毅力在解决复杂问题中的独特价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "score": 9,
+    "angle": "AI是强大的辅助，但人类的倔强和毅力，才是解决“地狱级难题”的终极武器！💪 你的坚持，才是真正的“超能力”！别轻易被AI的极限定义！#AI辅助 #程序员日常 #林纳斯 #人生哲理 #永不放弃"
+  },
+  {
+    "title_en": "Dutch Regulator Fines Uber $1 Billion for Suspending Dishonest Drivers",
+    "title_cn": "荷兰监管机构因暂停不诚实司机对优步处以10亿美元罚款",
+    "summary_cn": "荷兰数据保护局对优步（Uber）处以8.25亿欧元（约9.66亿美元）罚款。根据路透社审阅的8月17日决定，优步因通过自动化系统停用司机账户却未充分告知司机而被罚。这笔罚款是欧洲《通用数据保护条例》（GDPR）下开出的第二大罚单，仅次于2023年Meta被爱尔兰罚款的12亿欧元。",
+    "source": "daringfireball.net",
+    "url": "https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/",
+    "score": 8,
+    "angle": "Uber被重罚10亿！你的账号也可能被“系统”一键封禁？普通人如何捍卫数字权益？"
+  },
+  {
+    "title_en": "More than just code review",
+    "title_cn": "不只是代码审查",
+    "summary_cn": "使用AI编码代理的关键在于能自信地指令其修改，并高效验证修改的正确性。文章指出，这并非简单地逐行审查所有代码，因为“凭肉眼”检查每行代码并非验证软件变更最有效的方式。我们应超越传统的代码审查模式，探索更智能、更高效的验证方法，从而最大化AI在软件开发中的生产力和价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+    "score": 7,
+    "angle": "程序员必备！AI编程代理高效验证术，告别逐行Code Review的瞎忙！(强调AI提升开发效率，提供超越传统代码审查的验证策略，吸引技术工作者。)"
+  },
+  {
+    "title_en": "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
+    "title_cn": "“有时，它的签名是用铅笔写的”",
+    "summary_cn": "加拿大总理马克·卡尼宣布退出与美国在华盛顿进行的贸易谈判，此举随即引发了美国新一轮关税。卡尼随后向加拿大人解释了自己离开谈判桌的理由，称美国的提议是“一份糟糕的协议”。他指出，加拿大从一开始就认识到“美国已经改变”，并强调“有时，它的签名是用铅笔写的”，暗示美国的承诺可能缺乏稳定性和可靠性。",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "llm 0.33",
+    "title_cn": "LLM 0.33 版本更新",
+    "summary_cn": "llm 0.33 版本已正式发布，此更新主要由 Simon W. 维护，集中在技术层面的升级。其中核心亮点包括将底层的 OpenAI Python 库升级至 3.x 版本，以及把 HTTP 客户端依赖从 `httpx` 替换为 `httpx2`。这些变动旨在提升 llm 工具的内部性能和兼容性，属于开发者关注的技术细节更新。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/22/llm/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "WorkOS: Agents Can Now Sign Up for Your App",
+    "title_cn": "代理可以注册你的应用了",
+    "summary_cn": "WorkOS正在推广其代理注册功能。文章指出，当前许多应用注册流程是为人类用户设计的，导致自动化代理（Agents）在尝试注册时，常因无法通过浏览器登录验证而“跳出”，造成潜在用户流失。WorkOS的AuthKit/Agent Auth旨在解决这一痛点，确保自动化代理也能顺畅完成注册，帮助应用抓住所有注册机会。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Death to px, long live ch!",
+    "title_cn": "Death to px, long live ch!",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The difference orbit inclination makes",
+    "title_cn": "The difference orbit inclination makes",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/22/inclination/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Coming soon",
+    "title_cn": "Coming soon",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/22/coming-soon/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A Syncthing and SQLite Gotcha",
+    "title_cn": "A Syncthing and SQLite Gotcha",
+    "summary_cn": "处理失败",
+    "source": "borretti.me",
+    "url": "https://borretti.me/article/a-syncthing-and-sqlite-gotcha",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Concurrent Servers: Part 8 - Go",
+    "title_cn": "Concurrent Servers: Part 8 - Go",
+    "summary_cn": "处理失败",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Welcoming the Sri Lankan Government to Have I Been Pwned",
+    "title_cn": "Welcoming the Sri Lankan Government to Have I Been Pwned",
+    "summary_cn": "处理失败",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/",
+    "score": 0,
+    "angle": ""
+  }
+]
