@@ -1,0 +1,173 @@
+[
+  {
+    "title_en": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+    "title_cn": "两名涉嫌“TeamPCP”黑客在澳大利亚被捕",
+    "summary_cn": "澳大利亚当局逮捕了两名涉嫌属于“TeamPCP”的黑客。该组织被认为是迄今为止持续时间最长的软件供应链攻击的幕后黑手。澳大利亚联邦警察（AFP）声明称，这两名21岁和23岁的嫌疑人来自西澳大利亚，涉嫌参与一个复杂的网络犯罪集团，该集团据称利用恶意开源软件窃取了数千个全球目标。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "score": 7,
+    "angle": "震惊！两名“TeamPCP”黑客在澳洲落网，揭秘史上最长软件攻击！⚠️你的数据安全还好吗？普通人如何避免成为下一个受害者？速看这份自查指南！"
+  },
+  {
+    "title_en": "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
+    "title_cn": "余晖——经典After Dark屏保在今日macOS上的重现",
+    "summary_cn": "继成功复活经典After Dark游戏《Lunatic Fringe》后，Jeff Halter再次推出“Afterglow”项目。该项目旨在将用户曾需通过虚拟机或老旧硬件才能运行的经典After Dark屏保程序，轻松带到现代macOS系统。Afterglow解决了繁琐的配置难题，让Mac用户能够便捷地重温昔日数字“余晖”，体验Mac早期年代的独特情怀与复古美学，为桌面带来独特的怀旧气息。",
+    "source": "daringfireball.net",
+    "url": "https://morphing.cloud/afterglow/",
+    "score": 7,
+    "angle": "💻爷青回！Mac用户速看！经典After Dark屏保「Afterglow」在现代macOS完美复活！一键get复古桌面，重温那些年你的专属数字余晖。告别虚拟机和繁琐设置，让你的Mac桌面充满怀旧情调和个性。桌面美化就靠它！ #Mac桌面美化 #复古风 #屏保 #AfterDark #情怀党 #怀旧 #科技美学 #苹果电脑"
+  },
+  {
+    "title_en": "Panic Is Refunding Tariff Fees to Playdate Buyers",
+    "title_cn": "Panic 为 Playdate 买家退还关税费",
+    "summary_cn": "游戏公司 Panic 曾一度向其掌机 Playdate 的买家收取关税费用。公司联合创始人 Cabel Sasser 解释说，他们曾尝试自行承担这笔费用，但对他们这样的小公司来说财务上难以维继。在受影响的结账页面上，关税费用被明确标注为单独的项目。现在，Panic 正在向这些买家退还之前收取的关税费用，此举展现了其对客户的责任感。",
+    "source": "daringfireball.net",
+    "url": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
+    "score": 7,
+    "angle": "强调Panic作为“良心企业”主动为用户退还关税的举动，突出其对消费者权益的重视和“业界良心”的企业形象。可以从“小众掌机用户的意外惊喜”或“良心公司如何赢得用户口碑”的角度切入，引发关于企业责任和消费者权益的讨论，吸引关注进口商品或科技产品的用户。"
+  },
+  {
+    "title_en": "The Load-Bearing Vocabulary of Claude",
+    "title_cn": "Claude的承载词汇",
+    "summary_cn": "路易斯·亚伯拉罕（Louis Abraham）的一项有趣但略显悲观的数据分析项目，揭示了AI模型Claude在提交GitHub拉取请求（pull request）时，其词汇选择上惊人的重复性。项目通过词汇而非内容对描述进行分组，发现Claude的输出仅归为八种固定的写作模式。其中一种模式的使用频率，在2025年初从语料库的1%激增至45%，凸显了Claude在文本生成方面存在显著的词汇局限和模式化倾向。",
+    "source": "daringfireball.net",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund",
+    "title_cn": "伊丽莎白·沃伦就苹果关税退款发表的莫名其妙的愤怒言论",
+    "summary_cn": "美国参议员伊丽莎白·沃伦致信多家大型公司，包括苹果、亚马逊和沃尔玛，要求它们将从特朗普政府获得的巨额关税退款（用于弥补去年支付的关税）退还给消费者。沃伦认为，既然企业获得了大笔退税，消费者也应从中受益。原文标题则将沃伦此举描述为“莫名其妙的愤怒”，暗示其逻辑存在争议。",
+    "source": "daringfireball.net",
+    "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Qwen3.8-Flash-Next",
+    "title_cn": "通义千问3.8-Flash-Next",
+    "summary_cn": "通义千问发布了新的开源模型Qwen33.8-Flash-Next。这是一个多模态MoE模型，同时也是通义千问4架构的早期预览版。该模型参数总量达1250亿，但通过仅激活60亿参数的方式，实现了显著的性能提升。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Ads in Apple Maps Have Now Launched",
+    "title_cn": "Ads in Apple Maps Have Now Launched",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "‘How Europe Is Killing Makers and Micro-Entrepreneurs’",
+    "title_cn": "‘How Europe Is Killing Makers and Micro-Entrepreneurs’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆",
+    "title_cn": "Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "\"No way to prevent this\" say users of only language where this regularly happens",
+    "title_cn": "\"No way to prevent this\" say users of only language where this regularly happens",
+    "summary_cn": "处理失败",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Second solutions",
+    "title_cn": "Second solutions",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/08/27/second-solutions/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Why do OpenAI's GPT-2 weights beat mine?  Part four: digging into dropout",
+    "title_cn": "Why do OpenAI's GPT-2 weights beat mine?  Part four: digging into dropout",
+    "summary_cn": "处理失败",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Sandboxing coding agents",
+    "title_cn": "Sandboxing coding agents",
+    "summary_cn": "处理失败",
+    "source": "micahflee.com",
+    "url": "https://micahflee.com/sandboxing-coding-agents/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Bazel Module Versions Aren’t SemVer",
+    "title_cn": "Bazel Module Versions Aren’t SemVer",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How the Strategic Petroleum Reserve Works",
+    "title_cn": "How the Strategic Petroleum Reserve Works",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Can Self-Hosting Be Simple?",
+    "title_cn": "Can Self-Hosting Be Simple?",
+    "summary_cn": "处理失败",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A Calendar View For My Blog",
+    "title_cn": "A Calendar View For My Blog",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/blog-calendar-view/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "TEAC founded in 1953, sort of",
+    "title_cn": "TEAC founded in 1953, sort of",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/teac-founded-in-1953-sort-of/?utm_source=rss&utm_medium=rss&utm_campaign=teac-founded-in-1953-sort-of",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor",
+    "title_cn": "Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/",
+    "score": 0,
+    "angle": ""
+  }
+]
