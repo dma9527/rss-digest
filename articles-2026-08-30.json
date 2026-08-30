@@ -1,0 +1,92 @@
+[
+  {
+    "title_en": "You have to beat the models at something",
+    "title_cn": "你必须在某些方面超越AI/模型",
+    "summary_cn": "这篇文章提出，未来软件工程师的价值评估应采用“超越替代价值”标准，即比较其贡献与同职位普通工程师的差异，而非单纯关注产品营收。作者批评工程师履历上常夸大“创造了X美元收益”，却可能只是完成了日常任务。这暗示着在AI模型日益普及的背景下，工程师必须展现超越AI的核心竞争力，才能凸显其独特的专业价值。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something/",
+    "score": 8,
+    "angle": "除了完成任务，你还能如何证明自己的“不可替代”价值？（从职业发展和个人竞争力提升的角度切入，引发对未来职场评估标准的思考）"
+  },
+  {
+    "title_en": "★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox",
+    "title_cn": "扬基1-0战胜红袜",
+    "summary_cn": "作者分享了对苹果公司首次沉浸式MLB直播的体验和看法。他认为这是一种前所未有的全新观赛方式，其带来的不同感受堪比从收听广播到观看电视直播的巨大飞跃。这种深刻的体验预示着体育内容呈现方式的重大变革。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast",
+    "score": 8,
+    "angle": "未来已来！苹果首个沉浸式MLB直播深度体验，体育迷和科技控都惊呆了！"
+  },
+  {
+    "title_en": "The Server Called Paranoia: Defend Autistici/Inventati",
+    "title_cn": "捍卫 Autistici/Inventati",
+    "summary_cn": "意大利黑客集体 Autistici/Inventati 在过去二十五年里，致力于构建能够抵御审查、监控和警方突袭的通信基础设施。然而，美国于8月26日将其指定为恐怖组织，其清盘期将于9月25日结束。这篇文章呼吁公众关注并捍卫这个为数字自由而奋斗的组织，因为它正面临存亡危机。",
+    "source": "micahflee.com",
+    "url": "https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/",
+    "score": 7,
+    "angle": "😱美国把“黑客”列为恐怖分子？你的数字隐私正在被谁守护？🔐"
+  },
+  {
+    "title_en": "The Rise and Fall of Agent Civilizations",
+    "title_cn": "智能体文明的兴衰",
+    "summary_cn": "本文以通俗易懂的方式，讲述了OpenAI和Hugging Face两大AI巨头从崛起、发展到可能面临挑战的全过程。它将智能体（Agent）的演变比作文明的兴衰，深入浅出地解释了当前人工智能领域的核心动态和发展趋势，旨在帮助普通读者理解AI技术背后的复杂故事。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "score": 7,
+    "angle": "【AI入门必看】普通人也能懂的智能体文明兴衰史！OpenAI和Hugging Face的崛起与挑战，带你洞察未来科技格局，拒绝成为“AI文盲”！"
+  },
+  {
+    "title_en": "Introducing Hy4 Preview",
+    "title_cn": "腾讯发布Hy4预览版",
+    "summary_cn": "腾讯今日发布了其全新的开放权重文本输入大型语言模型Hy4 Preview。该模型拥有7700亿总参数、490亿活跃参数，并支持高达100万的上下文窗口，在Hugging Face上大小达1.56TB。与7月发布的Hy3相比，Hy4 Preview在模型规模、活跃参数和上下文长度上均实现大幅提升，标志着腾讯在AI大模型领域的重要进展。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "ActivityBot is the recipient of an NLnet grant!",
+    "title_cn": "ActivityBot 获得了 NLnet 资助！",
+    "summary_cn": "作者的ActivityBot项目成功获得了NLnet的“下一代零”资助。NLnet旨在通过支持Fediverse项目，帮助“重塑社交媒体格局”并“恢复互联网的公共属性”。这些研发资助金额在5,000至50,000欧元之间，并有可能扩大规模。ActivityBot是一个单文件的ActivityPub服务器，符合NLnet对开源和去中心化社交网络的支持目标。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "New Pebble Weather App + Software Updates",
+    "title_cn": "Pebble新天气应用与软件更新",
+    "summary_cn": "Pebble官方宣布，Pebble Time 2的邀请函已全部发送完毕，这款备受期待的智能手表现已全面有货。对于一直耐心等待的消费者而言，漫长的等待终于结束，现在是入手这款智能手表的绝佳时机。这款产品经过长时间的准备，如今正式面向市场开放购买，满足了用户的期待。",
+    "source": "ericmigi.com",
+    "url": "https://repebble.com/blog/new-pebble-weather-app-software-updates",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple prevails over Franklin, August 30, 1983",
+    "title_cn": "Apple prevails over Franklin, August 30, 1983",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/apple-prevails-over-franklin-august-30-1983/?utm_source=rss&utm_medium=rss&utm_campaign=apple-prevails-over-franklin-august-30-1983",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A Roku alternative streaming device",
+    "title_cn": "A Roku alternative streaming device",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/a-roku-alternative-streaming-device/?utm_source=rss&utm_medium=rss&utm_campaign=a-roku-alternative-streaming-device",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Forgejo Hack #2: Integration with Read The Docs",
+    "title_cn": "Forgejo Hack #2: Integration with Read The Docs",
+    "summary_cn": "处理失败",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs",
+    "score": 0,
+    "angle": ""
+  }
+]
