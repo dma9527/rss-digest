@@ -1,0 +1,146 @@
+[
+  {
+    "title_en": "Tim Cook’s Departure Memo on His Last Day as CEO",
+    "title_cn": "蒂姆·库克卸任CEO告别信",
+    "summary_cn": "蒂姆·库克在离职信中深情回顾了苹果的独特之处，强调公司文化是超越一切的核心价值，远比年度财报重要。他为团队共同的信念和“让世界更美好”的使命感感到无比自豪，认为正是这种目标感让苹果非凡。库克指出，这种追求卓越的信念深植于每位员工内心，并在苹果得以滋养。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
+    "score": 9,
+    "angle": "这才是苹果成功的真正秘密！💼"
+  },
+  {
+    "title_en": "Codex bundles LibreOffice",
+    "title_cn": "Codex 捆绑 LibreOffice",
+    "summary_cn": "文章作者在缓存文件夹中发现，OpenAI Codex（现ChatGPT）桌面应用占用1.7GB空间，内部捆绑了完整的Python、Node.js安装，甚至包含LibreOffice，揭示了这款AI应用体积庞大的原因。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "score": 8,
+    "angle": "围绕“你的ChatGPT正在偷偷‘吃掉’硬盘空间？”“电脑卡顿元凶竟是ChatGPT？”等话题，突出ChatGPT桌面应用体积庞大、捆绑了Python、Node.js甚至办公软件等意想不到的组件，激发用户对存储空间和应用瘦身的兴趣和讨论。"
+  },
+  {
+    "title_en": "Claude Fable 5.1 made me a really nice animated pelican",
+    "title_cn": "Claude Fable 5.1 给我做了一只非常漂亮的动画鹈鹕",
+    "summary_cn": "Anthropic发布了其最新的AI模型Claude Fable 5.1，强调其在编码、知识工作及复杂问题解决上的新标准。官方特别指出，Fable 5.1在科学研究方面表现出色，在全新的Terminal-Bench-Science 0.1基准测试中得分高达52.6%。作者还利用该模型成功生成了一只精美的动画鹈鹕，展示了其在创意内容生成方面的潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "score": 7,
+    "angle": "AI新玩法！🤖✨ Claude Fable 5.1 居然能帮我轻松搞定动画制作，手残党也能秒变动画师，快来看我的超萌动画鹈鹕诞生记，附带AI绘画/生成小技巧分享！"
+  },
+  {
+    "title_en": "Atari Lynx: The first color handheld game console",
+    "title_cn": "第一款彩色掌上游戏机",
+    "summary_cn": "本文介绍了Atari Lynx，它被认为是第一款彩色掌上游戏机。有趣的是，这款里程碑式的产品是由Amiga原始设计团队中的三名成员所设计。在Amiga面市后，该团队的另一位核心人物Jay Miner选择了回去设计医疗设备，而其余三位则继续投身游戏硬件领域，创造了Atari Lynx，开启了彩色掌机时代。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss&utm_medium=rss&utm_campaign=atari-lynx-the-first-color-handheld-game-console",
+    "score": 7,
+    "angle": "主打“游戏史冷知识”和“打破固有认知”。可以从“你以为Gameboy是第一台彩色掌机？错了！其实是它！”的视角切入，介绍Atari Lynx作为历史首款彩色掌机的独特地位和其背后的Amiga设计团队故事，配以复古游戏机的精美图片，激发用户对游戏历史的好奇心和讨论欲。可以加上#游戏考古 #复古游戏机 #冷知识 #掌机发展史 等话题标签。"
+  },
+  {
+    "title_en": "Weekly Update 519: Breaches & Data Integrity",
+    "title_cn": "每周更新 519: 数据泄露与数据完整性",
+    "summary_cn": "作者本周行程繁忙，围绕3D打印安全、信息安全及网络安全话题进行了多场演讲。与此同时，黑客活动猖獗，数据泄露事件仍在持续发生，本周信息安全挑战不断。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-519/",
+    "score": 7,
+    "angle": "如何判断信息是否被泄露、设置强密码、开启两步验证、警惕钓鱼邮件等。标题可以更具冲击力，例如：“警惕！黑客又在疯狂泄露你的数据，快来检查你的数字‘铠甲’够不够硬！”"
+  },
+  {
+    "title_en": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "title_cn": "Claude 的新系统提示极力避免生成歌词",
+    "summary_cn": "Anthropic 公司公布了其 Claude 消费级应用（如 Claude.ai 及移动应用）的系统提示。作者对此举表示赞赏，特别是因为他们不仅分享了当前版本，还包含了历史变更记录，展现了高度的透明度。文章提到，他们曾将所有提示放在单个页面上。结合标题，一个显著的更新是 Claude 的新系统提示被设计成极力避免或不愿再生成歌词内容，这可能旨在优化其内容生成策略或遵守版权规定。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "GeoJSON Map Viewer",
+    "title_cn": "GeoJSON 地图查看器",
+    "summary_cn": "作者在帮助朋友收集本地政治边界（如Granada社区服务区和Midcoast社区委员会）地图时，发现需要一个能显示GeoJSON文件并将其导出为PNG图片的工具。他向AI寻求工具建议，找到了一个专门的GeoJSON地图查看器。这个工具解决了地理数据可视化的实际需求，方便用户将复杂的地理数据直观地展示在地图上并轻松分享。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Nobody Believes It, Everybody Does It",
+    "title_cn": "嘴上说不信，身体却很诚实",
+    "summary_cn": "个体普遍认识到某件事物存在弊端或毫无必要，但因为“大家都在做”，便选择集体性地默认或参与。作者以曾经盛极一时的Flash网站开场动画为例，指出当时几乎所有人都觉得它既烦人又多余，却依然广泛使用。这种“嘴上说不信，身体却很诚实”的从众心理，揭示了集体行为中的矛盾性。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Rick Brewster",
+    "title_cn": "Quoting Rick Brewster",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Tarn Adams",
+    "title_cn": "Quoting Tarn Adams",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How to protect yourself from workslop",
+    "title_cn": "How to protect yourself from workslop",
+    "summary_cn": "处理失败",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/how-to-protect-yourself-from-workslop/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "title_cn": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "summary_cn": "处理失败",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit",
+    "title_cn": "Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Unpermissioned research (02 Sep 2026)",
+    "title_cn": "Pluralistic: Unpermissioned research (02 Sep 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/02/scrape-scrope-scrap/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "New Post: A Crash Course in Predicate Logic",
+    "title_cn": "New Post: A Crash Course in Predicate Logic",
+    "summary_cn": "处理失败",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Hyperscale Normalization",
+    "title_cn": "Hyperscale Normalization",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/hyperscale-normalization/",
+    "score": 0,
+    "angle": ""
+  }
+]
