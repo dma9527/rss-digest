@@ -1,0 +1,83 @@
+[
+  {
+    "title_en": "Research acceleration: The view inside OpenAI",
+    "title_cn": "OpenAI内部视角",
+    "summary_cn": "这篇内容深入探讨了OpenAI内部的研究加速进展，特别聚焦于一个名为“RSI”（递归自我改进）的关键概念。RSI被认为是OpenAI正在研发的下一代通用人工智能（AGI）的核心技术，并且已经引发了公司内部的广泛讨论，甚至有首席科学家撰文深入阐述。文章提供了OpenAI如何加速其研究，以及RSI在其中扮演重要角色的细节，预示着AI领域可能即将迎来新的突破。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "score": 8,
+    "angle": "AGI核心技术RSI是什么？”为切入点，结合普通人对AI未来发展的好奇和对科技新知的求知欲，进行通俗易懂的科普与展望，强调该技术对未来生活和工作可能带来的颠覆性影响。"
+  },
+  {
+    "title_en": "Weekly Update 520: The Unscripted Edition",
+    "title_cn": "无脚本版",
+    "summary_cn": "作者的每周更新。他近期开始尝试使用YouTube内置的“创建视频缩略图”功能。此举有望节省日常制作时间（此前需手动用Photoshop处理），并让视频封面图更具吸引力。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-520/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map",
+    "title_cn": "★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Meta AI Has a Native Mac App Now, and It Seems Decent",
+    "title_cn": "Meta AI Has a Native Mac App Now, and It Seems Decent",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "WorkOS: How to Give an Agent a Task Instead of a Token",
+    "title_cn": "WorkOS: How to Give an Agent a Task Instead of a Token",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’",
+    "title_cn": "Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
+    "title_cn": "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://x.com/WhiteHouse/status/2095615734567100766",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)",
+    "title_cn": "Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/06/hotels-california/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The ill-fated HP-Compaq merger",
+    "title_cn": "The ill-fated HP-Compaq merger",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/?utm_source=rss&utm_medium=rss&utm_campaign=the-ill-fated-hp-compaq-merger",
+    "score": 0,
+    "angle": ""
+  }
+]
