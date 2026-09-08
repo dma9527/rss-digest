@@ -1,0 +1,209 @@
+[
+  {
+    "title_en": "Video compressor",
+    "title_cn": "视频压缩器",
+    "summary_cn": "作者为将手机录制的《Equal Earth》动画演示视频优化后发布到个人博客，开发了一款在线视频压缩工具。这款工具利用强大的FFMPEG进行视频处理，并通过AI模型Claude Fable 5.1在Claude Code for web中协助构建，底层技术则采用了WebAssembly。它旨在帮助用户便捷地实现视频文件大小的优化，解决视频上传和存储的痛点。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "score": 8,
+    "angle": "强调其作为免费在线AI视频压缩工具的便捷性与高效性。可从“手机内存救星”、“博主/自媒体视频发布提速神器”等角度切入，突出AI辅助构建的科技感，并展示前后对比效果，吸引关注效率工具和内容创作的用户。"
+  },
+  {
+    "title_en": "Mercator ↔ Equal Earth",
+    "title_cn": "墨卡托 ↔ 等面积地球",
+    "summary_cn": "“等面积地球”地图投影近期在联合国获得投票关注，引发了作者的兴趣。为此，作者利用ChatGPT工作版（GPT-6 Astra）开发了一款实用工具。该工具能生动演示墨卡托投影与等面积地球投影之间的动画转换，让用户直观理解两种地图投影的差异及其各自特点。这提供了一个探索世界地图呈现方式的便捷途径。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "score": 8,
+    "angle": "“💥震惊！我们从小看到大的世界地图，竟然“错”了这么久？！🌍联合国都看不下去了，投票换地图了！快来用这个神仙工具，一键还原世界真实面积，看看非洲到底有多大！”"
+  },
+  {
+    "title_en": "Quoting Jakub Pachocki",
+    "title_cn": "引用 雅库布·帕乔基",
+    "summary_cn": "构建防御系统以应对其他AI带来的危险。OpenAI认为，我们需要强大且与人类价值观一致的AI来保障基础设施安全、实时防御恶意AI，并创造全新的防护措施。这将是OpenAI部署工作的核心关注点。简而言之，以AI对抗AI是未来防御的关键策略。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "llm 0.35",
+    "title_cn": "llm 0.35 版本",
+    "summary_cn": "开源 `llm` 工具近日发布了 `0.35` 版本更新。此次更新最引人注目的亮点是新增了对 `OpenAI` 最新模型 `GPT-6 Astra` 的支持。这意味着用户现在可以通过 `llm` 工具，抢先体验 `GPT-6 Astra` 带来的强大功能与前沿技术。此版本进一步增强了 `llm` 工具的实用性，紧跟 `AI` 发展趋势。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/7/llm/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "OpenNMC is an open replacement for expensive APC management cards",
+    "title_cn": "昂贵 APC 管理卡的开源替代品",
+    "summary_cn": "不间断电源（UPS）在家庭实验室中扮演着关键角色，虽然常被忽视，但它能确保服务器在断电时安全关机，并稳定电源供应。文章提到OpenNMC项目，旨在提供一个开源的解决方案，替代市面上昂贵的APC管理卡。这意味着用户可以以更经济的方式，实现对UPS的智能管理和监控，提升设备运行的可靠性。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Creepy crawlies",
+    "title_cn": "令人毛骨悚然的爬虫",
+    "summary_cn": "Linux内核官方Git仓库`git.kernel.org`的管理者Konstantin Ryabitsev披露了一个令人担忧的现象。他指出，恶意网络爬虫（abusive crawlers）产生的“背景辐射”已变得极其严重。据统计，该平台在为这些抓取器渲染提交信息上消耗的CPU周期，竟然超过了包括所有Git克隆在内的所有其他合法访问的总和。这凸显了恶意自动化程序对核心基础设施造成的巨大资源浪费和潜在威胁。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Automatically detecting AI text in my browser",
+    "title_cn": "Automatically detecting AI text in my browser",
+    "summary_cn": "处理失败",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/deckard/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ SuperDuper 4",
+    "title_cn": "★ SuperDuper 4",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/superduper_4",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Glyphs 4",
+    "title_cn": "[Sponsor] Glyphs 4",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://glyphsapp.com/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Trackables 1.5",
+    "title_cn": "Trackables 1.5",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://trackables.app/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Onion’s Exclusive Interview With Larry Ellison",
+    "title_cn": "The Onion’s Exclusive Interview With Larry Ellison",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "McKinley 1.0",
+    "title_cn": "McKinley 1.0",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://mckinleysymbols.com/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Matt Birchler’s Folding iPhone Predictions",
+    "title_cn": "Matt Birchler’s Folding iPhone Predictions",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://birchtree.me/blog/my-folding-iphone-predictions/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map",
+    "title_cn": "★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I found an old interview mine (2017)",
+    "title_cn": "I found an old interview mine (2017)",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Clickable whitespace",
+    "title_cn": "Clickable whitespace",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/clickable-whitespace",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A sample use of the winstart.bat file in Windows 95",
+    "title_cn": "A sample use of the winstart.bat file in Windows 95",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Navier-Stokes in the news",
+    "title_cn": "Navier-Stokes in the news",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Ngram error rate",
+    "title_cn": "Ngram error rate",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What’s new in git-pkgs",
+    "title_cn": "What’s new in git-pkgs",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pretraining progress is mostly coming from data",
+    "title_cn": "Pretraining progress is mostly coming from data",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Concentration Risk",
+    "title_cn": "Concentration Risk",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/concentration-risk/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What happened to Compuserve?",
+    "title_cn": "What happened to Compuserve?",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-compuserve",
+    "score": 0,
+    "angle": ""
+  }
+]
