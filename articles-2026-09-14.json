@@ -1,0 +1,155 @@
+[
+  {
+    "title_en": "Quoting Laurie Voss",
+    "title_cn": "引用劳里·沃斯",
+    "summary_cn": "随着编写、审查、修复和运行代码的成本持续下降，软件开发的重心正发生根本性转变。文章指出，未来软件行业的核心价值将不再是代码本身，而是深入挖掘用户真实需求，精准定义产品功能，并确保软件拥有愉悦的用户体验。由于软件需求永无止境，且这些“以人为本”的成本无法转移和分摊，理解用户、优化体验将成为未来软件行业最关键且不可替代的价值所在。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+    "score": 7,
+    "angle": "聚焦科技行业未来的职业发展趋势，以“代码成本下降，未来什么能力最值钱？”为核心，强调“洞察用户需求、定义精准产品、提升用户体验”是未来产品经理、设计师乃至任何职场人都应具备的核心竞争力。内容可以结合个人成长经验、职场技能建议，吸引关注职业规划和科技趋势的年轻人。"
+  },
+  {
+    "title_en": "Dumpster Fire – Litterbox-Inspired Extension for Firefox",
+    "title_cn": "烂摊子（Dumpster Fire）——受 Litterbox 启发的 Firefox 扩展",
+    "summary_cn": "由 Miles Abbott 开发的 Firefox 浏览器扩展“Dumpster Fire”，旨在解决用户浏览 x.com（原 Twitter）链接时的痛点。它允许用户在弹窗中打开 x.com 链接，以便快速阅读单条帖子后立即关闭，避免被平台内容分心。该扩展是 Safari 浏览器“Litterbox”扩展的移植版本，名称“Dumpster Fire”虽然不如“Litterbox”巧妙，但作者认为其更具幽默感，也暗示了它能处理 x.com 带来的“烂摊子”信息流。",
+    "source": "daringfireball.net",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "commit-rewriter 0.1",
+    "title_cn": "提交重写器 0.1",
+    "summary_cn": "\"commit-rewriter 0.1\" 是一个新发布的轻量级网页应用，旨在帮助开发者编辑 Git 提交信息。作者开发它的初衷是为了处理 Datasette 安全版本发布时的提交信息，因为最初的提交信息包含了大量由编程助手生成的冗余内容和私有仓库的内部问题 ID，不适合直接公开。这个工具能有效清理并优化提交信息，使其更专业、更适合对外发布。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "shot-scraper 1.12",
+    "title_cn": "shot-scraper 1.12",
+    "summary_cn": "这款由 Simon Willison 开发的网页截图自动化工具 shot-scraper 发布了 1.12 版本。本次更新最大亮点是新增了对 WebP 图像格式的支持。现在用户可以通过简单的命令行指令，如 `shot-scraper https://simonwillison.net -o screenshot.webp --quality 80`，轻松抓取网页并保存为 WebP 格式的截图。同时，`--quality` 参数允许用户自定义输出图片的质量，进一步提升了截图的灵活性和实用性。这对于需要高效处理网页截图的开发者或内容创作者来说，是一项非常便捷的功能升级。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Slow developer experience will bottleneck fast models",
+    "title_cn": "缓慢的开发者体验将成为快速模型的瓶颈",
+    "summary_cn": "目前，开发者体验的衡量标准多以秒计，例如测试运行时间。作者指出，当前真正的瓶颈在于开发者的思考或等待AI代理响应，而非毫秒级的服务器重载时间优化。然而，这一现状将改变。随着小型模型速度加快，智能模型持续小型化，未来那些看似微不足道的延迟，将逐渐演变为限制快速AI模型开发效率的关键瓶颈。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "XCancel Shuts Down Again",
+    "title_cn": "XCancel 再次关闭/停运",
+    "summary_cn": "XCancel 服务因法律诉讼新进展再次被迫暂停，具体细节无法透露。对此，文章作者表示并不意外，并对“无法分享更多细节”感到疑惑。XCancel 旨在让用户在不访问 X 平台的情况下，仍能查看其他网站链接的 X 内容，这也凸显了 X 平台信息量巨大，很多时候难以完全避开其内容。",
+    "source": "daringfireball.net",
+    "url": "https://xcancel.com/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Glyphs 4",
+    "title_cn": "Glyphs 4",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://glyphsapp.com/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "AI Forces You to Commit to Your Initial Belief",
+    "title_cn": "AI Forces You to Commit to Your Initial Belief",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/making-changes-mid-sentence",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)",
+    "title_cn": "Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/14/cult-taylorism/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Esoteric HTML - ismap vs CSS",
+    "title_cn": "Esoteric HTML - ismap vs CSS",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?",
+    "title_cn": "Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Guessing the meaning of a number",
+    "title_cn": "Guessing the meaning of a number",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "AI Is Already In Dangerous Hands",
+    "title_cn": "AI Is Already In Dangerous Hands",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Preserving Netlify Analytics Data Beyond 30 Days",
+    "title_cn": "Preserving Netlify Analytics Data Beyond 30 Days",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Osborne Computer’s bankruptcy and the Osborne Effect",
+    "title_cn": "Osborne Computer’s bankruptcy and the Osborne Effect",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/osborne-computers-bankruptcy-and-the-osborne-effect/?utm_source=rss&utm_medium=rss&utm_campaign=osborne-computers-bankruptcy-and-the-osborne-effect",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+    "title_cn": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+    "summary_cn": "处理失败",
+    "source": "downtowndougbrown.com",
+    "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Hoe wordt de overheid weer 'van de IT'?",
+    "title_cn": "Hoe wordt de overheid weer 'van de IT'?",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/",
+    "score": 0,
+    "angle": ""
+  }
+]
