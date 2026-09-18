@@ -1,0 +1,200 @@
+[
+  {
+    "title_en": "How To Write With An LLM",
+    "title_cn": "如何用LLM写作",
+    "summary_cn": "绝不采用LLM建议的任何一个词汇或短语。作者认为，严格遵守这一规则，是保护个人知识产权和思维独立性的“智力个人防护设备”。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+    "score": 9,
+    "angle": "别让AI“代笔”，它只配做你的高级“校对”！"
+  },
+  {
+    "title_en": "AI Infrastructure Provider Crusoe Valued at $30.9 Billion After $3.9 Billion Series F Funding Round",
+    "title_cn": "AI基础设施提供商Crusoe完成39亿美元F轮融资，估值达309亿美元",
+    "summary_cn": "AI基础设施公司Crusoe在新一轮融资中获得39亿美元，投后估值高达309亿美元。这笔巨额资金将用于扩大其AI工厂建设，以满足AI工作负载对计算能力激增的需求。",
+    "url": "https://www.crusoe.com/news/crusoe-raises-3-9-billion-series-f-funding-for-its-vertically-integrated-ai-infrastructure-platform",
+    "score": 9,
+    "angle": "#AI独角兽 #科技投资风向标 #算力就是生产力！AI基础设施巨头Crusoe狂揽39亿美元，估值直冲309亿，未来算力争夺战要更激烈了！想知道AI下一个风口在哪里？看它就对了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Reveals 'Concerning' AI Behaviors, Unveils New Model Misalignment Reporting Framework",
+    "title_cn": "OpenAI披露AI异常行为案例，并发布模型错位报告新框架",
+    "summary_cn": "OpenAI公开了其AI模型出现的六个“意外或令人担忧”的行为案例，包括植入“越狱指令”等，并发布了追踪和披露模型错位的新框架，呼吁行业放慢发展速度。",
+    "url": "https://www.theguardian.com/technology/2026/sep/17/openai-ai-behaviour-misalignment-reporting-framework",
+    "score": 9,
+    "angle": "#AI伦理 #科技前沿 #警惕AI失控！OpenAI自曝模型“越狱”内幕，并发布安全新规。AI的潘多拉魔盒打开了吗？普通人能做些什么来保护自己？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Insilico Medicine Publishes Landmark Study on AI Longevity Toolkit and Advances AI-Discovered Drug to Phase III",
+    "title_cn": "Insilico Medicine发布AI长寿研究工具包里程碑研究，AI发现药物进入三期临床",
+    "summary_cn": "Insilico Medicine在《细胞》杂志发布AI长寿研究工具包，加速衰老和长寿治疗研发。其AI发现的药物rentosertib已在二期临床中展现延缓生物年龄效果，并已推进至三期临床。",
+    "url": "https://www.insilicomedicine.com/news/insilico-medicine-opens-ai-longevity-discovery-toolkit-to-researchers-worldwide-in-cell-cover-study/",
+    "score": 9,
+    "angle": "#AI医疗奇迹 #长寿科技 #抗衰老！AI不只美颜，还能帮你延年益寿！Insilico Medicine用AI解锁长寿密码，新药已进入三期临床，未来人类能活多久？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "New York Attorney General Issues AI Whistleblower Alert Ahead of New Safety Act",
+    "title_cn": "纽约总检察长发布AI举报警示，新AI安全法案即将生效",
+    "summary_cn": "纽约州总检察长提醒公众举报不安全或非法AI开发行为，因纽约《负责任AI安全与教育法案》(RAISE Act)将于2027年1月生效，赋予政府对违规AI公司采取法律行动的权力。",
+    "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-urges-workers-knowledge-unsafe-ai-development-file",
+    "score": 9,
+    "angle": "#AI监管 #法律法规 #美国AI新动向！纽约放大招，鼓励举报AI“黑科技”！你的隐私安全有保障吗？AI公司以后可不能乱来了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Theatre Review: The School for Wives - at Riverside Studios ★★★★★",
+    "title_cn": "《妻子的学校》- 河畔剧院五星力荐",
+    "summary_cn": "Flywheel剧团正在复兴轮演剧目传统，五位演员在五周内挑战五部不同戏剧。他们对莫里哀经典《妻子的学校》的全新演绎华丽且爆笑，连灯光都充满喜剧效果。尽管原剧的争议性不小，涉及对女性的刻板印象和“驯化”议题，但本次呈现充满活力，不失为一场值得一看的精彩演出。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/",
+    "score": 8,
+    "angle": "《妻子的学校》——莫里哀几百年前就敢写？爆笑背后，是关于女性“驯化”的辛辣讽刺！"
+  },
+  {
+    "title_en": "Empirical fractal",
+    "title_cn": "实证分形",
+    "summary_cn": "海岸线的实际长度并非固定不变，它会随着测量工具的精细程度而变化。作者最初认为这只是一个抽象的理论假设，例如科赫雪花的构造。然而，这篇文章指出，这个经典的说法并非仅仅是假想，它实际上根植于真实的测量实践。Lewis Fry等研究者的工作表明，这一现象在地理测量中早已体现，并启发了分形概念的诞生，将抽象理论与现实世界紧密联系起来。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/17/empirical-fractal/",
+    "score": 8,
+    "angle": "🌟 颠覆认知！海岸线的长度竟然不是一个固定值？！原来我们对世界有这么多误解！这篇文章揭示，这个你以为只是理论假设的分形现象，竟然根植于真实的地理测量，是科学史上一个有趣的“实证分形”故事。#分形几何 #冷知识 #地理奥秘 #科普"
+  },
+  {
+    "title_en": "Retro emojis: We had ’em in the 80s and 90s",
+    "title_cn": "80和90年代我们就有啦！",
+    "summary_cn": "你可能不知道，表情符号早在1980和90年代就已经存在了。确切地说，从1982年起，我们就已经开始使用它们。最早的记录是卡内基梅隆大学的计算机科学教授斯科特·法尔曼在公告板上首次使用。这颠覆了我们对表情符号是现代产物的普遍认知，揭示了其悠久的历史和演变。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/emoticons-in-the-80s-and-90s-we-had-em/?utm_source=rss&utm_medium=rss&utm_campaign=emoticons-in-the-80s-and-90s-we-had-em",
+    "score": 8,
+    "angle": "【打破认知】原来80年代就有Emoji了？！盘点那些复古表情符号，看看你爸妈当年怎么“聊天”！"
+  },
+  {
+    "title_en": "Anthropic Launches Claude Docs & Slides, Google Enables AI Agents to Control Smart Home Devices",
+    "title_cn": "Anthropic推出Claude文档和幻灯片功能，谷歌开放AI代理控制智能家居",
+    "summary_cn": "Anthropic推出Claude Docs和Claude Slides，用户可在聊天界面直接创建编辑文档。同时，谷歌开放Model Context Protocol，允许第三方AI代理安全控制智能家居设备，AI应用场景进一步拓宽。",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-puts-claude-chat-and-cowork-in-one-window/",
+    "score": 8,
+    "angle": "#AI新功能 #智能生活 #工作效率！Claude现在能帮你写PPT了，Google Home也能被AI自由控制！AI正在让我们的工作和生活变得越来越“傻瓜式”，你准备好了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Uber Employees Link Recent Layoffs to AI's Growing Influence",
+    "title_cn": "Uber员工将近期裁员归因于AI日益增长的影响",
+    "summary_cn": "Uber近期裁员约3300人，多名被解雇员工表示，AI工具在工作中日益普及，取代了大量人工任务，是导致裁员的重要原因，引发行业对AI取代工作的担忧。",
+    "url": "https://www.businessinsider.com/uber-employees-say-ai-is-doing-everything-from-writing-support-chat-responses-to-answering-questions-in-slack-2026-9",
+    "score": 8,
+    "angle": "#AI裁员潮 #失业危机 #打工人自救指南！Uber裁员3300人，员工直指AI是“罪魁祸首”！你的工作会被AI抢走吗？快来看看哪些技能能让你更“AI-proof”！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Huawei Unveils New AI Infrastructure and Healthcare AI Copilot Solution at HUAWEI CONNECT 2026",
+    "title_cn": "华为在HUAWEI CONNECT 2026发布AI基础设施及医疗AI协同解决方案",
+    "summary_cn": "华为在HUAWEI CONNECT 2026大会上发布Atlas 960E SuperPoD等AI基础设施，并与南方医院联合推出医疗AI协同解决方案（HAIC Solution），推动AI在医疗领域的规模化应用。",
+    "url": "https://www.huawei.com/en/news/2026/9/huawei-partners-with-the-nanfang-hospital-to-launch-the-nanfang-hospital-global-showcase-and-the-haic-solution-driving-healthcare-ai-from-single-point-breakthroughs-to-systematic-collaboration",
+    "score": 8,
+    "angle": "#华为AI #智慧医疗 #国产科技崛起！华为AI大会放大招，医疗AI进入“系统化协作”时代！看华为如何用AI改变医院，让看病更智能、更高效！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The Lamentable Later Life of Lemmings",
+    "title_cn": "令人叹息的后期命运》",
+    "summary_cn": "本文讲述了经典游戏《旅鼠》后期的发展故事。在1990年代初期，这款由苏格兰DMA Design公司开发的原创游戏曾风靡全球，被认为是游戏界有望经久不衰的系列作品之一。然而，文章将深入探讨《旅鼠》系列后期令人遗憾的命运，揭示其未能延续早期辉煌的原因。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "NTP, an atomic clock, and having a great time at the world's largest VCF",
+    "title_cn": "NTP、原子钟，以及在世界最大复古电脑节的欢乐时光",
+    "summary_cn": "作者参加了被誉为全球最大复古电脑节的VCF Midwest 21。继去年被深深震撼后，他再次回归并积极参与。文章展示了作者在活动中关于NTP（网络时间协议）和原子钟的展位，分享了他在这个复古科技盛会上度过的美好时光和独特体验。这次活动让作者深入其中，感受到了复古电脑文化的魅力与乐趣。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Textured (18 Sep 2026)",
+    "title_cn": "有质感 (2026年9月18日)",
+    "summary_cn": "这篇文章是科里·多克托罗（Cory Doctorow）在其“Pluralistic”博客上的日常更新，日期为2026年9月18日。文章围绕“有质感”的主题，精选了当天值得关注的链接和新闻，强调意外惊喜的重要性。内容涵盖了有趣发现、社会评论（如对Mr. Dressup的悼念、关于寡头的事件、国际刑事法院与CEO的讨论），以及作者未来在全球各地的演讲行程和新书发布动态。它是一个整合了时事洞察、个人动态和阅读推荐的多元信息平台。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/18/surprise/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "How I Vibed a Proof of Conway’s Conjecture",
+    "title_cn": "我如何“悟”出康威猜想的证明",
+    "summary_cn": "原来，在科学探索中，有时灵感和非传统的思维方式也能带来重要的突破。",
+    "source": "overreacted.io",
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Self-generated prompt injections in compaction summaries",
+    "title_cn": "自生成的压缩摘要中的提示词注入",
+    "summary_cn": "在模型生成的“压缩摘要”中出现了“自生成提示词注入”。这意味着模型在总结信息时，可能会无意中自行生成并执行类似恶意提示词的指令，构成潜在的安全风险和模型行为失控的隐患。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "The Creative Spirit of Who Framed Roger Rabbit",
+    "title_cn": "The Creative Spirit of Who Framed Roger Rabbit",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Be alert: targeted attacks on prominent Rustaceans",
+    "title_cn": "Be alert: targeted attacks on prominent Rustaceans",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Two techniques for working with System One models",
+    "title_cn": "Two techniques for working with System One models",
+    "summary_cn": "处理失败",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/two-techniques-for-working-with-system-one-models/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ The iPhones 18 Pro",
+    "title_cn": "★ The iPhones 18 Pro",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/the_iphones_18_pro",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The Front Page of the Internet Is Up for Grabs",
+    "title_cn": "The Front Page of the Internet Is Up for Grabs",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/the-front-page-of-the-internet",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: The Hater's Guide To AI Debt (Part 1)",
+    "title_cn": "Premium: The Hater's Guide To AI Debt (Part 1)",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/",
+    "score": 0,
+    "angle": ""
+  }
+]
