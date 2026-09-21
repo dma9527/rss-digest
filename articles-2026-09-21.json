@@ -1,0 +1,155 @@
+[
+  {
+    "title_en": "Quoting voxium",
+    "title_cn": "引用 Voxium",
+    "summary_cn": "博主新入职一家大公司半个月，却发现公司上下无人了解业务细节，所有文档、代码、测试、报告等皆由AI“Claude Code”生成。团队成员对此感到不满，被迫在不理解内容的情况下盲目交付产品。尽管高层领导多次强调代码交付并非瓶颈，但却不理解为何项目进展缓慢，忽视了AI完全主导带来的混乱。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+    "score": 9,
+    "angle": "AI掌控一切，我们却被迫成为“盲人程序员”！这种公司我还能待下去吗？"
+  },
+  {
+    "title_en": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+    "title_cn": "52岁的铃木一朗在日本对阵全明星女子队投出127球完封胜",
+    "summary_cn": "棒球传奇铃木一朗，已步入52岁，在被选入名人堂并于夏季全垒打德比中打出8支本垒打后，近期再创佳绩。他在日本一年一度的全明星赛中，面对日本顶尖高中女子全明星队，以127球完封对手，并送出17次三振。这场比赛在东京巨蛋举行，吸引了25,000名观众现场观战，展现了他宝刀未老的状态。",
+    "source": "daringfireball.net",
+    "url": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/",
+    "score": 8,
+    "angle": "可以从“年龄只是数字，热爱与自律让你永远年轻”的角度切入。强调铃木一朗52岁高龄仍能保持巅峰状态，对女子全明星队投出完封胜，展现了超越年龄的毅力、对棒球的极致热爱和严格的自律。引发读者关于如何保持健康活力、追求热爱和实现人生价值的讨论，传递积极向上的生活态度，或探讨“逆龄生长”的秘诀。"
+  },
+  {
+    "title_en": "Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.",
+    "title_cn": "格伦·弗莱什曼谈美欧间货运的日益困难。",
+    "summary_cn": "欧盟保护主义政策导致美国小企业对欧销售困难。新规复杂化低价值包裹的税费和清关流程，额外增加每个包裹至少3欧元成本（150欧以下商品），旨在减少竞争而非关税问题。",
+    "source": "daringfireball.net",
+    "url": "https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/",
+    "score": 8,
+    "angle": "你的包裹可能更贵了！”或“跨境小商家必看！欧盟新政如何影响你的欧洲生意？”的角度切入。强调低价包裹的隐性成本和清关难度，提供实用建议，比如选择合适的物流方式、是否划算等。"
+  },
+  {
+    "title_en": "David Pogue: ‘125 Tests of the New AI Siri’",
+    "title_cn": "“新版AI Siri的125项测试”",
+    "summary_cn": "大卫·波格分享了对新版AI Siri的深度体验。他强调，用户需改变使用习惯并信任Siri，才能节省大量时间。作为AI产品，他好奇其准确性，因此亲自进行了125项详细测试，以验证其在实际应用中的表现。",
+    "source": "daringfireball.net",
+    "url": "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri",
+    "score": 8,
+    "angle": "手把手教你告别APP，Siri帮你省下N多时间！"
+  },
+  {
+    "title_en": "‘Measuring Nothing (With Great Accuracy)’",
+    "title_cn": "精确测量无用之物",
+    "summary_cn": "我们应警惕那些易于衡量但缺乏实际意义的数据，转而关注事物的本质和真正的质量。",
+    "source": "daringfireball.net",
+    "url": "https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/",
+    "score": 8,
+    "angle": "警惕！这些“精确数据”正在蒙蔽你的双眼！不止iPhone电池，生活中你也被骗了多少次？"
+  },
+  {
+    "title_en": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
+    "title_cn": "‘大型AI对人类说：去死吧’",
+    "summary_cn": "大型AI必须像所有其他实体一样遵守现有法律。如果它们违法，就必须像其他人一样受到起诉和惩罚。目前，大型AI尚未做到这一点，作者呼吁对其加强法律约束和追责。",
+    "source": "daringfireball.net",
+    "url": "https://matthewbutterick.com/chron/drop-dead.html",
+    "score": 7,
+    "angle": "去死吧人类？！😱”这一冲击性标题入手，结合当下AI生成内容、AI诈骗等热点案例，引出“AI犯错谁买单”的法律责任问题，强调AI企业也应像普通人一样守法，引发用户对AI时代个人权益保障的思考和讨论。"
+  },
+  {
+    "title_en": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "title_cn": "树莓派在固件中限制了Pi 5的RAM升级",
+    "summary_cn": "树莓派在其最新固件中加入了一项功能，限制用户自行更换或升级Pi 5的RAM芯片。这意味着即使是容量相同的RAM芯片，用户也无法从其他树莓派板上进行互换。此举有效阻止了用户通过硬件修改来提升或更换内存，引发了技术社区对设备可定制性和硬件自由度的关注与讨论。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-keys-ui 0.1",
+    "title_cn": "LLM 密钥管理界面 0.1",
+    "summary_cn": "llm-keys-ui 0.1 是一个针对特定问题的插件，旨在解决用户在使用 Codex Remote 远程控制机器运行编码代理时，配置 LLM 项目 API 密钥的痛点。作者因不喜直接粘贴 API 密钥，故开发此工具，旨在提供更便捷、安全的 LLM API 密钥管理和配置方式。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly",
+    "title_cn": "Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Yours Truly on CNBC’s ‘Squawk on the Street’ Friday",
+    "title_cn": "Yours Truly on CNBC’s ‘Squawk on the Street’ Friday",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://youtu.be/WrwY_jVaN-w",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: The Claude Delusion (21 Sep 2026)",
+    "title_cn": "Pluralistic: The Claude Delusion (21 Sep 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This is why we play",
+    "title_cn": "This is why we play",
+    "summary_cn": "处理失败",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/blog/2026/this-is-why-we-play/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What’s the highest legal FILETIME? Is it safe to use?",
+    "title_cn": "What’s the highest legal FILETIME? Is it safe to use?",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Cursed Napster",
+    "title_cn": "Cursed Napster",
+    "summary_cn": "处理失败",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17468568/napster-ai-pivot",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+    "title_cn": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+    "summary_cn": "处理失败",
+    "source": "minimaxir.com",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The iPhone Model Hall of Fame",
+    "title_cn": "The iPhone Model Hall of Fame",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "NEC V20 CPU: A bit of pep for an XT",
+    "title_cn": "NEC V20 CPU: A bit of pep for an XT",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/?utm_source=rss&utm_medium=rss&utm_campaign=nec-v20-cpu-a-bit-of-pep-for-an-xt",
+    "score": 0,
+    "angle": ""
+  }
+]
