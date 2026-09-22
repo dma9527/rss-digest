@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
+    "title_cn": "Siri AI集体诉讼和解网站现已上线",
+    "summary_cn": "苹果公司此前因Siri AI延迟发布，在美国面临一起集体诉讼，并最终同意支付2.5亿美元达成和解。目前，该和解协议的官方网站已正式上线。符合条件的iPhone用户预计将从苹果公司获得每部设备约25美元的赔偿。受影响的用户现在可以访问该网站了解详情并申请赔偿。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+    "score": 8,
+    "angle": "【iPhone用户速领】Siri AI集体诉讼赔偿金来了！你的iPhone能领25美元，手把手教你如何申请！"
+  },
+  {
+    "title_en": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "title_cn": "System One（决策模型）",
+    "summary_cn": "TypeSafe AI 近期发布了 Jev，这是一款创新型“System One 模型”，也被建议称为“决策模型”。作为大语言模型（LLM）的一种变体，Jev 的独特之处在于它虽接受文本输入，但不再以传统的文本形式输出。它代表了一种旨在超越传统LLM文本生成范式的新类别模型，预示着AI在决策领域的潜在新发展。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Mux: Turn Your Video Into Context",
+    "title_cn": "将您的视频转化为上下文",
+    "summary_cn": "Mux Robots提供托管AI工作流，将视频从简单的流媒体转化为可构建的结构化数据。它通过单一API调用，无需维护模型，就能实现章节生成、关键时刻识别、音频翻译等功能，赋予视频上下文理解力。Mux的每个工作流都经过真实视频评估，配置一次即可自动处理新上传。Patreon、Substack和Perplexity等知名平台均信赖Mux，助力用户轻松构建智慧视频应用。",
+    "source": "daringfireball.net",
+    "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "title_cn": "树莓派通过固件限制Pi 5的内存升级",
+    "summary_cn": "树莓派在其固件中新增一项功能，限制用户更换Pi 5的内存芯片。这意味着即使是来自其他树莓派板子的同容量内存，也可能无法正常使用。此举引发了用户对设备可定制性和维修权利的担忧，尤其对DIY爱好者和硬件极客影响较大。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Lex Friedman Brings Back Strategery",
+    "title_cn": "Lex Friedman 再次推荐策略游戏 Strategery",
+    "summary_cn": "本文回顾了作者在2009年首次推荐的iPhone策略游戏“Strategery”，该推荐引用了Lex Friedman在Macworld的评测。这款售价2美元的游戏被描述为一款精美的、类似《Risk》的策略游戏，以其极强的趣味性和出色的手感而广受好评。作者强调，即使时隔多年，这款经典游戏依然保持着乐趣和良好的操作体验，显示出其经久不衰的魅力。",
+    "source": "daringfireball.net",
+    "url": "https://lexontech.org/strategery-is-back-and-im-the-developer",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Cloudflare Python Workers are now generally available",
+    "title_cn": "Cloudflare Python Workers 现已正式发布",
+    "summary_cn": "Cloudflare 宣布其 Python Workers 平台现已正式发布 (GA)。经过两年的预览期，开发者现在可以在 Cloudflare 的无服务器 Workers 平台上稳定运行 Python 代码。这标志着 Python 正式成为 Cloudflare 开发者平台上的“一等公民”和全面支持的语言。该技术通过 Pyodide 将 Python 编译成 WebAssembly，并在基于 V8 的环境中高效执行。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "GM Confirms They’re Still Smoking Crack",
+    "title_cn": "GM Confirms They’re Still Smoking Crack",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://x.com/JoannaStern/status/2102105565195288859",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "America’s Decline Can Be Measured by the Names of Ballparks and Arenas",
+    "title_cn": "America’s Decline Can Be Measured by the Names of Ballparks and Arenas",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+    "title_cn": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.",
+    "title_cn": "Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "David Pogue: ‘125 Tests of the New AI Siri’",
+    "title_cn": "David Pogue: ‘125 Tests of the New AI Siri’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
+    "title_cn": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://matthewbutterick.com/chron/drop-dead.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "It's Not Just True, It's False",
+    "title_cn": "It's Not Just True, It's False",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/its-not-just-true-its-false",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)",
+    "title_cn": "Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/22/happy-chudmas/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Are LLMs still surprisingly bad at some simple tasks?",
+    "title_cn": "Are LLMs still surprisingly bad at some simple tasks?",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Nathaniel Bowditch",
+    "title_cn": "Nathaniel Bowditch",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Haversine law",
+    "title_cn": "Haversine law",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/21/haversine-law/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Package Manager Threat Model, Revisited",
+    "title_cn": "Package Manager Threat Model, Revisited",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Unfinished Work in Package Security",
+    "title_cn": "Unfinished Work in Package Security",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Cheaper LLM labelling",
+    "title_cn": "Cheaper LLM labelling",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Where're All The AI Chips?",
+    "title_cn": "Where're All The AI Chips?",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/wherere-all-the-ai-chips/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A Great Story Capturing the Essence of Being Online in 2026",
+    "title_cn": "A Great Story Capturing the Essence of Being Online in 2026",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/online-in-2026/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Athlon 64: How AMD turned the tables on Intel",
+    "title_cn": "Athlon 64: How AMD turned the tables on Intel",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/?utm_source=rss&utm_medium=rss&utm_campaign=athlon-64-how-amd-turned-the-tables-on-intel",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple’s Performa in-store demo software from 1993",
+    "title_cn": "Apple’s Performa in-store demo software from 1993",
+    "summary_cn": "处理失败",
+    "source": "downtowndougbrown.com",
+    "url": "https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "On reading books",
+    "title_cn": "On reading books",
+    "summary_cn": "处理失败",
+    "source": "herman.bearblog.dev",
+    "url": "https://herman.bearblog.dev/on-reading-books/",
+    "score": 0,
+    "angle": ""
+  }
+]
