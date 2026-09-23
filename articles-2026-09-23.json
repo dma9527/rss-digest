@@ -1,0 +1,218 @@
+[
+  {
+    "title_en": "Quoting @therealcornpop",
+    "title_cn": "引用 @therealcornpop",
+    "summary_cn": "视频指出，使用AI为TikTok和YouTube撰写文案的痕迹非常明显。AI文案常表现出“不是X，而是Y”的句式、“三段论”结构，以及看似深刻实则空洞的、多标点符号的断续写作风格。究其根本，AI文案最明显的特征是缺乏真情实感和原创性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+    "score": 9,
+    "angle": "揭秘AI文案“露馅”的3个特征！停止让你的短视频脚本一眼假！"
+  },
+  {
+    "title_en": "Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App",
+    "title_cn": "Meta全新Muse AI应用超越ChatGPT，登顶iPhone榜首",
+    "summary_cn": "9to5 Mac报道，Meta旗下的全新Muse AI智能助理应用近期在美国App Store的免费iPhone应用排行榜中表现亮眼。它成功取代了OpenAI的ChatGPT，跃居榜首。尽管Muse AI应用本月才正式推出，并在过去几周内逐渐被用户认知，但其新增安装量正迅速攀升，显示出强大的市场吸引力。",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
+    "score": 9,
+    "angle": "Meta Muse AI应用超越ChatGPT！普通人如何玩转这款新晋App Store榜首神器？(可以进行功能对比、使用场景分享等)"
+  },
+  {
+    "title_en": "OpenAI and Anthropic Launch Cheaper AI Models, Escalating Price War",
+    "title_cn": "OpenAI与Anthropic同日发布更低价AI模型，AI模型价格战愈演愈烈",
+    "summary_cn": "两大AI巨头OpenAI和Anthropic于近日同日发布了新一代AI模型。OpenAI推出GPT-6 Sol和GPT-6 Luna，而Anthropic则发布了Claude Opus 5.5。这些新模型在性能提升的同时显著降低了使用成本，其中Claude Opus 5.5的令牌使用效率更高，运行成本比前代降低约40%。GPT-6 Luna的成本更是仅为上一代主力模型的约百分之一，这预示着AI模型市场正从单纯追求能力上限转向性能、速度和价格的平衡竞争。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUaF5d_3U08dk2rFtwAUi03AFng1R1_92IPR6jKXuFbYu9KLAuwmjKR63xFN4E76Ukf-AKZRGeUU3tzK1_NhEi2GxTAlYoIsYRP5_4cVW2unCOj_rSr4DDuH5jny3WY-9UH8CxEahFeO2HXIAPkDxJkMpPn5ADAuOcQ==",
+    "score": 9,
+    "angle": "AI模型也开始“价格内卷”了！大厂纷纷推出平价好用版，普通人也能玩转高阶AI？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI Giants Sued for Antitrust Violations, Accused of Colluding to Slow AI Development",
+    "title_cn": "AI巨头面临反垄断诉讼，被指控合谋放缓AI发展",
+    "summary_cn": "一项新提起的联邦诉讼指控Anthropic、OpenAI、SpaceXAI和Google等主要AI公司非法合谋放缓人工智能发展速度，违反了反垄断法。诉讼指出，这些公司通过公开声明和内部协调，达成减缓AI进步的协议。Anthropic首席执行官达里奥·阿莫迪此前呼吁全行业合作以减缓AI发展，被认为是此次诉讼的导火索。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEOjZpEy3GR_AzH6LbieB_RZDULW4QlYyz9ZyxoPQZVKTnVknQWH_rTHyCjmP-7PZkgAb74P3IKlFOBfhXJJbJWhSkC6IhgDzhzLDBIBf8qq6ZuxzW6OXJNmYnvo7zS03UKQ8d7mtnSCBMjN4I5r_aHU9H7cv9eMW2JCiBw==",
+    "score": 9,
+    "angle": "AI发展太快被起诉？行业大佬也被卷入“反垄断”旋涡，我们该支持慢下来吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "New AI Model Jev Goes Viral, Challenging the 'Generation-First' Paradigm",
+    "title_cn": "AI新物种Jev爆火，颠覆传统“生成优先”范式",
+    "summary_cn": "由前OpenAI核心研究员联合创立的TypeSafe公司推出了一款名为Jev的新型AI模型，在发布后迅速走红。Jev不生成文本，而是专注于高精度、低成本的“判断”，以结构化选择、评分和概率作为输出。其端到端延迟仅70-500毫秒，在特定工作流中比传统大模型快20-200倍，成本低40-400倍。Jev通过“面向校准决策的强化学习（RLCD）”训练，确保判断的置信度，被认为是AI领域从“生成优先”向“判断优先”转变的重要里程碑。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3936gn_9_G9WS8vePqTu907O13U7FlJGw8xZk_2pvYZQ9y7JUhsZiVBvMCfi5fLgu03t4JVw8WzQHQA-tJlFn8Dvz_9YiD1dUr3xKBZb-aGIHpW44BIpjYLwGxPPY4Q==",
+    "score": 9,
+    "angle": "AI模型不写小作文了？这个“只判断不生成”的AI新物种，速度快到飞起，还超级便宜！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Establishes Mathematics & AI Advisory Group After New Model Solves Over 100 Math Problems in 24 Days",
+    "title_cn": "OpenAI成立数学与AI顾问组，神秘新模型24天攻克百余数学难题",
+    "summary_cn": "OpenAI宣布成立一个独立的“数学与AI顾问组”，旨在加强AI与数学界的交流，并评估AI在数学研究中的影响。此前，OpenAI披露其自8月28日训练的一个神秘模型在24天内成功解决了数学领域100多个长期未解的开放问题，包括备受争议的纳维-斯托克斯千年大奖难题。这一突破震惊了数学界，也引发了关于AI在基础科学领域发展和部署方式的讨论。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMqGGReGO7i8tcq4k2tG1jlwNXemzFHDeIzU17rNXADtL7Td7N4zWJhH79Bw8UByVRBlmqPGphlsqxdHpqPPNdHSUPHLLF9ONJyq4WOY9Q7XLdkmSwUjySailaC3cGqD2ILjxG3YPx",
+    "score": 9,
+    "angle": "数学界地震了！OpenAI新模型24天解决上百个数学难题，这是要抢数学家的饭碗吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+    "title_cn": "Claude Opus 5.5、GPT-6 Sol、GPT-6 Luna 发布，一场新的价格战即将打响",
+    "summary_cn": "近日人工智能领域迎来密集发布潮。昨天，Grok 4.7和小米MiMo v2.6相继发布。今天，Anthropic推出了其最新的Claude Opus 5.5模型，仅仅一小时后，OpenAI也紧随其后发布了下一代GPT-6系列的Sol和Luna模型。这一系列AI巨头的重磅发布，不仅展示了技术迭代的加速，更预示着AI大模型市场竞争将进一步白热化，一场新的价格战似乎已箭在弦上。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "score": 8,
+    "angle": "AI大模型降价潮来了！普通人如何抓住GPT-6和Claude Opus 5.5红利，免费/低成本提升工作学习效率？"
+  },
+  {
+    "title_en": "Amazon Blocks Meta’s Muse AI Assistant",
+    "title_cn": "亚马逊屏蔽Meta的Muse AI助手",
+    "summary_cn": "亚马逊宣布已切断Meta公司新推出的个人AI助手Muse在其官网为用户进行购物的权限。亚马逊表示，Meta从未就Muse访问其电商网站一事征得同意，且该AI助手在浏览时也未表明身份，这构成了未经授权的行为。亚马逊此前曾试图让Meta主动停止Muse对其网站的访问，但未能成功。",
+    "source": "daringfireball.net",
+    "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+    "score": 8,
+    "angle": "🚨AI代购突然被封杀？！你的AI助手还能自由购物吗？亚马逊和Meta正面刚了！"
+  },
+  {
+    "title_en": "Navigation with only addition, subtraction, and tables",
+    "title_cn": "仅用加减法和表格实现导航",
+    "summary_cn": "小说《Carry On》中，一位水手请Nathaniel Bowditch教他导航计算。Bowditch惊讶地发现，水手只会用手指进行加减法，对乘法一无所知。面对这一挑战，Bowditch意识到，如果他能制作出三角函数的对数表，便能将复杂的导航计算简化，让这位仅懂加减法的水手也能完成精确的导航任务。这展现了将复杂知识分解为简单步骤的智慧。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/23/navigation-minimum/",
+    "score": 8,
+    "angle": "🤯你敢信？古人只用加减法就能环游世界！这个故事告诉你，再复杂的知识，只要善于分解和利用工具，数学小白也能掌握导航精髓！揭秘历史上如何用最基础的运算实现精准航海。#导航 #数学小白 #科普知识 #古人智慧 #涨知识"
+  },
+  {
+    "title_en": "AI Infrastructure Firm Accelevation Targets $5.4 Billion Valuation in US IPO",
+    "title_cn": "AI基础设施公司Accelevation计划美股IPO，估值达54亿美元",
+    "summary_cn": "AI基础设施公司Accelevation宣布计划在美国进行首次公开募股（IPO），目标估值最高可达53.7亿美元。该公司及其部分售股股东计划通过发行3000万股股票，以每股20至24美元的价格筹集高达7.2亿美元。此举反映出投资者对AI相关股票的强劲需求，也标志着更多AI上下游企业进入资本市场。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2EHU_GHgKmkxtlN6wEpoFykuZvzK7JEJvUh_uR8mHQJwB_LNl2s5HJBI-2aVoD3At4Zm4sfeL-24D0_NpMyUBs9O1lenRmG4tl5WianTS4iMdwjt79xq2KObn1Qp0gsQ1z8PMmad4189UVpiGgqyz6exqMw_wjVp82rKT6loDfMBq7bgD2SNcj7LfvHqM8kHWc9p2lvlXt6pzUStuxlhMY64oKytksHb1Xyrd",
+    "score": 8,
+    "angle": "下一个AI独角兽要上市了！搭上AI顺风车，这家基础设施公司身价暴涨！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "AI-Driven Layoffs Continue as Tech Giants Restructure for AI Economy",
+    "title_cn": "AI驱动裁员潮持续，多家科技巨头重组应对AI经济转型",
+    "summary_cn": "2026年，美国近88,000个工作岗位因人工智能的直接影响而被淘汰，总计裁员人数达397,755人。包括Meta、Amazon、Cloudflare、Oracle、Dell和Block在内的多家科技巨头，为适应AI驱动的经济转型，或将资源重新分配到AI投资，进行了大规模裁员和业务重组。企业高管们表示，AI进步提高了效率，减少了对某些传统岗位的需求，从而推动了这一轮裁员潮。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjrsLqZs0K3pW_5Ph1DiZaqLe4_T6hmNF3m6eeui8gEWKg36gCQ8SXIXkyPTw7vGtP4nQaGZzzAJlcA4fAw5h4hfZ_cCkD5JczkngFXBAHIpyt703auP1u_q0YVSrTdWLfSZt67sseiXV6H_qGaYn-HQrCcH-RE5y5jxWp8jKHq4z-",
+    "score": 8,
+    "angle": "AI要抢饭碗？最新裁员数据曝光，多家大厂因AI进行“效率优化”！你的工作会被替代吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "China's Supreme People's Court Issues Guidelines for AI-Related Dispute Cases",
+    "title_cn": "中国最高法发布涉AI纠纷案件意见，规范AI法律应用",
+    "summary_cn": "中国最高人民法院近日发布《关于依法审理涉人工智能纠纷案件的意见》，旨在规范AI领域的法律应用。该意见聚焦社会关注的“AI换脸拟声”、“AI幻觉”侵权、“网络开盒”、“大数据杀熟”、自动驾驶和模型训练等热点问题，明确了涉人工智能纠纷案件的实体裁判和诉讼程序规则。此举旨在通过司法职能，促进人工智能健康发展，服务国家和社会治理。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA-q13jksPHbT5iv1oLy90ZaCzFpZ1kyub8jlbmdGnmAAeNrdI39o5r22-VEEZjfbTzD7TYsshioUhvEU3ycLS13HYyzLZz15uQJL07YNAPJrN0SUmle3a-lg5v8jOSoDuq3LDhAqgI5VBirZ4rQ==",
+    "score": 8,
+    "angle": "AI法律来啦！最高法出手规范AI换脸、大数据杀熟，我们权益更有保障了！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "llm 0.36",
+    "title_cn": "llm 0.36 版本发布",
+    "summary_cn": "llm工具近日发布了0.36版本更新，主要亮点是新增支持OpenAI的GPT-6 Sol和GPT-6 Luna两款最新大型语言模型，让用户能提前接触前沿AI技术。同时，此版本优化了模型插件功能，允许插件声明对会话模式的支持。这些改进旨在提升开发者和研究人员在利用llm工具时，集成和利用最新AI模型的便捷性和灵活性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/22/llm/",
+    "score": 7,
+    "angle": "【惊爆】GPT-6 Sol/Luna模型悄然上线？AI大模型工具llm 0.36版本抢先支持！揭秘AI的未来可能性！"
+  },
+  {
+    "title_en": "Super Intelligence, Indeed",
+    "title_cn": "超级智能，名副其实",
+    "summary_cn": "美国前总统特朗普在联合国大会上发表演讲，明确拒绝任何构建全球主义方案来控制人工智能的尝试。他提议将备受关注的“人工智能”改名为“超级智能”，理由是“人工”一词使其听起来虚假。",
+    "source": "daringfireball.net",
+    "url": "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23",
+    "score": 7,
+    "angle": "“特朗普：‘人工智能’听着太假，应该叫‘超级智能’！你同意吗？”，引导用户分享他们对AI名称的看法，讨论“人工”和“超级”哪个更能代表AI的未来和本质。可以配上特朗普发言时的截图或相关AI概念图。"
+  },
+  {
+    "title_en": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+    "title_cn": "创业教育将面目一新",
+    "summary_cn": "本文作者反思其15年前改变创业教育的Lean LaunchPad课程。该课程在全球数百所大学推广，成功孵化数千家初创企业。然而，作者思考人工智能的崛起是否已经“扼杀了”这门课程的教学方法和理念。这引发了对AI时代下创业教育未来走向的深刻探讨，以及传统教学模式面临的挑战。",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/",
+    "score": 7,
+    "angle": "AI时代，普通人如何抓住创业新机遇？——连创业课都变了，你的商业思维升级了吗？"
+  },
+  {
+    "title_en": "Xiaomi Releases MiMo-V2.6 Series Full-Modal Models, Performance Rivals Frontier Models",
+    "title_cn": "小米发布MiMo-V2.6系列全模态模型，性能媲美前沿模型",
+    "summary_cn": "小米正式发布并开源了其MiMo-V2.6系列全模态模型，包括MiMo-V2.6 Pro和MiMo-V2.6 Flash。据悉，MiMo-V2.6 Pro在多数Agent基准测试中表现与Anthropic的Claude Opus 5和OpenAI的GPT-5.6 Sol相当，并在Artificial Analysis Intelligence Index中获得开源模型最高分46分。这标志着小米在全模态AI模型领域取得了显著进展，进一步缩小了与行业前沿模型的差距。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4S52YjV0r3ok_Hd3fZVzONySgWN-ei2_PUuuO6Xh8r8o1SyP5mz7ZDjmgHsI9c8w1vn72ZcBzUU8aFD5AJh95Azgqo2H09diGp1UKnzm7eGp7aZupjVE=",
+    "score": 7,
+    "angle": "小米AI黑科技大爆发！最新全模态模型性能直逼国际大厂，国货之光又添硬实力！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Why Didn’t Google Build Muse?",
+    "title_cn": "谷歌为何没有打造Muse？",
+    "summary_cn": "一是数据隐私问题，不信任Meta；二是更引人深思的问题——为何谷歌没有打造类似产品？作者认为，简短回答是谷歌无疑正在开发中，但背后的深层原因可能更复杂有趣，引人思考科技巨头在AI领域的竞争与策略。",
+    "source": "daringfireball.net",
+    "url": "https://spyglass.org/why-didnt-google-build-muse/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-anthropic 0.29",
+    "title_cn": "llm-anthropic 0.29 版本发布",
+    "summary_cn": "llm-anthropic 工具发布了0.29版本，核心更新是增加了对Anthropic公司最新大型语言模型Claude Opus 5.5的全面支持。用户现在可以通过简单的命令行指令 `llm -m claude-opus-5.5 \"你的提示\"` 来便捷地调用和体验Claude Opus 5.5模型。这一更新为开发者和LLM爱好者提供了更方便的途径，直接访问和测试Anthropic的尖端AI技术。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Ebay’s IPO: The rare dotcom survivor",
+    "title_cn": "罕见的互联网幸存者",
+    "summary_cn": "1998年9月24日，eBay以18美元每股的价格成功上市，首日股价飙升至53美元，创始人皮埃尔·奥米迪亚和总裁杰弗里·斯科尔一夜之间成为亿万富翁。作为互联网泡沫时代罕见的幸存者，eBay的IPO标志着其在瞬息万变的科技浪潮中站稳脚跟。文章还提及公司早期对某方面的依赖，展现了其发展初期面临的挑战。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ebays-ipo-the-rare-dotcom-survivor/?utm_source=rss&utm_medium=rss&utm_campaign=ebays-ipo-the-rare-dotcom-survivor",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 522: Live From Oslo with Scott Helme",
+    "title_cn": "与斯科特·赫尔姆在奥斯陆现场",
+    "summary_cn": "本期“每周更新 522”节目邀请了Scott Helme，虽然开场前7分钟因麦克风故障导致声音较小，但之后内容精彩。Scott Helme在节目中深入分享了他利用Report URI的经验，尤其详细阐述了该工具如何通过CSP（内容安全策略）报告机制，有效地帮助各组织发现并识别其内部网络中受恶意软件感染的机器。这是一个关于网络安全与技术实践的重要讨论。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-522/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+    "title_cn": "智能体工程同好交流会",
+    "summary_cn": "旧金山将于10月14日（周三）举办一场名为“智能体工程同好交流会”的晚间活动。该活动由Jesse Vincent和另一位主持人共同发起，旨在召集那些正利用编码智能体（coding agents）构建各种新奇有趣项目的人们。它将是一个非正式的“智能体展示与分享”环节，参与者可以与其他开发者和实验者交流心得，分享正在尝试的技术、学到的经验以及已经完成的项目。这是一个深入了解并与同行探讨智能体工程最新进展的绝佳机会。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Xcode 27.2 Now Supports a New JSON Project File Format",
+    "title_cn": "Xcode 27.2 现已支持新的 JSON 项目文件格式",
+    "summary_cn": "Xcode 27.2 新增 JSON 项目文件格式(.xcproj)，特点是更易读、便于代码合并，也方便AI工具编辑。此格式还兼容旧版Xcode 27。Apple已在GitHub发布配套的Swift库和命令行工具。",
+    "source": "daringfireball.net",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Meta’s Muse Logomark, Designed by Jessica Hische",
+    "title_cn": "Meta’s Muse Logomark, Designed by Jessica Hische",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
+    "title_cn": "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+    "score": 0,
+    "angle": ""
+  }
+]
