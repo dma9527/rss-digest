@@ -1,0 +1,119 @@
+[
+  {
+    "title_en": "Gemini 3.8 TTS Playground",
+    "title_cn": "Gemini 3.8 文本转语音体验平台",
+    "summary_cn": "`gemini-3.8-flash-tts`和`gemini-3.8-flash-lite-tts`。随之推出的是一个功能强大的在线体验平台，允许用户测试这些模型。新模型提供了超过2000种预设音色，最令人兴奋的是，用户只需提供短短30秒的音频，即可创建独一无二的定制声音。这个平台让普通用户和开发者都能轻松体验谷歌最新的AI语音合成技术，探索其在内容创作和个性化应用中的巨大潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "score": 9,
+    "angle": "【谷歌黑科技】30秒克隆你的专属AI声音！普通人也能当声优？手把手教你玩转Gemini TTS体验平台！"
+  },
+  {
+    "title_en": "App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev",
+    "title_cn": "《更新我的手机和应用：指南》——Tair Olzhasev",
+    "summary_cn": "指南》的iOS应用由Tair Olzhasev开发。其免费功能仅限于一个“检查更新”按钮，点击后只会跳转到系统设置的根目录，并不能直接引导至软件更新界面。该应用声称的其他功能均需订阅，费用高达每周15美元（年费780美元），且仅提供三天免费试用。内容揭示了这是一款利用用户更新需求进行高价订阅的骗局。",
+    "source": "daringfireball.net",
+    "url": "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837",
+    "score": 8,
+    "angle": "以“iPhone用户必看！App Store又出天价骗局App，千万别下载！”为标题，内容聚焦这款App如何通过免费功能诱导用户下载，并悄悄开启每周15美元的高额订阅，提醒用户警惕App Store内的这类伪装成实用工具的“智商税”产品。可加入截图，展示App界面和高昂的订阅价格，并提供简单的避坑指南，例如仔细查看评价、订阅前看清费用明细、及时取消不必要的订阅等。"
+  },
+  {
+    "title_en": "★ AppZapper 3000",
+    "title_cn": "★ 应用卸载器 3000",
+    "summary_cn": "★ AppZapper 3000 是一款独特的应用卸载工具。它最引人注目的特点是其用户界面被设计成一把极其精致的3D激光枪。尽管作者本人也承认，将一个卸载程序做得如此浮夸、使用如此华丽且完全不必要的3D激光枪作为交互界面，简直是荒谬透顶。但正是这种反常规、甚至有点“无厘头”的设计，赋予了这款工具独特的魅力和趣味性。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/appzapper_3000",
+    "score": 8,
+    "angle": "✨ 电脑里藏了把未来激光枪？！这可能是史上最酷（也最无聊）的卸载软件！内容着重展示其酷炫的3D激光枪UI和“无厘头”的设计理念，吸引追求个性化和喜欢新奇软件的年轻人，强调这种“无用之美”或“效率与趣味并存”的矛盾点，引发用户讨论和分享。"
+  },
+  {
+    "title_en": "★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally",
+    "title_cn": "★ iPhone 4‘天线门’新闻发布会问答——终于来了",
+    "summary_cn": "一段关于iPhone 4“天线门”事件的新闻发布会问答视频在失踪16年后突然浮出水面。作者表示不清楚这段视频是如何重见天日，或者为何被“Sir Mix-A-Lot Rare Music”频道发布，但对此感到非常惊喜。这段视频的出现为人们重新审视当年的经典科技事件提供了珍贵的视角，弥补了历史记录的空白。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations",
+    "title_cn": "一项巧妙的软件解决方案，助力iPhone 18 Pro Max搭载超出国际运输规定的电池顺利出货。",
+    "summary_cn": "iPhone 18 Pro Max的电池容量超过20瓦时，若直接运输将超出大部分国家和地区的国际运输规定。为解决此问题，苹果采用了名为‘发货准备’的创新电池固件解决方案。该方案在制造到运输过程中，将电池容量限制在20瓦时以下，从而符合法规要求，确保设备能顺利出货，同时让用户最终享受到其提升的续航能力。",
+    "source": "daringfireball.net",
+    "url": "https://support.apple.com/en-us/127848",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Changes to App Tracking Transparency in the E.U.",
+    "title_cn": "欧盟App追踪透明度机制的调整",
+    "summary_cn": "苹果公司宣布，因与欧洲竞争监管机构达成协议，将在欧盟地区调整其App追踪透明度（ATT）框架。自iOS 27.2和iPadOS 27.2起，开发者可选择在欧盟使用ATT系统提示的替代版本。此举旨在满足法律要求，但开发者何时需要征求用户追踪权限的规定保持不变。这意味着在欧盟，ATT的呈现方式将有所不同，但核心的用户隐私保护原则和追踪许可要求并无改变，仅是提示机制上的调整以符合当地法规。",
+    "source": "daringfireball.net",
+    "url": "https://developer.apple.com/app-store/user-privacy-and-data-use/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Some thoughts on HTML's proposed previewsrc attribute",
+    "title_cn": "Some thoughts on HTML's proposed previewsrc attribute",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Why is the human body so crap except for the liver?",
+    "title_cn": "Why is the human body so crap except for the liver?",
+    "summary_cn": "处理失败",
+    "source": "dynomight.net",
+    "url": "https://dynomight.net/liver/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Package Manager Sandboxing",
+    "title_cn": "Package Manager Sandboxing",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/09/24/package-manager-sandboxing.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Shrinking a Fedora virtual disk",
+    "title_cn": "Shrinking a Fedora virtual disk",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/shrinking-fedora-virtual-disk",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Make Money to Make More Websites",
+    "title_cn": "Make Money to Make More Websites",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Motorola born September 25, 1928",
+    "title_cn": "Motorola born September 25, 1928",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/motorola-born-on-this-day-in-1928/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-born-on-this-day-in-1928",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "So yeah it was written using AI",
+    "title_cn": "So yeah it was written using AI",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+    "score": 0,
+    "angle": ""
+  }
+]
