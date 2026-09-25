@@ -1,0 +1,182 @@
+[
+  {
+    "title_en": "You should all be asking way more questions",
+    "title_cn": "你们都应该多提问",
+    "summary_cn": "这篇文章强调了在与人交流时多提问的重要性。作者分享了自己平均每30秒提一个问题的习惯，尽管这可能让一些人感到沮丧，但他认为这是一个帮助深入理解事物的好习惯。作者鼓励读者也养成积极提问的习惯，以提升自己的理解力。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/you-should-all-be-asking-way-more-questions/",
+    "score": 8,
+    "angle": "养成这个提问习惯，让你理解力UP UP UP！ (小红书可配图示：对话气泡、问号表情等，强调“提问的艺术”和“理解力倍增”)"
+  },
+  {
+    "title_en": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+    "title_cn": "北方塘鹅、大蓝鹭、加州褐鹈鹕",
+    "summary_cn": "北方塘鹅、大蓝鹭和加州褐鹈鹕。作者利用新购置的佳能EF 200-800mm镜头，成功捕捉到了这些清晰且富有表现力的鸟类照片，并表示这是他用此镜头拍摄到的最佳作品。内容突出了自然摄影的魅力与专业摄影器材的结合。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+    "score": 7,
+    "angle": "📸新镜头首战蒙特雷湾！解锁加州三大海洋精灵，附观鸟摄影小技巧！"
+  },
+  {
+    "title_en": "Note on 24th September 2026",
+    "title_cn": "2026年9月24日随笔",
+    "summary_cn": "本文作者指出，随着与编程代理（coding agents）互动时间的增加，他愈发相信这些工具反而让软件工程变得更加困难。尽管编程代理拥有令人惊叹的潜力，能够实现许多不可思议的功能，但若想充分发挥其全部效能，使用者需要具备超乎寻常的自律性和深厚的专业知识。简而言之，它们并非降低门槛，而是提高了对使用者的要求。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/24/harder/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
+    "title_cn": "HomelabFest 家庭实验室节启动在即（2027年9月，圣路易斯）",
+    "summary_cn": "博主/作者多年深耕家庭实验室领域，乐于通过博客和YouTube频道分享经验。他发现虽然家庭实验室社区活跃，但一直缺乏一个正式的线下聚会。为此，他决定发起并创办HomelabFest（家庭实验室节），旨在为全球的家庭实验室爱好者提供一个交流学习的平台。首届HomelabFest已定于2027年9月在美国圣路易斯举行，期待汇聚更多同好。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "commit-rewriter 0.2",
+    "title_cn": "commit-rewriter 0.2",
+    "summary_cn": "`commit-rewriter 0.2` 工具最新版本现已发布。本次更新的核心功能是新增了对非默认分支的全面支持。现在，用户可以通过运行 `uvx commit-rewriter --branch other` 命令，轻松地在主分支之外的任意指定分支上使用该工具。这一重要改进极大地提升了 `commit-rewriter` 在 Git 工作流中的灵活性和实用性，帮助开发者更便捷高效地管理和重写提交历史。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette 1.0a41",
+    "title_cn": "Datasette 1.0a41",
+    "summary_cn": "Alec Garcia 为 Datasette 增加了 OpenTelemetry 支持，显著提升了系统的内部监控与可观测性。此外，Datasette 的所有模态对话框均被重构为一个独立的 Web Component，并已提供详细的开发文档，便于开发者进行集成和定制。这些技术改进使得 Datasette 在数据探索和管理方面更加灵活和强大。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Muse Looks Cute, but Looks Are Deceiving",
+    "title_cn": "Muse Looks Cute, but Looks Are Deceiving",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",
+    "title_cn": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Victoria Song on Meta Muse’s Cuteness",
+    "title_cn": "Victoria Song on Meta Muse’s Cuteness",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Joanna Stern Interviews Mark Zuckerberg",
+    "title_cn": "Joanna Stern Interviews Mark Zuckerberg",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://thenewthings.com/p/exclusive-mark-zuckerberg-interview",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Meta Connect Keynote 2026",
+    "title_cn": "Meta Connect Keynote 2026",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=SdKFDIAGF24",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’",
+    "title_cn": "‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Ed Zitron’s AI Prediction Track Record",
+    "title_cn": "Ed Zitron’s AI Prediction Track Record",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://danluu.com/zitron/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Copland D11E4, Emulated in Your Browser",
+    "title_cn": "Copland D11E4, Emulated in Your Browser",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.pagetable.com/300",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Servers in dawn-dusk orbit",
+    "title_cn": "Servers in dawn-dusk orbit",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: The Hater's Guide To AI Debt (Part 2)",
+    "title_cn": "Premium: The Hater's Guide To AI Debt (Part 2)",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "This Week on The Analog Antiquarian",
+    "summary_cn": "处理失败",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "First DVD player announced Sept 26, 1996",
+    "title_cn": "First DVD player announced Sept 26, 1996",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/first-dvd-player-announced-sept-26-1996/?utm_source=rss&utm_medium=rss&utm_campaign=first-dvd-player-announced-sept-26-1996",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "I’m Tired of Being on the Network",
+    "title_cn": "I’m Tired of Being on the Network",
+    "summary_cn": "处理失败",
+    "source": "matduggan.com",
+    "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "AI Killed the MVP – Long Live the IUP",
+    "title_cn": "AI Killed the MVP – Long Live the IUP",
+    "summary_cn": "处理失败",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
+    "score": 0,
+    "angle": ""
+  }
+]
