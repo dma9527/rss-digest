@@ -1,0 +1,155 @@
+[
+  {
+    "title_en": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+    "title_cn": "荷兰警方在ShinyHunters调查中逮捕一名“改过自新”黑客",
+    "summary_cn": "荷兰当局逮捕了一名23岁的网络犯罪分子，他曾被定罪，现被怀疑协助臭名昭著的黑客组织ShinyHunters进行数据窃取和勒索。此人被捕后，ShinyHunters的剩余成员随即升级了攻击，成功盗取了美国联邦调查局（FBI）的高度敏感数据，并勒索了俄罗斯勒索软件组织Cl0p。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+    "score": 8,
+    "angle": "从“金盆洗手”黑客再次被捕的戏剧性事件切入，结合“连FBI数据都被盗”的震撼事实，引发大家对网络世界安全边界和个人隐私保护的思考。可以科普黑客攻击的常见手法，以及普通人如何提升网络安全意识和防护措施（如设置复杂密码、启用二步验证、警惕不明链接等）。"
+  },
+  {
+    "title_en": "★ Spitballing Predictions for Apple’s October",
+    "title_cn": "★ 苹果十月随性预测",
+    "summary_cn": "本文作者根据其经验指出，苹果公司在提供评测机方面有着一套高度可预测的时间表。基于这一观察，文章将对苹果在即将到来的十月份可能举行的新品发布会或重大活动进行随性预测。作者将利用以往的评测机分发规律，来推测苹果可能推出的新品（如Mac或iPad等）及其发布时间，为读者提供一份非官方的展望。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october",
+    "score": 8,
+    "angle": "✨ 苹果十月新品预测大揭秘！内行人靠“评测机”就能猜中发布会？果粉必看！"
+  },
+  {
+    "title_en": "Edge Is Pretending to Be Chrome",
+    "title_cn": "Edge 假冒 Chrome",
+    "summary_cn": "文章指出，微软Edge浏览器正采取更激进的策略，试图诱骗用户使用。作者发现，Edge如今已变得与Chrome难以区分，让普通用户无法分辨。这被视为此前Edge试图让其在系统启动时自动运行等“诡计”的升级。文章暗示，微软正通过这种伪装手段，积极将用户引向Edge，其欺骗性手法变得更加隐蔽和具有侵略性。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/edge-imitates-chrome",
+    "score": 8,
+    "angle": "震惊！你的浏览器被Edge‘换皮’了吗？⚡️手把手教你分辨真假Chrome，避开微软小伎俩！#Edge浏览器 #Chrome #电脑技巧 #避坑指南 #浏览器选择"
+  },
+  {
+    "title_en": "Pluralistic: Priceful (28 Sep 2026)",
+    "title_cn": "价值几何 (2026年9月28日)",
+    "summary_cn": "这篇文章汇总了2026年9月28日一系列多元且引人深思的链接。内容涵盖了从金融市场（纳斯达克允许一分钱股票、富国银行欺诈案、中国房地产泡沫）到政府权力（美国空军击落民用飞机、TSA言论禁令）及科技发展（AI末日论、加密技术争议、数字版权管理）等诸多社会热点。文章以批判性视角探讨了各种“无价值”事物的定价，以及潜藏在社会各层面的问题和争议。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/09/28/cost-of-everything/",
+    "score": 8,
+    "angle": "2026年度预警！揭秘那些你以为“值钱”但其实“一文不值”的真相！"
+  },
+  {
+    "title_en": "The World Outside the Classroom Changed, The Class Didn’t",
+    "title_cn": "教室外的世界变了，课堂没变",
+    "summary_cn": "本文是系列文章的第三篇，探讨人工智能（AI）如何深刻影响了Lean LaunchPad课程。文章指出，尽管课堂外的世界因AI而巨变，但课堂本身却可能未能及时适应。此系列源自Poets and Quants，此前两篇分别讨论了AI带来的挑战，如“AI来了”以及AI对MVP概念的冲击，并介绍了应对策略。本篇将继续深入分析AI时代教育的变革与实践。",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/",
+    "score": 8,
+    "angle": "AI时代，为什么外面的世界变了，大学课堂却没变？🤔 三点洞察，帮你提前布局未来学习和职业规划！"
+  },
+  {
+    "title_en": "Quoting Muse AI Agent",
+    "title_cn": "引用 Muse AI 智能体",
+    "summary_cn": "这篇内容讲述了一次失败的物品（MX Keys Mini）交接经历。取货人Usman在9:15到达并等待，多次发送消息，但卖家/收货人未出现。Usman于9:38愤怒离开，并给予负面评价。更糟的是，卖家的自动回复系统在9:27错误地确认“我到了”，加剧了误会。事后，卖家已从账号发出道歉，承认错误并提议重新安排交接。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+    "score": 7,
+    "angle": "“二手交易血泪史：AI自动回复害我被买家怒评，学到惨痛教训！” 内容可围绕：1. 讲述交易失败的详细经过，突出自动回复的“神助攻”；2. 分析自动回复在特定情境下的弊端，提醒大家谨慎使用；3. 分享如何挽救局面（道歉、重新安排）以及未来如何避免类似问题，给出实用的二手交易沟通建议。"
+  },
+  {
+    "title_en": "Duo-Man",
+    "title_cn": "双屏随身听",
+    "summary_cn": "Duo-Man是开发者Vidit Bhargava为iPhone Duo设计的应用，旨在提供完整的随身听体验。用户可打开Duo“插入”磁带，合上即刻聆听，甚至还原了真实随身听的按键音与沙沙声。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/viditb/status/2104103592726765722",
+    "score": 7,
+    "angle": "爷青回！📱当你的双屏手机变身复古随身听，这沉浸式体验直接把我拉回磁带时代！🔊 谁懂啊，打开手机“插入”磁带，合上即刻播放，连按键声和沙沙声都100%还原，细节控狂喜！这种把科技和怀旧完美结合的App，真的太会玩了！"
+  },
+  {
+    "title_en": "Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆",
+    "title_cn": "《鲍勃人》系列1-3册 (作者：丹尼斯·E·泰勒) ★★★☆☆",
+    "summary_cn": "这篇书评评价丹尼斯·E·泰勒的《鲍勃人》系列1-3册“有趣但最终不尽如人意”。作者将其比作粘牙的爆米花，虽然充满浮夸的科幻元素、笑料和引人入胜的悬念，让人欲罢不能，但整体感受并不完美。故事开篇设定在主角鲍勃死后，其大脑被上传至电脑，并在一个反乌托邦的未来中苏醒，被迫执行驾驶飞船的任务。它能让你在轻松愉快的阅读中度过时光。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/",
+    "score": 7,
+    "angle": "科幻迷必看！大脑上传+反乌托邦，这套书像粘牙爆米花🍿，好玩但又让人有点挠头！究竟是神作还是鸡肋？"
+  },
+  {
+    "title_en": "Open State praatje: zonder transparantie geen democratie",
+    "title_cn": "没有透明就没有民主",
+    "summary_cn": "本文探讨了开放性对社会的重要性，指出透明能有效遏制错误和低质量行为。然而，政府的开放程度正因技术障碍和意愿不足而急剧倒退，导致公众难以获取关键信息。作者强调，在法治基础日益受到侵蚀的当下，这种透明度的缺失尤其令人担忧和痛苦，因为没有透明便无法维护民主。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/",
+    "score": 7,
+    "angle": "从普通人视角切入，将政府透明度与日常生活中的具体权益（如城市规划、公共服务、消费者保护）挂钩。通过提问“信息不透明会如何影响你的生活和权益？”引导用户思考，再引出“没有透明就没有民主”的深层含义，强调维护个人知情权的重要性。可以结合一些“政府信息公开查询攻略”等实用小贴士，增加互动性和实用性。"
+  },
+  {
+    "title_en": "Quoting @joedaroo",
+    "title_cn": "引用@joedaroo",
+    "summary_cn": "这篇推文引用了@joedaroo的观点，指出在处理“网络攻击”、“群体行动”或“论坛信息”等相关事件时，模型能力突然且显著的提升令人非常惊讶。作者强调，建立健全的安全态势需要时间，不仅仅是强化系统本身，更重要的是将安全理念融入公司文化，并促使组织内的员工自身观念和行为发生改变。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "2026 in LLMs (so far)",
+    "title_cn": "2026年大型语言模型（迄今为止）",
+    "summary_cn": "作者在WeAreDevelopers世界大会北美站发表了闭幕主旨演讲。演讲内容围绕过去一年的关键趋势，并以时间线形式深入探讨了2026年大型语言模型（LLM）领域的重要进展。此次演讲的视频已在YouTube上发布，同时作者还提供了详细的带注释幻灯片和演讲笔记。这篇文章旨在分享他对2026年LLM发展的总结与思考，为关注AI和技术前沿的读者提供一份深入的参考资料。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Mux: Turn Your Video Into Context",
+    "title_cn": "将你的视频转化为上下文信息",
+    "summary_cn": "Mux提供视频基础设施服务，其Mux Robots（托管式AI工作流）能将视频转化为有意义的上下文信息。通过一次API调用，即可实现视频章节生成、关键时刻查找、音频翻译等功能，用户无需维护AI模型。Mux Robots基于真实视频评估，一次配置即可自动处理新上传内容，简化了视频内容管理与分析，提供可信赖的视频处理能力。",
+    "source": "daringfireball.net",
+    "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’",
+    "title_cn": "凯蒂·诺托普洛斯评亚历山大·王的“虚伪贺卡式废话”",
+    "summary_cn": "凯蒂·诺托普洛斯犀利抨击亚历山大·王关于“为何我们建造Muse”的文章，直指其为“虚伪的贺卡式废话”。她质疑王声称的帮助人们陪伴家人、开面包店等愿景的真实性，并认为相信者过于天真。本文作者亦持相同立场。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/katienotopoulos/status/2103993429659386026",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "AMD’s IPO, September 27, 1972",
+    "title_cn": "AMD的首次公开募股，1972年9月27日",
+    "summary_cn": "1972年9月27日，半导体巨头AMD完成了首次公开募股（IPO）。此次发行了62万股，每股定价15.50美元，成功筹集了750万美元的资本。与现代科技公司选择在主要交易所上市不同，当年的AMD选择了在柜台交易（OTC），而非大型证券交易所挂牌。这一事件不仅是AMD发展历程中的重要里程碑，也反映了早期科技公司上市模式的独特之处。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/amds-ipo-september-27-1972/?utm_source=rss&utm_medium=rss&utm_campaign=amds-ipo-september-27-1972",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 523: Live From a Norwegian Fjord",
+    "title_cn": "来自挪威峡湾",
+    "summary_cn": "作者刚结束挪威奥斯陆的NDC会议，目前正享受挪威峡湾的迷人风光。稍后将启程前往丹麦哥本哈根的GOTO大会，与Scott共同发表关于‘Cyber-broken’的演讲。此外，本周的主要内容还将聚焦于ShinyHunters的攻击路径分析，揭示其目标和策略。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-523/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "S3 Is the Future, S3 Is the Past",
+    "title_cn": "S3 是未来，S3 是过去",
+    "summary_cn": "文章指出亚马逊S3云存储服务自2014年以来，价格已长达十年未曾下调。尽管S3作为核心存储解决方案广泛应用于云计算领域，其价格曾频繁下降以吸引用户，但最近十年却停滞不前。这引发了人们对S3定价策略和市场动态的关注，探讨其在快速发展的云技术背景下，价格策略所呈现的“未来”与“过去”的矛盾之处。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "SmartOS: The illumos Way of Thinking About Servers",
+    "title_cn": "illumos 的服务器思考之道",
+    "summary_cn": "服务器本身（物理或虚拟）仅作为容器的协调器。当基于 FreeBSD 时，这些容器体现为 jails 和虚拟机。这种设计方法旨在简化系统构建，并在发生灾难时实现快速简单的恢复。它体现了一种注重效率和可靠性的系统思考方式。",
+    "source": "it-notes.dragas.net",
+    "url": "https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/",
+    "score": 2,
+    "angle": ""
+  }
+]
