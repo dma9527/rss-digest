@@ -1,0 +1,92 @@
+[
+  {
+    "title_en": "Dear Software Makers",
+    "title_cn": "致软件开发者",
+    "summary_cn": "这篇文章的灵感来源于Marques Brownlee的视频《致YouTube》。视频中，Brownlee讨论了YouTube即将推出的一项新功能，允许创作者对视频进行A/B测试，发布不同版本以比较效果。这引发了许多疑问，比如用户在观看视频时是否知道自己正在参与测试。作者将这一思考延伸到所有软件开发者，呼吁他们关注软件功能A/B测试的用户体验和透明度问题。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "score": 8,
+    "angle": "MKBHD都急了！你的APP在偷偷做A/B测试，用户变“小白鼠”？😱"
+  },
+  {
+    "title_en": "Quoting Anthropic Frontier Red Team",
+    "title_cn": "引用 Anthropic 前沿红队",
+    "summary_cn": "一项最新研究评估了AI模型在二进制漏洞利用方面的能力。结果显示，GLM-5.3在4%的测试中实现了完整的控制流劫持，而Claude Mythos Preview更高达6%。尽管GLM-5.3在此表现不及后者，但文章强调，AI模型已跨越了一个关键的技术门槛。这表明先进AI模型正发展出前所未有的网络攻击潜力，与早期模型形成鲜明对比，值得警惕。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "score": 7,
+    "angle": "AI已能像'黑客'一样入侵系统？你的数据安全要警惕了！"
+  },
+  {
+    "title_en": "Are you a smartwatch \"power user\"?",
+    "title_cn": "你是智能手表“重度用户”吗？",
+    "summary_cn": "作者偶然听到Pixel Watch团队成员询问一位女性用户智能手表的使用情况。结果显示，除了看时间，她基本只使用计步功能，这与“重度用户”的设想形成对比。作者因佩戴非谷歌手表而被忽视，引发了对普通用户智能手表实际使用场景的思考。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/",
+    "score": 7,
+    "angle": "围绕普通用户智能手表“功能闲置”或“使用率低”的痛点，引导用户分享自己最常用的功能，讨论智能手表哪些功能是真香、哪些是鸡肋，并给出选购和高效使用建议。"
+  },
+  {
+    "title_en": "What TLA+ can and can't check",
+    "title_cn": "TLA+ 能检查什么，不能检查什么",
+    "summary_cn": "最近，Opus利用TLA+成功发现代码中的竞态条件，引发了形式化验证热议。作为长期教育者，本文将深入探讨TLA+作为强大验证工具的能力与局限。它究竟能检查哪些复杂问题，又有哪些力所不及？理解TLA+的边界，将帮助软件开发者更高效利用它，构建更可靠的系统。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "score": 7,
+    "angle": "AI时代，程序员的隐藏杀手锏！Opus如何用TLA+帮你找到连ChatGPT都束手无策的幽灵Bug？告别加班！"
+  },
+  {
+    "title_en": "Notes from September 2026",
+    "title_cn": "2026年9月手记",
+    "summary_cn": "这篇博文是作者2026年9月的月度总结，但由于该月事务繁忙，文章篇幅较短。作者提到，他此前发表了一篇名为《据我观察，程序员不喜欢‘reduce’》的文章，阐述了一个他长期观察到的现象，并收到了大量反馈。这表明即使是篇幅较短的帖子，只要内容有趣或有争议性，也能引发广泛讨论。",
+    "source": "evanhahn.com",
+    "url": "https://evanhahn.com/notes-from-september-2026/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "title_cn": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "VLM Enhanced Metadata For My Icon Galleries",
+    "title_cn": "VLM Enhanced Metadata For My Icon Galleries",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/icon-galleries-vlm/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM PS/2 series",
+    "title_cn": "IBM PS/2 series",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-ps2-series",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
+    "title_cn": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Lean LaunchPad – The Next Generation",
+    "title_cn": "Lean LaunchPad – The Next Generation",
+    "summary_cn": "处理失败",
+    "source": "steveblank.com",
+    "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/",
+    "score": 0,
+    "angle": ""
+  }
+]
