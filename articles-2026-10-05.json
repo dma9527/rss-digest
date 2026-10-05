@@ -1,0 +1,74 @@
+[
+  {
+    "title_en": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
+    "title_cn": "特纳斯和库克在史蒂夫·乔布斯逝世15周年之际发推文简短缅怀",
+    "summary_cn": "在史蒂夫·乔布斯逝世15周年之际，苹果高管约翰·特纳斯和蒂姆·库克分别在X平台（推特）上发布推文，表达了深切缅怀。特纳斯强调乔布斯教会他们关注每一个细节、每一次体验和每一个人，这种理念至今仍指导着他们的工作。库克也发文，并配上了一张照片，表达了对那些“给世界留下印记”的人的敬意，暗示乔布斯正是其中之一。两人的发文都体现了乔布斯精神的持久影响力。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/johnternus/status/2107093462118199562",
+    "score": 7,
+    "angle": "苹果高管缅怀的背后，普通人也能借鉴的3条成功法则！🔥（可围绕“关注细节”、“极致体验”、“以人为本”展开，结合个人成长和职业发展分享见解）"
+  },
+  {
+    "title_en": "Pluralistic: Scrutinized (05 Oct 2026)",
+    "title_cn": "被审视的（2026年10月5日）",
+    "summary_cn": "这份多元化链接集深入审视了全球热点。话题涵盖科技伦理（如“变态眼镜与真实自我”）、数字权利（英国解除DRM、意大利维基百科抗议）、经济社会（温哥华房产税成效、千禧一代困境）、政治动态，以及对苹果公司“非法邪恶”的批判。文章还穿插了猫咪用户协议等轻松内容，展现了对科技、社会和政策现象的广泛关注。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/10/05/pervert-glasses/",
+    "score": 7,
+    "angle": "聚焦【科技与个体】的关系。例如，以“变态眼镜”对真实自我的挑战为引，结合“千禧一代被坑”的社会痛点和“苹果的非法邪恶”等话题，探讨普通人在高科技时代如何保护个人隐私和权益，以及寻找“真实自我”。强调科技的双刃剑效应，引发用户对自身生活的思考和讨论。"
+  },
+  {
+    "title_en": "The IBM Thinkpad’s 1992 debut",
+    "title_cn": "IBM ThinkPad 1992年首次亮相",
+    "summary_cn": "1992年10月5日，IBM正式推出了其首批三款ThinkPad笔记本电脑，标志着这一经典系列的首次问世。尽管IBM在此之前曾发布过1984年的Portable PC和1986年的PC Convertible等便携式电脑，但它们都未能像ThinkPad那样获得长久的成功和广泛的影响力。ThinkPad的诞生，为IBM在便携计算领域奠定了重要的里程碑，并开启了其在商务本市场的传奇篇章。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss&utm_medium=rss&utm_campaign=the-ibm-thinkpads-1992-debut",
+    "score": 7,
+    "angle": "揭秘IBM ThinkPad的传奇诞生！——从第一代ThinkPad的发布故事，结合老照片和当时的背景，引发用户对经典品牌的共鸣与好奇。"
+  },
+  {
+    "title_en": "Qwen3.8 27B addition in words",
+    "title_cn": "Qwen3.8 27B 文字形式加法能力测试",
+    "summary_cn": "这篇文章探讨了大型语言模型（LLM）在执行数字加法并以文字形式输出结果的能力。内容主要介绍了 Colin Frasier 两年前使用 GPT-4o 进行的一项实验。该实验测试了 GPT-4o 对日益增大的数字进行加法运算，并将其和以文字形式返回的准确性。文章提到 Frasier 分享了这些结果的图表，为评估 LLM 在特定计算和自然语言生成任务中的表现提供了参考。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Benchmark In Milliseconds",
+    "title_cn": "毫秒级基准测试",
+    "summary_cn": "通过调整输入大小，直到基准测试耗时约300毫秒。这种做法是基于一些特定原因的，旨在优化测试效率和结果可靠性。",
+    "source": "matklad.github.io",
+    "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Zenith Data Systems, Part I",
+    "title_cn": "Zenith 数据系统，第一部分",
+    "summary_cn": "文章强调了产品质量的重要性，指出卓越的品质是品牌建立的基石。在产品或服务获得市场认可和建立声誉之前，必须先投入并确保其内在的质量。",
+    "source": "abortretry.fail",
+    "url": "https://www.abortretry.fail/p/zenith-data-systems-part-i",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "How fast is Python 3.15?",
+    "title_cn": "Python 3.15 有多快？",
+    "summary_cn": "又到十月，Python 3.15新版本（rc3版）即将发布。本文作者延续去年对Python 3.14性能测评的做法，将对Python 3.15的运行速度进行一次非正式基准测试。测试内容包括将Python 3.15与从3.10到3.14的多个旧版本解释器进行性能比较。作者旨在通过这次测试，分享新版本Python在实际运行中的表现和优化情况，为开发者提供参考。",
+    "source": "miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "[RSS Club] Changes to the RSS and Atom feeds",
+    "title_cn": "[RSS Club] Changes to the RSS and Atom feeds",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/",
+    "score": 0,
+    "angle": ""
+  }
+]
