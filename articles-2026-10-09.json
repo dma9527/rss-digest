@@ -1,0 +1,227 @@
+[
+  {
+    "title_en": "California Enacts Over Two Dozen AI Laws, Covering Regulation, Healthcare, and Employment",
+    "title_cn": "加州签署逾24项AI法律，涵盖监管、医疗、就业等多个领域",
+    "summary_cn": "加利福尼亚州通过了2025-2026立法会议的尾声，签署了二十多项关于隐私和人工智能的法案，强化了其在AI监管领域的领先地位。",
+    "url": "https://www.omm.com/resources/alerts-and-publications/california-expands-its-ai-rulebook-governor-newsom-signs-over-two-dozen-laws-governing-ai-oversight-and-use/",
+    "score": 10,
+    "angle": "加州AI新规来了！对我们生活工作有啥影响？一文读懂AI立法趋势！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
+    "title_cn": "苹果公司目前正在缓慢推进 iOS 27 的普及",
+    "summary_cn": "根据David Smith的观察，iOS 27 在发布头两周的普及率曲线与往年不同。它没有出现通常的初期大幅增长，而是保持着稳定的增长速度。作者推测，这可能是苹果公司的有意为之，目的是为了更好地管理Siri AI的等候名单，并避免可能出现的问题。这一策略旨在确保AI服务的平稳上线，而非单纯的系统更新。",
+    "source": "daringfireball.net",
+    "url": "https://mastodon.social/@_Davidsmith/117355154519434137",
+    "score": 9,
+    "angle": "【苹果揭秘】iOS 27更新迟迟未到？别急，这可能不是你的手机问题，而是苹果在布局Siri AI的大战略！揭秘苹果‘慢滚’更新背后的真正原因。"
+  },
+  {
+    "title_en": "China's Moonshot AI Valued at $50 Billion Ahead of Anticipated 2027 IPO",
+    "title_cn": "中国AI公司月之暗面估值达500亿美元，拟2027年IPO",
+    "summary_cn": "据彭博社报道，中国AI独角兽公司月之暗面（Moonshot AI）已完成最新一轮融资，估值达500亿美元，并计划于2027年在香港进行首次公开募股（IPO）。",
+    "url": "https://www.siliconrepublic.com/ai/moonshot-ai-valuation-ipo-2027-kimi-models",
+    "score": 9,
+    "angle": "中国AI巨头冲刺IPO！月之暗面500亿美元估值，未来AI谁主沉浮？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "OpenAI Launches ChatGPT 'Intelligent UI' and GPT-6 Luna Model",
+    "title_cn": "OpenAI发布ChatGPT“智能UI”和GPT-6 Luna模型",
+    "summary_cn": "OpenAI已开始推出ChatGPT的“智能UI”，可内联渲染可点击按钮、自定义计算器和可编辑图表，并同步发布了GPT-6 Luna模型，向Pro、Plus、Business和Enterprise用户开放。",
+    "url": "https://aiweekly.co/ai-news-october-8-2026/",
+    "score": 9,
+    "angle": "ChatGPT大变身！AI界面更好用，GPT-6 Luna体验升级，你的AI助理更懂你！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Shield AI and U.S. Government Invest $400 Million in AI-Piloted Fighter Aircraft X-BAT",
+    "title_cn": "Shield AI与美国政府共同投资4亿美元，推进AI飞行器X-BAT研发",
+    "summary_cn": "Shield AI宣布，美国海军已向其现有协议追加1.5亿美元，用于推进X-BAT AI飞行器项目，加上公司自有投资，总承诺资金已达4亿美元。",
+    "url": "https://shield.ai/news/shield-ai-and-u-s-government-investment-in-x-bat-reaches-400-million/",
+    "score": 9,
+    "angle": "未来空战新趋势？AI飞行器获4亿美元巨额投资，科幻电影照进现实！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "A new feature for my blog, built using my voice",
+    "title_cn": "用声音构建我的博客新功能",
+    "summary_cn": "博主发布了博客新功能“新闻邮件”页面，汇总了他所有发送过的免费周报和赞助者月度更新。这个功能最独特之处在于，博主几乎完全是在做饭时，通过语音与笔记本电脑交流来构建的，充分展示了“Codex语音模式”在开发中的强大应用与潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+    "score": 8,
+    "angle": "“黑科技！程序员边做饭边用‘嘴’写代码，解放双手高效工作，未来打工人必备技能？”内容可以分享博主如何利用语音工具高效完成开发，并探讨这种新模式对普通人工作学习的启发。"
+  },
+  {
+    "title_en": "Concert Review: London Voices - Video Games Go Choral ★★★★☆",
+    "title_cn": "伦敦之声——电子游戏合唱版 ★★★★☆",
+    "summary_cn": "本文回顾了伦敦多样化的音乐娱乐场景中一场独特的演出。在圣马丁教堂，一支名为“伦敦之声”的合唱团将经典电子游戏（如《光环》）的主题曲改编成单声部圣咏形式进行演绎。虽然教堂混响严重的音效使得部分通知难以听清，但对于这种无伴奏合唱表演而言，却意外地增添了一种独特的氛围和艺术感。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/",
+    "score": 8,
+    "angle": "当《光环》在教堂被唱成圣咏！🎮⛪️** 分享我在伦敦圣马丁教堂听《光环》主题曲合唱的震撼经历。游戏玩家和音乐爱好者必看！聊聊这种颠覆性改编如何让经典游戏音乐焕发新生，感受古老建筑与现代旋律的奇妙碰撞。#伦敦旅游 #小众音乐会 #游戏音乐 #合唱 #文化体验"
+  },
+  {
+    "title_en": "Premium: The Hater's Guide To Junk",
+    "title_cn": "喷子眼中的垃圾投资指南",
+    "summary_cn": "本文以辛辣的“喷子”视角，指出我们正处在一个“浮夸至极的垃圾时代”。作者将那些被称为“高收益”或“投机级”的金融产品直呼为“垃圾”，暗示当前市场充斥着大量不良投资。这篇指南旨在以批判的眼光，揭露这些看似诱人的“垃圾”产品的真实面貌，帮助读者认清风险，避免投资陷阱，保护个人财富。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-junk/",
+    "score": 8,
+    "angle": "“😱揭秘！你以为的‘高收益’，可能是让你血本无归的‘垃圾’投资！”或“普通人必看！金融喷子教你辨别投资陷阱，守住钱包不被割！”。内容可采用大白话和犀利观点，结合具体的案例（虚构或简化）来揭示“垃圾债券”或“投机级产品”的本质风险，强调投资前务必擦亮眼睛，理性决策。配图可选用夸张、警示性强的风格，如带有“坑”、“警示牌”或“垃圾堆”的趣味插画。"
+  },
+  {
+    "title_en": "Anthropic Releases Claude Haiku 5.5, Focused on Speed and Efficiency",
+    "title_cn": "Anthropic发布Claude Haiku 5.5，主打速度与效率",
+    "summary_cn": "Anthropic推出了其Claude 5.5系列中的第三款也是最小的模型Claude Haiku 5.5。该模型专注于速度和成本效率，与前代相比运行成本降低了约75%。",
+    "url": "https://fello.ai/best-ai-models/october-2026-update/",
+    "score": 8,
+    "angle": "新AI模型Claude Haiku 5.5来了！又快又省钱，打工人的AI搭子升级啦！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "FICO Parent Company Fair Isaac Announces 570 Layoffs Due to AI-Driven Restructuring",
+    "title_cn": "FICO母公司Fair Isaac因AI驱动重组裁员570人",
+    "summary_cn": "FICO信用评分的母公司Fair Isaac宣布将裁减约15%的员工，即570人，作为其AI驱动重组计划的一部分。公司预计将产生2700万美元的税前重组费用。",
+    "url": "https://biggo.finance/news/fair-isaac-to-slash-570-jobs-in-ai-driven-overhaul-biggo-finance-1696614144081",
+    "score": 8,
+    "angle": "AI替代人类？FICO母公司大裁员570人，打工人的饭碗还好吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "UK ICO Launches Six-Week Call for Evidence on Agentic AI",
+    "title_cn": "英国信息专员办公室就Agentic AI（智能体AI）展开为期六周的证据征集",
+    "summary_cn": "英国数据保护监管机构信息专员办公室（ICO）公布了对十家大型AI公司的数据处理承诺审查结果，并同时启动了为期六周的Agentic AI证据征集。",
+    "url": "https://shattered.io/uk-ico-agentic-ai-call-for-evidence-2026/",
+    "score": 8,
+    "angle": "AI智能体要被管起来了？英国启动全球性讨论，AI伦理边界何去何从？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Quoting Matthew Green",
+    "title_cn": "引用马修·格林",
+    "summary_cn": "我们有1%的可能生活在“Minicrypt”时代，更有15%的可能对现有公钥加密算法失去信心。他指出，人工智能制造惊喜的速度，远超人类替换标准的滞后性，这意味着我们的数字安全正面临潜在的严重危机。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "score": 7,
+    "angle": "我们现有的加密技术还能撑多久？深入探讨AI速度与人类标准间的博弈，如何守护你的数字隐私和线上资产安全！"
+  },
+  {
+    "title_en": "Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October",
+    "title_cn": "Joz宣布“欢迎回家”主题演讲将于10月13日星期二举行",
+    "summary_cn": "苹果公司高管Joz（推测为营销副总裁Greg Joswiak）近日宣布，一场名为“欢迎回家”的主题演讲将于10月13日星期二举行。文章指出，如果关注苹果一贯的产品发布模式，这类重要活动的举办时间往往具有可预测性。此次发布会的具体内容虽然尚未披露，但“欢迎回家”的主题无疑引发了业界和广大消费者对即将发布的新产品和重大消息的无限猜测与期待。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/gregjoz/status/2108226096407994858",
+    "score": 7,
+    "angle": "苹果秋季发布会官宣！‘欢迎回家’主题有何深意？数码博主带你提前预测重磅新品！"
+  },
+  {
+    "title_en": "An Ion Storm!, Part 1: The Ascent to Gamer Paradise",
+    "title_cn": "通往玩家天堂的崛起",
+    "summary_cn": "本文讲述了约翰·罗梅罗在id软件公司的部分故事。尽管公司已坐拥数百万美元的巨额财富，但办公室却异常简朴，墙壁空无一物。这源于卡马克“我不需要任何装饰，只需一张桌子、一台电脑和一把椅子”的理念，揭示了这家传奇游戏公司早期专注于核心开发、追求极致效率的独特文化。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/",
+    "score": 7,
+    "angle": "赚了上亿，办公室却只有一张桌子和电脑？揭秘游戏大佬的硬核创业史和极简成功哲学！"
+  },
+  {
+    "title_en": "“Getting off the Modernization Treadmill”",
+    "title_cn": "摆脱“现代化跑步机”",
+    "summary_cn": "过去意味着更新老旧设备，如今却指更新5-10年前的技术。这种观念的转变导致了一个“现代化跑步机”式的无休止循环，人们被迫不断升级，以跟上快速迭代的潮流。演讲中还以一个运行极慢的网站为例，揭示了这一现象的实际影响，呼吁大家思考如何跳出这种被动追赶的困境。",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/",
+    "score": 7,
+    "angle": "围绕“你是不是也被‘现代化跑步机’困住了？”这一核心问题展开，结合普通人生活中面临的数码产品（手机、电脑、App）更新迭代压力、信息过载的焦虑、或不断学习新技能的“内卷”心态。通过对比“盲目追新”和“选择性升级”带来的不同生活体验，强调“摆脱跑步机”的解放感和更有意义的生活方式。可以分享“我为什么不再追求每年换新手机”、“告别App焦虑，我的数字极简生活”等内容，引发读者共鸣，提供实用建议。"
+  },
+  {
+    "title_en": "AI Trading Startup Catalyst Raises $30 Million Seed Funding",
+    "title_cn": "AI交易初创公司Catalyst获3000万美元种子轮融资",
+    "summary_cn": "AI交易初创公司Catalyst宣布完成3000万美元种子轮融资，由红杉资本领投，Jump Trading、PeakXV等参投。该公司致力于开发将自然语言指令转化为交易策略的AI智能体。",
+    "url": "https://www.wilsonsonsini.com/news/wilson-sonsini-advises-catalyst-on-30-million-seed-funding/",
+    "score": 7,
+    "angle": "普通人也能用AI炒股了？速看这笔大融资背后的AI交易黑科技！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "20 Minutes of Political Debate, Brought to You by Commercial Breaks",
+    "title_cn": "广告插播下的20分钟政治辩论",
+    "summary_cn": "文章指出，现代政治辩论因时间限制（候选人仅两分钟发言，回应时间更短）而显得无意义且肤浅。作者引用尼尔·波兹曼《娱乐至死》的观点，认为电视上的辩论更像是一场作秀或表演考核，而非深入的观点交锋。这种碎片化的形式使得辩论难以有效展开，无法达到真正的交流目的。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/20-minutes-of-political-debate",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "ttok 0.4",
+    "title_cn": "ttok 0.4",
+    "summary_cn": "无摘要",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Get Player Stats From Your Minecraft Server Logs",
+    "title_cn": "从Minecraft服务器日志中获取玩家统计数据",
+    "summary_cn": "本文将指导Minecraft服务器管理员或对数据分析感兴趣的玩家，如何从服务器日志文件中提取并分析有用的玩家统计数据。内容可能涵盖日志文件的存储位置、常见格式解读，以及使用脚本或工具自动化解析日志的方法。通过这些技术，读者可以监测玩家的在线时长、聊天互动、资源消耗、特定行为模式，甚至潜在的作弊行为。掌握这些数据分析技巧，有助于更好地管理和维护服务器，提升游戏体验，并深入了解玩家社区的动态与需求。",
+    "source": "jayd.ml",
+    "url": "https://jayd.ml/2026/10/08/minecraft-log-analyzer.html",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Carson Gross",
+    "title_cn": "引用 Carson Gross",
+    "summary_cn": "文章指出，计算机编程的核心在于利用电脑解决问题和管理复杂性。作者认为，这些核心技能的价值在未来不会降低，因此编程即使面对新技术挑战，仍将是前景广阔的职业选择。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Let’s Check In on Trump’s Blog",
+    "title_cn": "关注特朗普的博客近况",
+    "summary_cn": "文章回顾了一篇假想或讽刺性的博客文章，该文章被标注为“美国现任总统”特朗普所发。帖子中宣称，白宫将所有使用“人工智能”（Artificial Intelligence）而非“超级智能”（Super Intelligence）一词的人视为“敌人”。作者讽刺地指出，这番言论竟然出自自称“言论自由党派”的特朗普之口。这篇虚构内容通过荒诞的设定，嘲讽了对新技术的极端看法以及言论自由的双重标准。",
+    "source": "daringfireball.net",
+    "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "iFlac: Sync your FLAC files to your iPhone from Linux",
+    "title_cn": "将FLAC文件从Linux同步到iPhone",
+    "summary_cn": "iFlac是一款旨在帮助Linux用户将FLAC音频文件同步到iPhone的工具。然而，项目开发者以其独特的幽默感强调，尽管这份README由人脑编写，但整个项目代码的实现过程完全是“灵感驱动”或“凭借直觉”，带有一种轻松和非传统的技术风格。这可能暗示了项目在开发上的不拘一格和趣味性。",
+    "source": "jayd.ml",
+    "url": "https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "ttok 1.0",
+    "title_cn": "ttok 1.0",
+    "summary_cn": "作者发布了命令行工具 ttok 的 1.0 版本。此次更新的主要原因是，此前的 0.4 版本错误地默认使用 GPT-4 的分词器，而它本应默认使用更新的 GPT-5 或 GPT-6 分词器。作者认为，切换默认分词器是发布 1.0 版本的一个合理理由。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Fun with low-rank vocab matrices (and a bonus test loss reduction?)",
+    "title_cn": "低秩词汇矩阵的趣味探索（以及额外的测试损失降低？）",
+    "summary_cn": "作者因一个关于其模型的极客问题而被吸引。在Hugging Face的讨论页上，用户AndrewThompson1233建议尝试“因子化嵌入”（factorised embeddings）技术。这篇文章将深入探讨如何利用低秩词汇矩阵优化语言模型，并探讨它是否能带来额外的测试损失降低。这对于关注AI模型效率和性能优化的研究者和开发者来说，是一个有趣的探索。",
+    "source": "gilesthomas.com",
+    "url": "https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Commodore’s knockoff Atari joystick from 1982",
+    "title_cn": "康懋达（Commodore）1982年的山寨雅达利（Atari）摇杆",
+    "summary_cn": "1981年，康懋达（Commodore）发布VIC-20电脑的同时，也推出了配套的VIC-1311摇杆和手柄。这款白色的康懋达VIC-1311摇杆，外观设计上与同期雅达利（Atari）的双色摇杆极为相似。因此，它被看作是康懋达于1982年推出的一款“山寨”雅达利摇杆，反映了当年消费电子产品市场中设计模仿的现象。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/commodores-knockoff-atari-joystick-from-1982/?utm_source=rss&utm_medium=rss&utm_campaign=commodores-knockoff-atari-joystick-from-1982",
+    "score": 2,
+    "angle": ""
+  }
+]
