@@ -1,0 +1,119 @@
+[
+  {
+    "title_en": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
+    "title_cn": "Formlabs为推出699美元的SLA打印机，放弃了树莓派",
+    "summary_cn": "Formlabs即将推出一款极具性价比的SLA树脂3D打印机——Form Studio 1，定价仅为699美元。为实现这一亲民价格，Formlabs在设计上可能进行了成本优化，例如放弃了此前某些产品中使用的树莓派组件。目前，该款新机型已送达测评者手中进行测试。这款打印机有望将Formlabs的高精度SLA技术带给更广泛的普通用户，降低专业级3D打印的门槛。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
+    "score": 9,
+    "angle": ""
+  },
+  {
+    "title_en": "AI is mass decompiling games. That's both awesome and scary.",
+    "title_cn": "既惊艳又可怕",
+    "summary_cn": "独立游戏开发者Popcar探讨了AI大规模反编译现有游戏的现象。这项技术正在促进不同游戏间的奇特融合，并极大地推动了游戏遗产保护项目。许多老游戏因此得以在现代硬件上（常通过WebAssembly在浏览器中）重新运行，展现出令人兴奋的可能性，但也伴随着潜在的风险。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "score": 8,
+    "angle": "老游戏重生，未来玩法神仙混搭！是惊喜还是隐忧？"
+  },
+  {
+    "title_en": "U.K. Sanctions Cryptomus for RU Money Laundering",
+    "title_cn": "涉嫌为俄罗斯洗钱",
+    "summary_cn": "英国已对加密货币平台Cryptomus实施经济制裁。专家指出，该平台伪装性强，是勒索软件、毒品交易、暗网市场、欺诈及网络犯罪等非法活动的主要资金通道。更重要的是，它被指控协助俄罗斯规避现有金融限制。此次制裁旨在打击利用加密货币进行洗钱并破坏全球金融稳定的行为。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+    "score": 7,
+    "angle": "【金融黑幕】英国制裁Cryptomus，揭秘加密货币的暗面！普通人如何警惕洗钱陷阱，保护资产安全？"
+  },
+  {
+    "title_en": "llm-gemini 0.35",
+    "title_cn": "llm-gemini 0.35 版本更新",
+    "summary_cn": "llm-gemini 工具发布了 0.35 版本，此次更新主要增加了对谷歌全新 Gemini 4 Argon 模型的支持。该模型已通过 Gemini API 和每月100美元的订阅计划向用户开放，为开发者和付费客户提供了最新的AI模型体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Microsoft Patches More Than 1,400 Security Flaws",
+    "title_cn": "微软修复超1400个安全漏洞",
+    "summary_cn": "微软今日发布更新，修复了Windows操作系统及其他软件中超过1400个安全漏洞。此次大规模补丁更新远超今年9月创下的近1000个修复纪录，而9月的更新量已是微软月均补丁负荷的十倍之多，显示出微软在应对软件安全威胁方面的巨大工作量。",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Redesigning source control at Anthropic",
+    "title_cn": "Anthropic 重新设计版本控制系统",
+    "summary_cn": "Anthropic 发布了一篇有趣的文章，描述了他们为何以及如何构建了一个定制的版本控制系统，以替代 Git。原因在于过去六个月内代码变更速度的惊人增长。文章指出，Anthropic 在 2026 年 5 月平均每天合并约 2,500 次代码变更，而到 9 月，这一数字已超过 30,000 次。这一显著增长（12 倍）促使他们重新思考并设计出更适应其高强度开发需求的新系统。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The Internet of Very Cheap Things",
+    "title_cn": "The Internet of Very Cheap Things",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "\"No way to prevent this\" say users of only language where this regularly happens",
+    "title_cn": "\"No way to prevent this\" say users of only language where this regularly happens",
+    "summary_cn": "处理失败",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A generalization of the Pythagorean theorem",
+    "title_cn": "A generalization of the Pythagorean theorem",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Poe, Bessel, and Drones",
+    "title_cn": "Poe, Bessel, and Drones",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "When SCO fired Darl McBride",
+    "title_cn": "When SCO fired Darl McBride",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/when-sco-fired-darl-mcbride/?utm_source=rss&utm_medium=rss&utm_campaign=when-sco-fired-darl-mcbride",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
+    "title_cn": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
+    "summary_cn": "处理失败",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Claude, don’t touch my lump",
+    "title_cn": "Claude, don’t touch my lump",
+    "summary_cn": "处理失败",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump",
+    "score": 0,
+    "angle": ""
+  }
+]
