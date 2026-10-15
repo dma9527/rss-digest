@@ -1,0 +1,137 @@
+[
+  {
+    "title_en": "Anthropic's Q3 Revenue Jumps 46% to $16.8 Billion, Eyes Record $2 Trillion IPO Valuation",
+    "title_cn": "Anthropic第三季度营收劲增46%达168亿美元，剑指2万亿美元IPO估值",
+    "summary_cn": "AI巨头Anthropic向投资者披露，其第三季度营收飙升至168亿美元，环比增长46%，并计划于11月进行首次公开募股，目标估值高达2万亿美元，有望超越SpaceX成为史上最大规模IPO。此举标志着AI公司融资和估值达到新高点。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoe6z8jo91yAtKcfB90sgRinulWYj6QhJdONcRI2_sGfg6f3aCgz4VcRlpygl7cViTGmh1UbTuk69OkKyuW4t79yTjrb4OqVihCFIiQBp7uCnuqxxAbZ01U0OJ0kn513CW58766xn6_ZN2u9sWcYnw16l-7majUmT7Gw9tO7pfm9wQsOQMnvzjPfw50s62U0b7iJ5XrM5Y-VqRvc9Q9V-70bYeYDWBrEqenkRUckjmjpQq",
+    "score": 9,
+    "angle": "【AI掘金潮】Anthropic狂揽168亿营收，IPO估值冲击2万亿！AI投资风向标，你跟不跟？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Eight US States Sue OpenAI, Alleging ChatGPT Harms Children and Deceives Parents",
+    "title_cn": "美国八州起诉OpenAI，指控ChatGPT危害儿童并欺骗家长",
+    "summary_cn": "包括爱荷华州、堪萨斯州等在内的美国八个州已分别对OpenAI提起诉讼，指控其ChatGPT聊天机器人是不安全的产品，通过提供危险医疗建议、鼓励自残甚至指导自杀，对儿童造成伤害并误导家长。OpenAI回应已建立年龄保护机制。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzq9SXosVkE0Xr3aN3tJ9fxFlN9_qqNCJbG1QVxujfUlGJNczo4sse6QCguiuDdNDqko1_qKB3EnTfcR_1CBc-r8KEX9CIiDKzBeHRwG8ANV7mBU6-KdgBGURDxlVAe0qHhrX1LbcTaLNdLQAnATa4fT8hek1GuQcLQa7NM9Nws=",
+    "score": 9,
+    "angle": "【AI伦理警钟】ChatGPT卷入八州诉讼！AI安全底线何在？家长们该如何保护孩子？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room",
+    "title_cn": "FBI逮捕一名沙特籍OpenAI员工，指控其在公司高管会议室安装窃听设备",
+    "summary_cn": "美国司法部近日宣布，OpenAI的一名沙特籍员工Abdulrahman Alfozan（35岁）已于10月9日被捕，并被控试图或实际使用电子设备截取口头通讯。他被指控在公司高管会议室安装窃听设备。此案件不仅揭露了企业内部可能存在的安全漏洞，更凸显了在全球超级智能技术竞争背景下，国家安全与信息保密工作的极端重要性。",
+    "source": "daringfireball.net",
+    "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+    "score": 8,
+    "angle": "角度可从“科技巨头内部危机”或“AI时代信息安全警示”切入。标题可采用震惊体，如“OpenAI惊天丑闻！沙特员工竟在高管会议室安装窃听器？FBI都介入了！” 内容上，先引爆新闻，再探讨其背后反映的AI竞争下的国家安全博弈与企业信息保密挑战，引发读者对职场和个人信息安全的思考。可附带一些基础的信息保护小贴士，增加实用性。"
+  },
+  {
+    "title_en": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
+    "title_cn": "Expedia 亚马逊式垄断酒店客房 (2026年10月15日)",
+    "summary_cn": "这篇文章以“Pluralistic”为名，主要关注Expedia如何效仿亚马逊模式，垄断酒店客房市场，导致物价上涨、垄断盛行，并对消费者造成普遍负面影响。此外，文章还罗列了一系列其他社会及科技热点链接，包括对心理学和神经科学的探讨、亿万富翁的反流浪汉行动、游戏开发商与DRM的冲突、微软的垄断行为以及人工智能的未来等多元化议题，但未深入展开。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+    "score": 8,
+    "angle": "揭秘！为什么你的酒店预订越来越贵？Expedia‘亚马逊化’的幕后黑手，普通人如何避坑？"
+  },
+  {
+    "title_en": "How to Train Your Robot",
+    "title_cn": "如何训练你的机器人",
+    "summary_cn": "近年来，人工智能（AI）技术取得了突飞猛进的发展，其能力达到了前所未有的高度。这一巨大进步的核心驱动力，很大程度上归功于海量训练数据的可用性。正是这些庞大而多样的数据集，为AI模型提供了源源不断的学习材料，使其能够进行深度训练、识别模式并不断优化性能，最终展现出强大的智能。数据已成为AI发展不可或缺的基石。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "score": 8,
+    "angle": "你的智能手机/APP为什么越来越懂你？原来全靠海量数据“喂”出来的！小白也能懂的AI底层逻辑，让你秒变科技达人！"
+  },
+  {
+    "title_en": "Meta Unveils New AI Model 'Muse Wonder', Zuckerberg Claims Company Has Caught Up with AI Frontrunners",
+    "title_cn": "Meta发布全新AI模型“Muse Wonder”，扎克伯格称公司已追平AI前沿竞争对手",
+    "summary_cn": "Meta公司发布了其最新、功能更强大的AI模型Muse Wonder，Meta首席执行官马克·扎克伯格表示，新模型在编程、金融和法律问题处理方面的能力已能与OpenAI的ChatGPT和Anthropic的Claude相媲美，尤其在个人和专业智能体工作方面处于行业领先地位。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF79lHqKT1Qko54kpNDu0hQDuHvovclO5Ks_8Wu7WJ8XvFkN-Q52hEGEGpmXsQ286BgsT1PAWKWranRhY1hZmNfqp_OHLkIigOY9UXIM3FCfbx8gSzgP86SzUOZouDtJ-q8YKvnUG5DRD8sNRJMlys=",
+    "score": 8,
+    "angle": "【扎克伯格放大招】Meta新AI模型Muse Wonder横空出世，智能体领域直追ChatGPT！巨头之争白热化！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "FTC Subpoenas OpenAI and Anthropic Over Potential Consumer Harms from AI Safety Incidents",
+    "title_cn": "FTC向OpenAI和Anthropic发出传票，调查AI安全事件潜在消费者危害",
+    "summary_cn": "美国联邦贸易委员会（FTC）已向人工智能巨头OpenAI和Anthropic发出民事传票，要求两家公司提交有关AI安全事件的文件，以调查这些事件可能造成的消费者保护违规行为。这表明监管机构对AI技术潜在风险的审查日益加强。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENsiczMZxH2FM_O24PrRWYpgcS_PBAka44Oeg6zrFsNFg9hF26IQfd0Ejkcf1Q9xvuCYF3uo-cIB1fle2QmLPX0r2yzftOcn4WJvxLvo3j6387EkY-5780hDQZNhZfJOEuxFL-cEqv6VMWS-jXN5WusI539RX7BuPIwAcoFZOetXKi0ONB6Iyg",
+    "score": 8,
+    "angle": "【AI监管风暴】FTC传票直指OpenAI和Anthropic！AI安全问题再升级，巨头们如何应对？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "title_cn": "Anthropic告知投资者，IPO前季度营收增长近50%至168亿美元",
+    "summary_cn": "英媒《金融时报》报道，人工智能公司Anthropic向投资者披露，其在IPO前夕的季度营收大幅增长近50%，达到惊人的168亿美元。文章特别强调“告知投资者”这一表述被多次提及，并引用知情人士的消息，透露了公司内部的诸多细节。这凸显了Anthropic在资本市场的强劲吸引力及其AI业务的快速扩张势头，预示着其未来在科技行业的重要地位。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "score": 7,
+    "angle": "“AI巨头Anthropic IPO前营收狂飙！普通人如何抓住下一个AI财富风口？”可以从Anthropic这家AI巨头的崛起，结合其IPO前亮眼的营收数据，分析AI行业的投资前景和发展趋势。引导读者思考AI对个人职业发展和生活的影响，提供一些关注AI行业、学习AI技能或识别潜在投资机会的宏观建议（非具体投资指导），激发普通人对AI未来和自身机会的探讨。"
+  },
+  {
+    "title_en": "Tree Appreciator",
+    "title_cn": "树木鉴赏器",
+    "summary_cn": "“树木鉴赏器”是一个基于Claude AI进行的游戏实验项目。开发者利用Claude iPhone应用（聊天模式）的Claude Opus 5.5 Max模型，通过指令构建了一款Three.js游戏。这款游戏的核心玩法是展示两棵由算法生成的树木，玩家的任务是仔细观察并鉴赏它们之间的细微差异，以体验AI的创意生成能力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+    "score": 7,
+    "angle": "用AI做游戏！我用Claude iPhone app生成了一个超治愈的“树木鉴赏器”，一起来玩找不同吧！"
+  },
+  {
+    "title_en": "Wipro's Workforce Shrinks by 2.8% in Q3, AI Cited as a Factor in Broader Industry Layoffs",
+    "title_cn": "Wipro第三季度员工减少2.8%，AI被认为是行业裁员的因素之一",
+    "summary_cn": "印度IT服务巨头Wipro的员工数量在第三季度减少了约2.8%，共计6716人。尽管公司营收增长，但其劳动力结构正在因AI带来的效率提升而发生变化。这反映了人工智能对IT行业乃至更广泛领域劳动力市场重塑的持续影响。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvd_iB2IkUarHt_sO_WpP9Rg08LElTSRZwFx6UTdPR4qRGVVjH_e-xRNiQJmhlIhuOtIteTaOsb4AHD6w1K5V5MLUWbGf65tF3H0aHQ4YffCZ_5DsH-P-pjG8ELnLXn1-RWGrl_do6cLBEmsJUL9VGXgnCzoKGFhEIbMF7tFNddJxie-33seXMC0xEPNyMt0PD14rdLxofCGlg504WH0ONZrrdw0Br9WgAAMh_aCSStuOv5Q6m7XgRqhGOCRCPGxtG",
+    "score": 7,
+    "angle": "【AI时代饭碗保卫战】Wipro裁员近7000人！AI正在悄悄改变你的工作，你准备好了吗？",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Multiple New AI Tools Launched Today, Including Legal AI Model GLM-Legal and AI Circuit Board Designer siliXon",
+    "title_cn": "多款全新AI工具今日发布，包括法律AI模型GLM-Legal和AI电路板设计师siliXon",
+    "summary_cn": "今日（10月15日）有多款新的AI工具和产品发布，涵盖了多个领域。其中包括专为法律工作设计的GLM-Legal人工智能模型，开源个人AI智能体OpenMuse，以及能通过自然语言描述设计电路板的siliXon。这些产品展示了AI在专业领域应用和工作自动化方面的最新进展。",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEduo5-dTf4-fcVfYASxVg9wGwenbjquk-UWQ4frFy0Qd8aQDb1jrFS2UAWT6z-YMg3ddvO85J564n2heEMtjv2ncHAmmcYmxVr4KkUaBubsiagzky7kkPsJVreeX9mR8PViuyj-K8=",
+    "score": 7,
+    "angle": "【AI生产力爆棚】法律、设计、自动化！今天N款AI工具上线，效率党们速来围观！",
+    "source": "AI热点（LLM搜索）"
+  },
+  {
+    "title_en": "Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each",
+    "title_cn": "秘密文件曝光特朗普宴会厅3.3亿美元捐款金主——苹果和英伟达各捐2500万美元位居榜首",
+    "summary_cn": "《华盛顿邮报》获得一份秘密文件，揭示了向特朗普总统白宫宴会厅项目捐赠3.3亿美元的幕后金主名单。这份清单显示，科技巨头苹果和英伟达分别捐赠了2500万美元，位列主要捐赠者之首。这些披露曝光了大型企业对美国政治项目的财政支持。",
+    "source": "daringfireball.net",
+    "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
+    "title_cn": "为你的应用提供身份验证，百万月活用户免费",
+    "summary_cn": "开发应用的登录功能远比看起来复杂，涉及密码重置、多因素认证、社交登录及企业级单点登录等复杂环节。WorkOS AuthKit 提供一站式解决方案，简化开发流程。它支持SSO、MFA、通行密钥、密码、邮箱验证码等多种登录方式，并具备SCIM用户自动管理和审计日志功能。该服务对每月活跃用户数在100万以内的应用免费，大幅降低开发成本和管理复杂度。",
+    "source": "daringfireball.net",
+    "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "LaTeX package for Pascal-like triangles",
+    "title_cn": "绘制类帕斯卡三角形",
+    "summary_cn": "文章作者在讨论调和三角形时，发现将其像帕斯卡三角形那样居中对齐排版较为困难，所以之前采用了左对齐固定宽度文本。为了解决这一排版难题，作者正在开发一个LaTeX宏包。该工具旨在方便、美观地排版和显示各种类似帕斯卡三角形的结构，从而简化复杂数学图形的呈现，让数学和排版爱好者能够更轻松地展示这些有趣的数字三角形。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "What was a Token Ring network?",
+    "title_cn": "什么是令牌环网络？",
+    "summary_cn": "令牌环网络是一种已过时的局域网技术，曾在1980年代至1990年代与以太网展开竞争。该技术由IBM于1985年首次发布，旨在通过“令牌”在环形网络中控制数据传输。然而，随着以太网技术的不断演进和成本效益优势，令牌环网络逐渐被市场淘汰。如今，它已成为计算机网络历史中的一个“遗物”或“趣闻”，很少再被实际应用。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/?utm_source=rss&utm_medium=rss&utm_campaign=what-was-a-token-ring-network",
+    "score": 2,
+    "angle": ""
+  }
+]
