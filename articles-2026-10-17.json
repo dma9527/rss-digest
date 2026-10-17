@@ -1,0 +1,155 @@
+[
+  {
+    "title_en": "The Late Charlie Munger on Elon Musk and Tesla",
+    "title_cn": "已故查理·芒格谈埃隆·马斯克与特斯拉",
+    "summary_cn": "本文围绕埃隆·马斯克和特斯拉展开，引出关于特斯拉Roadster“跳票”的讨论，以及本笃·埃文斯对马斯克“吹牛但能兑现”的评价。在此背景下，文章回顾了查理·芒格在2020年伯克希尔·哈撒韦股东大会上，针对特斯拉的波动性和马斯克自我推销所发表的看法。尽管芒格的具体言论未完全展示，但旨在通过他的视角审视马斯克和特斯拉现象。",
+    "source": "daringfireball.net",
+    "url": "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html",
+    "score": 8,
+    "angle": "他生前如何评价埃隆·马斯克？对特斯拉的预判有多准？揭秘股神对“吹牛大王”的独特见解！"
+  },
+  {
+    "title_en": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
+    "title_cn": "加强应用审核指南，打击未经同意的私密图像和诱导欺诈应用",
+    "summary_cn": "苹果宣布加强App Store应用审核指南。长期以来，App Store禁止色情内容，此次更新重申并特别强调打击未经同意生成裸露或露骨图像的应用，尤其是“去衣”类应用。同时，平台要求所有托管用户生成内容（UGC）的应用，必须有效过滤不良信息，提供举报机制，并允许用户屏蔽恶意账号，确保用户体验安全与内容健康。",
+    "source": "daringfireball.net",
+    "url": "https://developer.apple.com/news/?id=vvzx6cul",
+    "score": 8,
+    "angle": "🚨苹果App Store大更新！严打私密图像和诈骗APP，手把手教你如何保护数字隐私，避开网络陷阱！姐妹们速看！"
+  },
+  {
+    "title_en": "Strange Times Make for Strange Bedfellows",
+    "title_cn": "奇特的时代，奇特的盟友",
+    "summary_cn": "马克·扎克伯格宣布，Meta的AI模型Muse Spark Open权重已发布，并特别指出该模型在Apple Mac Studio上运行出色，这得益于与苹果公司约翰·特努斯的合作。特努斯随后祝贺团队，并强调Mac Studio正不断突破设备端AI的界限，能够高效运行Muse Spark Open这样高水平的模型。这标志着曾经的科技巨头竞争对手Meta和Apple在AI领域实现了意想不到的合作，共同推动设备端AI技术发展。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/finkd/status/2110778025629347999",
+    "score": 8,
+    "angle": "震惊！昔日“死对头”Meta和苹果竟然破天荒联手搞AI？Mac Studio被曝是AI“超算”，扎克伯格亲自点赞！你的苹果设备离未来AI工作站还有多远？ #AI #苹果 #MacStudio #Meta #科技前沿 #扎克伯格 #大佬合作"
+  },
+  {
+    "title_en": "Apple TV Price History, Charted",
+    "title_cn": "Apple TV 价格历史图表分析",
+    "summary_cn": "本文作者通过图表分析了Apple TV从2007年首款产品到（预计）2026年发布的第四代Apple TV 4K的历代入门级首发价格，并根据通货膨胀进行了调整。作者观察到，尽管Apple TV的内容服务仍可访问，但其硬件设备的价格亲民度正在降低，这可能促使消费者更多地选择使用智能电视自带的操作系统，而非购买Apple TV设备。",
+    "source": "daringfireball.net",
+    "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+    "title_cn": "引用 Addy Osmani、Morgan Westlee Lunt 和 王青",
+    "summary_cn": "这篇文章探讨了 Anthropic 公司对代码评审的创新思考。他们认为，传统的“是否有人工审阅代码”是个不精确的问题，更应关注“此次修改可能出错的地方以及最合适的检查方式（自动化或人工）”。这种转变使得代码评审不再是开发末端的门槛，而是像拼写检查一样贯穿始终的持续过程，旨在更早、更有效地识别和解决潜在问题。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple TV Started at $69 in 2015",
+    "title_cn": "2015年Apple TV曾以69美元起售",
+    "summary_cn": "2015年3月9日，苹果CEO蒂姆·库克在“Spring Forward”发布会上宣布，第三代Apple TV的价格从99美元下调至69美元。此次降价是为了配合HBO Now服务在Apple TV上的推出。这一历史价格调整旨在提升Apple TV的吸引力，使其在当时的流媒体内容服务竞争中，以更具亲和力的价格触达消费者，推广其内容生态。",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "How They Got Duo Support in NetNewsWire",
+    "title_cn": "How They Got Duo Support in NetNewsWire",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "★ Real Artists Ship, Tesla Edition",
+    "title_cn": "★ Real Artists Ship, Tesla Edition",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/10/real_artists_ship_tesla_edition",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
+    "title_cn": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
+    "title_cn": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+    "title_cn": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
+    "title_cn": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week in Package Management: 17 October 2026",
+    "title_cn": "This Week in Package Management: 17 October 2026",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/10/17/this-week-in-package-management.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Reading List 10/17/26",
+    "title_cn": "Reading List 10/17/26",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-101726",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: Venture Capital Is Killing Itself",
+    "title_cn": "Premium: Venture Capital Is Killing Itself",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "This Week on The Analog Antiquarian",
+    "summary_cn": "处理失败",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Intel 386 released October 17, 1985",
+    "title_cn": "Intel 386 released October 17, 1985",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/intel-386-released-october-17-1985/?utm_source=rss&utm_medium=rss&utm_campaign=intel-386-released-october-17-1985",
+    "score": 0,
+    "angle": ""
+  }
+]
