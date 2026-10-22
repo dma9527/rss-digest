@@ -1,0 +1,146 @@
+[
+  {
+    "title_en": "★ The iPhone Duo",
+    "title_cn": "★ 双生iPhone",
+    "summary_cn": "这篇文章分享了作者试用Duo设备一周的体验。尽管使用过程充满乐趣，但作者认为Duo更像是一个制作精良的原型机，而非一款真正成熟的消费级产品。因此，作者表示它并非自己愿意购买并日常携带的设备。Duo展现了潜力，但距离成品尚有距离。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+    "score": 8,
+    "angle": "好玩是真好玩，但别急着买！"
+  },
+  {
+    "title_en": "Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆",
+    "title_cn": "Mokin 17接口USB-C立式扩展坞",
+    "summary_cn": "本文评测了Mokin最新推出的MODK2403型17端口USB-C扩展坞。这款功能强大的设备提供多达17个接口，支持三屏显示（如3个HDMI或1个HDMI加2个DisplayPort），几乎涵盖了所有用户需求。然而，它独特地内置了一块显示天气信息的LCD屏幕，这让评测者感到有些意外。文章将详细介绍其丰富的接口配置与具体规格。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/",
+    "score": 7,
+    "angle": "桌面升级！Mokin 17端口USB-C扩展坞，不仅实现多屏极致生产力，连天气预报都帮你搞定！✨ #桌面改造 #数码好物 #USB-C扩展坞 #生产力工具 #黑科技"
+  },
+  {
+    "title_en": "Quoting Armin Ronacher",
+    "title_cn": "引述 Armin Ronacher",
+    "summary_cn": "知名开发者Armin Ronacher指出，尽管人工智能（AI）令人兴奋，但我们过去三十年来积累了大量劣质软件。他认为，当前AI技术的发展，某种程度上是对过去软件开发“原罪”的“惩罚”。这番言论暗示，AI的快速发展不仅没有解决，反而可能暴露或加剧了长期存在的软件质量问题，迫使行业面对并解决这些根深蒂固的技术缺陷。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "How the eMudrha certificate debacle might have happened",
+    "title_cn": "eMudrha 证书丑闻可能如何发生",
+    "summary_cn": "在 eMudrha 证书丑闻的讨论中，网上常提及“密码是4”。本文指出，这些传闻背后是 eMudrha 使用了 4、56 等一系列简单数字作为秘密密钥，这可能是导致其证书事件的根本原因。文章试图解释这一安全漏洞的潜在机制，揭示了该事件的上下文信息，而非仅仅停留在表面现象。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/22/certificate-debacle/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Script dependencies with Nix",
+    "title_cn": "用 Nix 管理脚本依赖",
+    "summary_cn": "本文介绍了一种利用 Nix 在非 NixOS Linux 系统上管理脚本依赖的方法。作者强调，这种方式适用于所有用户，不仅仅是 NixOS 爱好者，旨在帮助大家更安心地使用各类脚本。文章将首先以 Python 脚本为例，展示如何通过 Nix 轻松管理其依赖，随后说明该方法如何推广至其他编程语言。通过此方法，用户可以有效解决脚本运行时的环境问题，提升开发和使用体验。",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "title_cn": "今日PHP安全更新，以及我们如何加强PHP安全",
+    "summary_cn": "今日，PHP发布了重要的安全更新，涵盖PHP 8.x全线版本。本次更新旨在修复两个严重的远程代码执行漏洞。由于协调披露过程中的信息泄露，相关漏洞的利用代码已于昨晚开始流传。因此，所有运行PHP的系统都务必立即进行升级，以防范潜在的安全风险，保护系统免受攻击。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Can they write a function?",
+    "title_cn": "他们会写函数吗？",
+    "summary_cn": "从众多申请者中挑选少数，进行现场考察。具体包括测试他们是否会写函数、进行FizzBuzz编程测试，以及要求将服务从本地部署到公共服务器。通过这些实际操作技能的评估，便能高效筛选出符合要求的优秀人才。",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/can-they-write-a-function",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+    "title_cn": "对抗性互操作性是一项团队运动 (2026年10月21日)",
+    "summary_cn": "这篇博文探讨了“对抗性互操作性”这一概念，指出其本质是一项需要团队协作的运动，而简单的技术越狱并不能解决深层问题。文章集合了多条链接和评论，涵盖了科技、法律与政治领域的各种事件，例如对政府权力滥用（如劳工党威胁、ICE言论）、知识产权争议（WIPO秘密会议）、数字权利（链接不构成诽谤）以及技术发展趋势的关注。内容风格批判且多元，反映了作者对当前社会、科技和权力动态的广泛观察。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/10/21/brittle-individualism/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "\"No way to prevent this\" say users of only language where this regularly happens",
+    "title_cn": "“防不胜防！”这类问题却只在此类技术用户群体中屡屡发生。",
+    "summary_cn": "NGINX近日爆出高危漏洞CVE-2026-93479，引发全球网站可靠性工程师和系统管理员紧急行动。该漏洞是一个堆缓冲区溢出问题，可通过特定构造的请求触发，例如当正则表达式映射捕获在映射输出前被引用，或在某些字符串处理中使用了不可缓存变量。为修复此漏洞，大量Nginx用户正争相重建和修补其系统，以防止潜在的远程代码执行等安全风险。",
+    "source": "xeiaso.net",
+    "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Working around a strange Python problem",
+    "title_cn": "解决一个奇怪的Python问题",
+    "summary_cn": "一段原本运行正常的Python脚本突然报错无法工作，作者怀疑这与最近为了应对安全漏洞而进行的系统更新有关。具体的错误信息是“The script contains multiple PEP 723 metadata blocks”。这篇文章探讨了作者如何搜索并着手解决这个奇怪的Python问题，寻找绕过此错误并让脚本恢复运行的方法。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/22/pep-723/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The number of points on an elliptic curve",
+    "title_cn": "椭圆曲线上的点数",
+    "summary_cn": "这篇文章介绍了椭圆曲线上的点数。椭圆曲线 E 在有限域 F 上定义为满足方程 y² = x³ + ax + b 的点 (x, y) 集合。在密码学中，有限域 F 通常是模 p 的整数，其中 p 是一个非常大的素数。理解这些点数的计算和特性对于椭圆曲线密码学的安全性和效率至关重要，是其核心基础之一。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "NYC, New Webinar, Differential Testing",
+    "title_cn": "纽约市，新网络研讨会，差异测试",
+    "summary_cn": "首先，他上个月搬到了纽约市，并邀请读者联系他见面交流。其次，他表示自己已重返Twitter。文章内容在此处中断，尚未详细展开标题中提及的“新网络研讨会”和“差异测试”主题，主要集中于作者的个人近况。",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "What will computer chips look like in 2045?",
+    "title_cn": "What will computer chips look like in 2045?",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/intel-tour",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "No Need for Retirement When Utopia Is Around the Corner",
+    "title_cn": "No Need for Retirement When Utopia Is Around the Corner",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Windows 7 released Oct 22, 2009",
+    "title_cn": "Windows 7 released Oct 22, 2009",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/windows-7-released-oct-22-2009/?utm_source=rss&utm_medium=rss&utm_campaign=windows-7-released-oct-22-2009",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "If people would just",
+    "title_cn": "If people would just",
+    "summary_cn": "处理失败",
+    "source": "herman.bearblog.dev",
+    "url": "https://herman.bearblog.dev/if-people-would-just/",
+    "score": 0,
+    "angle": ""
+  }
+]
