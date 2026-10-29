@@ -1,0 +1,110 @@
+[
+  {
+    "title_en": "Building a multiplayer game world with autonomous Fable-class models",
+    "title_cn": "使用自主Fable级模型构建多人游戏世界",
+    "summary_cn": "这篇文章介绍了Jacob Sansbury及其公司Spawn如何利用尖端AI技术构建一个独特的大型多人在线游戏世界。Spawn的核心创新在于玩家可以通过提示词（prompts）与游戏环境进行深度交互。通过结合“代理工程”（agentic engineering）和前沿AI模型，该项目代表了AI在游戏开发领域的最新突破和可能性，展现了自主AI模型如何赋能构建一个动态、响应式的虚拟世界。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+    "score": 8,
+    "angle": "“🎮 重磅！AI游戏天花板！用提示词创造你的专属游戏世界，未来已来！” 内容切入点：介绍Spawn这款游戏如何让玩家通过简单的文字描述就能“指挥”AI在游戏里生成内容、互动，打造一个真正由玩家想象力驱动的开放世界。强调这不仅仅是玩游戏，更是在“创造”游戏，让普通玩家也能体验到开发者的乐趣。可以加入一些概念性画面想象，比如“你的一个想法，AI就能帮你构建一座城池、一个角色、一段剧情”，引发用户对未来游戏的无限遐想和期待。"
+  },
+  {
+    "title_en": "You can just ask AI to do things",
+    "title_cn": "你可以直接让AI帮你完成任务",
+    "summary_cn": "在与AI协作时，最重要的技能是“能动性”，即勇于尝试新颖和富有挑战性的任务。这不仅体现在你构建什么，也体现在你如何构建。AI模型正以惊人的速度进步，以至于我们大多数人的潜力发挥受到了限制，未能充分利用AI的强大能力。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+    "score": 8,
+    "angle": "还在把AI当计算器？你是不是也卡在了AI使用的『瓶颈期』？学会这个『大胆提要求』的思维方式，让你的AI从助手升级为全能搭档，帮你搞定99%的工作！再也不怕AI帮不了你了！"
+  },
+  {
+    "title_en": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
+    "title_cn": "史蒂文·利维谈新款MacBook Pro，是的，它有触摸屏",
+    "summary_cn": "史蒂文·利维在Wired杂志发表独家报道，揭示了新款MacBook Pro可能支持触摸屏功能。文章引用苹果硬件工程高级副总裁约翰·特努斯的话，他表示尽管Mac仍以触控板和键盘为主要输入方式，但在某些情况下，触摸屏会带来便利和舒适。苹果希望借此打消用户对Mac核心体验改变的担忧，强调这并非根本性转变，而是提供更灵活的交互方式。",
+    "source": "daringfireball.net",
+    "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+    "score": 8,
+    "angle": "💥苹果大反转！MacBook Pro要带触摸屏了？！💻果粉们，你们怎么看？"
+  },
+  {
+    "title_en": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
+    "title_cn": "航天飞机‘发现号’右舷的‘S’字母是倒置的",
+    "summary_cn": "这篇文章指出，航天飞机‘发现号’右舷的一个字母‘S’竟然是倒置的。作者惊讶于在这样一艘有着数十年历史的航天器上，至今才有人发现这个印刷错误。文章幽默地建议，在制作标识时，除了注意P和Q，更应该留意H和S，强调了细节的重要性。这个微小的瑕疵提醒人们，即使是高精尖的航天项目，也可能存在被忽视的细节，这本身也成为一个有趣的冷知识。",
+    "source": "daringfireball.net",
+    "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+    "score": 7,
+    "angle": "【冷知识】航天飞机“发现号”藏着42年的“印刷错误”？！连NASA都没发现的细节！😱 可以强调“高精尖设备上意想不到的低级错误”，用“细节控福利”或“惊天大乌龙”等词语吸引眼球。内容可以配上航天飞机的图片，并特写那个倒置的“S”字母，引发读者对日常生活和工作细节的关注，或者讨论“完美主义”是否存在。"
+  },
+  {
+    "title_en": "A New Kind of Chemistry",
+    "title_cn": "新型化学",
+    "summary_cn": "这篇文章深入探讨了“新型化学”这一主题，旨在介绍化学领域中可能出现的创新方法、概念或前沿应用。文章内容吸收了来自Marathon Fusion公司的Kyle Schiller在对话中分享的重要信息和见解，这些宝贵的交流为文中的探讨提供了重要的知识支持。",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Ted Sanders",
+    "title_cn": "引述特德·桑德斯",
+    "summary_cn": "模型大小。通常而言，模型越大，其性能和可靠性就越好，但同时每 token 的运行成本也会更高，并且具有更强的记忆召回能力。因此，模型规模是衡量LLM能力与成本的重要考量。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Ben Hylak",
+    "title_cn": "Quoting Ben Hylak",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Extremely brief history of PDP computers",
+    "title_cn": "Extremely brief history of PDP computers",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/history-of-pdp-computers",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What I learned about power from LBJ and Robert Moses",
+    "title_cn": "What I learned about power from LBJ and Robert Moses",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/lessons-in-power",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Celebrating SIM Cards",
+    "title_cn": "Celebrating SIM Cards",
+    "summary_cn": "处理失败",
+    "source": "blog.jim-nielsen.com",
+    "url": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM’s 2018 Red Hat acquisition",
+    "title_cn": "IBM’s 2018 Red Hat acquisition",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibms-2018-red-hat-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=ibms-2018-red-hat-acquisition",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Making agents fast - what I've learnt over the last 12 months",
+    "title_cn": "Making agents fast - what I've learnt over the last 12 months",
+    "summary_cn": "处理失败",
+    "source": "martinalderson.com",
+    "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+    "score": 0,
+    "angle": ""
+  }
+]
