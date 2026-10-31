@@ -1,0 +1,110 @@
+[
+  {
+    "title_en": "★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max",
+    "title_cn": "★ MacBook Pro M6、M5 Pro 和 M5 Max 的定价与配置",
+    "summary_cn": "这篇文章旨在为用户提供MacBook Pro M6、M5 Pro和M5 Max型号的详细定价与配置信息。作者认为将所有配置选项整理成一页表格的形式非常实用，因此决定抢先分享这些内容，方便读者快速查阅。这些信息将在作者完成对PROLED XDR型号全新硬件和显示屏的完整评测之前发布，为潜在买家或科技爱好者提供及时的参考。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
+    "score": 9,
+    "angle": "🌟 新款MacBook Pro M6/M5 Pro/Max超全选购攻略！配置、价格一表看懂，手把手教你如何选对本命机！💻✨"
+  },
+  {
+    "title_en": "dbreunig/nesformer",
+    "title_cn": "大模型中的NES模拟器",
+    "summary_cn": "受Divyansh Agrawal的qwenputer项目启发，Drew Breunig成功地将一个完整的任天堂NES 6502 CPU模拟器“烘焙”进了Qwen3.5-4B大模型的权重中。这意味着用户现在可以直接在Qwen大模型内部运行并玩NES游戏ROM，例如经典的《超级马里奥兄弟》。尽管目前游戏运行速度非常缓慢，但这一创新展示了将复杂计算逻辑嵌入大型语言模型的可能性和潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+    "score": 7,
+    "angle": "工程师把NES模拟器“塞”进了Qwen大模型，AI也能玩马里奥了！"
+  },
+  {
+    "title_en": "The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
+    "title_cn": "只有用心制作的彩蛋才是好彩蛋",
+    "summary_cn": "Marcin Wichary 评价了 Apple Music 404 页面上发现的原始 iPod 彩蛋。他指出自己通常不喜欢制作粗糙的彩蛋，但这个 iPod 彩蛋是他见过最好的还原之一，值得深入研究。该彩蛋几乎涵盖了所有操作模式，且排版准确无误（仅有少量例外）。文章强调了精心制作的数字彩蛋的价值和魅力，认为只有用心投入才能创造出真正高质量、引人入胜的惊喜。",
+    "source": "daringfireball.net",
+    "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Sponsorship Openings for Daring Fireball (Including The Talk Show)",
+    "title_cn": "Daring Fireball（含 The Talk Show）赞助机会",
+    "summary_cn": "Daring Fireball及其播客The Talk Show的赞助商广告位销售火爆，原本下一个空位要等到12月底，2027年第一季度的档期也已开始排满。然而，由于日程调整，下周突然出现一个稀有的赞助机会。这篇文章旨在紧急招募对Daring Fireball或The Talk Show感兴趣的品牌和公司，以便抓住这个难得的“插队”推广机会。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/feeds/sponsors/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
+    "title_cn": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "College will only cost $20 a month",
+    "title_cn": "College will only cost $20 a month",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/college-will-cost-20-dollars",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Formalities (31 Oct 2026)",
+    "title_cn": "Pluralistic: Formalities (31 Oct 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/10/31/burn-berne/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Notes from October 2026",
+    "title_cn": "Notes from October 2026",
+    "summary_cn": "处理失败",
+    "source": "evanhahn.com",
+    "url": "https://evanhahn.com/notes-from-october-2026/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week in Package Management: 31 October 2026",
+    "title_cn": "This Week in Package Management: 31 October 2026",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/10/31/this-week-in-package-management.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Reading List 10/31/26",
+    "title_cn": "Reading List 10/31/26",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/reading-list-103126",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "This Week on The Analog Antiquarian",
+    "summary_cn": "处理失败",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Johnston’s Electric Trains, St. Louis",
+    "title_cn": "Johnston’s Electric Trains, St. Louis",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/johnstons-electric-trains-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=johnstons-electric-trains-st-louis",
+    "score": 0,
+    "angle": ""
+  }
+]
