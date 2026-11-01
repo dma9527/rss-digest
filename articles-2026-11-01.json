@@ -1,0 +1,74 @@
+[
+  {
+    "title_en": "How We Took Over ChatGPT Accounts",
+    "title_cn": "我们如何接管ChatGPT账户",
+    "summary_cn": "Parameter Labs 发现 ChatGPT 在处理交互式自定义HTML应用（即其“artifacts pattern”或“HTML预览”功能）时存在一个安全漏洞。他们成功利用该漏洞，得以“接管”用户的ChatGPT账户。这意味着攻击者可以利用这一机制，通过在ChatGPT界面中显示恶意内容，在用户不知情的情况下潜在地获取控制权。这一发现提醒我们，即使是先进的AI平台也可能存在复杂的安全漏洞，需要持续关注和修补。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "score": 8,
+    "angle": "🚨 **紧急提醒！你的ChatGPT账户安全亮红灯？普通人必知的AI防范秘籍！** （强调新闻的冲击力与用户相关性，并提供简单易懂的保护建议，避免深入技术细节。）"
+  },
+  {
+    "title_en": "Fast and slow ways to improve your reputation",
+    "title_cn": "提升声誉的快慢之道",
+    "summary_cn": "需要承担重要项目以建立良好声誉，但获得重要项目的前提又是已具备良好声誉。这形成了一个难以打破的“先有鸡还是先有蛋”的循环，让许多初级工程师感到困惑。他们常抱怨，经理倾向于将高可见度的任务分配给经验丰富的资深同事，导致自己难以获得表现机会并逐步提升个人影响力。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
+    "score": 8,
+    "angle": "如何打破“没声誉就没机会”的死循环，快速赢得老板信任和重要项目？内含实用破局干货！"
+  },
+  {
+    "title_en": "A Mastodon bot powered by iOS Shortcuts",
+    "title_cn": "利用iOS快捷指令驱动的Mastodon机器人",
+    "summary_cn": "林克觉醒》中的随机精彩语录。作者指出，过去该机器人需在服务器上运行，但现在已成功迁移至个人的iOS设备，通过快捷指令实现自动化运作。这种方法展示了无需服务器也能轻松搭建自动化社交媒体发布工具的可能性，其简洁性令人赞叹。",
+    "source": "evanhahn.com",
+    "url": "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
+    "score": 7,
+    "angle": "iPhone黑科技！不用服务器也能搭建专属机器人！手把手教你利用iOS快捷指令，0成本实现内容自动发布，把手机变成你的专属自动化神器！告别繁琐操作，轻松打造“懒人”智能管家，让你的社交媒体账号从此告别手动更新！"
+  },
+  {
+    "title_en": "Quoting Kyle Kingsbury",
+    "title_cn": "引用凯尔·金斯伯里",
+    "summary_cn": "原文探讨了大型语言模型（LLM）的广泛应用如何侵蚀人们对软件文档、软件本身及其背后组织的信任。过去作为成熟系统标志的信号现在更容易被伪造，导致工程师可能对新软件项目抱有疑虑。文章还简要提及了在LLM时代，维护者应如何确保软件正确性和文档准确性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "10 Years on Mastodon",
+    "title_cn": "长毛象上的十年",
+    "summary_cn": "作者在去中心化社交网络Mastodon上已活跃十年，这促使他进行一番回顾与庆祝。他感慨许多社交网络通常风光上线却在一年内便销声匿迹，并反思自己也曾注册过许多最终逐渐淡出的服务。这篇帖子暗示了Mastodon的独特韧性和长期运营的价值，引发对社交网络生命力的思考。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm 0.1a9",
+    "title_cn": "Datasette-LLM 0.1a9",
+    "summary_cn": "Datasette-LLM插件发布了0.1a9版本，带来了一项微小的用户体验改进。作为Datasette Agent的底层组件，此次更新使其能自动识别并使用LLM的默认模型。这意味着开发者可以更便捷地开始利用Datasette Agent进行数据操作和AI交互。虽然Datasette Agent未来还有重大升级计划，但这一小步提升了即时可用性，简化了初始设置流程。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "IBM PC/XT drives stuck in the bay? How to free them",
+    "title_cn": "IBM PC/XT drives stuck in the bay? How to free them",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+    "title_cn": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+    "summary_cn": "处理失败",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-528/",
+    "score": 0,
+    "angle": ""
+  }
+]
