@@ -1,0 +1,236 @@
+[
+  {
+    "title_en": "Audience capture",
+    "title_cn": "迎合受众",
+    "summary_cn": "文章作者揭示了“迎合受众”是他在网络写作中最害怕的部分。作为一名工程师，他天生倾向于提升参与度等数据指标，追求数字增长。他指出，当前的网络写作环境恰好是为帮助创作者提高这些互动数据而量身定制的，这无形中推动着创作者去迎合受众，可能导致迷失自我。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/audience-capture/",
+    "score": 7,
+    "angle": "我差点被流量“绑架”，失去了创作初心！揭秘内容创作者的“迎合陷阱”"
+  },
+  {
+    "title_en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "title_cn": "Qwen 3.8 27B在我的笔记本电脑上也能解释模型权重",
+    "summary_cn": "一篇热门论文发现，GPT-6 Astra等前沿大模型能够直接解读和修改机器学习模型的原始权重，即包含浮点数的文本描述。作者通过实验进一步发现，即使是在笔记本电脑上运行的Qwen 3.8 27B这样相对较小的模型，也同样具备解释模型权重的能力。这一发现拓展了人们对“权重空间编程”潜力的认知，表明此项先进技术可能不再是少数顶尖模型的专属，未来有望在更广泛的设备上实现。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "LLMs are not superhuman at reading and writing neural network weights",
+    "title_cn": "大语言模型在读写神经网络权重方面并非超人",
+    "summary_cn": "一篇最新研究指出，前沿大语言模型可直接操作神经网络权重。这虽然看似超人能力，但文章认为并非如此。该研究以GPT-6 Astra为例，展示其能直接与小型神经网络权重交互，其表现超越人类或传统算法预期。具体而言，Astra能够识别出小型网络是关于哪些游戏的信息。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "October sponsors-only newsletter",
+    "title_cn": "十月赞助者专属通讯",
+    "summary_cn": "本文介绍了作者为赞助者发布的十月份月度专属通讯。本期通讯涵盖了多个热门技术话题，包括游戏开发中的“氛围游戏”转折点、日益严峻的网络安全漏洞问题、最新的大型语言模型（LLM）发布动态，以及针对每月100美元以上订阅者的API积分福利。这份通讯旨在为赞助者提供独家深度内容和技术洞察。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+    "title_cn": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "llm 0.37",
+    "title_cn": "llm 0.37",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/2/llm/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "title_cn": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "summary_cn": "处理失败",
+    "source": "krebsonsecurity.com",
+    "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+    "title_cn": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’",
+    "title_cn": "Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.macworld.com/article/208438/jobs_transcript.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Chance Miller Reviews the New A20 Pro iPad Mini",
+    "title_cn": "Chance Miller Reviews the New A20 Pro iPad Mini",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple’s Analyst Calls Have Been Scripted for Decades",
+    "title_cn": "Apple’s Analyst Calls Have Been Scripted for Decades",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple’s New iPhone Release Schedule Seems to Pay Off",
+    "title_cn": "Apple’s New iPhone Release Schedule Seems to Pay Off",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://x.com/asymco/status/2117379158087278697",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple Announces Record $114.5B Fourth-Quarter Results",
+    "title_cn": "Apple Announces Record $114.5B Fourth-Quarter Results",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] OurCal",
+    "title_cn": "[Sponsor] OurCal",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Prove you are not a child",
+    "title_cn": "Prove you are not a child",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/blog/prove-you-are-not-a-child",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Separable (03 Nov 2026)",
+    "title_cn": "Pluralistic: Separable (03 Nov 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/11/03/nobody-is-home/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Just a little AI resistance, as a treat",
+    "title_cn": "Just a little AI resistance, as a treat",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How do you implement a random-access database when you don’t have random-access external storage?",
+    "title_cn": "How do you implement a random-access database when you don’t have random-access external storage?",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Fraction comparison trick revisited",
+    "title_cn": "Fraction comparison trick revisited",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Euclidean, Spherical, and Projective Geometry",
+    "title_cn": "Euclidean, Spherical, and Projective Geometry",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How a programming might reinvent the projective plane",
+    "title_cn": "How a programming might reinvent the projective plane",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pumpkin Seeds",
+    "title_cn": "Pumpkin Seeds",
+    "summary_cn": "处理失败",
+    "source": "tedium.co",
+    "url": "https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Runs scored in World Baseball Classic",
+    "title_cn": "Runs scored in World Baseball Classic",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "New Article, Annual LFP Charity Discount",
+    "title_cn": "New Article, Annual LFP Charity Discount",
+    "summary_cn": "处理失败",
+    "source": "buttondown.com/hillelwayne",
+    "url": "https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Running Dry",
+    "title_cn": "Running Dry",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/running-dry/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Charles Tandy, the mastermind behind Radio Shack",
+    "title_cn": "Charles Tandy, the mastermind behind Radio Shack",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=charles-tandy-the-mastermind-behind-radio-shack",
+    "score": 0,
+    "angle": ""
+  }
+]
