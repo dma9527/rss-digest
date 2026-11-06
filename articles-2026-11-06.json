@@ -1,0 +1,146 @@
+[
+  {
+    "title_en": "Meta Releases Mac Version of Edits",
+    "title_cn": "Meta 推出 Edits Mac 版",
+    "summary_cn": "Meta旗下Edits应用负责人Brett Westervelt宣布，Edits在一年多内已吸引5000万用户。为满足广大创作者的需求，Edits现已推出macOS桌面版本。该版本专为处理更复杂的项目而设计，能充分利用大屏幕的优势，提供更强大的编辑功能，旨在帮助创作者更高效地将创意变为现实。",
+    "source": "daringfireball.net",
+    "url": "https://edits.instagram.com/blog/edits-desktop-video-editor/",
+    "score": 8,
+    "angle": "【创作提效】Meta Edits Mac版上线！告别手机小屏，剪辑效率翻倍！"
+  },
+  {
+    "title_en": "Quoting Nilay Patel",
+    "title_cn": "引用尼拉伊·帕特尔的话",
+    "summary_cn": "尼拉伊·帕特尔批判当前AI产品价值不足以匹配其高昂成本与不便。他指出，AI概述和深度伪造等功能尚不成熟，不足以让用户忍受数据中心噪音等代价。这些产品不值得用户投入，AI代理也未如预期般实用。尽管各大公司投入巨资，但现有AI产品在提供真正价值和满足用户需求方面仍有显著不足。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
+    "title_cn": "关于配备PROLED XDR 显示屏的MacBook Pro上的发光苹果标志",
+    "summary_cn": "这篇文章来自苹果支持，介绍了如何在MacBook Pro上通过“终端”应用控制其发光苹果标志的开关。用户只需在终端中输入特定的命令，即可关闭发光标志，使其在所有光照条件下保持熄灭。若想重新开启标志灯光，也有相应的命令。这是一个针对MacBook Pro用户，希望个性化设置或在特定场合下关闭标志灯光的实用技巧。",
+    "source": "daringfireball.net",
+    "url": "https://support.apple.com/en-us/149248",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "The President is Coping Well",
+    "title_cn": "总统状态良好",
+    "summary_cn": "美国前总统特朗普签署一项公告，宣布将白宫的椭圆形办公室和内阁会议室指定为联邦地标。他表示，此举旨在防止未来的总统对这些关键场所进行重大改变或破坏。特朗普强调，这些区域将被视为“国家纪念碑”和“联邦地标”，确保它们不会被拆除、损坏或以其他方式触动。此举旨在保留其历史和象征意义。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Salon Ceases Publication",
+    "title_cn": "Salon 停刊",
+    "summary_cn": "媒体 Salon 在运营31年后正式宣布停刊。其告别信中回顾了杂志31年的辉煌历程，强调了其在新闻报道、思想交流、多元声音和社区建设方面的重要贡献。Salon 被认为是数字新闻的先行者，帮助定义了数字新闻的可能性和发展方向。该媒体表示，希望其留下的数字新闻遗产能够继续发挥长远的影响力。",
+    "source": "daringfireball.net",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "A database is a store for global variables",
+    "title_cn": "数据库是全局变量的存储区",
+    "summary_cn": "数据库本质上是全局变量的存储区，我们通常称之为“行”或“记录”。然而，编程界普遍认为全局变量是不良实践。这引出一个矛盾：如果全局变量有害，为何许多优雅的程序却高度依赖数据库？这究竟是说明关于全局变量的常见建议有误，还是数据库本身拥有某种特殊性，使其成为规则的例外？",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Writing English is Solved",
+    "title_cn": "Writing English is Solved",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/english-is-solved",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "It's unbreakable in theory",
+    "title_cn": "It's unbreakable in theory",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/unbreakable-in-theory",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "A video game which caused real world violence",
+    "title_cn": "A video game which caused real world violence",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Static site generators are weird",
+    "title_cn": "Static site generators are weird",
+    "summary_cn": "处理失败",
+    "source": "evanhahn.com",
+    "url": "https://evanhahn.com/static-site-generators-are-weird/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekend at Bernie’s II",
+    "title_cn": "Weekend at Bernie’s II",
+    "summary_cn": "处理失败",
+    "source": "nesbitt.io",
+    "url": "https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How Do Building Codes Affect the Price of Housing?",
+    "title_cn": "How Do Building Codes Affect the Price of Housing?",
+    "summary_cn": "处理失败",
+    "source": "construction-physics.com",
+    "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "The benchmark where AIs have to lie to win",
+    "title_cn": "The benchmark where AIs have to lie to win",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/clocktower",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Premium: Fault Lines",
+    "title_cn": "Premium: Fault Lines",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/premium-fault-lines/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Deus Ex",
+    "title_cn": "Deus Ex",
+    "summary_cn": "处理失败",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/11/deus-ex/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "What happened to Transmeta, the last big dotcom IPO",
+    "title_cn": "What happened to Transmeta, the last big dotcom IPO",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-transmeta-the-last-big-dotcom-ipo",
+    "score": 0,
+    "angle": ""
+  }
+]
