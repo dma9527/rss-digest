@@ -1,0 +1,65 @@
+[
+  {
+    "title_en": "Some thoughts on restaurant menu QR codes",
+    "title_cn": "关于餐厅菜单二维码的一些思考",
+    "summary_cn": "这篇文章表达了作者对酒店塑料房卡的强烈不满。作者厌倦了酒店强制客人使用塑料房卡，认为其不便携、容易损坏，并反对电子产品过度控制生活。作者还指出，塑料房卡在紧急自卫情况下毫无用处，而传统钥匙则能提供更好的安全感。因此，作者呼吁酒店回归传统的带大钥匙圈的实体钥匙。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/",
+    "score": 8,
+    "angle": "采用“吐槽”形式，强调对酒店塑料房卡的不满与不便（易丢、不方便携带、过度依赖电子控制），并对比传统钥匙的优点和安全感，引发普通人对“科技进步真的更方便吗？”的共鸣与讨论。可以着重突出“自卫”这个略带夸张但能迅速吸引眼球的槽点，增加话题度和互动性。"
+  },
+  {
+    "title_en": "Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays",
+    "title_cn": "本人做客 Full Stack Creator 节目，畅谈搭载 PROLED XDR 显示屏的新款 MacBook Pro",
+    "summary_cn": "本文记录了作者应邀做客 Tyler Stalman 和 David Altizer 的播客节目。节目中，他们对新款 MacBook Pro 进行了深入探讨，称其为“非常有趣的电脑”，尤其关注了其 PROLED XDR 显示屏的性能。此外，作者还分享了对理光（Ricoh）传奇 GR 系列紧凑型相机的喜爱，并趣谈自己曾用初代 GR-D 拍摄史蒂夫·乔布斯和沃尔特·莫斯伯格的著名照片。",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+    "score": 7,
+    "angle": "【新MacBook Pro深度测评】PROLED XDR显示屏真的香吗？专业人士带你一探究竟！附赠小众宝藏Ricoh GR相机分享！"
+  },
+  {
+    "title_en": "LLMs are terrible at designing AI systems",
+    "title_cn": "大语言模型在设计AI系统方面表现糟糕",
+    "summary_cn": "这篇文章指出，尽管大语言模型（LLMs）能编写常规程序，但它们在设计或整合使用自身的大型AI系统时却表现糟糕。一旦遇到需要AI思维或AI架构的复杂问题，LLMs往往会出错。文章深入探讨了这种现象背后的原因，揭示了其在更深层次的AI系统设计能力上的不足。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Is AI crashing?",
+    "title_cn": "AI会崩盘吗？",
+    "summary_cn": "这篇写于2027年11月8日的文章，探讨了AI是否正面临崩盘以及AI泡沫是否破裂的疑问。作者承认自己尚不确定，但指出已有声音认为崩盘正在发生。他回忆起互联网泡沫破裂的经历，并表示当时未能及时记录深感遗憾，因此希望通过本文记录下对当前AI趋势的思考。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/is-ai-crashing/?utm_source=rss&utm_medium=rss&utm_campaign=is-ai-crashing",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "Reverse engineering a vintage diode-transistor logic chip",
+    "title_cn": "逆向工程一块老式二极管晶体管逻辑芯片",
+    "summary_cn": "CuriousMarc在旧零件中发现无法识别的集成电路，作者对其进行开盖并在显微镜下研究。通过详细的逆向工程分析，最终确定这是一款采用老式二极管晶体管逻辑（DTL）实现的四NAND门逻辑芯片。文章揭示了ST680A芯片的内部构造和工作原理，深入探索了早期数字逻辑芯片的奥秘，为电子技术发展史提供了独特的视角。",
+    "source": "righto.com",
+    "url": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+    "title_cn": "避免向 Firefox 的 HTML 页面提供 `link: rel=next` HTTP 头部",
+    "summary_cn": "这篇文章指出 Datasette 项目存在一个技术问题。在 Firefox 浏览器中访问 Datasette 的表格页面时，由于 HTTP 响应中包含了 `link: rel=next` 头部，Firefox 会自动触发对下一页内容的预加载（prefetch）。这种行为导致了不必要的网络请求和资源消耗。作者建议 Datasette 停止向 Firefox 的 HTML 页面提供此类头部，以优化性能和用户体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "The problem with Micron MT 4264 RAM",
+    "title_cn": "美光 MT 4264 RAM 的问题",
+    "summary_cn": "在修复1980年代8位计算机时，美光（Micron）MT 4264 RAM芯片经常是故障的罪魁祸首。这些制造于上世纪80年代中期的美光RAM芯片以其极高的故障率而臭名昭著。如果你正在尝试修复一台老式电脑，或者对复古科技和电子维修感兴趣，那么特别注意检查这些特定的MT 4264芯片，它们是许多经典电脑问题的根源。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&utm_medium=rss&utm_campaign=the-problem-with-micron-mt-4264-ram",
+    "score": 2,
+    "angle": ""
+  }
+]
