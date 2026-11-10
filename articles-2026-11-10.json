@@ -1,0 +1,254 @@
+[
+  {
+    "title_en": "llm-anthropic 0.31",
+    "title_cn": "llm-anthropic 0.31 版",
+    "summary_cn": "最新消息，`llm-anthropic 0.31` 版本已发布。与此同时，Anthropic 公司推出了其最新的模型 `Fable 5.2` 和 `Mythos 5.2`。值得关注的是，`Fable 5.2` 目前在 `Artificial Analysis` 榜单上排名第一，显示出其卓越性能。Anthropic 甚至声称 `Fable 5.2` 解决了黑洞物理学中的两个开放性问题，这一大胆宣言暗示了其内部基准测试的惊人成果。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+    "score": 8,
+    "angle": "AI逆天了！Anthropic最新模型Fable 5.2竟声称“解开黑洞之谜”？！这背后究竟是科技突破还是营销噱头？带你一文看懂AI的疯狂进化史，探索AI如何挑战科学边界！#AI黑科技 #黑洞探索 #未来科技 #震惊 #人工智能新进展"
+  },
+  {
+    "title_en": "Locating the source of a mysterious beep with Claude",
+    "title_cn": "用 Claude 定位神秘蜂鸣声的来源",
+    "summary_cn": "作者的储藏室里持续发出神秘的间歇性蜂鸣声，手动查找声源既耗时又令人沮丧，且不想翻遍所有箱子。为此，作者利用AI助手 Claude Code 开发了一款名为“Beep Locator”的软件系统。该系统旨在通过三角测量技术，帮助用户精准定位这种难以捉摸的蜂鸣声源头。这不仅解决了生活中的实际困扰，也展示了AI在日常问题解决中的创新应用潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "score": 8,
+    "angle": "家里总是传来奇怪的声音？不用翻箱倒柜，我用AI神助手Claude轻松找到源头！🔥 超实用智能家居小技巧，谁懂啊！"
+  },
+  {
+    "title_en": "Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’",
+    "title_cn": "“英伟达干预美国对Megaspeed芯片走私案的调查”",
+    "summary_cn": "彭博社报道称，尽管美国政府正调查Megaspeed的芯片走私案，英伟达在与美国工业和安全局（BIS）初期沟通中，对其与Megaspeed的业务往来提供了不完整的信息。在多次检查Megaspeed位于东南亚三国共12个数据中心后，英伟达向BIS提交了库存核查报告，并于2025年11月中旬向彭博社宣称所有芯片都在正常位置，暗示其可能在调查初期有所隐瞒或信息披露不全。",
+    "source": "daringfireball.net",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+    "score": 8,
+    "angle": "【科技圈大瓜！】英伟达被曝干预美国芯片走私调查？是真的自查还是另有隐情？普通人也能看懂的显卡巨头争议事件！"
+  },
+  {
+    "title_en": "‘A Scandal at the Center of the Economy’",
+    "title_cn": "经济核心的丑闻",
+    "summary_cn": "文章揭露，英伟达CEO黄仁勋曾与一名中国女商人有恋情，而此女实为北京国安部的资产。令人费解的是，当这一消息传出时，硅谷和华盛顿的不少势力却显得不以为然。亿万富翁对冲基金经理比尔·阿克曼甚至轻描淡写地表示，“即使是了不起的人也会犯错”，凸显出精英阶层对这起涉及经济核心的“丑闻”所持的漠然态度。",
+    "source": "daringfireball.net",
+    "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&",
+    "score": 8,
+    "angle": "科技圈惊天大瓜！Nvidia CEO深陷“间谍桃色门”？高层竟集体冷处理，背后藏着什么秘密？"
+  },
+  {
+    "title_en": "Revisiting Leander v Sweden and Big Brother Watch",
+    "title_cn": "重访莱安德诉瑞典案与老大哥观察",
+    "summary_cn": "欧洲各国政府正寻求加强大规模监控，但《欧洲人权公约》是其制约。本文审视欧洲人权法院近期判例，结合网络安全与AI发展进行解读。这对于评估信号情报及大规模数据收集项目的未来合理性至关重要，表明过去被接受的做法，可能已不适应当前技术变革。",
+    "source": "berthub.eu",
+    "url": "https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/",
+    "score": 8,
+    "angle": "政府大规模监控的边界与你的数据安全！"
+  },
+  {
+    "title_en": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
+    "title_cn": "儿童社交媒体禁令（以及其他）",
+    "summary_cn": "本期更新聚焦于青少年社交媒体禁令的讨论，作者认为目前的争论相当“愚蠢”。核心问题并非简单地将青少年使用社交媒体的年龄推迟到16岁，而是那些本应更清楚责任归属的人，未能明确执行禁令的真正责任方。文章还引用了总理在相关法律通过后对这一议题的解释。",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-529/",
+    "score": 7,
+    "angle": "可以从家长角度切入，讨论“孩子玩社交媒体，禁令出台后，执行的责任到底在谁？”引发家长群体共鸣和讨论。标题可以考虑“禁令已出，孩子刷小红书的锅到底谁来背？！”或“别再纠结禁不禁，先聊聊谁来管孩子们的手机？”。"
+  },
+  {
+    "title_en": "We need more goat sacrifices",
+    "title_cn": "OJ 一切正常。",
+    "summary_cn": "“我们需要更多山羊祭祀”与“OJ 一切正常”。这种并置可能探讨极端应对方式、社会现象或对某特定人物的讽刺，风格充满黑色幽默。",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "score": 7,
+    "angle": "💡职场/学习太卷了，感觉自己像在‘献祭’生命😭 结果发现‘躺平’的朋友们却过得‘A-OK’？聊聊这世界公平吗！"
+  },
+  {
+    "title_en": "Yonkers Rises",
+    "title_cn": "扬克斯崛起",
+    "summary_cn": "作者因不了解扬克斯的地理位置，通过Google Maps查询后，为了更好地记忆其形状与位置，并同时测试Claude Fable 5.2的3D建模与动画功能，他利用该AI工具生成了一个扬克斯的3D动画。这不仅帮助他加深了对该地点的印象，也成功展示了AI在地理可视化和创意内容生成方面的潜力。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Jensen's Bizarre Adventure",
+    "title_cn": "Jensen的奇妙冒险",
+    "summary_cn": "此内容并非文章正文，而是一则高级付费通讯的订阅推广。它邀请读者订阅，并提供了按年（70美元）和按季度（18美元）的订阅链接与价格选项。由于文章正文缺失，无法针对标题“Jensen的奇妙冒险”提供具体内容摘要。这段文字仅为获取付费内容的引导。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/jensens-bizarre-adventure/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Prompting Claude Fable 5.2",
+    "title_cn": "Claude Fable 5.2",
+    "summary_cn": "Claude Fable 5.2在处理代码任务时，对提示词中关于代码所有权的描述反应敏感。Anthropic的测试表明，当提示词未提及所有权或将代码库描述为他人所有时，模型倾向于在现有结构上进行添加，即使这会导致重复代码。这意味着，明确指示模型所处理代码的所有权，对于引导其生成期望结果至关重要。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "The classic console corner's CRT changeover",
+    "title_cn": "经典主机角落的CRT显示器更替",
+    "summary_cn": "在Floodgap实验室的后方角落，堆放着许多经典的复古游戏机。本文将探讨如何对这些老式设备进行CRT显示器的更替。过去，这片游戏区域可能以某种特定的方式呈现，而现在，作者正着手改变或升级其显示方案，这可能涉及更换旧的CRT显示器，或是调整其显示配置，旨在为玩家带来优化的复古游戏体验。",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "I am searching for a coffee alternative",
+    "title_cn": "寻找咖啡替代品",
+    "summary_cn": "作者上周参加线下工作会议时，在办公室看到了Bevi气泡水机。这让他回想起之前在Facebook工作时，Bevi刚出现，自己曾不屑一顾，认为其只是削减成本的产物，远不如罐装或瓶装的LaCroix气泡水和伊藤园茶等“好东西”。这篇内容似乎在探讨作者对办公室饮料的看法和潜在的转变。",
+    "source": "bernsteinbear.com",
+    "url": "https://bernsteinbear.com/blog/coffee-alternative/?utm_source=rss",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "Combinatorial designs",
+    "title_cn": "组合设计",
+    "summary_cn": "这篇博客文章承接了之前的数篇文章，内容逐渐从具体转向抽象。前几篇关于有限几何的文章，介绍了施泰纳三元组（Steiner triples）以及更广泛的施泰纳系统（Steiner systems）。本文在此基础上，进一步探讨了组合设计（Combinatorial designs）这一概念，是在前一篇文章对施泰纳三元组定义的基础上，进行了更深入的阐述。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Novell’s lawsuits with Microsoft",
+    "title_cn": "Novell与微软的诉讼案",
+    "summary_cn": "文章探讨了Novell与微软之间的诉讼历史。故事始于1996年，当时DR DOS的所有者Caldera起诉了微软。业内普遍猜测这起诉讼可能是一个幌子，微软也持相同观点。在微软与Caldera达成和解后不久，作为DR DOS前所有者的Novell便介入了此事，暗示了其在法律纠纷中的后续行动。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/novells-lawsuits-with-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=novells-lawsuits-with-microsoft",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "title_cn": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Regarding Graveyards and Indispensable Men",
+    "title_cn": "Regarding Graveyards and Indispensable Men",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.youtube.com/watch?v=vydmUCGQnyI",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Steven Levy on John Ternus",
+    "title_cn": "Steven Levy on John Ternus",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "OurCal",
+    "title_cn": "OurCal",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Safari 27.3 Adds Support for Global Privacy Control",
+    "title_cn": "Safari 27.3 Adds Support for Global Privacy Control",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
+    "title_cn": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+    "title_cn": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
+    "title_cn": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May",
+    "title_cn": "Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
+    "title_cn": "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/11/10/worst-of-all-worlds/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆",
+    "title_cn": "Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Microsoft employee price list from 1987",
+    "title_cn": "Microsoft employee price list from 1987",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Balanced Incomplete Block Designs",
+    "title_cn": "Balanced Incomplete Block Designs",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/10/bibd/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Claude Code token cost explorer",
+    "title_cn": "Claude Code token cost explorer",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/claude-code-token-cost-explorer",
+    "score": 0,
+    "angle": ""
+  }
+]
