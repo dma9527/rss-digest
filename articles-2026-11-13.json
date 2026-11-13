@@ -1,0 +1,191 @@
+[
+  {
+    "title_en": "The avalanche that hit math is coming for AI development",
+    "title_cn": "冲击数学的雪崩正逼近AI发展",
+    "summary_cn": "作者基于一种“雪崩式”发展模式，预测人工智能将在2030年实现超级智能。文章旨在探讨AI技术为何正经历一场指数级加速，这种颠覆性进步如何像过去冲击数学领域一样重塑AI的未来发展轨迹，以及我们应如何为即将到来的超级智能时代做准备。",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/rsi",
+    "score": 9,
+    "angle": "2030年超级智能来袭，普通人如何抓住机遇、不被时代淘汰？（附：未来十年必备能力清单）"
+  },
+  {
+    "title_en": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
+    "title_cn": "微软及其客户正遭受全球云服务中断",
+    "summary_cn": "微软全球云服务自周四中午起遭遇大范围中断，截至周五上午仍在持续。此次故障影响了全球用户，导致包括Microsoft 365邮件、云服务及AI服务在内的多项服务无法正常使用。微软已公布受影响服务的完整列表，并正采取措施保护客户免受邮件丢失。",
+    "source": "daringfireball.net",
+    "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+    "score": 8,
+    "angle": "突发！微软全球云服务大中断，打工人/学生党如何应对，保住你的学习工作不掉线！ (可分享云服务中断后的应急处理、数据备份重要性等实用建议)"
+  },
+  {
+    "title_en": "Nvidia Employees Petition for Jensen Huang’s Return",
+    "title_cn": "英伟达员工请愿要求黄仁勋回归",
+    "summary_cn": "根据《连线》杂志报道，尽管英伟达创始人黄仁勋此前因婚外情丑闻和突然辞职，仍有部分英伟达员工呼吁其回归公司。报道称，《连线》查阅的内部通信显示了这一情况。早在黄仁勋辞职前，一位资深工程师就在公司内部“建议箱”发帖，敦促董事会在采取任何行动前，应充分考虑员工的情绪和意愿。",
+    "source": "daringfireball.net",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "score": 8,
+    "angle": "能力和品德，领导者究竟哪个更重要？分享你的看法！"
+  },
+  {
+    "title_en": "Premium: The Hater’s Guide To Megaspeed",
+    "title_cn": "恨者的极速指南",
+    "summary_cn": "这篇文章的编辑按语指出，文中讨论的“情况”正在迅速发展，信息随时可能更新，因此故事内容可能会出乎意料地变化。作者在正文开始时也表明了坦率直接的写作态度。文章旨在探讨一个动态且不确定的主题，并提醒读者注意信息的时效性和潜在变化。",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/hg-megaspeed/",
+    "score": 8,
+    "angle": "“极速”概念风云变幻！一篇“恨者指南”带你避开新趋势的坑！"
+  },
+  {
+    "title_en": "This Week on The Analog Antiquarian",
+    "title_cn": "本周《模拟古籍鉴赏家》",
+    "summary_cn": "本期《模拟古籍鉴赏家》将深入探讨莎士比亚充满争议的罗马悲剧《泰特斯·安德洛尼克斯》。作为节目的第七部作品，它将带领听众回顾这部以血腥复仇、极端暴力和深刻人性挣扎著称的经典剧作。节目可能分析其剧情结构、人物塑造、历史背景以及对后世文学和戏剧的影响，揭示其独特的文学魅力与挑战性。",
+    "source": "filfre.net",
+    "url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+    "score": 7,
+    "angle": "莎翁笔下最血腥的罗马悲剧”。内容可包含剧中的关键冲突点、心理分析以及它在莎士比亚作品中的独特地位，同时配以冲击力强的视觉元素（如哥特风插画）。"
+  },
+  {
+    "title_en": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
+    "title_cn": "Thermal Master P3 Lite - 附带 Linux 使用指南",
+    "summary_cn": "本文评测了Thermal Master P3 Lite热像仪。这款设备配备可拆卸微距镜头，不仅能用于检测房屋泄漏和观察野生动物，更能精细聚焦微小电子元件。作者曾评测过同品牌的P3、T2 Max和DV2型号，本篇将对比P3 Lite的性能表现和独特功能。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "llm-gemini 0.37",
+    "title_cn": "llm-gemini 0.37",
+    "summary_cn": "`llm-gemini 0.37`版本已发布，本次更新关注谷歌新推出的Gemini 4 Hydrogen模型。该模型被定位为Gemini 4系列中成本最低的版本，但作者发现其定价与更强大的Carbon和Argon模型相差不大，对Gemini 4的定价策略感到非常困惑。这引发了对AI模型性价比和市场定位的思考。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
+    "title_cn": "黄仁勋同意向国会作证，但尚未公开",
+    "summary_cn": "英伟达前CEO黄仁勋已同意向美国国会作证，这一消息由众议院外交事务委员会主席Brian Mast证实，并得到彭博社和NBC新闻的报道。虽然黄仁勋同意作证，但目前定为非公开形式，意味着他的证词暂时不会对外公布。此举引发了外界对科技巨头与政府间互动，以及未来潜在影响的关注。",
+    "source": "daringfireball.net",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Kepler and the dwarf",
+    "title_cn": "开普勒与矮行星",
+    "summary_cn": "史密森尼杂志近期文章提到一颗新的矮行星候选者，它与太阳的距离是地球的46倍，绕太阳公转需281.1年。作者运用开普勒第三定律（T² = ca³）进行快速计算后，发现数据似乎存在问题。文章将探讨这一潜在的计算偏差，并通过经典物理定律验证天体观测数据，引发对天文观测与理论计算准确性的思考。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "The Dream of Quibi Lives On",
+    "title_cn": "Quibi之梦永存",
+    "summary_cn": "本文讽刺性地探讨了Peacock宣称“通过重新构想的移动体验拓展其垂直视频领导力”这一新闻稿标题。作者对这种措辞表示质疑，并联想到已失败的短视频平台Quibi，暗示了科技公司在追逐“垂直视频”潮流时可能面临的挑战和重蹈覆辙的风险。文中还幽默地提到希望有人能将“垂直视频领导力”印制成周边产品。",
+    "source": "daringfireball.net",
+    "url": "https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’",
+    "title_cn": "霍华德·卢特尼克对英伟达采取缓和立场，尽管加强管控的呼声日益高涨",
+    "summary_cn": "《纽约时报》的一篇深入报道揭示，尽管特朗普政府多数高级官员普遍认为美国应更积极地收紧对英伟达先进芯片的出口管制，以阻止中国在人工智能领域迎头赶上，然而，负责商务部的霍华德·卢特尼克却在此问题上采取了相对缓和的立场。这表明在对华技术竞争策略上，美国政府内部存在分歧。",
+    "source": "daringfireball.net",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Ira Velinsky, industrial designer for Commodore and Atari",
+    "title_cn": "Commodore和Atari的工业设计师",
+    "summary_cn": "伊拉·维林斯基是20世纪80年代Commodore和Atari公司的工业设计师。他负责了多款经典电脑的外壳设计，其中包括以其流线型外观著称的“保时捷PET”电脑，以及短命的Commodore TED系列机器。维林斯基独特的设计风格塑造了那个时代科技产品的视觉形象，对这些标志性品牌的电脑美学产生了深远影响，成为幕后重要的推动者。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/?utm_source=rss&utm_medium=rss&utm_campaign=ira-velinsky-industrial-designer-of-the-commodore-64",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "David Sacks Is Fucked Too",
+    "title_cn": "大卫·萨克斯也完蛋了",
+    "summary_cn": "大卫·萨克斯在X上发文指出，关于爱丽丝·黄是中国间谍的“间谍叙事”正在迅速瓦解。他引用多方权威机构的观点来支撑这一论断，包括美国司法部长（AG）表示“没有得出结论”，中央情报局（CIA）称“尚未被说服”，以及国家情报总监（DNI）认为报道“不完全准确且言过其实”。甚至众议院情报委员会的民主党高级成员也表示“目前我不知道”。这表明主流情报机构对爱丽丝·黄间谍身份的指控缺乏确凿证据和普遍认同。",
+    "source": "daringfireball.net",
+    "url": "https://x.com/DavidSacks/status/2121070881258504395",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Long permutations and long cycles",
+    "title_cn": "长置换与长周期",
+    "summary_cn": "置换是一种重新排列列表元素的方式，例如洗牌。由于排列的总数是有限的，最终会出现重复的排列，形成一个循环。在这个过程中，列表中的某些元素可能以较小的周期移动，而另一些则可能形成较长的周期。文章探讨了长置换和长周期的概念，帮助理解元素如何在排列中形成不同长度的循环。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/13/long-cycles/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "So all software is free as in money now?",
+    "title_cn": "难道所有软件现在都免费了吗？",
+    "summary_cn": "作者回忆起几周前在厨房深夜未眠的经历。他一直饱受失眠困扰，这种状况始于十岁。童年时，他常常整夜读书，焦急地看着时钟，等待着不得不起床的时刻到来。",
+    "source": "matduggan.com",
+    "url": "https://matduggan.com/so-all-software-is-free-as-in-money-now/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?",
+    "title_cn": "如何更方便地使用支持向`co_await`传递多个参数的辅助类？",
+    "summary_cn": "这篇文章探讨了C++中`co_await`关键字的进阶使用技巧。当开发者需要向`co_await`操作传递多个参数时，通常会借助一个辅助类。文章的核心目的是提供一种方法，来消除每次调用时都必须手动输入这个辅助类名称的繁琐，从而简化代码书写，提高开发效率。它致力于让C++异步编程中涉及多参数`co_await`的场景变得更加便捷和易读，提升开发体验。",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Scott Colom Flips Mississippi",
+    "title_cn": "Scott Colom Flips Mississippi",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
+    "title_cn": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Reuters Raises the Jensen Huang Affair Tally to Three",
+    "title_cn": "Reuters Raises the Jensen Huang Affair Tally to Three",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "So you want to buy AI for your company",
+    "title_cn": "So you want to buy AI for your company",
+    "summary_cn": "处理失败",
+    "source": "idiallo.com",
+    "url": "https://idiallo.com/byte-size/buying-ai-for-your-company",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Uber's labor crash (12 Nov 2026)",
+    "title_cn": "Pluralistic: Uber's labor crash (12 Nov 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/11/12/starvation-wages/",
+    "score": 0,
+    "angle": ""
+  }
+]
