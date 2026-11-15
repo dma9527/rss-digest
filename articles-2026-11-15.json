@@ -1,0 +1,47 @@
+[
+  {
+    "title_en": "Variable Electricity Pricing - the Highs and the Lows",
+    "title_cn": "高峰与低谷",
+    "summary_cn": "这篇文章介绍了一种浮动电价的用电体验。作者使用智能电表，能源公司能每半小时调整电价，而非固定的30便士/千瓦时。作者曾有一天在某些时段使用电力不仅免费，反而被能源公司“倒贴钱”。这种动态计费方式让用户能更灵活地管理用电成本，甚至在电价低谷时段获利。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/",
+    "score": 9,
+    "angle": "聚焦“被倒贴钱用电”这一核心亮点，强调智能省钱和新奇体验。"
+  },
+  {
+    "title_en": "The Legion of PCAST",
+    "title_cn": "PCAST军团",
+    "summary_cn": "这篇文章讨论了前政府“AI沙皇”David Sacks。他被视为“特朗普2.0帮”的一员，作者指出，如果围绕英伟达CEO黄仁勋的潜在丑闻导致人工智能热潮或泡沫破裂，Sacks及其团队可能会受牵连。Sacks此前以“特殊政府雇员”身份担任AI沙皇，但已于今年三月宣布离职。",
+    "source": "daringfireball.net",
+    "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/",
+    "score": 7,
+    "angle": "🚨AI泡沫要破了？前“AI沙皇”也跑路了？普通人该如何保住资产、抓住下一波机遇？"
+  },
+  {
+    "title_en": "Date codes on cardboard boxes",
+    "title_cn": "纸箱上的日期代码",
+    "summary_cn": "这篇文章探讨了如何确定物品的生产日期。作者指出，有时物品内部零件会有日期代码，但并非总是如此。因此，如果保留了物品的包装盒，那么纸箱上可能隐藏着关键的日期代码。通过解读这些代码，消费者或许能更准确地追溯商品的制造时间，从而帮助判断商品的“新鲜度”或出厂批次。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/date-codes-on-cardboard-boxes/?utm_source=rss&utm_medium=rss&utm_campaign=date-codes-on-cardboard-boxes",
+    "score": 7,
+    "angle": "购物防踩雷秘籍！看懂商品纸箱上的隐藏日期代码，轻松辨别生产日期，拒绝买到旧货/库存品！"
+  },
+  {
+    "title_en": "WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+    "title_cn": "让智能代理在受控下使用你的工具",
+    "summary_cn": "WorkOS致力于解决AI代理权限管理难题。传统按角色分配权限的方式难以适应动态任务，常导致权限过宽或不足。其Airlock产品允许用户一次性设定策略，使AI代理根据任务意图而非预设角色行事。每次代理调用企业工具（如读取Linear问题、发送邮件）都会依据任务意图进行检查，结果可被允许、拒绝或提交人工审批，所有决策均有记录。这确保了AI代理在执行任务时，能安全、受控地使用工具，有效避免失控风险。",
+    "source": "daringfireball.net",
+    "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+    "score": 4,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-llm 0.1a11",
+    "title_cn": "datasette-llm 0.1a11",
+    "summary_cn": "datasette-llm 是一个 Datasette 中间插件，旨在为其他 Datasette 插件配置并提供大型语言模型（LLMs）支持。本次 0.1a11 版本更新的核心亮点是新增了对 OpenAI 兼容端点的支持。这意味着用户现在可以灵活地将 Datasette 配置为使用任何遵循 OpenAI 伪标准网络协议的托管式 LLM 服务，极大地拓宽了其LLM集成能力和应用场景。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "score": 2,
+    "angle": ""
+  }
+]
