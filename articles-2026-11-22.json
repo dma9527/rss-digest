@@ -1,0 +1,65 @@
+[
+  {
+    "title_en": "To code well, avoid blunders",
+    "title_cn": "避免失误",
+    "summary_cn": "文章指出，写出优秀代码的秘诀并非依赖天才般的洞察力，而是要极力避免灾难性的失误。许多工程师误以为编程成功的关键在于拥有巧妙的构思，但这是一种误解。作者强调，只要能有效规避重大错误，成功便水到渠成。这种思路不仅限于编程领域，在其他如国际象棋等多个领域亦同样适用，避免犯下低级错误往往是取胜的关键。",
+    "source": "seangoedecke.com",
+    "url": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+    "score": 8,
+    "angle": "避免这3种“低级失误”！小白也能逆袭大神！"
+  },
+  {
+    "title_en": "I don't enjoy being pampered",
+    "title_cn": "我可不爱被“伺候”",
+    "summary_cn": "理发师用湿毛巾敷眼、蒸汽软化胡须、轻柔刷拭，并辅以有力按摩。这次不期而遇的理发，让作者在异国他乡享受了意想不到的放松与奢华。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/",
+    "score": 8,
+    "angle": "国外理发初体验，嘴上说不爱，身体却很诚实！维尔纽斯这份意外的胡须护理，让我彻底沦陷了！#维尔纽斯旅行 #男生护理 #异国体验 #理发店奇遇记"
+  },
+  {
+    "title_en": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+    "title_cn": "★ 一周体验 macOS 27.3 Beta 2 中的新隐私控制",
+    "summary_cn": "当某个应用需要控制其他应用时，菜单栏会持续显示一个指示器，这可能是此次更新中唯一需要改进的地方。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+    "score": 3,
+    "angle": ""
+  },
+  {
+    "title_en": "Muru",
+    "title_cn": "Muru",
+    "summary_cn": "Muru是由拥有二十年Python web应用部署经验的Graham Dumpleton推出的AI辅助Rust服务器。它旨在为Python的ASGI和WSGI应用提供最佳开发和生产运行工具。Muru结合了Graham的专业知识和现代技术，致力于解决Python web应用在生产环境中的性能与部署挑战，提供高效稳定的服务。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Notes on the discrete Fourier transform (DFT)",
+    "title_cn": "离散傅里叶变换 (DFT) 笔记",
+    "summary_cn": "这篇文章是关于离散傅里叶变换（DFT）的笔记。它承接了前一篇关于离散时间傅里叶级数（DTFS）和变换（DTFT）的内容，它们主要用于分析无限时长的周期性和非周期性离散信号。而本文则将重点转向更实际的数字信号处理场景，探讨那些不仅离散，而且时长有限的信号处理问题，这是理解现代数字信号处理的基础。",
+    "source": "eli.thegreenplace.net",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Mouse for Tandy 1000",
+    "title_cn": "Tandy 1000 鼠标",
+    "summary_cn": "本文探讨了为Tandy 1000电脑选择鼠标的问题。虽然TRS-80彩屏鼠标被认为是早期Tandy 1000的官方配套，但文章指出这并非唯一或最佳选择。作者将在博客中深入介绍其他兼容的替代方案。对于希望为老式Tandy 1000寻找合适输入设备的用户而言，本文提供了实用的指南，帮助他们了解除原装鼠标之外的更多选项，以便更好地使用或修复他们的经典电脑。",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/mouse-for-tandy-1000/?utm_source=rss&utm_medium=rss&utm_campaign=mouse-for-tandy-1000",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+    "title_cn": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+    "summary_cn": "处理失败",
+    "source": "troyhunt.com",
+    "url": "https://www.troyhunt.com/weekly-update-531/",
+    "score": 0,
+    "angle": ""
+  }
+]
