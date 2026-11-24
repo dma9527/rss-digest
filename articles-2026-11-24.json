@@ -1,0 +1,263 @@
+[
+  {
+    "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
+    "title_cn": "GPT 6.2 Astra 解决了历史悬案",
+    "summary_cn": "本文介绍了历史教授Mark Humphries如何利用GPT-6.2 Astra进行历史研究的案例。在极少的提示下，GPT-6.2 Astra成功自主识别出耶鲁大学贝内克图书馆收藏的一本1808年匿名速写本的创作者。这个案例展示了AI在破解历史谜团方面的强大能力和潜力，为人工智能在人文社科领域的应用提供了新的视角和可能性。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+    "score": 8,
+    "angle": "“AI开挂了！GPT-6.2 Astra竟破解200年前历史悬案？震惊！！” 内容上可以突出AI的“超能力”：GPT-6.2 Astra是如何在无人知晓的情况下，仅凭少量线索，就揪出1808年匿名速写本的“真凶”的。强调AI在历史研究领域的颠覆性应用，引发读者对AI未来潜力以及它如何改变我们认知历史、甚至解决日常生活中“小谜团”的思考。可结合#AI黑科技 #历史冷知识 #GPT应用 #未来已来 等标签。"
+  },
+  {
+    "title_en": "I Told You to Bet the Over",
+    "title_cn": "我早就叫你押大了",
+    "summary_cn": "华尔街日报报道，白宫曾经历一场“疯狂”的48小时，总统、副总统等高级官员紧急安抚董事会，以挽留英伟达（Nvidia）CEO黄仁勋。这位科技领袖在特朗普开启第二任期时，总统甚至不认识他，但如今政府却极力“拯救”。特朗普本人在接受采访时表示，市场对这一挽留行动的反应“非常积极”。这凸显了黄仁勋及其公司在全球科技竞争和地缘政治中的关键战略地位。",
+    "source": "daringfireball.net",
+    "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV",
+    "score": 8,
+    "angle": "白宫疯抢黄仁勋！特朗普曾不识的他，如今为何成为全球科技焦点？AI芯片霸主背后的权势游戏！"
+  },
+  {
+    "title_en": "datasette-charts 0.2a0",
+    "title_cn": "datasette-charts 0.2a0 版",
+    "summary_cn": "Datasette 图表插件 datasette-charts 发布 0.2a0 版本，此新插件现已集成 Datasette Agent。用户现在可以通过聊天界面，请求 Datasette Agent 利用其底层建议和生成功能，自动创建所需的图表。这一更新大大简化了数据可视化过程，提升了用户体验。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "datasette-agent 0.7a1",
+    "title_cn": "Datasette Agent 0.7a1 版本",
+    "summary_cn": "Datasette Agent发布了0.7a1新版本，对系统进行了小幅改进。此版本主要优化了聊天会话中iframe侧边栏的导航功能。原有的聊天会话已支持打开iframe侧边栏并跳转页面，而新版本通过改进片段哈希（fragment hashes）来提升导航体验，旨在与那些在用户交互时会更新片段哈希的其他Datasette插件实现更深度的集成。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "title_cn": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "summary_cn": "处理失败",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "‘The Economy Is a Hostage Situation’",
+    "title_cn": "‘The Economy Is a Hostage Situation’",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Restoring a 1982 ‘Star Wars’ Poster From Japan",
+    "title_cn": "Restoring a 1982 ‘Star Wars’ Poster From Japan",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.instagram.com/p/DcUk0WjBwVI/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001",
+    "title_cn": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.threads.com/@meidastouch/post/DgGKhbTAka5",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "David Sacks’s Pool Boy Is Cocky",
+    "title_cn": "David Sacks’s Pool Boy Is Cocky",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.threads.com/@karaswisher/post/DgGBe_XI147",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
+    "title_cn": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
+    "title_cn": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Jensen Huang Returns to Work",
+    "title_cn": "Jensen Huang Returns to Work",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Pluralistic: Free lunches (24 Nov 2026)",
+    "title_cn": "Pluralistic: Free lunches (24 Nov 2026)",
+    "summary_cn": "处理失败",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Virgin Media Hub 5 API",
+    "title_cn": "Virgin Media Hub 5 API",
+    "summary_cn": "处理失败",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
+    "title_cn": "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
+    "summary_cn": "处理失败",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "BREAKING: Employees at OpenAI and Anthropic are panicking",
+    "title_cn": "BREAKING: Employees at OpenAI and Anthropic are panicking",
+    "summary_cn": "处理失败",
+    "source": "garymarcus.substack.com",
+    "url": "https://garymarcus.substack.com/p/breaking-employees-at-openai-and",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
+    "title_cn": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
+    "summary_cn": "处理失败",
+    "source": "garymarcus.substack.com",
+    "url": "https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Taking a password joke seriously",
+    "title_cn": "Taking a password joke seriously",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/24/password-joke/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Memorable 12-digit primes",
+    "title_cn": "Memorable 12-digit primes",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Finite Projective Spaces",
+    "title_cn": "Finite Projective Spaces",
+    "summary_cn": "处理失败",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Advent of Microarchitecture 2026",
+    "title_cn": "Advent of Microarchitecture 2026",
+    "summary_cn": "处理失败",
+    "source": "xania.org",
+    "url": "http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Do-it-yourself meta-analysis",
+    "title_cn": "Do-it-yourself meta-analysis",
+    "summary_cn": "处理失败",
+    "source": "entropicthoughts.com",
+    "url": "https://entropicthoughts.com/diy-meta-analysis",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Responding to objections to recursive self-improvement",
+    "title_cn": "Responding to objections to recursive self-improvement",
+    "summary_cn": "处理失败",
+    "source": "dwarkesh.com",
+    "url": "https://www.dwarkesh.com/p/rsiobjections",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Defective Accelerationism",
+    "title_cn": "Defective Accelerationism",
+    "summary_cn": "处理失败",
+    "source": "wheresyoured.at",
+    "url": "https://www.wheresyoured.at/defective-accelerationism/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Why AOL bought Netscape",
+    "title_cn": "Why AOL bought Netscape",
+    "summary_cn": "处理失败",
+    "source": "dfarq.homeip.net",
+    "url": "https://dfarq.homeip.net/why-aol-bought-netscape/?utm_source=rss&utm_medium=rss&utm_campaign=why-aol-bought-netscape",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Blogger broke the lightbox",
+    "title_cn": "Blogger broke the lightbox",
+    "summary_cn": "处理失败",
+    "source": "oldvcr.blogspot.com",
+    "url": "https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Comments and emails",
+    "title_cn": "Comments and emails",
+    "summary_cn": "处理失败",
+    "source": "herman.bearblog.dev",
+    "url": "https://herman.bearblog.dev/comments-and-emails/",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "Everything I know about writing",
+    "title_cn": "Everything I know about writing",
+    "summary_cn": "处理失败",
+    "source": "experimental-history.com",
+    "url": "https://www.experimental-history.com/p/everything-i-know-about-writing",
+    "score": 0,
+    "angle": ""
+  },
+  {
+    "title_en": "How to install an app on your Commodore 64",
+    "title_cn": "How to install an app on your Commodore 64",
+    "summary_cn": "处理失败",
+    "source": "anildash.com",
+    "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+    "score": 0,
+    "angle": ""
+  }
+]
