@@ -450,18 +450,26 @@ def cmd_gen(args):
     # 用文章自带的摘要（来自 articles.json），比从 digest 里截取更精确
     summary = topic.get("summary", digest_text[:3000])
 
-    # 抓取原文全文作为生成依据
-    article_text = fetch_article(topic.get("url", ""))
-    if not article_text:
-        print("  ⚠️ 无法获取原文，生成质量可能受影响")
+    # 抓取原文全文作为生成依据（content-file 模式跳过）
+    content_file = getattr(args, 'content_file', None)
+    if not content_file:
+        article_text = fetch_article(topic.get("url", ""))
+        if not article_text:
+            print("  ⚠️ 无法获取原文，生成质量可能受影响")
 
-    print(f"正在为话题 #{n} 生成小红书内容: {topic['topic']}...")
-    raw = call_gemini(GEN_PROMPT.format(
-        topic=topic["topic"],
-        angle=topic.get("angle", ""),
-        summary=summary,
-        article=article_text or "（原文未获取，请基于摘要生成，不要编造细节）",
-    ))
+    # 支持从文件读取预生成内容，跳过 AI 调用
+    content_file = getattr(args, 'content_file', None)
+    if content_file:
+        print(f"从文件加载内容: {content_file}")
+        raw = Path(content_file).read_text(encoding="utf-8")
+    else:
+        print(f"正在为话题 #{n} 生成小红书内容: {topic['topic']}...")
+        raw = call_gemini(GEN_PROMPT.format(
+            topic=topic["topic"],
+            angle=topic.get("angle", ""),
+            summary=summary,
+            article=article_text or "（原文未获取，请基于摘要生成，不要编造细节）",
+        ))
     content = parse_xhs_content(raw)
 
     # 用标题做文件夹名（去掉特殊字符）
@@ -654,6 +662,7 @@ def main():
 
     p_gen = sub.add_parser("gen", help="生成第 N 个话题的内容")
     p_gen.add_argument("n", type=int, help="话题编号")
+    p_gen.add_argument("--content-file", help="预生成内容文件（跳过 AI 调用）")
 
     p_list = sub.add_parser("list", help="查看所有话题状态")
 
