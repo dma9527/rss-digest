@@ -1,0 +1,119 @@
+[
+  {
+    "title_en": "Quoting Jack Despain Zhou",
+    "title_cn": "引用杰克·德斯佩恩·周",
+    "summary_cn": "文章指出，AI的一个显著影响是导致了“去个性化”。作者观察到，无论是在YouTube视频、会议演讲，还是邮件收件箱中，都能听到类似AI模型“Claude”的声音。这意味着大量内容由AI生成或深受其影响。即使是来自知名机构的专业人士，在发表作品时也可能依赖AI，使得原创性和个人声誉的界限变得模糊，引发人们对AI如何改变人类独立思考和创造力的深刻反思。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+    "score": 8,
+    "angle": "⚠️AI正在悄悄“偷走”你的个性？为什么你感觉网上内容越来越“千篇一律”？"
+  },
+  {
+    "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+    "title_cn": "《纽约时报》警告摄影师不要因AI功能更新Photoshop",
+    "summary_cn": "《纽约时报》警告其摄影师避免更新Photoshop，主要原因是担心人工智能功能可能影响新闻照片的真实性。一位作者分享亲身经历，一位《纽约时报》摄影师曾明确表示，报社不允许对照片进行后期修复，例如去除衣物污渍，以确保呈现内容的原始性和真实性。这凸显了《纽约时报》在AI时代对新闻摄影伦理和图像完整性的严格要求，旨在维护其新闻的可信度。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+    "score": 8,
+    "angle": "震惊！《纽约时报》警告摄影师不要更新Photoshop，只因AI功能？📰 究竟是什么让顶级媒体如此紧张？🤔 从新闻摄影的真实性，到我们日常修图的底线，AI究竟是工具还是陷阱？这个话题远不止摄影师，关乎我们每个人对“眼见为实”的信任！快来讨论，你还会放心用AI修图吗？"
+  },
+  {
+    "title_en": "★ Obvious Affordances Are Due for a Comeback",
+    "title_cn": "是时候回归了",
+    "summary_cn": "万物应尽善尽美地简洁，但不能更简洁。当前许多用户界面（UI）设计为了追求极简，反而将可点击元素做得不够明显，用户难以一眼识别其功能，这正是“过于简洁”的体现。作者呼吁界面设计应回归直观易用性，让元素的功能一目了然，避免因过度简化而牺牲用户体验，让用户无需猜测就能轻松操作。",
+    "source": "daringfireball.net",
+    "url": "https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback",
+    "score": 8,
+    "angle": "吐槽那些让你“无从下手”的App界面！过度极简就是反人类设计？"
+  },
+  {
+    "title_en": "1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata",
+    "title_cn": "1Password 后端系统遭入侵，仅泄露客户账户元数据",
+    "summary_cn": "1Password官方声明，其部分后端系统曾遭攻击，导致部分客户的登录姓名和邮箱地址等账户元数据被泄露。公司强调，用户的密码保险库数据、内部项目及其保护密钥均未受影响，保持安全。1Password再次重申，其无权访问用户的密码或密钥，确保用户核心敏感信息未被泄露，请用户放心。",
+    "source": "daringfireball.net",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "score": 8,
+    "angle": "“🚨1Password被黑了？！我的密码还安全吗？速看！”；"
+  },
+  {
+    "title_en": "Pluralistic: Charles Koch is a cult leader (26 Nov 2026)",
+    "title_cn": "Pluralistic: 查尔斯·科赫是邪教头目 (2026年11月26日)",
+    "summary_cn": "这篇文章指出查尔斯·科赫是一位邪教头目，他的“自由科学”与科学教并无科学性可言。文中还涵盖了多项社会与经济议题，如Zune产品的失败、“富国银行”伪造签名、企业税收优惠流向投资者而非消费者、反卢拉阴谋、麦肯锡助推药企哄抬物价，以及工会与双轨制合同的冲突。内容批判性强，揭露了诸多企业和制度问题。",
+    "source": "pluralistic.net",
+    "url": "https://pluralistic.net/2026/11/26/science-of-liberty/",
+    "score": 6,
+    "angle": ""
+  },
+  {
+    "title_en": "‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’",
+    "title_cn": "特朗普希望黄仁勋回归。如今，总统在华盛顿孤立无援。",
+    "summary_cn": "特朗普对黄仁勋的回归或复职感到高兴，但此举遭到国会坚定盟友的强烈反对。他们对黄仁勋的复职表示抵制，并誓言将继续调查他。这些盟友担忧黄仁勋与潜在的中国情报人员存在关联，可能已经危害到美国国家安全，特别是涉及供应链中关键人物的信息安全风险。",
+    "source": "daringfireball.net",
+    "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+    "score": 5,
+    "angle": ""
+  },
+  {
+    "title_en": "Quoting Scott Aaronson",
+    "title_cn": "引用斯科特·阿伦森",
+    "summary_cn": "斯科特·阿伦森指出，我们正在复杂性理论领域迎来一个全新的数学真理大陆，而非零星解决问题。这片曾如迷雾笼罩的领域，如今正变得清晰。他以列文虎克首次用显微镜观察池水，以及伽利略首次用望远镜观测星空为例，生动比喻了当前我们对“复杂性理论宇宙”的深入理解，预示着一个全面而深刻的认知新纪元。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "OGP Image Format Support on Major Sites and Apps",
+    "title_cn": "主流网站和应用对OGP图片格式的支持",
+    "summary_cn": "作者开发了一个工具，用于检测主流网站和应用对Open Graph Protocol (OGP) 图片格式的兼容性。他指出Facebook已基本放弃OGP标准化，这导致各网站对OGP图片的要求存在冲突。由于缺乏简单途径了解不同网站支持哪些图片格式，作者开发此工具旨在解决这一信息不对称的困境，帮助开发者和内容创作者更好地优化链接预览效果。",
+    "source": "shkspr.mobi",
+    "url": "https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Underrated reasons to be thankful VI",
+    "title_cn": "被低估的感恩理由（第六辑）",
+    "summary_cn": "本文标题为《被低估的感恩理由（第六辑）》，但其提供的正文内容仅为“甚至更多”。由于缺乏具体细节或上下文，本摘要无法提炼出文章的实际主题、论点或任何深入的信息。读者无法从当前内容中了解任何被低估的感恩理由。",
+    "source": "dynomight.net",
+    "url": "https://dynomight.net/thanks-6/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "Las Vegas, Monte Carlo, and Integer Factorization",
+    "title_cn": "拉斯维加斯、蒙特卡洛与整数分解",
+    "summary_cn": "本文深入探讨了蒙特卡洛算法和拉斯维加斯算法的本质区别及其起源。蒙特卡洛算法特点是运行时间固定但错误率可变，由Ulam在1946年提出并由Metropolis命名。而拉斯维加斯算法则运行时间可变，错误率却始终为零。文章追溯了这些重要计算方法的提出者，旨在帮助读者清晰理解这两种随机算法的基本概念，并暗示它们在诸如整数分解等复杂计算领域中的应用。",
+    "source": "johndcook.com",
+    "url": "https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/",
+    "score": 2,
+    "angle": ""
+  },
+  {
+    "title_en": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+    "title_cn": "SQLite 数据库远程复制工具",
+    "summary_cn": "`sqlite3_rsync`是SQLite数据库的一款额外远程复制工具，自2024年10月SQLite 3.47.0版本中作为实验性功能引入，并在2025年5月SQLite 3.50.0版本中得到增强。文章指出，作者最近才理解到该工具最吸引人的特性之一，这暗示了它在数据库同步或管理方面的重要价值。",
+    "source": "simonwillison.net",
+    "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+    "title_cn": "Ansible 在 Ubuntu 26 上等待权限提升时失败",
+    "summary_cn": "文章指出，当用户将其服务器从 Ubuntu 22/24 升级到 Ubuntu 26 后，原有的 Ansible 自动化脚本在遇到需要 `sudo` 密码保护的场景时开始出现故障。具体表现为 Ansible 在尝试进行权限提升（privilege escalation）时会失败，尽管用户可能提供了 BECOME 密码。这表明 Ubuntu 26 在处理 `sudo` 权限和 Ansible 自动化之间可能存在新的兼容性问题或配置变化，需要开发者或系统管理员关注并解决。",
+    "source": "jeffgeerling.com",
+    "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+    "score": 1,
+    "angle": ""
+  },
+  {
+    "title_en": "Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term",
+    "title_cn": "Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term",
+    "summary_cn": "处理失败",
+    "source": "daringfireball.net",
+    "url": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
+    "score": 0,
+    "angle": ""
+  }
+]
